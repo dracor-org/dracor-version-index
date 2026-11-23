@@ -56,9 +56,10 @@ time. The index does that work once, for every commit of every corpus:
 A release is one commit, so the index also makes every release resolvable down to the single
 play.
 
-Possible uses built on it (none of them exists or is agreed yet): a resolver that answers
-versioned requests for a DraCor ID, citation and provenance records for single play versions,
-CMDI or other metadata records, and comparisons of plays or corpora across versions.
+Possible uses built on it: a resolver that answers versioned requests for a DraCor ID,
+citation and provenance records for single play versions, CMDI or other metadata records, and
+comparisons of plays or corpora across versions. None of them is agreed or deployed yet; a
+demonstrator of the resolver exists (see [Use in the DraCor API](#use-in-the-dracor-api-demonstrator)).
 
 ## Terminology
 
@@ -250,9 +251,12 @@ A copy of the [DraCor corpus registry](https://github.com/dracor-org/dracor-regi
 (`corpora.json`), pinned to the registry commit it was taken from (`source`, `commit`). Each
 build refreshes it when the registry has changed. `lookup.py` uses it to find the corpus of a
 DraCor ID by its prefix, and for the licence. The registry has no ID prefix field yet
-([dracor-registry#3](https://github.com/dracor-org/dracor-registry/issues/3) proposes
-`idPrefix`); until then the prefix the index derives from the IDs at head is used (`dutch` →
-`dut`), plus earlier prefixes listed in `archaeology.py` (`ep` → `eng`).
+([dracor-registry#3](https://github.com/dracor-org/dracor-registry/issues/3) proposed
+`idPrefix`). Since the DraCor API never reads the registry, the prefix is now proposed for each
+corpus's `corpus.xml` instead
+([dracor-schema#213](https://github.com/dracor-org/dracor-schema/issues/213)). Until then the
+prefix the index derives from the IDs at head is used (`dutch` → `dut`), plus earlier prefixes
+listed in `archaeology.py` (`ep` → `eng`).
 
 ## Answering questions with the index
 
@@ -300,7 +304,8 @@ of 7 or more characters are fine).
 
 A play version can be referred to as `{DraCor ID}@{commit}`, e.g. `ger000088@15a6661` or
 `https://dracor.org/id/ger000088@15a6661`. This is the form proposed for a versioned `/id/`
-resolver (see [RESOLVER.md](RESOLVER.md); not available on dracor.org). The corpus is found
+resolver (see [RESOLVER.md](RESOLVER.md) and the
+[demonstrator](#use-in-the-dracor-api-demonstrator); not available on dracor.org). The corpus is found
 from the ID prefix (see `registry.json` below). Only the DraCor ID counts here, or an older ID
 the file itself carried at that commit, never file names.
 
@@ -464,6 +469,24 @@ index" → Run workflow, optionally for named corpora), or when a corpus reposit
 `repository_dispatch` of type `corpus-updated`. It updates all corpora, tests
 the ones that changed, and commits `index/` only if the tests pass. It needs no secrets: the
 corpus repositories are public, and the push uses the workflow's own `GITHUB_TOKEN`.
+
+### Use in the DraCor API (demonstrator)
+
+The branch [`feature_resolve_versions`](https://github.com/dracor-org/dracor-api/tree/feature_resolve_versions)
+of dracor-api resolves `https://dracor.org/id/{id}@{commit}` and `/id/{corpus}@{commit}` from
+this index (module `modules/resolver.xqm`; not merged, not deployed). The API loads the index
+with an authorized request, which fetches `commits.csv`, `components.csv`, `side_commits.csv`
+and `meta.json` of each corpus, plus `registry.json` for licences, and stores them as XML:
+
+```sh
+curl -u admin: -X POST "http://localhost:8080/exist/restxq/v1/id-index?corpora=ger,als"
+```
+
+By default it reads `https://raw.githubusercontent.com/dracor-org/dracor-version-index/main/index`,
+which only works once this repository is public. `source=` sets another location, e.g. a local
+copy served with `python -m http.server`. Without `corpora=` it loads the corpora the API has.
+In tests its answers agreed with `lookup.py` on about 2,700 random references across all
+corpora.
 
 ## Tests
 
