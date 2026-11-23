@@ -1,0 +1,6 @@
+case,seq,commit,key,path,blob,detail
+tei-without-id,13,9b5def4e5558c4cf2f4b49c6be4e1ce5b7c657f3,tei/greber-sainte-cecile.xml,tei/greber-sainte-cecile.xml,23fedcc42acc87fec140fea1e8f20fa87696496e,
+tei-without-id,13,9b5def4e5558c4cf2f4b49c6be4e1ce5b7c657f3,tei/hart-dr-poetisch-oscar.xml,tei/hart-dr-poetisch-oscar.xml,ae35b81c8e9ccf3030e63ff464dacff0b5d42b7e,
+id-assigned,14,3271a734ee449a83a346110714851024161b2ba6,als000005,tei/greber-sainte-cecile.xml,3fe0d1dbe7e4513bdd946a5e859e23d818e6ae1a,file had no DraCor ID before
+id-assigned,14,3271a734ee449a83a346110714851024161b2ba6,als000004,tei/hart-dr-poetisch-oscar.xml,dac889c827ce0db1fcf9689ede6cb1271b3f4e45,file had no DraCor ID before
+malformed-xml,28,a27ce031428a63de1939405357ea4eefa9aec486,als000001,tei/arnold-der-pfingstmontag.xml,b7efbf75814c143ea9d23ebf905d31497132b189,TEI file not well-formed; ID taken by regex

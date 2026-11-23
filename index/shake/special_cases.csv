@@ -1,0 +1,295 @@
+case,seq,commit,key,path,blob,detail
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/1H4.xml,tei/1H4.xml,28f995fc4ff4de469ece38eb129e2ac3ad035a79,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/1H6.xml,tei/1H6.xml,ed861f28e5b9b18f48635ac49fa9061d140fca7e,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/2H4.xml,tei/2H4.xml,b38bc9a6d3582c3a2bc24631002d6cc8b96a5c56,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/2H6.xml,tei/2H6.xml,8ff7af26fd3c2f0975ca762006836b2f444a02aa,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/3H6.xml,tei/3H6.xml,9f741dde489446a2ef9f5d8eb5e5ece9c5da407b,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/AWW.xml,tei/AWW.xml,ed5de15dd74abfbbe3f8116f3668cb633dd7d822,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/AYL.xml,tei/AYL.xml,f51d8094e111ffc10c36c80eddecfda2a9d2e9e0,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/Ado.xml,tei/Ado.xml,bff2db022f729917af6ff9eda28c113006987226,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/Ant.xml,tei/Ant.xml,423cdcf151b56e579decb7d2e744f5294dd66698,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/Cor.xml,tei/Cor.xml,c68c798d35f2224d3d533e3e84e037c71db268ea,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/Cym.xml,tei/Cym.xml,456019021307d04c48a3445c2056ef490103edcf,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/Err.xml,tei/Err.xml,d0016146d7f2b612c8b25abd4e67c5d12539cbaa,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/H5.xml,tei/H5.xml,be7cc4de853811aaeb7803448f6a1ad85fed6b23,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/H8.xml,tei/H8.xml,4eb1b81c6f0732ac65d3b9521e4b9eef0c866bca,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/Ham.xml,tei/Ham.xml,0fae806b5e8a1591798dfba00c18673b3fed9ada,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/JC.xml,tei/JC.xml,916fcdc39ff938563fbf1889f5036cbc219b1530,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/Jn.xml,tei/Jn.xml,f8ef2d7479c1f7b67a57bd7b8c397f14d0384bd9,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/LLL.xml,tei/LLL.xml,0c17fde71f129110c5bbfa37d27355a6438e6a58,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/Lr.xml,tei/Lr.xml,cb079d892a3c7ebe34efcd21447d26b6fcd42a11,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/MM.xml,tei/MM.xml,0675f65c578f4021051ecc162d2b9cce57639fd1,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/MND.xml,tei/MND.xml,c37ff33a1d3e384b22fd0ce5c21d057cd2742bcf,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/MV.xml,tei/MV.xml,617f9083c6c833205d59d42d12e48b115434beb6,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/Mac.xml,tei/Mac.xml,6a4c1ead618025292a819caf8eb3701102eb94e7,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/Oth.xml,tei/Oth.xml,9125c8baa1365d249645b49a6405b0867b95b843,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/Per.xml,tei/Per.xml,38aa536c595b47b9e58d9f82410aa80119be141a,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/R2.xml,tei/R2.xml,55a9b2d1f4fc56cd7e68edfd53d5f376853d7ba0,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/R3.xml,tei/R3.xml,a361788f55fdf2d7bceba9b886510128b51edd50,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/Rom.xml,tei/Rom.xml,b79fa1195cbfc54bf6636744f6f67c963b9fee75,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/Shr.xml,tei/Shr.xml,fc2abd68de996d80e1d4228cd801fd5b1324c5bc,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/TGV.xml,tei/TGV.xml,31473a191807a23af0e4ccf1091d046a05aa1312,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/TN.xml,tei/TN.xml,c09df0ed5749cb48094fa4345fcbdc91c0fb56f1,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/Tim.xml,tei/Tim.xml,126c4eb4a0e265fd32492d3e7bd948ca3379e945,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/Tit.xml,tei/Tit.xml,a2741bea5e2e0b6f0b0b37f4983586a2c4cc9b64,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/Tmp.xml,tei/Tmp.xml,be4136032a0c28dae63d76358feff10fcaa77fc1,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/Tro.xml,tei/Tro.xml,b2ccf9fc90c39ad9bc34e00b263e77f9be67a239,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/WT.xml,tei/WT.xml,89726ef4b56dcd907a601abb7b684f6fc90ea8c4,
+tei-without-id,1,edef458f9c34ed13f78df6f97918d201334847b2,tei/Wiv.xml,tei/Wiv.xml,3ad3798f448a9df0106852ad1cec749fc478fe2a,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/a-midsummer-night-s-dream.xml,tei/a-midsummer-night-s-dream.xml,4874858ad3986d45a7543b0892f2e9f1f74f2deb,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/all-s-well-that-ends-well.xml,tei/all-s-well-that-ends-well.xml,01984b1c632f496dd201839df7c0a36c659d0bc1,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/antony-and-cleopatra.xml,tei/antony-and-cleopatra.xml,7f240a933938425b3816d1d833ec93cdebf2bbc2,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/as-you-like-it.xml,tei/as-you-like-it.xml,d249294a4b6da5b5871bd50c73c2e2d35af65124,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/coriolanus.xml,tei/coriolanus.xml,e8e83ddf1bce464172d2c97c11b78a8a3da4587d,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/cymbeline.xml,tei/cymbeline.xml,cb23030752b1dc34edfc1eb6625c71168cb83171,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/hamlet.xml,tei/hamlet.xml,7b3ace7f3b6e9f843ee230e642de59681a5dc37d,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/henry-iv-part-i.xml,tei/henry-iv-part-i.xml,07d56e76edcae8bf3257ecefffbe3311b2e248e5,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/henry-iv-part-ii.xml,tei/henry-iv-part-ii.xml,055758cb9334259c2cedda4371dfb89aa65d2d9a,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/henry-v.xml,tei/henry-v.xml,02746309db2b13fe1fa75a2fbfdc671f1c31d6c7,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/henry-vi-part-1.xml,tei/henry-vi-part-1.xml,054e232a4c8bbee19763c312ac510656d8f22f84,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/henry-vi-part-2.xml,tei/henry-vi-part-2.xml,497ffc604ec0958efcd3bf0af7d38ad6a972115e,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/henry-vi-part-3.xml,tei/henry-vi-part-3.xml,2bcf71dec0bc9c51ce5e15f2667323b93bce46f0,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/henry-viii.xml,tei/henry-viii.xml,13a65842929d8ae688fe66f9dca305218ce1b680,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/julius-caesar.xml,tei/julius-caesar.xml,33a25a5060d3e307a8cbb433e4c0dee1feec0f18,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/king-john.xml,tei/king-john.xml,525ca8f316a6a376c8d13864e5164db9e6b97a41,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/king-lear.xml,tei/king-lear.xml,fcd2aa833012901322172b3810978e3b25d7b94a,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/love-s-labor-s-lost.xml,tei/love-s-labor-s-lost.xml,a0c21f063dde8570aabd717fd8b3ece0c0bb1d6b,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/macbeth.xml,tei/macbeth.xml,91c9261ab7cd8eca8c5b036a02990e05c2459f0b,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/measure-for-measure.xml,tei/measure-for-measure.xml,c44a89b922fba54d2e39b27b919bc42b901ce64f,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/much-ado-about-nothing.xml,tei/much-ado-about-nothing.xml,0db1f4cf4b8b6b7cfbd882c3da504deb1f5b91ea,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/othello.xml,tei/othello.xml,0264fc3189973febb02286f37d9fe61911913c70,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/pericles.xml,tei/pericles.xml,e5f9a2aa8bab4b7e677dcff4196fe505ee955552,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/richard-ii.xml,tei/richard-ii.xml,9a8f5ef5a27e62887820abf01826bacaeec683af,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/richard-iii.xml,tei/richard-iii.xml,cbe6ea610ad14eb84687bd9e09035007011f83e5,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/romeo-and-juliet.xml,tei/romeo-and-juliet.xml,77c309a3f5b880a70abfcc6a9007edc408943748,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/the-comedy-of-errors.xml,tei/the-comedy-of-errors.xml,bb2b04a802bf19e9dbc6904e9056226d92534394,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/the-merchant-of-venice.xml,tei/the-merchant-of-venice.xml,5f9b081d2e867af8a66d465f97acd98966566ba7,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/the-merry-wives-of-windsor.xml,tei/the-merry-wives-of-windsor.xml,3c489621a9fe59d98eb0507f259d2ed9eeff9c94,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/the-taming-of-the-shrew.xml,tei/the-taming-of-the-shrew.xml,49b85420a064cfb0fb3ccec12cb552026914b91f,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/the-tempest.xml,tei/the-tempest.xml,c98ba5e6cae81d492a28e3cce45e709bde128438,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/the-winter-s-tale.xml,tei/the-winter-s-tale.xml,72b046f892cc0ed3357a6afdbda40d7bf2aaf1cc,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/timon-of-athens.xml,tei/timon-of-athens.xml,272200f1f4c59024ece013695283bb808afbe596,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/titus-andronicus.xml,tei/titus-andronicus.xml,6fc372c043b1b942cf58aef8572680db060859a3,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/troilus-and-cressida.xml,tei/troilus-and-cressida.xml,efbf2e852e815b3d08fe4f06dd870dbc30e8b86d,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/twelfth-night.xml,tei/twelfth-night.xml,7f7bfbbafea7b155241fd3fd3ba8cf2ea18f2f22,
+tei-without-id,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/two-gentlemen-of-verona.xml,tei/two-gentlemen-of-verona.xml,d6ca966a108cb65aa2c542b812ec8dce4b9e6cdb,
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/a-midsummer-night-s-dream.xml,tei/a-midsummer-night-s-dream.xml,4874858ad3986d45a7543b0892f2e9f1f74f2deb,"from tei/MND.xml (blob c37ff33a1d, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/all-s-well-that-ends-well.xml,tei/all-s-well-that-ends-well.xml,01984b1c632f496dd201839df7c0a36c659d0bc1,"from tei/AWW.xml (blob ed5de15dd7, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/antony-and-cleopatra.xml,tei/antony-and-cleopatra.xml,7f240a933938425b3816d1d833ec93cdebf2bbc2,"from tei/Ant.xml (blob 423cdcf151, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/as-you-like-it.xml,tei/as-you-like-it.xml,d249294a4b6da5b5871bd50c73c2e2d35af65124,"from tei/AYL.xml (blob f51d8094e1, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/coriolanus.xml,tei/coriolanus.xml,e8e83ddf1bce464172d2c97c11b78a8a3da4587d,"from tei/Cor.xml (blob c68c798d35, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/cymbeline.xml,tei/cymbeline.xml,cb23030752b1dc34edfc1eb6625c71168cb83171,"from tei/Cym.xml (blob 4560190213, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/hamlet.xml,tei/hamlet.xml,7b3ace7f3b6e9f843ee230e642de59681a5dc37d,"from tei/Ham.xml (blob 0fae806b5e, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/henry-iv-part-i.xml,tei/henry-iv-part-i.xml,07d56e76edcae8bf3257ecefffbe3311b2e248e5,"from tei/1H4.xml (blob 28f995fc4f, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/henry-iv-part-ii.xml,tei/henry-iv-part-ii.xml,055758cb9334259c2cedda4371dfb89aa65d2d9a,"from tei/2H4.xml (blob b38bc9a6d3, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/henry-v.xml,tei/henry-v.xml,02746309db2b13fe1fa75a2fbfdc671f1c31d6c7,"from tei/H5.xml (blob be7cc4de85, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/henry-vi-part-1.xml,tei/henry-vi-part-1.xml,054e232a4c8bbee19763c312ac510656d8f22f84,"from tei/1H6.xml (blob ed861f28e5, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/henry-vi-part-2.xml,tei/henry-vi-part-2.xml,497ffc604ec0958efcd3bf0af7d38ad6a972115e,"from tei/2H6.xml (blob 8ff7af26fd, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/henry-vi-part-3.xml,tei/henry-vi-part-3.xml,2bcf71dec0bc9c51ce5e15f2667323b93bce46f0,"from tei/3H6.xml (blob 9f741dde48, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/henry-viii.xml,tei/henry-viii.xml,13a65842929d8ae688fe66f9dca305218ce1b680,"from tei/H8.xml (blob 4eb1b81c6f, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/julius-caesar.xml,tei/julius-caesar.xml,33a25a5060d3e307a8cbb433e4c0dee1feec0f18,"from tei/JC.xml (blob 916fcdc39f, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/king-john.xml,tei/king-john.xml,525ca8f316a6a376c8d13864e5164db9e6b97a41,"from tei/Jn.xml (blob f8ef2d7479, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/king-lear.xml,tei/king-lear.xml,fcd2aa833012901322172b3810978e3b25d7b94a,"from tei/Lr.xml (blob cb079d892a, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/love-s-labor-s-lost.xml,tei/love-s-labor-s-lost.xml,a0c21f063dde8570aabd717fd8b3ece0c0bb1d6b,"from tei/LLL.xml (blob 0c17fde71f, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/macbeth.xml,tei/macbeth.xml,91c9261ab7cd8eca8c5b036a02990e05c2459f0b,"from tei/Mac.xml (blob 6a4c1ead61, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/measure-for-measure.xml,tei/measure-for-measure.xml,c44a89b922fba54d2e39b27b919bc42b901ce64f,"from tei/MM.xml (blob 0675f65c57, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/much-ado-about-nothing.xml,tei/much-ado-about-nothing.xml,0db1f4cf4b8b6b7cfbd882c3da504deb1f5b91ea,"from tei/Ado.xml (blob bff2db022f, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/othello.xml,tei/othello.xml,0264fc3189973febb02286f37d9fe61911913c70,"from tei/Oth.xml (blob 9125c8baa1, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/pericles.xml,tei/pericles.xml,e5f9a2aa8bab4b7e677dcff4196fe505ee955552,"from tei/Per.xml (blob 38aa536c59, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/richard-ii.xml,tei/richard-ii.xml,9a8f5ef5a27e62887820abf01826bacaeec683af,"from tei/R2.xml (blob 55a9b2d1f4, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/richard-iii.xml,tei/richard-iii.xml,cbe6ea610ad14eb84687bd9e09035007011f83e5,"from tei/R3.xml (blob a361788f55, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/romeo-and-juliet.xml,tei/romeo-and-juliet.xml,77c309a3f5b880a70abfcc6a9007edc408943748,"from tei/Rom.xml (blob b79fa1195c, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/the-comedy-of-errors.xml,tei/the-comedy-of-errors.xml,bb2b04a802bf19e9dbc6904e9056226d92534394,"from tei/Err.xml (blob d0016146d7, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/the-merchant-of-venice.xml,tei/the-merchant-of-venice.xml,5f9b081d2e867af8a66d465f97acd98966566ba7,"from tei/MV.xml (blob 617f9083c6, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/the-merry-wives-of-windsor.xml,tei/the-merry-wives-of-windsor.xml,3c489621a9fe59d98eb0507f259d2ed9eeff9c94,"from tei/Wiv.xml (blob 3ad3798f44, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/the-taming-of-the-shrew.xml,tei/the-taming-of-the-shrew.xml,49b85420a064cfb0fb3ccec12cb552026914b91f,"from tei/Shr.xml (blob fc2abd68de, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/the-tempest.xml,tei/the-tempest.xml,c98ba5e6cae81d492a28e3cce45e709bde128438,"from tei/Tmp.xml (blob be4136032a, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/the-winter-s-tale.xml,tei/the-winter-s-tale.xml,72b046f892cc0ed3357a6afdbda40d7bf2aaf1cc,"from tei/WT.xml (blob 89726ef4b5, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/timon-of-athens.xml,tei/timon-of-athens.xml,272200f1f4c59024ece013695283bb808afbe596,"from tei/Tim.xml (blob 126c4eb4a0, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/titus-andronicus.xml,tei/titus-andronicus.xml,6fc372c043b1b942cf58aef8572680db060859a3,"from tei/Tit.xml (blob a2741bea5e, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/troilus-and-cressida.xml,tei/troilus-and-cressida.xml,efbf2e852e815b3d08fe4f06dd870dbc30e8b86d,"from tei/Tro.xml (blob b2ccf9fc90, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/twelfth-night.xml,tei/twelfth-night.xml,7f7bfbbafea7b155241fd3fd3ba8cf2ea18f2f22,"from tei/TN.xml (blob c09df0ed57, git similarity 99%)"
+rename-similar,3,0c181df491da765dabe0bce1cc3aee1761b41326,tei/two-gentlemen-of-verona.xml,tei/two-gentlemen-of-verona.xml,d6ca966a108cb65aa2c542b812ec8dce4b9e6cdb,"from tei/TGV.xml (blob 31473a1918, git similarity 99%)"
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/a-midsummer-night-s-dream.xml,tei/a-midsummer-night-s-dream.xml,d6bcfb3cdf7d39d357d8a5d24cfb9b625b4d5a3b,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/all-s-well-that-ends-well.xml,tei/all-s-well-that-ends-well.xml,b5b7e0a4923d884dbb235d76a8b2c2c822270840,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/antony-and-cleopatra.xml,tei/antony-and-cleopatra.xml,27b2c3440004baac38649f44c1be8b04aa7d3dde,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/as-you-like-it.xml,tei/as-you-like-it.xml,2f13418f36eedd7f1ac86d7981535af5c5b6ff73,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/coriolanus.xml,tei/coriolanus.xml,b321d66c013f290ae7313c0223ceb88294df24ce,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/cymbeline.xml,tei/cymbeline.xml,39e18b6dd97b55812f8920fb1290f001cb4b64a2,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/hamlet.xml,tei/hamlet.xml,87440d118643455de9096df0b4ee8b895a42e7b8,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/henry-iv-part-i.xml,tei/henry-iv-part-i.xml,6d00ab62347f2890bb87f69df8a2aab7bf7292fe,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/henry-iv-part-ii.xml,tei/henry-iv-part-ii.xml,f9dde975c99f589b7a76007048fb9168d9ae6d19,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/henry-v.xml,tei/henry-v.xml,d0b2abb2d74d7df813e81c403e7b3bb430b551c3,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/henry-vi-part-1.xml,tei/henry-vi-part-1.xml,f54a45149fa5dc882fd7ccdf5b6ae3eb67c3eb67,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/henry-vi-part-2.xml,tei/henry-vi-part-2.xml,3279f23c771624cc19f40f466151e85fd782c291,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/henry-vi-part-3.xml,tei/henry-vi-part-3.xml,e862a9189da1aea1e700d05d9a9511641e956b18,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/henry-viii.xml,tei/henry-viii.xml,beb2126aafdcf819ea17649c8d622ea04fbc095d,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/julius-caesar.xml,tei/julius-caesar.xml,aab51f6f8eb8fe56ff5ae60aef284594096152a7,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/king-john.xml,tei/king-john.xml,50bf2ce3699cbbe9ac6d14765908ae408ffa9885,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/king-lear.xml,tei/king-lear.xml,a09cc662e22e7e81e6bb0175ed99fe2bfe753012,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/love-s-labor-s-lost.xml,tei/love-s-labor-s-lost.xml,b81e5ff05eee3cc9dcbc1e6c40fcad9724c3eb99,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/macbeth.xml,tei/macbeth.xml,da4d0ecbc4d5c2f7789c9d90ecf7fa1dbb72b72c,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/measure-for-measure.xml,tei/measure-for-measure.xml,808ff7347d236bac6097b92a6e0fef1c36d92e26,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/much-ado-about-nothing.xml,tei/much-ado-about-nothing.xml,1711ddcd2325536155c2de58afdb32adc464fc64,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/othello.xml,tei/othello.xml,dc5153130b086c96fe07fb8bfed2b29661360823,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/pericles.xml,tei/pericles.xml,6eff21fb63a84730502a4ddb12c89d222d4e63a1,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/richard-ii.xml,tei/richard-ii.xml,4793198e1cb84141dc2a54a86a910888c90abf50,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/richard-iii.xml,tei/richard-iii.xml,61c776090a8403162a97e82bbb6a9c0c4a483a67,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/romeo-and-juliet.xml,tei/romeo-and-juliet.xml,2fc91f4b8eec47e482741f305d6e28a55b6c7fe8,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/the-comedy-of-errors.xml,tei/the-comedy-of-errors.xml,4e1d7edfe1ec38f9cafcc2a1fd85b3f01a2725b1,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/the-merchant-of-venice.xml,tei/the-merchant-of-venice.xml,5b7726baf7270c0ff405d724aa3770be0c79da9b,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/the-merry-wives-of-windsor.xml,tei/the-merry-wives-of-windsor.xml,ace71cfbea49ed0ffdb79b7073b52c392d627ac7,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/the-taming-of-the-shrew.xml,tei/the-taming-of-the-shrew.xml,88c663e4d349fa21801df81209618ec5854e1a36,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/the-tempest.xml,tei/the-tempest.xml,beeb40a56566143c102109be252f431d86ccddc7,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/the-winter-s-tale.xml,tei/the-winter-s-tale.xml,7f965224d99817b6dba59af1fef92ac4d2e26f7e,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/timon-of-athens.xml,tei/timon-of-athens.xml,cacc3a1fd3594a44cd2cbb7f90478169ced34195,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/titus-andronicus.xml,tei/titus-andronicus.xml,638a9b13c211e84d4b802e22e34483fd7d3cd046,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/troilus-and-cressida.xml,tei/troilus-and-cressida.xml,b1626b8c44ab1dd0fb3f92da638be5d6b1021813,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/twelfth-night.xml,tei/twelfth-night.xml,3fbb89125ddce7cc3266d7e3739fe0d2758c9295,
+tei-without-id,4,efa09a9bbfe2f179abd364668518f47e828d0b39,tei/two-gentlemen-of-verona.xml,tei/two-gentlemen-of-verona.xml,dc2068f3d0497ebbe3233b94bb634febfb5958c8,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/a-midsummer-night-s-dream.xml,tei/a-midsummer-night-s-dream.xml,977acfcb9ab373c98d2a1f9c3d869d8025891a18,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/all-s-well-that-ends-well.xml,tei/all-s-well-that-ends-well.xml,774d0e3da62a36a370d90f986a706d2d53106108,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/antony-and-cleopatra.xml,tei/antony-and-cleopatra.xml,ce245e355c9a4b4570ae48f76745677d44379a3b,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/as-you-like-it.xml,tei/as-you-like-it.xml,020330371a394552d06c0a6911bde31c2234a8d1,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/coriolanus.xml,tei/coriolanus.xml,5f1ed700ab437ee6c5fa442700dc9d639ca410ff,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/cymbeline.xml,tei/cymbeline.xml,bb0fb44f7b4a82994a10de9bbde1860863998ebb,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/hamlet.xml,tei/hamlet.xml,64a5b1febb894b5e189ce4c042954f63cd43c9ad,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/henry-iv-part-i.xml,tei/henry-iv-part-i.xml,bf35dbd5052606286c9f78c840b5af3b778b026c,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/henry-iv-part-ii.xml,tei/henry-iv-part-ii.xml,ad0be95ca9b88446c93c3f9b38e024d0de49f008,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/henry-v.xml,tei/henry-v.xml,7d39372c51a07fd320f06878ee24ff94f71dd6ea,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/henry-vi-part-1.xml,tei/henry-vi-part-1.xml,8a6c5842a62d553fc523c83afcb58a1128d87ce5,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/henry-vi-part-2.xml,tei/henry-vi-part-2.xml,3d278f87a57e0d6362eeeca1f933810b826a7fc3,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/henry-vi-part-3.xml,tei/henry-vi-part-3.xml,4e8b7255dced769e3db6268cf526e4af2e5743e1,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/henry-viii.xml,tei/henry-viii.xml,a35903868306797f811e1ec293e951d72d6456f7,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/julius-caesar.xml,tei/julius-caesar.xml,d92ef16498409091f3a5f9a59870c1e7816c1d5d,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/king-john.xml,tei/king-john.xml,b096b395aab0001ca9770893d62dce78f2a1a576,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/king-lear.xml,tei/king-lear.xml,2d99de5d0149c2f3db5cd479eaebcd0a5553f24d,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/love-s-labor-s-lost.xml,tei/love-s-labor-s-lost.xml,3f3391af55bf4c61a2a405f507f48b09dc3fbb81,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/macbeth.xml,tei/macbeth.xml,1101cf0528a0770e8dcb25af6febf9a31218c474,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/measure-for-measure.xml,tei/measure-for-measure.xml,267eb12926d70d95c5bf9bd70a309e9f4c270be3,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/much-ado-about-nothing.xml,tei/much-ado-about-nothing.xml,7e77b2f765afa277d06eda9d702395c385cc4af9,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/othello.xml,tei/othello.xml,1961ad005e433c1f9fc8db6005d867ca83edeab8,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/pericles.xml,tei/pericles.xml,2e2a7be39261dbf28333d4c1ab408f522eb594b4,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/richard-ii.xml,tei/richard-ii.xml,0d466c4d1862a1698f05c5216e8879ff32c4b909,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/richard-iii.xml,tei/richard-iii.xml,8cbb37cc8d86784a88dc0af9d83307c049e786ce,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/romeo-and-juliet.xml,tei/romeo-and-juliet.xml,10028fa53c25bc43803c40737e4a8102fe88bb20,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/the-comedy-of-errors.xml,tei/the-comedy-of-errors.xml,90b9ca3c3c56220ee9ad3c0a8c1bdbe0815a1855,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/the-merchant-of-venice.xml,tei/the-merchant-of-venice.xml,aba57b7da1cf1c5defa35ddf7f661ab0d3b8d2d2,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/the-merry-wives-of-windsor.xml,tei/the-merry-wives-of-windsor.xml,7ac8e45a8263af6a84dab47489b1c57704c53634,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/the-taming-of-the-shrew.xml,tei/the-taming-of-the-shrew.xml,c50b18a3fc5bc10c66adbba84d05c05c0acb916d,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/the-tempest.xml,tei/the-tempest.xml,3ffa059e34ef327ba5cf20e3d88d81be2c7a997f,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/the-winter-s-tale.xml,tei/the-winter-s-tale.xml,0f733fee92aa18f47d7e13f68e478f19530e49d6,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/timon-of-athens.xml,tei/timon-of-athens.xml,f7507cf28a7d98e83b214552ba49b78c65256117,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/titus-andronicus.xml,tei/titus-andronicus.xml,99365b190965ebe98b423091f8efad5440bb4ba6,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/troilus-and-cressida.xml,tei/troilus-and-cressida.xml,d4ab3edab1d5920debc677fed68241b5589e7a9c,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/twelfth-night.xml,tei/twelfth-night.xml,e4cdee8f06b3767375117907b4d3bf131161c58a,
+tei-without-id,5,d32ad99c5525ce5571e884992947d68ead5cf9d8,tei/two-gentlemen-of-verona.xml,tei/two-gentlemen-of-verona.xml,96aad3b8b4825ee70c59c0d7d0eecb472b8acd02,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/a-midsummer-night-s-dream.xml,tei/a-midsummer-night-s-dream.xml,5e3985f50bf9ab536bac5d415e6e17b2fbf9488e,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/all-s-well-that-ends-well.xml,tei/all-s-well-that-ends-well.xml,631524944a4de06a7386f3f770baf4b6c502a4e8,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/antony-and-cleopatra.xml,tei/antony-and-cleopatra.xml,6234e2b508c2534b94f262b4341af86ef86ebd3a,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/as-you-like-it.xml,tei/as-you-like-it.xml,29c3e46cb37276dbf33139e50001fdf896e23221,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/coriolanus.xml,tei/coriolanus.xml,f5028859b048ae9c8e8578aa92b431e9134403ed,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/cymbeline.xml,tei/cymbeline.xml,aca4e2d2edf6d0c87967abda3eb7f109b6dde747,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/hamlet.xml,tei/hamlet.xml,71990f9a1f750e2d9dbe64d4b499b16dfd01e8a1,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/henry-iv-part-i.xml,tei/henry-iv-part-i.xml,26833c04ed2dc4aa2855bb58e31230efa3103e5c,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/henry-iv-part-ii.xml,tei/henry-iv-part-ii.xml,af6343d0053269a9249dd0f42af000bf005180ef,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/henry-v.xml,tei/henry-v.xml,a847fef0aeb9f53853da02477e5868ed7b54957f,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/henry-vi-part-1.xml,tei/henry-vi-part-1.xml,dfebd271a80bf847e01d17451de5b099aab12471,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/henry-vi-part-2.xml,tei/henry-vi-part-2.xml,dbfed234dd6f8507dedfb8aa21b1d99c98dd5dcf,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/henry-vi-part-3.xml,tei/henry-vi-part-3.xml,57923f3e2efc16369fb448c4fce6331cb1cb4d50,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/henry-viii.xml,tei/henry-viii.xml,f1ca1e2ad7dda65125b886b5f8a8149b11fb677f,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/julius-caesar.xml,tei/julius-caesar.xml,89891bbd911b72ce26e122557af9b643bf737e57,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/king-john.xml,tei/king-john.xml,75a333e97306dfb45aa58773d6d061400e5bb61b,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/king-lear.xml,tei/king-lear.xml,f9562cd2eb522a777ad0d4561790edbc72299910,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/love-s-labor-s-lost.xml,tei/love-s-labor-s-lost.xml,7d5391d596b427903834958a0dff5f3bc1b3d19c,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/macbeth.xml,tei/macbeth.xml,ddceddcc3afcbf9b50e0df9a67161296bd451c0a,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/measure-for-measure.xml,tei/measure-for-measure.xml,031f116285e8aa72822f304738e2c18eecf5f1cb,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/much-ado-about-nothing.xml,tei/much-ado-about-nothing.xml,ec0fa899e00407fc5385654fe805d741d08d0e1d,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/othello.xml,tei/othello.xml,d2ea5ebcf1c8fcf36c24c55cd9b950194e0a6119,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/pericles.xml,tei/pericles.xml,0e9e9e7915b395225577c047aebf9b01a64e766c,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/richard-ii.xml,tei/richard-ii.xml,d3b04e8f3da721ad9a01327503196628a6be3c51,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/richard-iii.xml,tei/richard-iii.xml,effc079f24792ddaec7dd4824a7ca41fc299b4b2,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/romeo-and-juliet.xml,tei/romeo-and-juliet.xml,5232f2e63dfca53409aa86b8860f634d6d744f45,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/the-comedy-of-errors.xml,tei/the-comedy-of-errors.xml,b07d4354344835611db72bc268ff200a7629e979,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/the-merchant-of-venice.xml,tei/the-merchant-of-venice.xml,5b30c2ddac3fb2c2d239a7aa323567d679c2ab23,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/the-merry-wives-of-windsor.xml,tei/the-merry-wives-of-windsor.xml,0dc9531a493dd9a4662e894ef2f855603401087e,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/the-taming-of-the-shrew.xml,tei/the-taming-of-the-shrew.xml,007e2600bbcb144bb5946ff917213b52c8967cb5,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/the-tempest.xml,tei/the-tempest.xml,129168802e9b00a7f1646d32d2e24f5850246b7f,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/the-winter-s-tale.xml,tei/the-winter-s-tale.xml,c594bbddef9fe57452625423d31cd17f4302ea36,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/timon-of-athens.xml,tei/timon-of-athens.xml,ba46e7955620ec6ee4f96445dda5a053383b6841,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/titus-andronicus.xml,tei/titus-andronicus.xml,d4825bce677de61a56b58bd99b7c861e5f79decc,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/troilus-and-cressida.xml,tei/troilus-and-cressida.xml,7cb3929e257f1dd53a17442229b66d1dc5e7b7ab,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/twelfth-night.xml,tei/twelfth-night.xml,53ad2cddc415cc607d3e3d8ccefafe2579253498,
+tei-without-id,6,a62674c37f858ebebfb659cd24f4ef535fb70719,tei/two-gentlemen-of-verona.xml,tei/two-gentlemen-of-verona.xml,05ebba38680b001cfac4c0d46659a9cad7faf312,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/a-midsummer-night-s-dream.xml,tei/a-midsummer-night-s-dream.xml,90f43dea3f6dce85a3ad13bb1c9354593c0002cd,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/all-s-well-that-ends-well.xml,tei/all-s-well-that-ends-well.xml,c120eff9ce378dd599f9cb3ccbf65702ea4cfd39,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/antony-and-cleopatra.xml,tei/antony-and-cleopatra.xml,8a1a8dea8343586cb169a316a154d3e5ffe1d805,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/coriolanus.xml,tei/coriolanus.xml,65b3fa3b19d831a198822473490b9a5f282e68f4,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/cymbeline.xml,tei/cymbeline.xml,4da1e25057eca21d23171ab4ffeb78ab97c45816,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/hamlet.xml,tei/hamlet.xml,6b7952757515f48b515a06558cfb45376f7b84ab,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/henry-iv-part-i.xml,tei/henry-iv-part-i.xml,9e2636139ce1e0c5d9d3ffd431cc488604532d56,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/henry-v.xml,tei/henry-v.xml,d044ceb6b990536d310a4204491b1aa99e971a69,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/henry-vi-part-1.xml,tei/henry-vi-part-1.xml,8c2f315d9449acd1b368cf90a8dc365380e2cffb,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/henry-vi-part-2.xml,tei/henry-vi-part-2.xml,048836781a7be8f4d398de8d7477359166495891,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/henry-vi-part-3.xml,tei/henry-vi-part-3.xml,c67933d6676cb4d40e4d3428216f48c1b1c40ee9,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/henry-viii.xml,tei/henry-viii.xml,65ec0a2967bcf179633894c44df5f6c829eb5af6,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/king-john.xml,tei/king-john.xml,7ae2ce634011b20a6c9c067169d73538c5256ec5,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/king-lear.xml,tei/king-lear.xml,a84ba1c7183042264f2093b83371e2dc810b69a6,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/love-s-labor-s-lost.xml,tei/love-s-labor-s-lost.xml,a140a3b5b26ffac57ba77cdbb2d2c33e069394d0,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/macbeth.xml,tei/macbeth.xml,dbb251851ec860867f2961c0ed7fcaa0789dbcd1,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/measure-for-measure.xml,tei/measure-for-measure.xml,5f4619615cbc983797c85979e12a5c901ffeb538,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/much-ado-about-nothing.xml,tei/much-ado-about-nothing.xml,036f6fc16fb5caa235eca32f7857bf1c5fb4c21a,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/pericles.xml,tei/pericles.xml,19a91b4fa93b321281f189d5e1701fc2a1b9a642,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/richard-iii.xml,tei/richard-iii.xml,948c87a430680f6a0f0225b37dbfba8fcbe454d9,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/romeo-and-juliet.xml,tei/romeo-and-juliet.xml,e6508d114a90b2542e25900669e50a8fd56d1426,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/the-comedy-of-errors.xml,tei/the-comedy-of-errors.xml,f22f8ff2d564ac45509382ed5cba4cee562d512a,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/the-taming-of-the-shrew.xml,tei/the-taming-of-the-shrew.xml,37637e324a3a8443507dda0cfbaafb508602a955,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/the-tempest.xml,tei/the-tempest.xml,e118533949e03dccb8257cbc8db894acd7bf31b2,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/the-winter-s-tale.xml,tei/the-winter-s-tale.xml,d1c99df44a3434fc8c2598f86d30068faafb3037,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/timon-of-athens.xml,tei/timon-of-athens.xml,1e2d9a2c082a297e416dc8001c9f823e12801fdd,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/titus-andronicus.xml,tei/titus-andronicus.xml,c4b38b53d3235dd3a1581d40d5b9770c5cce847c,
+tei-without-id,8,ded4438d42d098d312182d6593216bf9d911299c,tei/twelfth-night.xml,tei/twelfth-night.xml,e9096737cf13ea45c1a3c58ce82ed14201966b6f,
+tei-without-id,11,efeb8b14efc20fccd81351c4bf66afad4aac6fc7,tei/a-midsummer-night-s-dream.xml,tei/a-midsummer-night-s-dream.xml,2a364607ff1f1488e01eda195688153293da9ef6,
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000008,tei/a-midsummer-night-s-dream.xml,8afb9987db13a3b2a88e89d450f48428aafebf28,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000012,tei/all-s-well-that-ends-well.xml,57225965f00e45c65857290100222497bc8c666b,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000035,tei/antony-and-cleopatra.xml,b79697ee175e7e8ddf458f8b0e01d24528cc87bf,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000010,tei/as-you-like-it.xml,6060c405c2ad0807033c7b4105a786fc8f490e1b,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000026,tei/coriolanus.xml,07044ea084350b45c3d75669bc8492102f426101,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000036,tei/cymbeline.xml,bdd47cc0137e02e71c35b51bc9f515680c0bb28d,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000032,tei/hamlet.xml,f3f59384a4655637b6c4e33e73250daf0637156a,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000017,tei/henry-iv-part-i.xml,17608bea74bd8d40ff05841338d4a317b1bc3c64,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000018,tei/henry-iv-part-ii.xml,cbc8992eb0df3bc3d5d5ce3bdfa812c02ae2ccbe,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000019,tei/henry-v.xml,a06a14c322084836015cd13bf1a49155dfe213d2,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000020,tei/henry-vi-part-1.xml,3b56e4157ad73f31de03c95fca3a4d99cf3811db,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000021,tei/henry-vi-part-2.xml,05837074889fd0e652a60d71200d9c605e7c416c,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000022,tei/henry-vi-part-3.xml,098402622d4e14f63ff5abb71fec5ee099fd0330,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000024,tei/henry-viii.xml,dd3bed8de92e030d74d0fc2c50d02073c25f1e05,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000030,tei/julius-caesar.xml,b5a3d95da9d8b97824ae8a590c98d38f55b558ba,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000015,tei/king-john.xml,0ecde0c0163cb5710c79c56a454b8c9db5597eb6,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000033,tei/king-lear.xml,e4d91a1f050507420d042a7cace24e2712fbacc9,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000007,tei/love-s-labor-s-lost.xml,e25b8586346854c633e2938845849b01c0bf84fa,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000031,tei/macbeth.xml,d50f0975526ab9ca64d0931d79b7e9db8e64013c,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000004,tei/measure-for-measure.xml,be3828ec6b05f30b90dd585a4235e65fdc8d513b,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000006,tei/much-ado-about-nothing.xml,76fc164ba81ac8a8bf6839642124d2d832b12c15,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000034,tei/othello.xml,725cfe5f5b8689fbd20862de032dbf686d420a21,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000037,tei/pericles.xml,c67da5080f9a27228a5d948c83790b490b3796cf,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000016,tei/richard-ii.xml,91c789e2275aa1d770a6db9ca8d1336b706dd1eb,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000023,tei/richard-iii.xml,1ba75697876d1caf05ef0060fe5e19d748bccc28,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000028,tei/romeo-and-juliet.xml,884899c309f627077f53edea00520a418e6d7a28,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000005,tei/the-comedy-of-errors.xml,79905f7a86bc2a20d38a05ade8220c36042a1fef,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000009,tei/the-merchant-of-venice.xml,5539486c943ca2488f3f81033f80b1a3fcfc2ed1,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000003,tei/the-merry-wives-of-windsor.xml,9a7fcad2da9ef465d563a327756e6feecdc8d8a4,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000011,tei/the-taming-of-the-shrew.xml,a16816d70838a907e68db4bd8f3207e44d60b6a3,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000001,tei/the-tempest.xml,b25676f0c4a5d90c6ae2a8663ddf167abb03a3aa,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000014,tei/the-winter-s-tale.xml,2ec6dcd69c30d108c882c168558707e1d453c830,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000029,tei/timon-of-athens.xml,1756780974b91d52897e1e4be6a0a5166fbe6e98,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000027,tei/titus-andronicus.xml,c2f2985597e07db070b46804227b60e5ab055223,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000025,tei/troilus-and-cressida.xml,eda3bb56d43458d73b4bd346e927914be95e88c0,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000013,tei/twelfth-night.xml,ce144122431953274f0edb050cb66bcae8ad156b,file had no DraCor ID before
+id-assigned,12,d569dc9886b3d1951f23b0454a3d7103e4cdf1bb,shake000002,tei/two-gentlemen-of-verona.xml,20753f7a2d7235d5a95ae87a57195725666bb34c,file had no DraCor ID before
+rename-same-blob,27,97701929341c82685bf9b95d24ef6a8d95073017,shake000008,tei/a-midsummer-nights-dream.xml,0144d3c996dcaf43978ec5fb3b4778c915b5046e,from tei/a-midsummer-night-s-dream.xml
+rename-same-blob,27,97701929341c82685bf9b95d24ef6a8d95073017,shake000012,tei/alls-well-that-ends-well.xml,85f92359be4dca4b5a6bc9f77e46b9d82dcbc29e,from tei/all-s-well-that-ends-well.xml
+rename-same-blob,27,97701929341c82685bf9b95d24ef6a8d95073017,shake000017,tei/henry-iv-part-1.xml,0374a52c106261d4203cc3f8d750ff0b8c3a5223,from tei/henry-iv-part-i.xml
+rename-same-blob,27,97701929341c82685bf9b95d24ef6a8d95073017,shake000018,tei/henry-iv-part-2.xml,64de82c21010cb41f9fade06607076e216f9edbd,from tei/henry-iv-part-ii.xml
+rename-same-blob,27,97701929341c82685bf9b95d24ef6a8d95073017,shake000007,tei/loves-labors-lost.xml,66fce2aa84bfd0959934ffabafbf72b0723e7df8,from tei/love-s-labor-s-lost.xml
+rename-same-blob,27,97701929341c82685bf9b95d24ef6a8d95073017,shake000014,tei/the-winters-tale.xml,f950e20a87ac1fe59c8da76efbc08c8bce74f693,from tei/the-winter-s-tale.xml

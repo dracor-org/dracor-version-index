@@ -1,0 +1,22 @@
+case,seq,commit,key,path,blob,detail
+duplicate-id,41,9ad446971cd65b0a31cb3e4392527bac6962e2bb,ibs000010,tei/gildet-pa-solhaug.xml | tei/vildanden.xml,,2 files valid at the same time
+rename-same-blob,49,0c3d84744bf8ffc789891fd6d0ad8f22d219c73b,ibs000035,tei/fjeldfuglen-orig.xml,3831baf93bccbe2bac00c2f57ff504adbca719b1,from tei/fjeldfuglen.xml
+duplicate-id,50,2cba400f0fd43c15cc2abb121cc68a4461790279,ibs000035,tei/fjeldfuglen-orig.xml | tei/fjeldfuglen.xml,,2 files valid at the same time
+duplicate-id-resolved,52,28e310231f81ae97e21b1fb0f1895b4490226044,ibs000035,,,
+duplicate-id,54,6a1d903f9af66c1612f764a932bdef5fbe6ec6e2,ibs000019,tei/de-unges-forbund.xml | tei/peer-gynt.xml,,2 files valid at the same time
+duplicate-id,69,089bacd60048f67b6e0a3bb116b3000ae35e94ad,ibs000015,tei/catilina-2.xml | tei/samfundets-stotter.xml,,2 files valid at the same time
+id-change,79,5aa49cb1ebfd0b2aedb57b2cc19c7b25d8bd642c,ibs000009,tei/vildanden.xml,574bcbbacf1fcf0baafc6ac46dda0c1ff2644185,ibs000010 -> ibs000009 at same path
+duplicate-id-resolved,79,5aa49cb1ebfd0b2aedb57b2cc19c7b25d8bd642c,ibs000010,,,
+id-change,82,07be2fde5dc1493f9c28f0ca9eb6c0d63a9cdc87,ibs000018,tei/de-unges-forbund.xml,e708ef7f8e9ef2a8f3453ad2cb552de0f98864d3,ibs000019 -> ibs000018 at same path
+duplicate-id-resolved,82,07be2fde5dc1493f9c28f0ca9eb6c0d63a9cdc87,ibs000019,,,
+id-change,83,4552acc077eba9353ddd023fc0b4484b3270c653,ibs000011,tei/en-folkefiende.xml,e06d1b737eb3d8129f0f2bab82651611058cdfda,ibs000012 -> ibs000011 at same path
+id-change,84,36c2a577fbe188bc51d5fed09e042ead6f4e9bc8,ibs000013,tei/et-dukkehjem.xml,51cb5978de0607eaf533911360624a9d7c666298,ibs000014 -> ibs000013 at same path
+duplicate-id,84,36c2a577fbe188bc51d5fed09e042ead6f4e9bc8,ibs000013,tei/et-dukkehjem.xml | tei/gengangere.xml,,2 files valid at the same time
+id-change,86,c79c46bf4c9ea48a921f502a03ed726fd4307e63,ibs000012,tei/gengangere.xml,c98441026d2caf895bda9bbb526d3b3cb50f4eb8,ibs000013 -> ibs000012 at same path
+duplicate-id-resolved,86,c79c46bf4c9ea48a921f502a03ed726fd4307e63,ibs000013,,,
+id-change,90,fa26c8d01db9ce0ef7aeee4ff94df87173ef8d03,ibs000014,tei/samfundets-stotter.xml,963bd843cc2e276582e7da7ffcf8c32653bc5cca,ibs000015 -> ibs000014 at same path
+duplicate-id-resolved,90,fa26c8d01db9ce0ef7aeee4ff94df87173ef8d03,ibs000015,,,
+duplicate-id,117,fb934a4c2fff80eb3333b2344695d896063cf782,ibs000031,tei/haermaendene-pa-helgeland.xml | tei/hvide-heste.xml,,2 files valid at the same time
+id-change,118,a89dcc45f82714057abe30a0f05e2191f4b878a7,ibs000030,tei/haermaendene-pa-helgeland.xml,3073c273a8a144162a67285fa865e631808f856e,ibs000031 -> ibs000030 at same path
+duplicate-id-resolved,118,a89dcc45f82714057abe30a0f05e2191f4b878a7,ibs000031,,,
+lineage-break,118,a89dcc45f82714057abe30a0f05e2191f4b878a7,ibs000030,tei/haermaendene-pa-helgeland.xml,3073c273a8a144162a67285fa865e631808f856e,ID ibs000031 -> ibs000030 and title 'hvide heste' -> 'hærmændene pa helgeland 2 versjon': treated as a different text at the same path

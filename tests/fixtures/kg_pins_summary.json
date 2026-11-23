@@ -1,0 +1,123 @@
+{
+  "source": "DraCor Open Knowledge Graph (EOSC): distinct GitHub blob URLs of TEI files per repository and pinned commit; queried 2026-11-18",
+  "pins": {
+    "als": [
+      "eca88be29fe770902d63a1d21ad4fb29c8b84cd0",
+      30
+    ],
+    "am": [
+      "27b0fbfa3af98aa62363ffb9e98969214495660c",
+      40
+    ],
+    "ar": [
+      "cd196fe8dd968f99e3eb4e0296298ed4d94b990a",
+      16
+    ],
+    "bash": [
+      "7720e874120b34346ea84e7783f01438ffe11146",
+      3
+    ],
+    "cal": [
+      "547350d1ba3f387220738a3bebaa122075b97b70",
+      205
+    ],
+    "dutch": [
+      "1e8dda755559782ce62da605b4cb323a47c448be",
+      214
+    ],
+    "eng": [
+      "3e1a110b809922a8bac1493c01ecbc85f0eff0a1",
+      751
+    ],
+    "fre": [
+      "7a0569cdf978c513d327a21bdf3e938326795e1f",
+      1939
+    ],
+    "ger": [
+      "15a666187e4243368f29c6b7b3f4c461ec94a33c",
+      775
+    ],
+    "gersh": [
+      "d69f75edf6bf48c2f76aecaefdf75372085cd74c",
+      38
+    ],
+    "greek": [
+      "65321f299ab59793f4dc8eff1cc737b76a49ff71",
+      46
+    ],
+    "hun": [
+      "36dee56eb7316fff02f787720c96963c0a871845",
+      74
+    ],
+    "ibs": [
+      "5adeb8bcdde1c17e3109fa2e4606006e91a7fba4",
+      36
+    ],
+    "ita": [
+      "d185ddacc31b210e4f6636cdcb44797e5ab5f3e0",
+      157
+    ],
+    "pol": [
+      "47426d61debd576d2eadb5513b7586e6e3e19ffe",
+      50
+    ],
+    "ro": [
+      "14fd7b941ba5401f66c19816e3b5124d83c577e4",
+      93
+    ],
+    "rom": [
+      "4d0177119cda12f70681f1f8adb15c9536b287da",
+      36
+    ],
+    "rus": [
+      "b178c0401ffcf58b209104e90e38ff718f188fd8",
+      212
+    ],
+    "shake": [
+      "c34c2d4f98a7b15c290a11048ce04ba645a1361b",
+      37
+    ],
+    "span": [
+      "35f8ebab0a41c6088e62fe6efd2995e5b9bab4f9",
+      25
+    ],
+    "swe": [
+      "00cffc561c89b58104dc48232d53d6cf1543cf83",
+      68
+    ],
+    "tat": [
+      "52aafce44c14b0052fa787999d6bd58e1823e241",
+      3
+    ],
+    "u": [
+      "671184857961542da69927374b9d3cd00654082d",
+      47
+    ],
+    "yi": [
+      "1eb0f2c782fd61a5193afa4328d6d44022cd11c7",
+      7
+    ]
+  },
+  "known_differences": {
+    "dutch": {
+      "index_minus_kg": 2,
+      "reason": "2 TEI files with names DraCor does not load (not [a-z0-9-]+.xml)"
+    },
+    "eng": {
+      "index_minus_kg": 2,
+      "reason": "2 TEI files with names DraCor does not load (not [a-z0-9-]+.xml)"
+    },
+    "yi": {
+      "index_minus_kg": 1,
+      "reason": "1 TEI file with a name DraCor does not load (not [a-z0-9-]+.xml)"
+    },
+    "fre": {
+      "index_minus_kg": 1,
+      "reason": "1 play omitted from the KG package (invalid RDF, declared in g/package)"
+    },
+    "ibs": {
+      "index_minus_kg": 1,
+      "reason": "1 play omitted from the KG package (invalid RDF, declared in g/package)"
+    }
+  }
+}

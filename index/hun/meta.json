@@ -1,0 +1,364 @@
+{
+  "corpus": "hun",
+  "repository": "https://github.com/dracor-org/hundracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "ec602132bf2f5e429b63475d16f2b635fd8476fe",
+  "api_commit": "4f728b18bcc8fedd685c164b77a29b5b63556382",
+  "api_commit_seq": 39,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 48,
+    "side_commits_merged": 25,
+    "side_commits_unmerged": 0,
+    "intervals": 660,
+    "tei_ids": 75,
+    "tei_ids_valid_at_head": 74,
+    "tei_files_at_head": 74,
+    "distinct_tei_blobs": 618,
+    "tei_file_commit_pairs": 2962,
+    "dedup_factor": 4.79,
+    "tei_noid_intervals": 148,
+    "last_seq_with_noid_tei": 7,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "gitlink": 2,
+      "id-assigned": 41,
+      "tei-without-id": 148
+    }
+  },
+  "id_archaeology": {
+    "prefix": "hun",
+    "texts": 75,
+    "texts_by_method": {
+      "file": 75
+    },
+    "intervals_by_method": {
+      "lineage": 148,
+      "file": 470
+    },
+    "legacy_table": 0,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 25,
+    "with_base": 25,
+    "delta_rows": 714,
+    "tei_delta_rows_by_method": {
+      "file": 666
+    }
+  },
+  "state": {
+    "last_commit": "ec602132bf2f5e429b63475d16f2b635fd8476fe",
+    "last_seq": 47,
+    "dups_open": {},
+    "last_seen_id": {
+      "hun000001": [
+        47,
+        "tei/balassi-szep-magyar-komedia.xml"
+      ],
+      "hun000002": [
+        47,
+        "tei/balazs-hazateres.xml"
+      ],
+      "hun000003": [
+        47,
+        "tei/balazs-mozart.xml"
+      ],
+      "hun000004": [
+        47,
+        "tei/bornemisza-tragoedia-magyar-nyelven-az-sophocles-electrajabol.xml"
+      ],
+      "hun000005": [
+        47,
+        "tei/brody-a-tanitono.xml"
+      ],
+      "hun000006": [
+        47,
+        "tei/csath-a-janika.xml"
+      ],
+      "hun000007": [
+        47,
+        "tei/csath-hamvazoszerda.xml"
+      ],
+      "hun000008": [
+        47,
+        "tei/csiky-a-nagymama.xml"
+      ],
+      "hun000009": [
+        47,
+        "tei/csiky-a-proletarok.xml"
+      ],
+      "hun000010": [
+        47,
+        "tei/csiky-a-vasember.xml"
+      ],
+      "hun000011": [
+        47,
+        "tei/csiky-buborekok.xml"
+      ],
+      "hun000012": [
+        47,
+        "tei/csokonai-a-mela-tempefoi.xml"
+      ],
+      "hun000013": [
+        47,
+        "tei/csokonai-ozvegy-karnyone.xml"
+      ],
+      "hun000014": [
+        47,
+        "tei/czako-kalmar-es-tengeresz.xml"
+      ],
+      "hun000015": [
+        47,
+        "tei/gardonyi-a-bor.xml"
+      ],
+      "hun000016": [
+        47,
+        "tei/hevesi-csaszar-es-komedias.xml"
+      ],
+      "hun000017": [
+        47,
+        "tei/hugo-bankar-es-baro.xml"
+      ],
+      "hun000018": [
+        47,
+        "tei/hunyady-nyari-zapor.xml"
+      ],
+      "hun000019": [
+        47,
+        "tei/jokai-levente.xml"
+      ],
+      "hun000020": [
+        47,
+        "tei/katona-bank-ban.xml"
+      ],
+      "hun000021": [
+        47,
+        "tei/kisfaludy-a-kerok.xml"
+      ],
+      "hun000022": [
+        47,
+        "tei/madach-a-civilizator.xml"
+      ],
+      "hun000023": [
+        47,
+        "tei/madach-az-ember-tragediaja.xml"
+      ],
+      "hun000024": [
+        12,
+        "tei/madach-civilizator.xml"
+      ],
+      "hun000025": [
+        47,
+        "tei/madach-csak-vegnapjai.xml"
+      ],
+      "hun000026": [
+        47,
+        "tei/madach-ferfi-es-no.xml"
+      ],
+      "hun000027": [
+        47,
+        "tei/madach-mozes.xml"
+      ],
+      "hun000028": [
+        47,
+        "tei/moricz-legy-jo-mindhalalig.xml"
+      ],
+      "hun000029": [
+        47,
+        "tei/moricz-uri-muri.xml"
+      ],
+      "hun000030": [
+        47,
+        "tei/nagy-tisztujitas.xml"
+      ],
+      "hun000031": [
+        47,
+        "tei/pekar-matyas-es-beatrix.xml"
+      ],
+      "hun000032": [
+        47,
+        "tei/petofi-tigris-es-hiena.xml"
+      ],
+      "hun000033": [
+        47,
+        "tei/szakonyi-adashiba.xml"
+      ],
+      "hun000034": [
+        47,
+        "tei/szigligeti-a-lelenc.xml"
+      ],
+      "hun000035": [
+        47,
+        "tei/szigligeti-liliomfi.xml"
+      ],
+      "hun000036": [
+        47,
+        "tei/teleki-kegyenc.xml"
+      ],
+      "hun000037": [
+        47,
+        "tei/toth-a-falu-rossza.xml"
+      ],
+      "hun000038": [
+        47,
+        "tei/vorosmarty-a-fatyol-titkai.xml"
+      ],
+      "hun000039": [
+        47,
+        "tei/vorosmarty-csongor-es-tunde.xml"
+      ],
+      "hun000040": [
+        47,
+        "tei/vorosmarty-kincskeresok.xml"
+      ],
+      "hun000041": [
+        47,
+        "tei/vorosmarty-vernasz.xml"
+      ],
+      "hun000042": [
+        47,
+        "tei/babits-a-literator.xml"
+      ],
+      "hun000043": [
+        47,
+        "tei/babits-a-masodik-enek.xml"
+      ],
+      "hun000044": [
+        47,
+        "tei/babits-a-simone-haza.xml"
+      ],
+      "hun000045": [
+        47,
+        "tei/babits-laodameia.xml"
+      ],
+      "hun000046": [
+        47,
+        "tei/balazs-a-kekszakallu-herceg-vara.xml"
+      ],
+      "hun000047": [
+        47,
+        "tei/balazs-halalos-fiatalsag.xml"
+      ],
+      "hun000048": [
+        47,
+        "tei/berczik-a-pozsonyi-dieta.xml"
+      ],
+      "hun000049": [
+        47,
+        "tei/bessenyei-a-filosofus.xml"
+      ],
+      "hun000050": [
+        47,
+        "tei/bessenyei-agis-tragediaja.xml"
+      ],
+      "hun000051": [
+        47,
+        "tei/bessenyei-buda-tragediaja.xml"
+      ],
+      "hun000052": [
+        47,
+        "tei/bessenyei-hunyadi-laszlo-tragediaja.xml"
+      ],
+      "hun000053": [
+        47,
+        "tei/bessenyei-lais.xml"
+      ],
+      "hun000054": [
+        47,
+        "tei/csiky-a-jo-fulop.xml"
+      ],
+      "hun000055": [
+        47,
+        "tei/csiky-a-kaviar.xml"
+      ],
+      "hun000056": [
+        47,
+        "tei/csiky-szep-leanyok.xml"
+      ],
+      "hun000057": [
+        47,
+        "tei/csokonai-cultura.xml"
+      ],
+      "hun000058": [
+        47,
+        "tei/hunyady-a-harom-sarkany.xml"
+      ],
+      "hun000059": [
+        47,
+        "tei/hunyady-bakaruhaban.xml"
+      ],
+      "hun000060": [
+        47,
+        "tei/hunyady-feketeszaru-cseresznye.xml"
+      ],
+      "hun000061": [
+        47,
+        "tei/hunyady-juliusi-ejszaka.xml"
+      ],
+      "hun000062": [
+        47,
+        "tei/hunyady-kartyazo-asszonyok.xml"
+      ],
+      "hun000063": [
+        47,
+        "tei/hunyady-lovagias-ugy.xml"
+      ],
+      "hun000064": [
+        47,
+        "tei/jokai-a-szigetvari-vertanuk.xml"
+      ],
+      "hun000065": [
+        47,
+        "tei/jokai-dalma.xml"
+      ],
+      "hun000066": [
+        47,
+        "tei/jokai-dozsa-gyorgy.xml"
+      ],
+      "hun000067": [
+        47,
+        "tei/jokai-konyves-kalman.xml"
+      ],
+      "hun000068": [
+        47,
+        "tei/kisfaludy-stibor-vajda.xml"
+      ],
+      "hun000069": [
+        47,
+        "tei/kovacs-notlen-ferj.xml"
+      ],
+      "hun000070": [
+        47,
+        "tei/obernyik-four-es-por.xml"
+      ],
+      "hun000071": [
+        47,
+        "tei/szasz-attila-halala.xml"
+      ],
+      "hun000072": [
+        47,
+        "tei/szigligeti-csikos.xml"
+      ],
+      "hun000073": [
+        47,
+        "tei/szigligeti-fenn-az-ernyo.xml"
+      ],
+      "hun000074": [
+        47,
+        "tei/szigligeti-ii-rakoczi-ferenc.xml"
+      ],
+      "hun000075": [
+        47,
+        "tei/szigligeti-szokott-katona.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 48,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

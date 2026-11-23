@@ -1,0 +1,213 @@
+{
+  "corpus": "shake",
+  "repository": "https://github.com/dracor-org/shakedracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "7381f58e9d81c222461ee24533e1dbe8e89c6197",
+  "api_commit": "66efae847ba80c1d66cb346665117b1be3b790e5",
+  "api_commit_seq": 39,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 49,
+    "side_commits_merged": 18,
+    "side_commits_unmerged": 1,
+    "intervals": 650,
+    "tei_ids": 37,
+    "tei_ids_valid_at_head": 37,
+    "tei_files_at_head": 37,
+    "distinct_tei_blobs": 616,
+    "tei_file_commit_pairs": 1776,
+    "dedup_factor": 2.88,
+    "tei_noid_intervals": 214,
+    "last_seq_with_noid_tei": 11,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "id-assigned": 37,
+      "rename-same-blob": 6,
+      "rename-similar": 37,
+      "tei-without-id": 214
+    }
+  },
+  "id_archaeology": {
+    "prefix": "shake",
+    "texts": 37,
+    "texts_by_method": {
+      "file": 37
+    },
+    "intervals_by_method": {
+      "lineage": 214,
+      "file": 408
+    },
+    "legacy_table": 0,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 19,
+    "with_base": 19,
+    "delta_rows": 241,
+    "tei_delta_rows_by_method": {
+      "file": 223
+    }
+  },
+  "state": {
+    "last_commit": "7381f58e9d81c222461ee24533e1dbe8e89c6197",
+    "last_seq": 48,
+    "dups_open": {},
+    "last_seen_id": {
+      "shake000008": [
+        48,
+        "tei/a-midsummer-nights-dream.xml"
+      ],
+      "shake000012": [
+        48,
+        "tei/alls-well-that-ends-well.xml"
+      ],
+      "shake000035": [
+        48,
+        "tei/antony-and-cleopatra.xml"
+      ],
+      "shake000010": [
+        48,
+        "tei/as-you-like-it.xml"
+      ],
+      "shake000026": [
+        48,
+        "tei/coriolanus.xml"
+      ],
+      "shake000036": [
+        48,
+        "tei/cymbeline.xml"
+      ],
+      "shake000032": [
+        48,
+        "tei/hamlet.xml"
+      ],
+      "shake000017": [
+        48,
+        "tei/henry-iv-part-1.xml"
+      ],
+      "shake000018": [
+        48,
+        "tei/henry-iv-part-2.xml"
+      ],
+      "shake000019": [
+        48,
+        "tei/henry-v.xml"
+      ],
+      "shake000020": [
+        48,
+        "tei/henry-vi-part-1.xml"
+      ],
+      "shake000021": [
+        48,
+        "tei/henry-vi-part-2.xml"
+      ],
+      "shake000022": [
+        48,
+        "tei/henry-vi-part-3.xml"
+      ],
+      "shake000024": [
+        48,
+        "tei/henry-viii.xml"
+      ],
+      "shake000030": [
+        48,
+        "tei/julius-caesar.xml"
+      ],
+      "shake000015": [
+        48,
+        "tei/king-john.xml"
+      ],
+      "shake000033": [
+        48,
+        "tei/king-lear.xml"
+      ],
+      "shake000007": [
+        48,
+        "tei/loves-labors-lost.xml"
+      ],
+      "shake000031": [
+        48,
+        "tei/macbeth.xml"
+      ],
+      "shake000004": [
+        48,
+        "tei/measure-for-measure.xml"
+      ],
+      "shake000006": [
+        48,
+        "tei/much-ado-about-nothing.xml"
+      ],
+      "shake000034": [
+        48,
+        "tei/othello.xml"
+      ],
+      "shake000037": [
+        48,
+        "tei/pericles.xml"
+      ],
+      "shake000016": [
+        48,
+        "tei/richard-ii.xml"
+      ],
+      "shake000023": [
+        48,
+        "tei/richard-iii.xml"
+      ],
+      "shake000028": [
+        48,
+        "tei/romeo-and-juliet.xml"
+      ],
+      "shake000005": [
+        48,
+        "tei/the-comedy-of-errors.xml"
+      ],
+      "shake000009": [
+        48,
+        "tei/the-merchant-of-venice.xml"
+      ],
+      "shake000003": [
+        48,
+        "tei/the-merry-wives-of-windsor.xml"
+      ],
+      "shake000011": [
+        48,
+        "tei/the-taming-of-the-shrew.xml"
+      ],
+      "shake000001": [
+        48,
+        "tei/the-tempest.xml"
+      ],
+      "shake000014": [
+        48,
+        "tei/the-winters-tale.xml"
+      ],
+      "shake000029": [
+        48,
+        "tei/timon-of-athens.xml"
+      ],
+      "shake000027": [
+        48,
+        "tei/titus-andronicus.xml"
+      ],
+      "shake000025": [
+        48,
+        "tei/troilus-and-cressida.xml"
+      ],
+      "shake000013": [
+        48,
+        "tei/twelfth-night.xml"
+      ],
+      "shake000002": [
+        48,
+        "tei/two-gentlemen-of-verona.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 49,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

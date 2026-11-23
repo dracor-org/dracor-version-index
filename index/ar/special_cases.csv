@@ -1,0 +1,19 @@
+case,seq,commit,key,path,blob,detail
+rename-with-change,10,f73d006bb19831310d568d866cd2589ee7d32258,ar000001,tei/mansilla-similia-similibus.xml,33bc3d07f9492fa230defc37744bda5da63c3045,from tei/ar000001-mansilla-similia-similibus.tei.xml (blob 6cff6fb08b)
+rename-with-change,11,8f201f5ee219ec8f8dae5c3b0fab1434764853b6,ar000003,tei/varela-a-rio-revuelto-ganancia-de-pescadores.xml,dd514f64dab99b4fe5dc9aea8b0c9d196dd06aa5,from tei/varela-rio-revuelto-ganancia-pescadores.xml (blob 9bf9d4d402)
+rename-same-blob,25,4a81a9ad1565ec195e6826dd84ceee5b669f8101,ar000010,tei/hidalgo-dialogo-patriotico.xml,0afc57c59f4e0999b3d2ddfaf7a0fce07d8a1c6e,from tei/hidalgo-dialogo-patriotico.tei.xml
+duplicate-id,52,ff206916add159b843b3cd753b75b09d5d9995dc,ar000001,tei/mansilla-similia-similibus.xml | tei/soria-amor-y-lucha.xml,,2 files valid at the same time
+kind-change,62,c0c8989f0d760dc85b2741ada8a1ba31209cb13b,tei/soria-amor-y-lucha.xml,tei/soria-amor-y-lucha.xml,e69de29bb2d1d6434b8b29ae775ad8c2e48c5391,tei -> other
+duplicate-id-resolved,62,c0c8989f0d760dc85b2741ada8a1ba31209cb13b,ar000001,,,
+kind-change,63,75a2fe8669499654b3a2a63dd407a4020c943909,ar000001,tei/soria-amor-y-lucha.xml,6beeefd13e57a7e8237fd6dce539d1d71cc08d75,other -> tei
+duplicate-id,63,75a2fe8669499654b3a2a63dd407a4020c943909,ar000001,tei/mansilla-similia-similibus.xml | tei/soria-amor-y-lucha.xml,,2 files valid at the same time
+id-change,64,81b8143009f64ea8d3fcd764df13f9f17d3c1789,ar000002,tei/soria-amor-y-lucha.xml,b257db0f81d553411ec5332de3427c74158142d0,ar000001 -> ar000002 at same path
+duplicate-id-resolved,64,81b8143009f64ea8d3fcd764df13f9f17d3c1789,ar000001,,,
+duplicate-id,70,7a1771dce4ac508988a809476fcf3be544831cfd,ar000008,tei/fuentes-del-arco-loa-de-santa-fe.xml | tei/varela-juan-cruz-dido.xml,,2 files valid at the same time
+rename-same-blob,72,886cfa1a388db0bc87cc9b6454a889882524fbe8,ar000008,tei/varela-dido.xml,541a6854ca6d0730ef1d5404c37ca2546371009c,from tei/varela-juan-cruz-dido.xml
+duplicate-id,72,886cfa1a388db0bc87cc9b6454a889882524fbe8,ar000008,tei/fuentes-del-arco-loa-de-santa-fe.xml | tei/varela-dido.xml,,2 files valid at the same time
+id-change,73,84ee4df8ea7b68910518a9726fb5ff19b4e4bc0f,ar000009,tei/varela-dido.xml,9e96ea2ef65fd8b38a440a5553ec53823e6aeee7,ar000008 -> ar000009 at same path
+duplicate-id-resolved,73,84ee4df8ea7b68910518a9726fb5ff19b4e4bc0f,ar000008,,,
+id-reappears,88,e6042b44282555b0b7eb3ecebf1724ca6716c8bb,ar000002,tei/soria-amor-y-lucha.xml,756bafda182d9d8f09306704c6f126b7682d5097,last valid at seq 75 as tei/soria-amor-y-lucha.xml
+lineage-gap,63,75a2fe8669499654b3a2a63dd407a4020c943909,,tei/soria-amor-y-lucha.xml,6beeefd13e57a7e8237fd6dce539d1d71cc08d75,continues tei/soria-amor-y-lucha.xml (valid until seq 61) via same path
+lineage-gap,88,e6042b44282555b0b7eb3ecebf1724ca6716c8bb,,tei/soria-amor-y-lucha.xml,756bafda182d9d8f09306704c6f126b7682d5097,continues tei/soria-amor-y-lucha.xml (valid until seq 75) via same path

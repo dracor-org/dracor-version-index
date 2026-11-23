@@ -1,0 +1,8 @@
+case,seq,commit,key,path,blob,detail
+rename-with-change,2,f9022609044d55110fff474098099dca4ec1f74b,bash00001,tei/karim-aj-totolghan-tonda.xml,587f00a9c226c90bd4100ca2d6fb5adeb9da67d0,from tei/karim-ajtotolghantonda.xml (blob efda77725c)
+rename-with-change,2,f9022609044d55110fff474098099dca4ec1f74b,bash00004,tei/karim-tashlama-utty.xml,58991608b35c1197a505968ac7ea9a1a70420654,from tei/karim-tashlamautty.xml (blob 7905af611b)
+malformed-xml,10,efa58e4d5e4a3ab7541d5024094553b77eb2cb60,bash00001,tei/karim-aj-totolghan-tonda.xml,4078f967ed36775f950aed530c9ff0968a623a6f,TEI file not well-formed; ID taken by regex
+malformed-xml,10,efa58e4d5e4a3ab7541d5024094553b77eb2cb60,bash00002,tei/karim-tashlama-utty.xml,a4304a522aa657b02bf10d730aa452c47b22602a,TEI file not well-formed; ID taken by regex
+id-change,10,efa58e4d5e4a3ab7541d5024094553b77eb2cb60,bash00002,tei/karim-tashlama-utty.xml,a4304a522aa657b02bf10d730aa452c47b22602a,bash00004 -> bash00002 at same path
+malformed-xml,11,64f5cb175e9cf6f2f80fe68cd6042298887fc48b,bash00001,tei/karim-aj-totolghan-tonda.xml,de27f09c948c9a84482c8de704be9bfefaa8a2c9,TEI file not well-formed; ID taken by regex
+malformed-xml,11,64f5cb175e9cf6f2f80fe68cd6042298887fc48b,bash00002,tei/karim-tashlama-utty.xml,7b4e85c8302b8c883f33a398c78cd73b6eb75535,TEI file not well-formed; ID taken by regex

@@ -1,0 +1,184 @@
+{
+  "corpus": "als",
+  "repository": "https://github.com/dracor-org/alsdracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "0240525788a4199de1abd8ceb779a1c147770b04",
+  "api_commit": "b37b66e79e4b59cd02434dcfb17e1263080c173c",
+  "api_commit_seq": 45,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 53,
+    "side_commits_merged": 14,
+    "side_commits_unmerged": 0,
+    "intervals": 241,
+    "tei_ids": 30,
+    "tei_ids_valid_at_head": 30,
+    "tei_files_at_head": 30,
+    "distinct_tei_blobs": 217,
+    "tei_file_commit_pairs": 997,
+    "dedup_factor": 4.59,
+    "tei_noid_intervals": 2,
+    "last_seq_with_noid_tei": 13,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "id-assigned": 2,
+      "malformed-xml": 1,
+      "tei-without-id": 2
+    }
+  },
+  "id_archaeology": {
+    "prefix": "als",
+    "texts": 30,
+    "texts_by_method": {
+      "file": 30
+    },
+    "intervals_by_method": {
+      "file": 215,
+      "lineage": 2
+    },
+    "legacy_table": 0,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 14,
+    "with_base": 14,
+    "delta_rows": 101,
+    "tei_delta_rows_by_method": {
+      "file": 90
+    }
+  },
+  "state": {
+    "last_commit": "0240525788a4199de1abd8ceb779a1c147770b04",
+    "last_seq": 52,
+    "dups_open": {},
+    "last_seen_id": {
+      "als000001": [
+        52,
+        "tei/arnold-der-pfingstmontag.xml"
+      ],
+      "als000002": [
+        52,
+        "tei/stoskopf-ins-ropfers-apothek.xml"
+      ],
+      "als000003": [
+        52,
+        "tei/stoskopf-dr-hoflieferant.xml"
+      ],
+      "als000005": [
+        52,
+        "tei/greber-sainte-cecile.xml"
+      ],
+      "als000004": [
+        52,
+        "tei/hart-dr-poetisch-oscar.xml"
+      ],
+      "als000007": [
+        52,
+        "tei/bastian-dr-hofnarr-heidideldum.xml"
+      ],
+      "als000006": [
+        52,
+        "tei/clemens-chrischtowe.xml"
+      ],
+      "als000008": [
+        52,
+        "tei/bastian-dr-hans-im-schnokeloch.xml"
+      ],
+      "als000009": [
+        52,
+        "tei/bastian-dr-maischter-hett-gewunne.xml"
+      ],
+      "als000010": [
+        52,
+        "tei/bastian-e-sportschochzitt.xml"
+      ],
+      "als000011": [
+        52,
+        "tei/clemens-a-latzi-visit.xml"
+      ],
+      "als000012": [
+        52,
+        "tei/clemens-charlot.xml"
+      ],
+      "als000013": [
+        52,
+        "tei/clemens-gift.xml"
+      ],
+      "als000014": [
+        52,
+        "tei/greber-d-jumpfer-prinzesse.xml"
+      ],
+      "als000015": [
+        52,
+        "tei/greber-lucie.xml"
+      ],
+      "als000016": [
+        52,
+        "tei/horsch-d-madam-fahrt-velo.xml"
+      ],
+      "als000017": [
+        52,
+        "tei/jost-daa-im-narrehuss.xml"
+      ],
+      "als000018": [
+        52,
+        "tei/jost-so-e-liederlicher-frack.xml"
+      ],
+      "als000019": [
+        52,
+        "tei/kettner-uff-dr-hochzittsreis.xml"
+      ],
+      "als000020": [
+        52,
+        "tei/kuehne-bureaukrate.xml"
+      ],
+      "als000022": [
+        52,
+        "tei/riff-s-paradies.xml"
+      ],
+      "als000021": [
+        52,
+        "tei/riff-sainte-barbe.xml"
+      ],
+      "als000023": [
+        52,
+        "tei/schneegans-steckelburjer-universite-saaue.xml"
+      ],
+      "als000024": [
+        52,
+        "tei/stoskopf-dr-herr-maire.xml"
+      ],
+      "als000025": [
+        52,
+        "tei/weber-yo-yo.xml"
+      ],
+      "als000026": [
+        52,
+        "tei/fuchs-heimlichi-lieb.xml"
+      ],
+      "als000027": [
+        52,
+        "tei/hahn-jungi-madamme.xml"
+      ],
+      "als000028": [
+        52,
+        "tei/kleisecker-dr-schnider-von-gambse.xml"
+      ],
+      "als000029": [
+        52,
+        "tei/weber-e-bissel-lieb.xml"
+      ],
+      "als000030": [
+        52,
+        "tei/weigel-in-dr-awril-gschickt.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 53,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

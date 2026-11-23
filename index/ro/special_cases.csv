@@ -1,0 +1,27 @@
+case,seq,commit,key,path,blob,detail
+rename-with-change,4,6038aed6cce61b0600a6bc503c39f1178d38bf89,ro000008,tei/pelimon-fiul-mazalului.xml,a6d9944871f819174111f9f0a83b30b164927bc5,from tei/pelimon-diul-mazalului.xml (blob 57eeaecc85)
+rename-with-change,4,6038aed6cce61b0600a6bc503c39f1178d38bf89,ro000010,tei/slavici-fata-de-birau.xml,2795cb75bdd5f7caa473c8061cd7a9df86232ac6,from tei/slavici-data-de-birau.xml (blob 0b543eda11)
+kind-change,15,c44d4e83a51b68e97073aa008df26779a9e44d03,tei/hasdeu-razvan-si-vidra.xml,tei/hasdeu-razvan-si-vidra.xml,3ca712de7738d32ccdcd5d15e55bfeae3612b22f,tei -> other
+kind-change,26,cb6a89078b4b0ce9005b48df71e6477e2cf141f7,ro000009,tei/hasdeu-razvan-si-vidra.xml,6ba5e3c33ef64d00e9d6769ae89ffa9291323f60,other -> tei
+kind-change,27,b834220e9f33362e80648417b894b0d5ad35c212,tei/hasdeu-razvan-si-vidra.xml,tei/hasdeu-razvan-si-vidra.xml,c1147b127ae47fda5e9cfbb678829c545657a976,tei -> other
+kind-change,31,33a03eb96e872157ca1e843c866faf140b6a14c1,ro000009,tei/hasdeu-razvan-si-vidra.xml,c8261e865f314f3ce6d53a8b8fc1d44ac12dbb07,other -> tei
+tei-without-id,38,4aa7fbd1eb2f1b018f1261e80ad1e8d94b19f14d,tei/alecsandri-farmazonul-din-harlau.xml,tei/alecsandri-farmazonul-din-harlau.xml,27a42af8526a4a40a91793a4e94d9e21338d1921,
+tei-without-id,39,2eba6d784f72f9e384f8a8ff7913cce4f0452a63,tei/alecsandri-fantana-blanduziei.xml,tei/alecsandri-fantana-blanduziei.xml,7a6e585229bb4fd13094a931513343cd7ce12fda,
+tei-without-id,40,9ce280207eda57d8e7e0d4d959db88ad95528cb8,tei/alecsandri-fantana-blanduziei.xml,tei/alecsandri-fantana-blanduziei.xml,4e03fbd604e41358ffc468cb94b3d29a7373113a,
+id-assigned,41,048bab524f31526abd1595145ff3349134f34e9d,ro000022,tei/alecsandri-fantana-blanduziei.xml,b5ed557e2853b3cb7d6ab5f5b6b8fff960441739,file had no DraCor ID before
+id-assigned,41,048bab524f31526abd1595145ff3349134f34e9d,ro000021,tei/alecsandri-farmazonul-din-harlau.xml,dae110894090aafc607642722af43bd51263603d,file had no DraCor ID before
+duplicate-id,50,461e2eb50a252e075cd85d3d59c4a0beb21eee09,ro000020,tei/goga-mesterul-manole.xml | tei/ronetti-roman-manasse.xml,,2 files valid at the same time
+id-change,52,69be5a18a8f4e489da7ab5303efbace4dddd0446,ro000029,tei/ronetti-roman-manasse.xml,0c679fe9af233cb17b409ef69155605e7d80ecb2,ro000020 -> ro000029 at same path
+duplicate-id-resolved,52,69be5a18a8f4e489da7ab5303efbace4dddd0446,ro000020,,,
+malformed-xml,61,e9ebbb2d8625051e390a6ed8ab8b0b1a132320d6,ro000028,tei/alecsandri-despot-voda.xml,bbf02224cc4a7bb00b438f4ad43e8522e56024a6,TEI file not well-formed; ID taken by regex
+malformed-xml,61,e9ebbb2d8625051e390a6ed8ab8b0b1a132320d6,ro000005,tei/delavrancea-apus-de-soare.xml,f5331b709206f642c6d3ef6b1ff063f8eda15723,TEI file not well-formed; ID taken by regex
+malformed-xml,61,e9ebbb2d8625051e390a6ed8ab8b0b1a132320d6,ro000016,tei/delavrancea-luceafarul.xml,b09637dfe3613d8e44b48ac18f04d19c964bd5d5,TEI file not well-formed; ID taken by regex
+malformed-xml,61,e9ebbb2d8625051e390a6ed8ab8b0b1a132320d6,ro000018,tei/delavrancea-viforul.xml,b49277ea46a6a222d5688fe58c9e75bd87c00ace,TEI file not well-formed; ID taken by regex
+malformed-xml,61,e9ebbb2d8625051e390a6ed8ab8b0b1a132320d6,ro000009,tei/hasdeu-razvan-si-vidra.xml,9b340b40bf02523ebb1d45e7347e7768bee916ad,TEI file not well-formed; ID taken by regex
+malformed-xml,61,e9ebbb2d8625051e390a6ed8ab8b0b1a132320d6,ro000001,tei/maniu-amelia-sau-victima-amorului.xml,7ca9f05411bc3db66dd2b68afbdc1558438e1d3d,TEI file not well-formed; ID taken by regex
+malformed-xml,62,e8507d8b1b0817ab902fde0646f37a7dd8f8b64b,ro000028,tei/alecsandri-despot-voda.xml,b67f16f1aa3e142772b64ac459540be854399ba7,TEI file not well-formed; ID taken by regex
+id-change,93,ce889ef207df76e922b1b5d33d3f5b4fbd950152,ro000054,tei/caragiale-conu-leonida-fata-cu-reactiunea.xml,c1f175404b09f5e291d20cbfa031f35e5bc8a801,ro000003 -> ro000054 at same path
+id-invalid,38,4aa7fbd1eb2f1b018f1261e80ad1e8d94b19f14d,ro,tei/alecsandri-farmazonul-din-harlau.xml,27a42af8526a4a40a91793a4e94d9e21338d1921,'ro' is not a ro… DraCor ID; treated as no ID
+id-invalid,39,2eba6d784f72f9e384f8a8ff7913cce4f0452a63,Q25468151,tei/alecsandri-fantana-blanduziei.xml,7a6e585229bb4fd13094a931513343cd7ce12fda,'Q25468151' is not a ro… DraCor ID; treated as no ID
+lineage-gap,26,cb6a89078b4b0ce9005b48df71e6477e2cf141f7,,tei/hasdeu-razvan-si-vidra.xml,6ba5e3c33ef64d00e9d6769ae89ffa9291323f60,continues tei/hasdeu-razvan-si-vidra.xml (valid until seq 14) via same path
+lineage-gap,31,33a03eb96e872157ca1e843c866faf140b6a14c1,,tei/hasdeu-razvan-si-vidra.xml,c8261e865f314f3ce6d53a8b8fc1d44ac12dbb07,continues tei/hasdeu-razvan-si-vidra.xml (valid until seq 26) via same path

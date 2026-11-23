@@ -1,0 +1,922 @@
+{
+  "corpus": "rus",
+  "repository": "https://github.com/dracor-org/rusdracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "cb06b3a211cc36ed0806c9ae85a94ede5da99557",
+  "api_commit": "f602fad375643254837a66efeda2baa2f043ccb5",
+  "api_commit_seq": 506,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 514,
+    "side_commits_merged": 52,
+    "side_commits_unmerged": 0,
+    "intervals": 3703,
+    "tei_ids": 212,
+    "tei_ids_valid_at_head": 212,
+    "tei_files_at_head": 212,
+    "distinct_tei_blobs": 3552,
+    "tei_file_commit_pairs": 66797,
+    "dedup_factor": 18.81,
+    "tei_noid_intervals": 1110,
+    "last_seq_with_noid_tei": 358,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "duplicate-id": 2,
+      "duplicate-id-resolved": 2,
+      "id-assigned": 155,
+      "id-change": 2,
+      "legacy-id-ambiguous": 4,
+      "malformed-xml": 4,
+      "rename-same-blob": 68,
+      "rename-similar": 4,
+      "tei-without-id": 1110
+    }
+  },
+  "id_archaeology": {
+    "prefix": "rus",
+    "texts": 212,
+    "texts_by_method": {
+      "file": 212
+    },
+    "intervals_by_method": {
+      "lineage": 216,
+      "legacy:RusDraCor": 896,
+      "file": 2508
+    },
+    "legacy_table": 153,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 52,
+    "with_base": 52,
+    "delta_rows": 3541,
+    "tei_delta_rows_by_method": {
+      "lineage": 5,
+      "legacy:RusDraCor": 227,
+      "title": 1,
+      "file": 3292
+    }
+  },
+  "state": {
+    "last_commit": "cb06b3a211cc36ed0806c9ae85a94ede5da99557",
+    "last_seq": 513,
+    "dups_open": {},
+    "last_seen_id": {
+      "rus000137": [
+        513,
+        "tei/andreyev-mysl.xml"
+      ],
+      "rus000138": [
+        513,
+        "tei/andreyev-ne-ubiy.xml"
+      ],
+      "rus000119": [
+        513,
+        "tei/babel-marija.xml"
+      ],
+      "rus000118": [
+        513,
+        "tei/babel-zakat.xml"
+      ],
+      "rus000022": [
+        513,
+        "tei/blok-balaganchik.xml"
+      ],
+      "rus000075": [
+        513,
+        "tei/blok-korol-na-ploschadi.xml"
+      ],
+      "rus000074": [
+        513,
+        "tei/blok-neznakomka.xml"
+      ],
+      "rus000134": [
+        513,
+        "tei/bulgakov-beg.xml"
+      ],
+      "rus000073": [
+        513,
+        "tei/bulgakov-dni-turbinyh.xml"
+      ],
+      "rus000083": [
+        513,
+        "tei/bulgakov-ivan-vasilevich.xml"
+      ],
+      "rus000090": [
+        513,
+        "tei/bulgakov-kabala-svjatosh.xml"
+      ],
+      "rus000141": [
+        513,
+        "tei/bulgakov-poloumnyj-zhurden.xml"
+      ],
+      "rus000087": [
+        513,
+        "tei/bulgakov-poslednie-dni.xml"
+      ],
+      "rus000072": [
+        513,
+        "tei/chekhov-chaika.xml"
+      ],
+      "rus000071": [
+        513,
+        "tei/chekhov-djadja-vanja.xml"
+      ],
+      "rus000070": [
+        513,
+        "tei/chekhov-ivanov.xml"
+      ],
+      "rus000069": [
+        513,
+        "tei/chekhov-jubilej.xml"
+      ],
+      "rus000068": [
+        513,
+        "tei/chekhov-leshii.xml"
+      ],
+      "rus000067": [
+        513,
+        "tei/chekhov-medved.xml"
+      ],
+      "rus000066": [
+        513,
+        "tei/chekhov-na-bolshoi-doroge.xml"
+      ],
+      "rus000065": [
+        513,
+        "tei/chekhov-noch-pered-sudom.xml"
+      ],
+      "rus000064": [
+        513,
+        "tei/chekhov-predlozhenie.xml"
+      ],
+      "rus000063": [
+        513,
+        "tei/chekhov-svadba.xml"
+      ],
+      "rus000062": [
+        513,
+        "tei/chekhov-tatjana-repina.xml"
+      ],
+      "rus000061": [
+        513,
+        "tei/chekhov-tragik-ponevole.xml"
+      ],
+      "rus000060": [
+        513,
+        "tei/chekhov-tri-sestry.xml"
+      ],
+      "rus000059": [
+        513,
+        "tei/chekhov-vishnevyi-sad.xml"
+      ],
+      "rus000109": [
+        513,
+        "tei/dashkova-toisiokov.xml"
+      ],
+      "rus000058": [
+        513,
+        "tei/fonvizin-brigadir.xml"
+      ],
+      "rus000103": [
+        513,
+        "tei/fonvizin-korion.xml"
+      ],
+      "rus000057": [
+        513,
+        "tei/fonvizin-nedorosl.xml"
+      ],
+      "rus000100": [
+        513,
+        "tei/fonvizin-vybor-guvernera.xml"
+      ],
+      "rus000121": [
+        513,
+        "tei/glinka-velzen.xml"
+      ],
+      "rus000088": [
+        513,
+        "tei/gogol-igroki.xml"
+      ],
+      "rus000056": [
+        513,
+        "tei/gogol-lakeiskaja.xml"
+      ],
+      "rus000055": [
+        513,
+        "tei/gogol-otryvok.xml"
+      ],
+      "rus000054": [
+        513,
+        "tei/gogol-revizor.xml"
+      ],
+      "rus000053": [
+        513,
+        "tei/gogol-teatralnyi-razezd.xml"
+      ],
+      "rus000052": [
+        513,
+        "tei/gogol-tjazhba.xml"
+      ],
+      "rus000051": [
+        513,
+        "tei/gogol-utro-delovogo-cheloveka.xml"
+      ],
+      "rus000050": [
+        513,
+        "tei/gogol-zhenitba.xml"
+      ],
+      "rus000049": [
+        513,
+        "tei/gorky-egor-bulychov-i-drugie.xml"
+      ],
+      "rus000048": [
+        513,
+        "tei/gorky-na-dne.xml"
+      ],
+      "rus000047": [
+        513,
+        "tei/griboyedov-gore-ot-uma.xml"
+      ],
+      "rus000151": [
+        513,
+        "tei/griboyedov-molodye-suprugi.xml"
+      ],
+      "rus000046": [
+        513,
+        "tei/gumilyov-akteon.xml"
+      ],
+      "rus000045": [
+        513,
+        "tei/gumilyov-ditja-allaha.xml"
+      ],
+      "rus000044": [
+        513,
+        "tei/gumilyov-don-zhuan-v-egipte.xml"
+      ],
+      "rus000043": [
+        513,
+        "tei/gumilyov-gondla.xml"
+      ],
+      "rus000114": [
+        513,
+        "tei/kapnist-antigona.xml"
+      ],
+      "rus000125": [
+        513,
+        "tei/kapnist-yabeda.xml"
+      ],
+      "rus000129": [
+        513,
+        "tei/kedrin-rembrandt.xml"
+      ],
+      "rus000111": [
+        513,
+        "tei/kheraskov-osvobozhdennaja-moskva.xml"
+      ],
+      "rus000096": [
+        513,
+        "tei/kheraskov-venecianskaya-monahinya.xml"
+      ],
+      "rus000110": [
+        513,
+        "tei/khlebnikov-snezhimochka.xml"
+      ],
+      "rus000128": [
+        513,
+        "tei/khmelnitsky-govorun.xml"
+      ],
+      "rus000123": [
+        513,
+        "tei/khmelnitsky-svetskiy-sluchay.xml"
+      ],
+      "rus000122": [
+        513,
+        "tei/khmelnitsky-vozdushnye-zamki.xml"
+      ],
+      "rus000124": [
+        513,
+        "tei/khmelnitsky-vzaimnye-ispytaniya.xml"
+      ],
+      "rus000140": [
+        513,
+        "tei/knyazhnin-chudaki.xml"
+      ],
+      "rus000127": [
+        513,
+        "tei/knyazhnin-didona.xml"
+      ],
+      "rus000139": [
+        513,
+        "tei/knyazhnin-hvastun.xml"
+      ],
+      "rus000108": [
+        513,
+        "tei/knyazhnin-olga.xml"
+      ],
+      "rus000154": [
+        513,
+        "tei/knyazhnin-rosslav.xml"
+      ],
+      "rus000136": [
+        513,
+        "tei/knyazhnin-vadim-novgorodskij.xml"
+      ],
+      "rus000147": [
+        513,
+        "tei/kokoshkin-vospitanie.xml"
+      ],
+      "rus000115": [
+        513,
+        "tei/kropotov-fomushka.xml"
+      ],
+      "rus000041": [
+        513,
+        "tei/krylov-amerikantsy.xml"
+      ],
+      "rus000107": [
+        513,
+        "tei/krylov-filomela.xml"
+      ],
+      "rus000102": [
+        513,
+        "tei/krylov-modnaja-lavka.xml"
+      ],
+      "rus000113": [
+        513,
+        "tei/krylov-pirog.xml"
+      ],
+      "rus000040": [
+        513,
+        "tei/krylov-podschipa-ili-trumf.xml"
+      ],
+      "rus000132": [
+        513,
+        "tei/krylov-prokazniki.xml"
+      ],
+      "rus000039": [
+        513,
+        "tei/krylov-sonnyj-poroshok.xml"
+      ],
+      "rus000038": [
+        513,
+        "tei/krylov-urok-dochkam.xml"
+      ],
+      "rus000131": [
+        513,
+        "tei/lazhechnikov-okopirovalsya.xml"
+      ],
+      "rus000106": [
+        513,
+        "tei/lensky-horosha-i-durna.xml"
+      ],
+      "rus000037": [
+        513,
+        "tei/lermontov-maskarad.xml"
+      ],
+      "rus000146": [
+        513,
+        "tei/lermontov-menschen-und-leidenschaften.xml"
+      ],
+      "rus000126": [
+        513,
+        "tei/lermontov-strannyj-chelovek.xml"
+      ],
+      "rus000155": [
+        513,
+        "tei/leskov-rastochitel.xml"
+      ],
+      "rus000036": [
+        513,
+        "tei/lomonosov-demofont.xml"
+      ],
+      "rus000035": [
+        513,
+        "tei/lomonosov-tamira-i-selim.xml"
+      ],
+      "rus000105": [
+        513,
+        "tei/majkov-agriopa.xml"
+      ],
+      "rus000120": [
+        513,
+        "tei/majkov-femist-i-ieronima.xml"
+      ],
+      "rus000034": [
+        513,
+        "tei/mayakovsky-banja.xml"
+      ],
+      "rus000091": [
+        513,
+        "tei/mayakovsky-klop.xml"
+      ],
+      "rus000093": [
+        513,
+        "tei/mayakovsky-misteriya-buff.xml"
+      ],
+      "rus000033": [
+        513,
+        "tei/naydyonov-deti-vanjushina.xml"
+      ],
+      "rus000145": [
+        513,
+        "tei/nekrasov-akter.xml"
+      ],
+      "rus000135": [
+        513,
+        "tei/nekrasov-zabrakovannye.xml"
+      ],
+      "rus000130": [
+        513,
+        "tei/nikolev-samolyubivyj-stihotvorec.xml"
+      ],
+      "rus000097": [
+        513,
+        "tei/ostrovsky-bednaja-nevesta.xml"
+      ],
+      "rus000032": [
+        513,
+        "tei/ostrovsky-bednost-ne-porok.xml"
+      ],
+      "rus000031": [
+        513,
+        "tei/ostrovsky-bespridannitsa.xml"
+      ],
+      "rus000030": [
+        513,
+        "tei/ostrovsky-groza.xml"
+      ],
+      "rus000085": [
+        513,
+        "tei/ostrovsky-les.xml"
+      ],
+      "rus000143": [
+        513,
+        "tei/ostrovsky-na-bojkom-meste.xml"
+      ],
+      "rus000101": [
+        513,
+        "tei/ostrovsky-na-vsyakogo-mudreca-dovolno-prostoty.xml"
+      ],
+      "rus000152": [
+        513,
+        "tei/ostrovsky-poslednyaya-zhertva.xml"
+      ],
+      "rus000144": [
+        513,
+        "tei/ostrovsky-puchina.xml"
+      ],
+      "rus000029": [
+        513,
+        "tei/ostrovsky-snegurochka.xml"
+      ],
+      "rus000028": [
+        513,
+        "tei/ostrovsky-svoi-ljudi.xml"
+      ],
+      "rus000027": [
+        513,
+        "tei/ostrovsky-volki-i-ovtsy.xml"
+      ],
+      "rus000086": [
+        513,
+        "tei/ozerov-dmitrij-donskoj.xml"
+      ],
+      "rus000133": [
+        513,
+        "tei/pisarev-lukavin.xml"
+      ],
+      "rus000149": [
+        513,
+        "tei/pisarev-naslednica.xml"
+      ],
+      "rus000150": [
+        513,
+        "tei/pisarev-poezdka-v-kronshtadt.xml"
+      ],
+      "rus000089": [
+        513,
+        "tei/pisemskij-gorkaja-sudbina.xml"
+      ],
+      "rus000117": [
+        513,
+        "tei/plavilshchikov-ermak-pokoritel-sibiri.xml"
+      ],
+      "rus000026": [
+        513,
+        "tei/plavilshchikov-sgovor-kutejkina.xml"
+      ],
+      "rus000025": [
+        513,
+        "tei/prutkov-blondy.xml"
+      ],
+      "rus000024": [
+        513,
+        "tei/prutkov-chereposlov-sirech-frenolog.xml"
+      ],
+      "rus000094": [
+        513,
+        "tei/prutkov-fantaziya.xml"
+      ],
+      "rus000098": [
+        513,
+        "tei/prutkov-oprometchivyj-turka.xml"
+      ],
+      "rus000023": [
+        513,
+        "tei/prutkov-spor-drevnih-grecheskih-filosofov.xml"
+      ],
+      "rus000099": [
+        513,
+        "tei/prutkov-srodstvo-mirovyh-sil.xml"
+      ],
+      "rus000042": [
+        513,
+        "tei/pushkin-boris-godunov.xml"
+      ],
+      "rus000021": [
+        513,
+        "tei/pushkin-kamenniy-gost.xml"
+      ],
+      "rus000020": [
+        513,
+        "tei/pushkin-mocart-i-saleri.xml"
+      ],
+      "rus000019": [
+        513,
+        "tei/pushkin-pir-vo-vremja-chumy.xml"
+      ],
+      "rus000018": [
+        513,
+        "tei/pushkin-rusalka.xml"
+      ],
+      "rus000017": [
+        513,
+        "tei/pushkin-skupoj-rytsar.xml"
+      ],
+      "rus000016": [
+        513,
+        "tei/pushkin-stseny-iz-rytsarskih-vremen.xml"
+      ],
+      "rus000142": [
+        513,
+        "tei/rostopchina-neludimka.xml"
+      ],
+      "rus000095": [
+        513,
+        "tei/saltykov-shchedrin-smert-pazuhina.xml"
+      ],
+      "rus000078": [
+        513,
+        "tei/shakhovskoy-ne-lubo-ne-slushai.xml"
+      ],
+      "rus000079": [
+        513,
+        "tei/shakhovskoy-pustodomy.xml"
+      ],
+      "rus000080": [
+        513,
+        "tei/shakhovskoy-svoya-semya.xml"
+      ],
+      "rus000077": [
+        513,
+        "tei/shakhovskoy-urok-koketkam.xml"
+      ],
+      "rus000153": [
+        513,
+        "tei/sollogub-chinovnik.xml"
+      ],
+      "rus000015": [
+        513,
+        "tei/sukhovo-kobylin-delo.xml"
+      ],
+      "rus000014": [
+        513,
+        "tei/sukhovo-kobylin-smert-tarelkina.xml"
+      ],
+      "rus000013": [
+        513,
+        "tei/sukhovo-kobylin-svadba-krechinskogo.xml"
+      ],
+      "rus000104": [
+        513,
+        "tei/sumarokov-artistona.xml"
+      ],
+      "rus000012": [
+        513,
+        "tei/sumarokov-dimitrij-samozvanets.xml"
+      ],
+      "rus000011": [
+        513,
+        "tei/sumarokov-horev.xml"
+      ],
+      "rus000010": [
+        513,
+        "tei/sumarokov-semira.xml"
+      ],
+      "rus000116": [
+        513,
+        "tei/sumarokov-sinav-i-truvor.xml"
+      ],
+      "rus000076": [
+        513,
+        "tei/tolstoy-smert-ioanna-groznogo.xml"
+      ],
+      "rus000082": [
+        513,
+        "tei/tolstoy-tsar-boris.xml"
+      ],
+      "rus000081": [
+        513,
+        "tei/tolstoy-tsar-fedor-ioannovich.xml"
+      ],
+      "rus000009": [
+        513,
+        "tei/tolstoy-vlast-tmy.xml"
+      ],
+      "rus000084": [
+        513,
+        "tei/tolstoy-zhivoy-trup.xml"
+      ],
+      "rus000092": [
+        513,
+        "tei/tretyakov-protivogazy.xml"
+      ],
+      "rus000008": [
+        513,
+        "tei/turgenev-gde-tonko-tam-i-rvetsja.xml"
+      ],
+      "rus000007": [
+        513,
+        "tei/turgenev-holostjak.xml"
+      ],
+      "rus000112": [
+        513,
+        "tei/turgenev-mesjats-v-derevne.xml"
+      ],
+      "rus000006": [
+        513,
+        "tei/turgenev-nahlebnik.xml"
+      ],
+      "rus000005": [
+        513,
+        "tei/turgenev-neostorozhnost.xml"
+      ],
+      "rus000004": [
+        513,
+        "tei/turgenev-provintsialka.xml"
+      ],
+      "rus000003": [
+        513,
+        "tei/turgenev-razgovor-na-bolshoj-doroge.xml"
+      ],
+      "rus000002": [
+        513,
+        "tei/turgenev-vecher-v-sorrente.xml"
+      ],
+      "rus000001": [
+        513,
+        "tei/turgenev-zavtrak-u-predvoditelja.xml"
+      ],
+      "rus000148": [
+        513,
+        "tei/zagoskin-blagorodnyj-teatr.xml"
+      ],
+      "rus000156": [
+        513,
+        "tei/ostrovsky-beshenye-dengi.xml"
+      ],
+      "rus000157": [
+        513,
+        "tei/sudovshchikov-neslyhannoe-divo.xml"
+      ],
+      "rus000158": [
+        513,
+        "tei/nekrasov-shila-v-meshke-ne-utaish.xml"
+      ],
+      "rus000159": [
+        513,
+        "tei/ostrovsky-goryachee-serdce.xml"
+      ],
+      "rus000160": [
+        513,
+        "tei/ostrovsky-dohodnoe-mesto.xml"
+      ],
+      "rus000161": [
+        513,
+        "tei/ostrovsky-vospitannica.xml"
+      ],
+      "rus000162": [
+        513,
+        "tei/ostrovsky-bez-viny-vinovatye.xml"
+      ],
+      "rus000163": [
+        513,
+        "tei/gorky-vassa-zheleznova.xml"
+      ],
+      "rus000164": [
+        513,
+        "tei/merezhkovsky-pavel-pervyj.xml"
+      ],
+      "rus000165": [
+        513,
+        "tei/sumarokov-gamlet.xml"
+      ],
+      "rus000166": [
+        513,
+        "tei/knyazhnin-neudachnyj-primiritel.xml"
+      ],
+      "rus000167": [
+        513,
+        "tei/afinogenov-mashenka.xml"
+      ],
+      "rus000168": [
+        513,
+        "tei/knyazhnin-traur.xml"
+      ],
+      "rus000169": [
+        513,
+        "tei/petrov-ostrov-mira.xml"
+      ],
+      "rus000170": [
+        513,
+        "tei/bulgakov-zojkina-kvartira.xml"
+      ],
+      "rus000171": [
+        513,
+        "tei/sumarokov-tresotinius.xml"
+      ],
+      "rus000172": [
+        513,
+        "tei/nekrasov-junost-lomonosova.xml"
+      ],
+      "rus000173": [
+        513,
+        "tei/sumarokov-chudovischi.xml"
+      ],
+      "rus000174": [
+        513,
+        "tei/sumarokov-rogonosets-po-voobrazheniju.xml"
+      ],
+      "rus000175": [
+        513,
+        "tei/sumarokov-pustaja-ssora.xml"
+      ],
+      "rus000176": [
+        513,
+        "tei/sumarokov-ssora-u-muzha-s-zhenoj.xml"
+      ],
+      "rus000177": [
+        513,
+        "tei/sumarokov-opekun.xml"
+      ],
+      "rus000178": [
+        513,
+        "tei/sumarokov-pridanoe-obmanom.xml"
+      ],
+      "rus000179": [
+        513,
+        "tei/sumarokov-vzdorschitsa.xml"
+      ],
+      "rus000180": [
+        513,
+        "tei/ostrovsky-nevolnicy.xml"
+      ],
+      "rus000181": [
+        513,
+        "tei/ostrovsky-shutniki.xml"
+      ],
+      "rus000182": [
+        513,
+        "tei/ostrovsky-staryj-drug-luchshe-novyh-dvuh.xml"
+      ],
+      "rus000183": [
+        513,
+        "tei/ostrovsky-v-chuzhom-piru-pohmelje.xml"
+      ],
+      "rus000184": [
+        513,
+        "tei/ostrovsky-prazdnichnyj-son-do-obeda.xml"
+      ],
+      "rus000185": [
+        513,
+        "tei/ostrovsky-svoi-sobaki-gryzutsya-chuzhaya-ne-pristavaj.xml"
+      ],
+      "rus000186": [
+        513,
+        "tei/ostrovsky-za-chem-pojdesh-to-i-najdesh.xml"
+      ],
+      "rus000187": [
+        513,
+        "tei/ostrovsky-bogatye-nevesty.xml"
+      ],
+      "rus000188": [
+        513,
+        "tei/ostrovsky-utro-molodogo-cheloveka.xml"
+      ],
+      "rus000189": [
+        513,
+        "tei/ostrovsky-semejnaya-kartina.xml"
+      ],
+      "rus000190": [
+        513,
+        "tei/ostrovsky-neozhidannyj-sluchaj.xml"
+      ],
+      "rus000191": [
+        513,
+        "tei/bulgakov-vojna-i-mir.xml"
+      ],
+      "rus000192": [
+        513,
+        "tei/bulgakov-batum.xml"
+      ],
+      "rus000193": [
+        513,
+        "tei/bulgakov-adam-i-eva.xml"
+      ],
+      "rus000194": [
+        513,
+        "tei/andreyev-k-zvezdam.xml"
+      ],
+      "rus000195": [
+        513,
+        "tei/ostrovsky-ne-v-svoi-sani-ne-sadis.xml"
+      ],
+      "rus000196": [
+        513,
+        "tei/ostrovsky-ne-soshlis-harakterami.xml"
+      ],
+      "rus000197": [
+        513,
+        "tei/ostrovsky-ne-tak-zhivi-kak-hochetsya.xml"
+      ],
+      "rus000198": [
+        513,
+        "tei/ostrovsky-greh-da-beda-na-kogo-ne-zhivet.xml"
+      ],
+      "rus000199": [
+        513,
+        "tei/mamin-sibirjak-malenkaja-pravda.xml"
+      ],
+      "rus000200": [
+        513,
+        "tei/mamin-sibirjak-zolotopromyshlenniki.xml"
+      ],
+      "rus000201": [
+        513,
+        "tei/ostrovsky-tyazhelye-dni.xml"
+      ],
+      "rus000202": [
+        513,
+        "tei/ostrovsky-ne-ot-mira-sego.xml"
+      ],
+      "rus000203": [
+        513,
+        "tei/ostrovsky-trudovoj-hleb.xml"
+      ],
+      "rus000204": [
+        513,
+        "tei/ostrovsky-pozdnyaya-lyubov.xml"
+      ],
+      "rus000205": [
+        513,
+        "tei/belsky-skazanie-o-nevidimom-grade-kitezhe.xml"
+      ],
+      "rus000206": [
+        513,
+        "tei/ostrovsky-dmitrij-samozvanets-i-vasilij-shujskij.xml"
+      ],
+      "rus000207": [
+        513,
+        "tei/ekaterina-vtoraja-o-vremja.xml"
+      ],
+      "rus000208": [
+        513,
+        "tei/ekaterina-vtoraja-iz-zhizni-rjurika.xml"
+      ],
+      "rus000209": [
+        513,
+        "tei/ekaterina-vtoraja-rasstroennaja-semja.xml"
+      ],
+      "rus000210": [
+        513,
+        "tei/kheraskov-plamena.xml"
+      ],
+      "rus000211": [
+        513,
+        "tei/artsybashev-revnost.xml"
+      ],
+      "rus000212": [
+        513,
+        "tei/ostrovsky-voevoda-son-na-volge.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 514,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

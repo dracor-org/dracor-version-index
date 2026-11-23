@@ -1,0 +1,253 @@
+{
+  "corpus": "greek",
+  "repository": "https://github.com/dracor-org/greekdracor#reboot",
+  "branch": "main",
+  "branch_from_url_fragment": true,
+  "branch_warning": "API commit c6d5e78 is not on the first-parent line of 'reboot' but of 'main'; indexing 'main'",
+  "head": "1624a6a6b7afa22e393fcdc9e77d72994d3c3a34",
+  "api_commit": "c6d5e78182005fd1c38e6d9a03c5b1604f9d71c8",
+  "api_commit_seq": 110,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 117,
+    "side_commits_merged": 245,
+    "side_commits_unmerged": 3,
+    "intervals": 1461,
+    "tei_ids": 46,
+    "tei_ids_valid_at_head": 46,
+    "tei_files_at_head": 46,
+    "distinct_tei_blobs": 1389,
+    "tei_file_commit_pairs": 4696,
+    "dedup_factor": 3.38,
+    "tei_noid_intervals": 211,
+    "last_seq_with_noid_tei": 7,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "gitlink": 4,
+      "id-assigned": 39,
+      "malformed-xml": 6,
+      "rename-same-blob": 1,
+      "rename-with-change": 21,
+      "tei-without-id": 211
+    }
+  },
+  "id_archaeology": {
+    "prefix": "greek",
+    "texts": 46,
+    "texts_by_method": {
+      "file": 46
+    },
+    "intervals_by_method": {
+      "legacy:GreekDraCor": 211,
+      "file": 1179
+    },
+    "legacy_table": 39,
+    "legacy_numeric_rule": [
+      "GreekDraCor"
+    ]
+  },
+  "side_commits": {
+    "side_commits": 248,
+    "with_base": 248,
+    "delta_rows": 6083,
+    "tei_delta_rows_by_method": {
+      "file": 4483
+    }
+  },
+  "state": {
+    "last_commit": "1624a6a6b7afa22e393fcdc9e77d72994d3c3a34",
+    "last_seq": 116,
+    "dups_open": {},
+    "last_seen_id": {
+      "greek000026": [
+        116,
+        "tei/aeschylus-agamemnon.xml"
+      ],
+      "greek000004": [
+        116,
+        "tei/aeschylus-eumenides.xml"
+      ],
+      "greek000008": [
+        116,
+        "tei/aeschylus-choephoroi.xml"
+      ],
+      "greek000022": [
+        116,
+        "tei/aeschylus-persae.xml"
+      ],
+      "greek000011": [
+        116,
+        "tei/aeschylus-prometheus.xml"
+      ],
+      "greek000005": [
+        116,
+        "tei/aeschylus-septem-adversus-thebas.xml"
+      ],
+      "greek000020": [
+        116,
+        "tei/aeschylus-supplices.xml"
+      ],
+      "greek000032": [
+        116,
+        "tei/aristophanes-acharnenses.xml"
+      ],
+      "greek000012": [
+        116,
+        "tei/aristophanes-aves.xml"
+      ],
+      "greek000035": [
+        116,
+        "tei/aristophanes-nubes.xml"
+      ],
+      "greek000027": [
+        116,
+        "tei/aristophanes-ecclesiazusae.xml"
+      ],
+      "greek000017": [
+        116,
+        "tei/aristophanes-ranae.xml"
+      ],
+      "greek000010": [
+        116,
+        "tei/aristophanes-equites.xml"
+      ],
+      "greek000016": [
+        116,
+        "tei/aristophanes-lysistrata.xml"
+      ],
+      "greek000033": [
+        116,
+        "tei/aristophanes-pax.xml"
+      ],
+      "greek000037": [
+        116,
+        "tei/aristophanes-plutus.xml"
+      ],
+      "greek000009": [
+        116,
+        "tei/aristophanes-thesmophoriazusae.xml"
+      ],
+      "greek000014": [
+        116,
+        "tei/aristophanes-vespae.xml"
+      ],
+      "greek000001": [
+        116,
+        "tei/euripides-bacchae.xml"
+      ],
+      "greek000039": [
+        116,
+        "tei/euripides-electra.xml"
+      ],
+      "greek000003": [
+        116,
+        "tei/euripides-hecuba.xml"
+      ],
+      "greek000029": [
+        116,
+        "tei/euripides-helena.xml"
+      ],
+      "greek000013": [
+        116,
+        "tei/euripides-hercules.xml"
+      ],
+      "greek000034": [
+        116,
+        "tei/euripides-ion.xml"
+      ],
+      "greek000028": [
+        116,
+        "tei/euripides-iphigenia-aulidensis.xml"
+      ],
+      "greek000002": [
+        116,
+        "tei/euripides-iphigenia-taurica.xml"
+      ],
+      "greek000023": [
+        116,
+        "tei/euripides-orestes.xml"
+      ],
+      "greek000030": [
+        116,
+        "tei/euripides-phoenissae.xml"
+      ],
+      "greek000031": [
+        116,
+        "tei/euripides-rhesus.xml"
+      ],
+      "greek000006": [
+        116,
+        "tei/euripides-supplices.xml"
+      ],
+      "greek000019": [
+        116,
+        "tei/euripides-troades.xml"
+      ],
+      "greek000007": [
+        116,
+        "tei/sophocles-aias.xml"
+      ],
+      "greek000025": [
+        116,
+        "tei/sophocles-antigone.xml"
+      ],
+      "greek000021": [
+        116,
+        "tei/sophocles-electra.xml"
+      ],
+      "greek000018": [
+        116,
+        "tei/sophocles-ichneutae.xml"
+      ],
+      "greek000036": [
+        116,
+        "tei/sophocles-oedipus-coloneus.xml"
+      ],
+      "greek000015": [
+        116,
+        "tei/sophocles-oedipus-rex.xml"
+      ],
+      "greek000038": [
+        116,
+        "tei/sophocles-philoctetes.xml"
+      ],
+      "greek000024": [
+        116,
+        "tei/sophocles-trachiniae.xml"
+      ],
+      "greek000040": [
+        116,
+        "tei/menander-dyskolos.xml"
+      ],
+      "greek000042": [
+        116,
+        "tei/euripides-alcestis.xml"
+      ],
+      "greek000046": [
+        116,
+        "tei/euripides-andromache.xml"
+      ],
+      "greek000041": [
+        116,
+        "tei/euripides-cyclops.xml"
+      ],
+      "greek000044": [
+        116,
+        "tei/euripides-heraclidae.xml"
+      ],
+      "greek000045": [
+        116,
+        "tei/euripides-hippolytus.xml"
+      ],
+      "greek000043": [
+        116,
+        "tei/euripides-medea.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 117,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

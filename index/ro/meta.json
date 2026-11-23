@@ -1,0 +1,448 @@
+{
+  "corpus": "ro",
+  "repository": "https://github.com/dracor-org/rodracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "973767c79485fc66d27c13cb0b87b798c6481dfc",
+  "api_commit": "ec0853024c90e51f0e2f7e0d56770e1440a4a2fc",
+  "api_commit_seq": 97,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 103,
+    "side_commits_merged": 29,
+    "side_commits_unmerged": 0,
+    "intervals": 649,
+    "tei_ids": 93,
+    "tei_ids_valid_at_head": 93,
+    "tei_files_at_head": 93,
+    "distinct_tei_blobs": 598,
+    "tei_file_commit_pairs": 3217,
+    "dedup_factor": 5.38,
+    "tei_noid_intervals": 3,
+    "last_seq_with_noid_tei": 40,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "duplicate-id": 1,
+      "duplicate-id-resolved": 1,
+      "id-assigned": 2,
+      "id-change": 2,
+      "id-invalid": 2,
+      "kind-change": 4,
+      "lineage-gap": 2,
+      "malformed-xml": 7,
+      "rename-with-change": 2,
+      "tei-without-id": 3
+    }
+  },
+  "id_archaeology": {
+    "prefix": "ro",
+    "texts": 93,
+    "texts_by_method": {
+      "file": 93
+    },
+    "intervals_by_method": {
+      "lineage": 17,
+      "file": 582
+    },
+    "legacy_table": 0,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 29,
+    "with_base": 29,
+    "delta_rows": 968,
+    "tei_delta_rows_by_method": {
+      "file": 948,
+      "lineage": 7
+    }
+  },
+  "state": {
+    "last_commit": "973767c79485fc66d27c13cb0b87b798c6481dfc",
+    "last_seq": 102,
+    "dups_open": {},
+    "last_seen_id": {
+      "ro000003": [
+        92,
+        "tei/caragiale-conu-leonida-fata-cu-reactiunea.xml"
+      ],
+      "ro000013": [
+        102,
+        "tei/caragiale-d-ale-carnavalului.xml"
+      ],
+      "ro000002": [
+        102,
+        "tei/caragiale-napasta.xml"
+      ],
+      "ro000012": [
+        102,
+        "tei/caragiale-o-noapte-furtunoasa.xml"
+      ],
+      "ro000014": [
+        102,
+        "tei/caragiale-o-scrisoare-pierduta.xml"
+      ],
+      "ro000005": [
+        102,
+        "tei/delavrancea-apus-de-soare.xml"
+      ],
+      "ro000016": [
+        102,
+        "tei/delavrancea-luceafarul.xml"
+      ],
+      "ro000018": [
+        102,
+        "tei/delavrancea-viforul.xml"
+      ],
+      "ro000011": [
+        102,
+        "tei/dumitrescu-movileanu-radul-calonfirescu.xml"
+      ],
+      "ro000020": [
+        102,
+        "tei/goga-mesterul-manole.xml"
+      ],
+      "ro000009": [
+        102,
+        "tei/hasdeu-razvan-si-vidra.xml"
+      ],
+      "ro000001": [
+        102,
+        "tei/maniu-amelia-sau-victima-amorului.xml"
+      ],
+      "ro000004": [
+        102,
+        "tei/pelimon-curtea-lui-vasilie-voda.xml"
+      ],
+      "ro000008": [
+        102,
+        "tei/pelimon-fiul-mazalului.xml"
+      ],
+      "ro000019": [
+        102,
+        "tei/rebreanu-apostolii.xml"
+      ],
+      "ro000007": [
+        102,
+        "tei/sebastian-jocul-de-a-vacanta.xml"
+      ],
+      "ro000017": [
+        102,
+        "tei/sebastian-steaua-fara-nume.xml"
+      ],
+      "ro000015": [
+        102,
+        "tei/slavici-bogdan-voda.xml"
+      ],
+      "ro000010": [
+        102,
+        "tei/slavici-fata-de-birau.xml"
+      ],
+      "ro000006": [
+        102,
+        "tei/slavici-gaspar-gratiani-domnul-moldovei.xml"
+      ],
+      "ro000022": [
+        102,
+        "tei/alecsandri-fantana-blanduziei.xml"
+      ],
+      "ro000021": [
+        102,
+        "tei/alecsandri-farmazonul-din-harlau.xml"
+      ],
+      "ro000023": [
+        102,
+        "tei/alecsandri-ovidiu.xml"
+      ],
+      "ro000024": [
+        102,
+        "tei/alecsandri-clevetici.xml"
+      ],
+      "ro000025": [
+        102,
+        "tei/alecsandri-napoila.xml"
+      ],
+      "ro000026": [
+        102,
+        "tei/alecsandri-chirita-in-provincie.xml"
+      ],
+      "ro000027": [
+        102,
+        "tei/alecsandri-chirita-in-iasi.xml"
+      ],
+      "ro000028": [
+        102,
+        "tei/alecsandri-despot-voda.xml"
+      ],
+      "ro000030": [
+        102,
+        "tei/davila-vlaicu-voda.xml"
+      ],
+      "ro000029": [
+        102,
+        "tei/ronetti-roman-manasse.xml"
+      ],
+      "ro000046": [
+        102,
+        "tei/alecsandri-agachi-flutur.xml"
+      ],
+      "ro000087": [
+        102,
+        "tei/alecsandri-arvinte-si-pepelea.xml"
+      ],
+      "ro000040": [
+        102,
+        "tei/alecsandri-barbu-lautariul.xml"
+      ],
+      "ro000041": [
+        102,
+        "tei/alecsandri-cinel-cinel.xml"
+      ],
+      "ro000085": [
+        102,
+        "tei/alecsandri-craiu-nou.xml"
+      ],
+      "ro000043": [
+        102,
+        "tei/alecsandri-cucoana-chirita-in-balon.xml"
+      ],
+      "ro000044": [
+        102,
+        "tei/alecsandri-cucoana-chirita-in-voiaj.xml"
+      ],
+      "ro000089": [
+        102,
+        "tei/alecsandri-doi-morti-vii.xml"
+      ],
+      "ro000047": [
+        102,
+        "tei/alecsandri-gura-casca-om-politic.xml"
+      ],
+      "ro000052": [
+        102,
+        "tei/alecsandri-haimana.xml"
+      ],
+      "ro000050": [
+        102,
+        "tei/alecsandri-harta-razasul.xml"
+      ],
+      "ro000038": [
+        102,
+        "tei/alecsandri-herscu-boccegiul.xml"
+      ],
+      "ro000049": [
+        102,
+        "tei/alecsandri-ion-papusariul.xml"
+      ],
+      "ro000031": [
+        102,
+        "tei/alecsandri-iorgu-de-la-sadagura.xml"
+      ],
+      "ro000093": [
+        102,
+        "tei/alecsandri-kera-nastasia-sau-mania-pensiilor.xml"
+      ],
+      "ro000090": [
+        102,
+        "tei/alecsandri-mama-anghelusa.xml"
+      ],
+      "ro000095": [
+        102,
+        "tei/alecsandri-millo-director-sau-mania-posturilor.xml"
+      ],
+      "ro000039": [
+        102,
+        "tei/alecsandri-nunta-taraneasca.xml"
+      ],
+      "ro000042": [
+        102,
+        "tei/alecsandri-pacala-si-tandala.xml"
+      ],
+      "ro000034": [
+        102,
+        "tei/alecsandri-paracliserul.xml"
+      ],
+      "ro000094": [
+        102,
+        "tei/alecsandri-paraponisitul.xml"
+      ],
+      "ro000084": [
+        102,
+        "tei/alecsandri-piatra-din-casa.xml"
+      ],
+      "ro000032": [
+        102,
+        "tei/alecsandri-ramasagul.xml"
+      ],
+      "ro000091": [
+        102,
+        "tei/alecsandri-rusaliile.xml"
+      ],
+      "ro000086": [
+        102,
+        "tei/alecsandri-sanziana-si-pepelea.xml"
+      ],
+      "ro000036": [
+        102,
+        "tei/alecsandri-scara-matei.xml"
+      ],
+      "ro000082": [
+        102,
+        "tei/alecsandri-soldan-viteazul.xml"
+      ],
+      "ro000048": [
+        102,
+        "tei/alecsandri-stan-covrigarul.xml"
+      ],
+      "ro000092": [
+        102,
+        "tei/alecsandri-surugiul.xml"
+      ],
+      "ro000057": [
+        102,
+        "tei/caragiale-1-aprilie.xml"
+      ],
+      "ro000054": [
+        102,
+        "tei/caragiale-conu-leonida-fata-cu-reactiunea.xml"
+      ],
+      "ro000055": [
+        102,
+        "tei/caragiale-hatmanul-baltag.xml"
+      ],
+      "ro000059": [
+        102,
+        "tei/caragiale-incepem.xml"
+      ],
+      "ro000061": [
+        102,
+        "tei/caragiale-modern.xml"
+      ],
+      "ro000056": [
+        102,
+        "tei/caragiale-o-soacra.xml"
+      ],
+      "ro000051": [
+        102,
+        "tei/hasdeu-femeia.xml"
+      ],
+      "ro000045": [
+        102,
+        "tei/hasdeu-raposatul-postelnic.xml"
+      ],
+      "ro000053": [
+        102,
+        "tei/hasdeu-trei-crai-de-la-rasarit.xml"
+      ],
+      "ro000064": [
+        102,
+        "tei/herz-bunicul.xml"
+      ],
+      "ro000060": [
+        102,
+        "tei/herz-cand-ochii-plang.xml"
+      ],
+      "ro000065": [
+        102,
+        "tei/herz-cuceritorul.xml"
+      ],
+      "ro000071": [
+        102,
+        "tei/iorga-caderea-mastilor.xml"
+      ],
+      "ro000080": [
+        102,
+        "tei/iorga-cantemir-batranul.xml"
+      ],
+      "ro000068": [
+        102,
+        "tei/iorga-cleopatra.xml"
+      ],
+      "ro000067": [
+        102,
+        "tei/iorga-fata-babei-si-fata-mosneagului.xml"
+      ],
+      "ro000070": [
+        102,
+        "tei/iorga-fiul-cel-pierdut.xml"
+      ],
+      "ro000069": [
+        102,
+        "tei/iorga-fratele-pagan.xml"
+      ],
+      "ro000083": [
+        102,
+        "tei/iorga-invierea-lui-stefan-cel-mare.xml"
+      ],
+      "ro000062": [
+        102,
+        "tei/iorga-mihai-viteazul.xml"
+      ],
+      "ro000076": [
+        102,
+        "tei/iorga-moartea-lui-alexandru.xml"
+      ],
+      "ro000081": [
+        102,
+        "tei/iorga-moartea-lui-asur.xml"
+      ],
+      "ro000073": [
+        102,
+        "tei/iorga-o-jertfa-simpla.xml"
+      ],
+      "ro000066": [
+        102,
+        "tei/iorga-omul-care-ni-trebuie.xml"
+      ],
+      "ro000072": [
+        102,
+        "tei/iorga-puterea-obisnuintei.xml"
+      ],
+      "ro000077": [
+        102,
+        "tei/iorga-regele-cristina.xml"
+      ],
+      "ro000063": [
+        102,
+        "tei/iorga-un-domn-pribeag.xml"
+      ],
+      "ro000078": [
+        102,
+        "tei/iorga-vagabondul.xml"
+      ],
+      "ro000075": [
+        102,
+        "tei/iorga-zbor-si-cuib.xml"
+      ],
+      "ro000035": [
+        102,
+        "tei/istrati-mihul.xml"
+      ],
+      "ro000033": [
+        102,
+        "tei/negruzzi-carlanii.xml"
+      ],
+      "ro000037": [
+        102,
+        "tei/negruzzi-muza-de-la-burdujani.xml"
+      ],
+      "ro000088": [
+        102,
+        "tei/popa-muscata-din-fereastra.xml"
+      ],
+      "ro000074": [
+        102,
+        "tei/popa-take-ianke-si-cadar.xml"
+      ],
+      "ro000058": [
+        102,
+        "tei/ramura-domnita-ruxanda.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 103,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

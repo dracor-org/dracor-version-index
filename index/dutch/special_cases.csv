@@ -1,0 +1,50 @@
+case,seq,commit,key,path,blob,detail
+tei-without-id,1,f56a8efd66e69f50bc4282d76c669102c6709693,852634455_Vondel_Gysbreght_van_Aemstel_TEI.xml,852634455_Vondel_Gysbreght_van_Aemstel_TEI.xml,f8baaac259cbbb98b0d246947842faeccd0e98be,
+tei-without-id,2,a0cb6783c7e245e1c7baa2130985b975fcdc5bb9,tei/vondel-gysbreght-van-aemstel.xml,tei/vondel-gysbreght-van-aemstel.xml,0a492cfafb8c8e69c15e50059e24de30dbe6e922,
+id-assigned,3,c2a9630aeba3954239b341c9823dc8aa508d6595,dut000001,tei/vondel-gysbreght-van-aemstel.xml,82202ddea0deae3179669ecc1c2b3991115069a2,file had no DraCor ID before
+id-change,5,955749dcede857a25e725bc4453f0e250544cc81,dutch000001,tei/vondel-gysbreght-van-aemstel.xml,ba39d017f3b111f1ec1ae9548ed5cfc37394d41f,dut000001 -> dutch000001 at same path
+id-change,8,1fce2b730705a586c5f17e6cb423dd5c2c4c6ea9,dut000001,tei/vondel-gysbreght-van-aemstel.xml,6142885dc5167475028e5a09a076d24b3613e2a3,dutch000001 -> dut000001 at same path
+duplicate-id,32,580110a4ddc59ed7cab9b95b07c25560b6738339,dut000119,tei/arp-droncke-goosen.xml | tei/asselijn-de-kwakzalver.xml,,2 files valid at the same time
+duplicate-id,41,63ff17013d75a4a66c6c7911c220e05bdb97c273,dut000101,tei/bidloo-fabius-severus.xml | tei/corneille-de-dood-van-pompeus.xml,,2 files valid at the same time
+rename-with-change,45,da58dd2a6c218b27f2311c9adf979edf6213183e,dut000235,tei/sint-ontcommere-axcele.xml,046a60ffa0744a04a24e730e3de5ddebbc0cc1cf,from tei/sint-ontcommere-axel.xml (blob 63e77eebba)
+duplicate-id,51,4b4b88d76503fb8ec447ced2468a28afedda9e8b,dut000085,tei/krul-rosilion-en-rosanniere.xml | tei/lingelbach-appollonius.xml,,2 files valid at the same time
+duplicate-id,61,9da421d51b9e35988387353675e17a77df7c30a1,dut000261,tei/de-pellicaen-de-hel-vant-brouwersgilde.xml | tei/de-pellicaen-wie-haer-op-troost-verlaeten.xml,,2 files valid at the same time
+id-change,63,d633248e6c796e7f37599d22b616c57de3522acc,dut000262,tei/de-pellicaen-wie-haer-op-troost-verlaeten.xml,e000805b5fcef4ac312a0f9a848ddfd8aefd7751,dut000261 -> dut000262 at same path
+duplicate-id-resolved,63,d633248e6c796e7f37599d22b616c57de3522acc,dut000261,,,
+id-change,71,2a208440b6f354b2dee226b9a2eb62363cc73c2b,dut000073,tei/arp-droncke-goosen.xml,48c037e1c540bd2e9b23ef2f563b4ffa97eb63b6,dut000119 -> dut000073 at same path
+id-change,71,2a208440b6f354b2dee226b9a2eb62363cc73c2b,dut000075,tei/corneille-de-cid.xml,87c7cf82881e6e5dd98272222a27626e644eac0e,dut000073 -> dut000075 at same path
+id-change,71,2a208440b6f354b2dee226b9a2eb62363cc73c2b,dut000103,tei/corneille-de-dood-van-pompeus.xml,7ebff5b20a0fdda69154750fe63698dc1ee53e6e,dut000101 -> dut000103 at same path
+id-change,71,2a208440b6f354b2dee226b9a2eb62363cc73c2b,dut000105,tei/croix-de-gewaande-advocaat.xml,c586347d7254c8dafc7230471feb321ab270c87c,dut000103 -> dut000105 at same path
+id-change,71,2a208440b6f354b2dee226b9a2eb62363cc73c2b,dut000076,tei/krul-rosilion-en-rosanniere.xml,6b7970f71014b6047c56df3cc83eebf193bd3c68,dut000085 -> dut000076 at same path
+duplicate-id-resolved,71,2a208440b6f354b2dee226b9a2eb62363cc73c2b,dut000085,,,
+duplicate-id-resolved,71,2a208440b6f354b2dee226b9a2eb62363cc73c2b,dut000101,,,
+duplicate-id-resolved,71,2a208440b6f354b2dee226b9a2eb62363cc73c2b,dut000119,,,
+duplicate-id,73,9662d89fbc9ccf904d9f7e8018b4ddb05db94294,dut000293,tei/cambon-van-der-werken-oedipus.xml | tei/horst-groningen.xml,,2 files valid at the same time
+id-change,74,b6d22b7359795a52a6d8c4843ece8b88dfad59df,dut000297,tei/horst-groningen.xml,af5d9dc2dc24ea9f6c10d2119632efd4ec348f28,dut000293 -> dut000297 at same path
+duplicate-id-resolved,74,b6d22b7359795a52a6d8c4843ece8b88dfad59df,dut000293,,,
+duplicate-id,87,9b7706a1d2b3c351712abe6e83b8aad72a0b2c51,dut000292,tei/cambon-van-der-werken-hamlet.xml | tei/de-pellicaen-werlts-versufte-maeltijt.xml,,2 files valid at the same time
+duplicate-id,88,bff79e721aeefe591eedd483b78cb1dd4bfe12e1,dut000294,tei/cambon-van-der-werken-iphigenia-in-tauris.xml | tei/de-pellicaen-goetheijt-lijefde-en-eendracht.xml,,2 files valid at the same time
+duplicate-id,88,bff79e721aeefe591eedd483b78cb1dd4bfe12e1,dut000293,tei/cambon-van-der-werken-oedipus.xml | tei/de-pellicaen-menich-bedruct-hart.xml,,2 files valid at the same time
+duplicate-id,88,bff79e721aeefe591eedd483b78cb1dd4bfe12e1,dut000297,tei/de-pellicaen-emaus.xml | tei/horst-groningen.xml,,2 files valid at the same time
+duplicate-id,88,bff79e721aeefe591eedd483b78cb1dd4bfe12e1,dut000295,tei/de-pellicaen-jesus-onder-die-leeraers.xml | tei/lannoy-haarlem.xml,,2 files valid at the same time
+duplicate-id,88,bff79e721aeefe591eedd483b78cb1dd4bfe12e1,dut000296,tei/de-pellicaen-josep-ende-maria.xml | tei/lannoy-leo-de-grote.xml,,2 files valid at the same time
+duplicate-id,88,bff79e721aeefe591eedd483b78cb1dd4bfe12e1,dut000308,tei/de-pellicaen-meestal-die-om-paijs-roepen.xml | tei/de-pellicaen-mennich-eenvoudich-mensch.xml,,2 files valid at the same time
+id-change,89,2cf3f6e2330ac5ab83519b5f15296b339ab305c6,dut000307,tei/de-pellicaen-meestal-die-om-paijs-roepen.xml,3d2f79a56e108965b88dfdf3fe82ef468196a000,dut000308 -> dut000307 at same path
+duplicate-id-resolved,89,2cf3f6e2330ac5ab83519b5f15296b339ab305c6,dut000308,,,
+id-change,99,abd7ec8f01e12cdec7b7a5f27a9d109c0e5bf088,dut000327,tei/de-pellicaen-emaus.xml,4a975f27dd1db7a1ecfe6478963a37c3f1a116da,dut000297 -> dut000327 at same path
+id-change,99,abd7ec8f01e12cdec7b7a5f27a9d109c0e5bf088,dut000324,tei/de-pellicaen-goetheijt-lijefde-en-eendracht.xml,f3f4f9b11eb5334c28c97cbe883eb49632f5b96a,dut000294 -> dut000324 at same path
+id-change,99,abd7ec8f01e12cdec7b7a5f27a9d109c0e5bf088,dut000325,tei/de-pellicaen-jesus-onder-die-leeraers.xml,e11cbdb00c7260f0516aad5d4f8e5a05ec5719aa,dut000295 -> dut000325 at same path
+id-change,99,abd7ec8f01e12cdec7b7a5f27a9d109c0e5bf088,dut000326,tei/de-pellicaen-josep-ende-maria.xml,56f79c3c741d6d8c12c1bf921e1b8fc1c834571a,dut000296 -> dut000326 at same path
+id-change,99,abd7ec8f01e12cdec7b7a5f27a9d109c0e5bf088,dut000323,tei/de-pellicaen-menich-bedruct-hart.xml,852bdf5a36d8dab6b94be42394d941408296d06b,dut000293 -> dut000323 at same path
+id-change,99,abd7ec8f01e12cdec7b7a5f27a9d109c0e5bf088,dut000322,tei/de-pellicaen-werlts-versufte-maeltijt.xml,7e281b963f7a0232a927cc84573f33790e9e84b8,dut000292 -> dut000322 at same path
+duplicate-id-resolved,99,abd7ec8f01e12cdec7b7a5f27a9d109c0e5bf088,dut000297,,,
+duplicate-id-resolved,99,abd7ec8f01e12cdec7b7a5f27a9d109c0e5bf088,dut000294,,,
+duplicate-id-resolved,99,abd7ec8f01e12cdec7b7a5f27a9d109c0e5bf088,dut000293,,,
+duplicate-id-resolved,99,abd7ec8f01e12cdec7b7a5f27a9d109c0e5bf088,dut000292,,,
+duplicate-id-resolved,99,abd7ec8f01e12cdec7b7a5f27a9d109c0e5bf088,dut000296,,,
+duplicate-id-resolved,99,abd7ec8f01e12cdec7b7a5f27a9d109c0e5bf088,dut000295,,,
+id-invalid,1,f56a8efd66e69f50bc4282d76c669102c6709693,?,852634455_Vondel_Gysbreght_van_Aemstel_TEI.xml,f8baaac259cbbb98b0d246947842faeccd0e98be,'?' is not a dut… DraCor ID; treated as no ID
+id-invalid,2,a0cb6783c7e245e1c7baa2130985b975fcdc5bb9,xxx,tei/vondel-gysbreght-van-aemstel.xml,0a492cfafb8c8e69c15e50059e24de30dbe6e922,'xxx' is not a dut… DraCor ID; treated as no ID
+id-invalid,5,955749dcede857a25e725bc4453f0e250544cc81,dutch000001,tei/vondel-gysbreght-van-aemstel.xml,ba39d017f3b111f1ec1ae9548ed5cfc37394d41f,'dutch000001' is not a dut… DraCor ID; treated as no ID
+id-from-title,1,f56a8efd66e69f50bc4282d76c669102c6709693,dut000001,852634455_Vondel_Gysbreght_van_Aemstel_TEI.xml,f8baaac259cbbb98b0d246947842faeccd0e98be,title: 'gysbreght van aemstel' / van den vondel; paths 852634455_Vondel_Gysbreght_van_Aemstel_TEI.xml
+duplicate-id-inferred,2,a0cb6783c7e245e1c7baa2130985b975fcdc5bb9,dut000001,852634455_Vondel_Gysbreght_van_Aemstel_TEI.xml | tei/vondel-gysbreght-van-aemstel.xml,,two texts carry dut000001 at the same time (title/file)

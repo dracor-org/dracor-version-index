@@ -1,0 +1,265 @@
+{
+  "corpus": "pol",
+  "repository": "https://github.com/dracor-org/poldracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "24ea7d846968af62d54043c5eb431da07f64b426",
+  "api_commit": "412851cc1a6fc728857a50c89baf27a6c0d35822",
+  "api_commit_seq": 102,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 110,
+    "side_commits_merged": 19,
+    "side_commits_unmerged": 0,
+    "intervals": 476,
+    "tei_ids": 50,
+    "tei_ids_valid_at_head": 50,
+    "tei_files_at_head": 50,
+    "distinct_tei_blobs": 397,
+    "tei_file_commit_pairs": 3344,
+    "dedup_factor": 8.42,
+    "tei_noid_intervals": 0,
+    "last_seq_with_noid_tei": null,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "duplicate-id": 3,
+      "duplicate-id-resolved": 3,
+      "malformed-xml": 3,
+      "rename-same-blob": 53
+    }
+  },
+  "id_archaeology": {
+    "prefix": "pol",
+    "texts": 53,
+    "texts_by_method": {
+      "file": 53
+    },
+    "intervals_by_method": {
+      "file": 450
+    },
+    "legacy_table": 0,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 19,
+    "with_base": 19,
+    "delta_rows": 325,
+    "tei_delta_rows_by_method": {
+      "file": 212,
+      "lineage": 20
+    }
+  },
+  "state": {
+    "last_commit": "24ea7d846968af62d54043c5eb431da07f64b426",
+    "last_seq": 109,
+    "dups_open": {},
+    "last_seen_id": {
+      "pol000001": [
+        109,
+        "tei/dmuszewski-piec-siostr-a-jedna.xml"
+      ],
+      "pol000003": [
+        109,
+        "tei/blizinski-marcowy-kawaler.xml"
+      ],
+      "pol000010": [
+        109,
+        "tei/boncza-tomaszewski-kobiety.xml"
+      ],
+      "pol000008": [
+        109,
+        "tei/broniszewski-kochanek.xml"
+      ],
+      "pol000002": [
+        109,
+        "tei/korzeniowski-panna-mezatka.xml"
+      ],
+      "pol000007": [
+        109,
+        "tei/oraczewski-polak-cudzoziemiec.xml"
+      ],
+      "pol000006": [
+        109,
+        "tei/paslawski-poczciwski.xml"
+      ],
+      "pol000005": [
+        109,
+        "tei/skarbek-czemuz-nie-byla-sierota.xml"
+      ],
+      "pol000004": [
+        109,
+        "tei/skarbek-roztrzepany.xml"
+      ],
+      "pol000009": [
+        109,
+        "tei/zapolska-moralnosc.xml"
+      ],
+      "pol000028": [
+        109,
+        "tei/anczyc-chlopi-arystokraci.xml"
+      ],
+      "pol000017": [
+        109,
+        "tei/balucki-grube-ryby.xml"
+      ],
+      "pol000029": [
+        109,
+        "tei/balucki-polowanie-na-meza.xml"
+      ],
+      "pol000021": [
+        109,
+        "tei/bohomolec-czary.xml"
+      ],
+      "pol000023": [
+        109,
+        "tei/bohomolec-podeyrzliwi.xml"
+      ],
+      "pol000022": [
+        109,
+        "tei/boncza-tomaszewski-uszczesliwienie-narodu.xml"
+      ],
+      "pol000020": [
+        109,
+        "tei/broniszewski-filut-postrzezony.xml"
+      ],
+      "pol000019": [
+        109,
+        "tei/czartoryski-kawa.xml"
+      ],
+      "pol000024": [
+        109,
+        "tei/dmuszewski-siedem-razy-jeden.xml"
+      ],
+      "pol000025": [
+        109,
+        "tei/fredro-damy-i-huzary.xml"
+      ],
+      "pol000012": [
+        109,
+        "tei/korzeniowski-aniela.xml"
+      ],
+      "pol000016": [
+        109,
+        "tei/laudyn-chrzanowska-zmarnowane-zycie.xml"
+      ],
+      "pol000014": [
+        109,
+        "tei/narzymski-pozytywni.xml"
+      ],
+      "pol000013": [
+        109,
+        "tei/oraczewski-zabawy.xml"
+      ],
+      "pol000018": [
+        109,
+        "tei/perzyzski-aszantka.xml"
+      ],
+      "pol000027": [
+        109,
+        "tei/rajszel-dymissyowany-kawaler.xml"
+      ],
+      "pol000011": [
+        109,
+        "tei/siemonski-anarchia-domowa.xml"
+      ],
+      "pol000026": [
+        109,
+        "tei/siemonski-panna-intrygalska.xml"
+      ],
+      "pol000030": [
+        109,
+        "tei/wieloglowski-kucharki.xml"
+      ],
+      "pol000015": [
+        109,
+        "tei/swietochowski-ojciec-makary.xml"
+      ],
+      "pol000031": [
+        109,
+        "tei/dobrzanski-kajcio.xml"
+      ],
+      "pol000032": [
+        109,
+        "tei/zalewski-wycieczka.xml"
+      ],
+      "pol000033": [
+        109,
+        "tei/kaminski-skalmierzanki.xml"
+      ],
+      "pol000034": [
+        109,
+        "tei/mann-sztuka.xml"
+      ],
+      "pol000035": [
+        109,
+        "tei/fredro-jowialski.xml"
+      ],
+      "pol000039": [
+        109,
+        "tei/neuwert-nowaczynski-cyrce.xml"
+      ],
+      "pol000050": [
+        109,
+        "tei/blizinski-damazy.xml"
+      ],
+      "pol000043": [
+        109,
+        "tei/przybyszewski-dla-szczescia.xml"
+      ],
+      "pol000042": [
+        109,
+        "tei/neuwert-nowaczynski-dom-kalek.xml"
+      ],
+      "pol000046": [
+        109,
+        "tei/gawalewicz-dzisiejsi.xml"
+      ],
+      "pol000047": [
+        109,
+        "tei/gawalewicz-guzik.xml"
+      ],
+      "pol000036": [
+        109,
+        "tei/janczowicz-terlecki-jestesmy-gotowi.xml"
+      ],
+      "pol000044": [
+        109,
+        "tei/kisielewski-karykatury.xml"
+      ],
+      "pol000040": [
+        109,
+        "tei/perzynski-lekkomyslna-siostra.xml"
+      ],
+      "pol000038": [
+        109,
+        "tei/rostworowski-niespodzianka.xml"
+      ],
+      "pol000048": [
+        109,
+        "tei/lubowski-pogodzeni.xml"
+      ],
+      "pol000049": [
+        109,
+        "tei/zalewski-przed-slubem.xml"
+      ],
+      "pol000041": [
+        109,
+        "tei/rittner-w-malym-domku.xml"
+      ],
+      "pol000037": [
+        109,
+        "tei/markowska-w-zimowa-noc.xml"
+      ],
+      "pol000045": [
+        109,
+        "tei/zapolska-zabusia.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 110,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

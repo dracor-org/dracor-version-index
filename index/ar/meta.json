@@ -1,0 +1,141 @@
+{
+  "corpus": "ar",
+  "repository": "https://github.com/dracor-org/ardracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "7baf85f09a44e74413668597b6b5444d4bd31bd6",
+  "api_commit": "28ed008faf2c78789c113cdf8d9452af4f001c6f",
+  "api_commit_seq": 81,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 96,
+    "side_commits_merged": 45,
+    "side_commits_unmerged": 0,
+    "intervals": 217,
+    "tei_ids": 18,
+    "tei_ids_valid_at_head": 18,
+    "tei_files_at_head": 18,
+    "distinct_tei_blobs": 172,
+    "tei_file_commit_pairs": 918,
+    "dedup_factor": 5.34,
+    "tei_noid_intervals": 0,
+    "last_seq_with_noid_tei": null,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "duplicate-id": 4,
+      "duplicate-id-resolved": 3,
+      "id-change": 2,
+      "id-reappears": 1,
+      "kind-change": 2,
+      "lineage-gap": 2,
+      "rename-same-blob": 2,
+      "rename-with-change": 2
+    }
+  },
+  "id_archaeology": {
+    "prefix": "ar",
+    "texts": 18,
+    "texts_by_method": {
+      "file": 18
+    },
+    "intervals_by_method": {
+      "file": 170,
+      "lineage": 4
+    },
+    "legacy_table": 0,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 45,
+    "with_base": 45,
+    "delta_rows": 110,
+    "tei_delta_rows_by_method": {
+      "file": 66
+    }
+  },
+  "state": {
+    "last_commit": "7baf85f09a44e74413668597b6b5444d4bd31bd6",
+    "last_seq": 95,
+    "dups_open": {},
+    "last_seen_id": {
+      "ar000001": [
+        95,
+        "tei/mansilla-similia-similibus.xml"
+      ],
+      "ar000003": [
+        95,
+        "tei/varela-a-rio-revuelto-ganancia-de-pescadores.xml"
+      ],
+      "ar000004": [
+        95,
+        "tei/lavarden-siripo.xml"
+      ],
+      "ar000005": [
+        95,
+        "tei/varela-argia.xml"
+      ],
+      "ar000008": [
+        95,
+        "tei/fuentes-del-arco-loa-de-santa-fe.xml"
+      ],
+      "ar000010": [
+        95,
+        "tei/hidalgo-dialogo-patriotico.xml"
+      ],
+      "ar000006": [
+        95,
+        "tei/payro-marco-severi.xml"
+      ],
+      "ar000015": [
+        95,
+        "tei/lopez-de-gomara-de-paseo-en-buenos-aires.xml"
+      ],
+      "ar000019": [
+        95,
+        "tei/aguilar-el-carnaval.xml"
+      ],
+      "ar000014": [
+        95,
+        "tei/anonimo-examen-de-los-sainetes.xml"
+      ],
+      "ar000020": [
+        95,
+        "tei/aguilar-la-industria-contra-la-fuerza.xml"
+      ],
+      "ar000002": [
+        95,
+        "tei/soria-amor-y-lucha.xml"
+      ],
+      "ar000012": [
+        95,
+        "tei/gonzalez-castillo-entre-bueyes-no-hay-cornadas.xml"
+      ],
+      "ar000018": [
+        95,
+        "tei/gonzalez-castillo-los-invertidos.xml"
+      ],
+      "ar000017": [
+        95,
+        "tei/gonzalez-castillo-retrato-del-pibe.xml"
+      ],
+      "ar000026": [
+        95,
+        "tei/morante-tupac-amaru.xml"
+      ],
+      "ar000009": [
+        95,
+        "tei/varela-dido.xml"
+      ],
+      "ar000021": [
+        95,
+        "tei/aguilar-vencio-al-desprecio-el-desden.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 96,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

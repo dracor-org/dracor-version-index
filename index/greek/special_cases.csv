@@ -1,0 +1,283 @@
+case,seq,commit,key,path,blob,detail
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/aeschylus-agamemnon.xml,tei/aeschylus-agamemnon.xml,2e4c66705b653d266ac01450bc7aa309f6777648,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/aeschylus-eumenides.xml,tei/aeschylus-eumenides.xml,88bf3986792a4e61ee047bf0b6cefb0a6bbd5a52,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/aeschylus-libation-bearers.xml,tei/aeschylus-libation-bearers.xml,e66ba4586ff0934d03f0384a5aa78547bc1bb18c,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/aeschylus-persians.xml,tei/aeschylus-persians.xml,fc27868c9f731cd437196d4cb23141e5ad0088b0,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/aeschylus-prometheus-bound.xml,tei/aeschylus-prometheus-bound.xml,0b6b0582b2cc44c7c0fef881b210a56c6f00be51,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/aeschylus-seven-against-thebes.xml,tei/aeschylus-seven-against-thebes.xml,45fb9a3f8fcf207409e82de328ee3d65f4d7805b,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/aeschylus-suppliant-women.xml,tei/aeschylus-suppliant-women.xml,2e40b0ab13ce471d519fdecbdad1873d36c392d5,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/aristophanes-acharnians.xml,tei/aristophanes-acharnians.xml,8c3ec6446025dc01756eb217b1ad3a52fc8d6930,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/aristophanes-birds.xml,tei/aristophanes-birds.xml,7a340d145dbe10dc7c61b1cf72e7fcf9952668a8,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/aristophanes-clouds.xml,tei/aristophanes-clouds.xml,cc383fad87576bcf9406245356720a19e38c17ae,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/aristophanes-ecclesiazusae.xml,tei/aristophanes-ecclesiazusae.xml,8f23ee6ee0e853f68ef0c02a16dc8410b236fd72,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/aristophanes-frogs.xml,tei/aristophanes-frogs.xml,95afaebf0e29566f1e6de3c6e1cf79c330c2fd29,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/aristophanes-knights.xml,tei/aristophanes-knights.xml,b69721ce54387f9091117a58d330cd138cda735e,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/aristophanes-lysistrata.xml,tei/aristophanes-lysistrata.xml,fd6a757d3c7810bb71ebcad9286d1b61e72980a2,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/aristophanes-peace.xml,tei/aristophanes-peace.xml,a8725b8f02e7fa25df07b11c3c23398c2d1feb4c,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/aristophanes-plutus.xml,tei/aristophanes-plutus.xml,8125102b01f29fac0a35a5b5ae2aa6800bc685b8,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/aristophanes-thesmophoriazusae.xml,tei/aristophanes-thesmophoriazusae.xml,b5307b2766cf0511b1f6ad0c03e0185794cb06b0,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/aristophanes-wasps.xml,tei/aristophanes-wasps.xml,007ff3597ec394ceb166ac89394d1997bd5be779,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/euripides-bacchae.xml,tei/euripides-bacchae.xml,d5d46c767ecf36eee3b6fc37c9e4b9c79b85152a,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/euripides-electra.xml,tei/euripides-electra.xml,b838ba23e7a97460b4db98532ceb701e9fb3aaf8,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/euripides-hecuba.xml,tei/euripides-hecuba.xml,b67a695ea6e09c86557f2c39a4506397055caf42,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/euripides-helen.xml,tei/euripides-helen.xml,8de3307b23c9197301d259d7bd0fdceff4e640fb,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/euripides-heracles.xml,tei/euripides-heracles.xml,361c88129ee2c5969b2c221ac5db0f887c8042f5,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/euripides-ion.xml,tei/euripides-ion.xml,4ce46e27c901a74dc4cc51fb35079b07c9a17214,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/euripides-iphigenia-in-aulis.xml,tei/euripides-iphigenia-in-aulis.xml,e534bb314dc88c59ba44b1eb4a7ce910363b25c8,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/euripides-iphigenia-in-tauris.xml,tei/euripides-iphigenia-in-tauris.xml,2e14820bac0687f55d0d8831eff86dce44bb0ae4,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/euripides-orestes.xml,tei/euripides-orestes.xml,cbbdabefc87705f79b0806e5f61c0e41bdb9bbe8,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/euripides-phoenissae.xml,tei/euripides-phoenissae.xml,2c2441a726eac26f66a0ffc9fb5ad2908c789e1d,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/euripides-rhesus.xml,tei/euripides-rhesus.xml,0ef8340f86ce164c63966e52ce11958ab9da09fe,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/euripides-suppliants.xml,tei/euripides-suppliants.xml,f53b1e733d3a06ccc65b357f96e56c644544657b,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/euripides-the-trojan-women.xml,tei/euripides-the-trojan-women.xml,c1d2535816820427d9c8c5264b20c4f00f3bd8eb,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/sophocles-ajax.xml,tei/sophocles-ajax.xml,29524ba3402bf62b9ccfca95691aa6adc8e283f1,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/sophocles-antigone.xml,tei/sophocles-antigone.xml,c31c5bd87139fc19b4e431b27ce1e30e810f42b3,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/sophocles-electra.xml,tei/sophocles-electra.xml,0a65963e3334d49c4b9794a06e8b3578048b09c1,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/sophocles-ichneutae.xml,tei/sophocles-ichneutae.xml,cb337a170b1997fc5163fc042e8ddf82e687a888,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/sophocles-oedipus-at-colonus.xml,tei/sophocles-oedipus-at-colonus.xml,58f55d74359e4d5ad208f15fa94e3475f88d2e43,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/sophocles-oedipus-tyrannus.xml,tei/sophocles-oedipus-tyrannus.xml,4c0b67b0d5e6dc130844c36ab9646b613d9f94ed,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/sophocles-philoctetes.xml,tei/sophocles-philoctetes.xml,ec9e56e050c0252ed220136a8091968dcef84615,
+tei-without-id,1,cc2143821603bc23039bd729cbbba1e01554e643,tei/sophocles-trachiniae.xml,tei/sophocles-trachiniae.xml,9d7812151eacfdaa799f10859977ef66fb0b3d30,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/aeschylus-agamemnon.xml,tei/aeschylus-agamemnon.xml,74b5861bc00da614b104b625cbfbc469afa2d902,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/aeschylus-eumenides.xml,tei/aeschylus-eumenides.xml,55bbb63a4bed82b7dcadd2a0d99f8f93924727e7,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/aeschylus-libation-bearers.xml,tei/aeschylus-libation-bearers.xml,5b6ab45a8dfdb76452b1d964b264d95dd276698c,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/aeschylus-persians.xml,tei/aeschylus-persians.xml,f5e0210f386ac1b4db1d2110eb06fb552f3f8d23,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/aeschylus-prometheus-bound.xml,tei/aeschylus-prometheus-bound.xml,4a4082af09438474a506b46424832205cda6dcfe,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/aeschylus-seven-against-thebes.xml,tei/aeschylus-seven-against-thebes.xml,8e5637dcf2f9a5061aaec6c941eed456ff711045,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/aeschylus-suppliant-women.xml,tei/aeschylus-suppliant-women.xml,d5b095bd287120ea255fb21f578b94c13e2fde8c,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/aristophanes-acharnians.xml,tei/aristophanes-acharnians.xml,7f163bbafb149bc73672af1a3059f88e0acf67fa,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/aristophanes-birds.xml,tei/aristophanes-birds.xml,b5155e0a290d452d3e5d588afc63c98ff0fbba67,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/aristophanes-clouds.xml,tei/aristophanes-clouds.xml,926829329c18278ae33fd4a88e9f41e5f37c1999,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/aristophanes-ecclesiazusae.xml,tei/aristophanes-ecclesiazusae.xml,00f273a9b572680ffebafc94783c2dbf14060043,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/aristophanes-frogs.xml,tei/aristophanes-frogs.xml,678cc02963516450070ee2e26b5b855372325abe,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/aristophanes-knights.xml,tei/aristophanes-knights.xml,5dc22e34683910f61ea8d5d5fd2a6086005932ea,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/aristophanes-lysistrata.xml,tei/aristophanes-lysistrata.xml,008d8fbc4ec8dc02468f246a7b25110eab477a69,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/aristophanes-peace.xml,tei/aristophanes-peace.xml,fcff7050c2738a35bf42b7a806095b8de9accd8c,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/aristophanes-plutus.xml,tei/aristophanes-plutus.xml,f387a788429c287cb245b87ff535d41f7f587e08,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/aristophanes-thesmophoriazusae.xml,tei/aristophanes-thesmophoriazusae.xml,1a60a1a2f676e7d8eaf35a1dafee69ba33a18810,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/aristophanes-wasps.xml,tei/aristophanes-wasps.xml,08346b37186c139bcf27a3f18589c6b4545fe97f,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/euripides-bacchae.xml,tei/euripides-bacchae.xml,bb6ecfb87c5b5b844dc64e7ddc145d3572a287e8,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/euripides-electra.xml,tei/euripides-electra.xml,38533f15d77a91a0189d8be334d1e92bfefd18c1,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/euripides-hecuba.xml,tei/euripides-hecuba.xml,0ded6510e8d1064add125a8972d74b58257d28a8,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/euripides-helen.xml,tei/euripides-helen.xml,740a9300a017b8b52506ca3e181396ec3a34b564,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/euripides-heracles.xml,tei/euripides-heracles.xml,07c2590b3562a88fbd30d72bc030ce36b2542ecb,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/euripides-ion.xml,tei/euripides-ion.xml,1790c1e70a813605de6da4df56ab05ffbee36878,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/euripides-iphigenia-in-aulis.xml,tei/euripides-iphigenia-in-aulis.xml,3d1ecf5493b12548b0e01d50c1aca66c943d6833,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/euripides-iphigenia-in-tauris.xml,tei/euripides-iphigenia-in-tauris.xml,63b8fdb567adde6dd598ac17c64f418c1ffb0ada,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/euripides-orestes.xml,tei/euripides-orestes.xml,32db9fb6fd9d5ba84862f551efd257a9897373a7,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/euripides-phoenissae.xml,tei/euripides-phoenissae.xml,4b35feccc4c0a76c8433cbe876480474eacafb67,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/euripides-rhesus.xml,tei/euripides-rhesus.xml,43c9bec4e3603c38f3ddf9ab32eebca950aed10d,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/euripides-suppliants.xml,tei/euripides-suppliants.xml,fea957d0ae2483c543af0b666110eb5c583fca73,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/euripides-the-trojan-women.xml,tei/euripides-the-trojan-women.xml,080c4de669e99d02d460e4348d101b5d2d0e727a,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/sophocles-ajax.xml,tei/sophocles-ajax.xml,2b32edf3b596a4da1c5e86dcfa7e1dbb5fbab0a3,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/sophocles-antigone.xml,tei/sophocles-antigone.xml,6062535363493e0d676cfb5214e2797f5fc09ec8,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/sophocles-electra.xml,tei/sophocles-electra.xml,39f8c6fb782ea7a9701b65e3f34c5ace8928696a,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/sophocles-ichneutae.xml,tei/sophocles-ichneutae.xml,2cae052bbfbe01b001ed30b83951f96e153c9dbf,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/sophocles-oedipus-at-colonus.xml,tei/sophocles-oedipus-at-colonus.xml,333793f24d35855b60be7125c46e5a16fb002314,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/sophocles-oedipus-tyrannus.xml,tei/sophocles-oedipus-tyrannus.xml,a02310d53c2e9055e777e79ae4494108ca22b2bc,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/sophocles-philoctetes.xml,tei/sophocles-philoctetes.xml,1a97993cae8448b4bd2b5f0666e688e2849a0f53,
+tei-without-id,2,2ec89945a2add1c8b0030641b9d1402489666fdd,tei/sophocles-trachiniae.xml,tei/sophocles-trachiniae.xml,72353c77760770a4a98e645900a62de4c883024e,
+tei-without-id,4,551d7b847d1d0c7869dceddb5bb159323f02289a,tei/aeschylus-eumenides.xml,tei/aeschylus-eumenides.xml,676f9cf5253040c770d6fcc4d270a79bae7d19eb,
+tei-without-id,4,551d7b847d1d0c7869dceddb5bb159323f02289a,tei/aeschylus-suppliant-women.xml,tei/aeschylus-suppliant-women.xml,72cd7e0244a20e2ad27928560869a2381a4d7899,
+tei-without-id,4,551d7b847d1d0c7869dceddb5bb159323f02289a,tei/aristophanes-birds.xml,tei/aristophanes-birds.xml,ddd511303bc254d5af4ad38fb6a751db9b68ffe1,
+tei-without-id,4,551d7b847d1d0c7869dceddb5bb159323f02289a,tei/aristophanes-ecclesiazusae.xml,tei/aristophanes-ecclesiazusae.xml,3aa63a5d00ec2714de72094671de7f24be886e02,
+tei-without-id,4,551d7b847d1d0c7869dceddb5bb159323f02289a,tei/aristophanes-frogs.xml,tei/aristophanes-frogs.xml,397958a7c84b5726d3f11d8a19d85228a8ba0537,
+tei-without-id,4,551d7b847d1d0c7869dceddb5bb159323f02289a,tei/aristophanes-lysistrata.xml,tei/aristophanes-lysistrata.xml,512d592b3446bb477fbe95f886994186f2bea41e,
+tei-without-id,4,551d7b847d1d0c7869dceddb5bb159323f02289a,tei/aristophanes-peace.xml,tei/aristophanes-peace.xml,927e727915433302e10ef87df586fb06b97a0d8a,
+tei-without-id,4,551d7b847d1d0c7869dceddb5bb159323f02289a,tei/euripides-bacchae.xml,tei/euripides-bacchae.xml,645f79520f55ea1b7a950b48fca9d5d6997bf82c,
+tei-without-id,4,551d7b847d1d0c7869dceddb5bb159323f02289a,tei/euripides-ion.xml,tei/euripides-ion.xml,0313ca63a09df6eacf88211299cb9f0f1ebd403a,
+tei-without-id,4,551d7b847d1d0c7869dceddb5bb159323f02289a,tei/euripides-iphigenia-in-aulis.xml,tei/euripides-iphigenia-in-aulis.xml,b8091eb0c15b4dc6fe9d03f1f6659b83e6824d7d,
+tei-without-id,4,551d7b847d1d0c7869dceddb5bb159323f02289a,tei/euripides-orestes.xml,tei/euripides-orestes.xml,8c3634dd75058645fa9908dae2bfab60e09536ef,
+tei-without-id,4,551d7b847d1d0c7869dceddb5bb159323f02289a,tei/euripides-phoenissae.xml,tei/euripides-phoenissae.xml,2f960d9c8ba31b13edf60a0ea221c91bd7bc1190,
+tei-without-id,4,551d7b847d1d0c7869dceddb5bb159323f02289a,tei/sophocles-ajax.xml,tei/sophocles-ajax.xml,adf851418d06cf4f79c3b49af87b98370dfb3a0f,
+tei-without-id,4,551d7b847d1d0c7869dceddb5bb159323f02289a,tei/sophocles-ichneutae.xml,tei/sophocles-ichneutae.xml,39aadb06019214be50f1381b6ee2e4b0ca4d3bf0,
+tei-without-id,4,551d7b847d1d0c7869dceddb5bb159323f02289a,tei/sophocles-oedipus-at-colonus.xml,tei/sophocles-oedipus-at-colonus.xml,a3d7799ae1b2c652bcbb628172b9e485b219f9ed,
+tei-without-id,4,551d7b847d1d0c7869dceddb5bb159323f02289a,tei/sophocles-trachiniae.xml,tei/sophocles-trachiniae.xml,edaf96366165fede734b59402e50e870cc42ebb3,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/aeschylus-agamemnon.xml,tei/aeschylus-agamemnon.xml,1289ea9700ff1f519241216d0bc2f68bd76b0aa6,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/aeschylus-eumenides.xml,tei/aeschylus-eumenides.xml,2b68286423f0e7fabb8293d93dce5b6bc41ee339,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/aeschylus-libation-bearers.xml,tei/aeschylus-libation-bearers.xml,ca823129f40c571c0101647fd5c42582eb04aff5,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/aeschylus-persians.xml,tei/aeschylus-persians.xml,cbd054d0ef6e9cbee7930af820dd5d434973500b,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/aeschylus-prometheus-bound.xml,tei/aeschylus-prometheus-bound.xml,20a96177a0e5f87ef5d06adebab08f8039ec029b,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/aeschylus-seven-against-thebes.xml,tei/aeschylus-seven-against-thebes.xml,78a40176179a3470fcf279e6a5107570e8926176,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/aeschylus-suppliant-women.xml,tei/aeschylus-suppliant-women.xml,07c912b48ec5cb5f326537da3cdfa5f134bcdcda,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/aristophanes-acharnians.xml,tei/aristophanes-acharnians.xml,8a6d128df0601d0b5931af418fbcc679085ffa55,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/aristophanes-birds.xml,tei/aristophanes-birds.xml,c9dd8c1a804da51c852347d71b3ca6df0640d1ee,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/aristophanes-clouds.xml,tei/aristophanes-clouds.xml,df497eb35de35010b392f2b23b581509df30ba8f,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/aristophanes-ecclesiazusae.xml,tei/aristophanes-ecclesiazusae.xml,7f6dd559bcd74921a3334a56d3c45db810dbcc4a,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/aristophanes-frogs.xml,tei/aristophanes-frogs.xml,fc6b5075003bf04cd5bb2007c07b3899c6a839db,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/aristophanes-knights.xml,tei/aristophanes-knights.xml,ade1a1caf0b9e46a21b70df2073c3b99a42879bc,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/aristophanes-lysistrata.xml,tei/aristophanes-lysistrata.xml,6bf768159b30fb860b5137ea09c9adc799485fa5,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/aristophanes-peace.xml,tei/aristophanes-peace.xml,ba1fd6a8aae6a138b2571e7848a6adcd65d7c16e,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/aristophanes-plutus.xml,tei/aristophanes-plutus.xml,59f3ad22beb4019ddad8ad6b7fd31b3ec8575dc0,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/aristophanes-thesmophoriazusae.xml,tei/aristophanes-thesmophoriazusae.xml,b24d3999b77b9d622cf68b2fcf2f5153728cfad7,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/aristophanes-wasps.xml,tei/aristophanes-wasps.xml,214c18be806f72d58b5e7484afb67cade8f00d49,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/euripides-bacchae.xml,tei/euripides-bacchae.xml,2f8d36055d6861cd4a0f45d306f6de18c266beaf,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/euripides-electra.xml,tei/euripides-electra.xml,55234b27f47b2a22b82b88e28be324aa69f9685d,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/euripides-hecuba.xml,tei/euripides-hecuba.xml,9895f697e9dc305c693e0ec8e01da00ed4bb1a9f,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/euripides-helen.xml,tei/euripides-helen.xml,16d79955aaa6aa9009ec651c04b0a7adc4a1930f,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/euripides-heracles.xml,tei/euripides-heracles.xml,f874e8aa384dc60e32d366956330c9b1a6a489d2,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/euripides-ion.xml,tei/euripides-ion.xml,dc32a0d29ba55a26e7a407694e79fc6e9a82a3cf,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/euripides-iphigenia-in-aulis.xml,tei/euripides-iphigenia-in-aulis.xml,1b0dca5351c117b74e86b5abb7cad4d74713479c,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/euripides-iphigenia-in-tauris.xml,tei/euripides-iphigenia-in-tauris.xml,6f135b461ba367f14b341ab2b34a403fe215601e,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/euripides-orestes.xml,tei/euripides-orestes.xml,b66725adafb4a59b75dc02ee8a1fbaf9ce6af80d,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/euripides-phoenissae.xml,tei/euripides-phoenissae.xml,145003c19411791792f9ca81521573ae66143e06,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/euripides-rhesus.xml,tei/euripides-rhesus.xml,1a40d368f9f04210adffa312ef2524615fc80144,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/euripides-suppliants.xml,tei/euripides-suppliants.xml,8781c013e50bfcd680539754489bf9561b93ebba,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/euripides-the-trojan-women.xml,tei/euripides-the-trojan-women.xml,40a64b0b4b37655d105d5a6fa60fe42f34a79039,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/sophocles-ajax.xml,tei/sophocles-ajax.xml,da4aace9b128fc0008ae4b175db2a989b76168af,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/sophocles-antigone.xml,tei/sophocles-antigone.xml,88a9281ae4d52af46919e49a10959f962e6a5a77,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/sophocles-electra.xml,tei/sophocles-electra.xml,3bbb842c93e39850c7c3c42ed26a195f723c0f66,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/sophocles-ichneutae.xml,tei/sophocles-ichneutae.xml,ea64bbbdff0867661cbc611acbba955e1035b411,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/sophocles-oedipus-at-colonus.xml,tei/sophocles-oedipus-at-colonus.xml,e148ce29f8eb0ea8da374281c1c7632591cbf043,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/sophocles-oedipus-tyrannus.xml,tei/sophocles-oedipus-tyrannus.xml,4a25d39c35d88d0240e77a5140c73c9d32633be7,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/sophocles-philoctetes.xml,tei/sophocles-philoctetes.xml,f58a534f8839b007e65b4256ac0c999fe21b39ab,
+tei-without-id,5,4906580a6ab02df91b0a3aa378085cb07964ca36,tei/sophocles-trachiniae.xml,tei/sophocles-trachiniae.xml,87e8585d11984fdbdbdd4d6683a7c237e3448370,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/aeschylus-agamemnon.xml,tei/aeschylus-agamemnon.xml,8295ca1e848fb17a38735f87aa47826f0a2c9031,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/aeschylus-eumenides.xml,tei/aeschylus-eumenides.xml,2ac7a893ee0f8c106802ab75d9137ff69b63e220,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/aeschylus-libation-bearers.xml,tei/aeschylus-libation-bearers.xml,1f1046a9ddc73fe7fbd9fd0746446e0afac5d6b7,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/aeschylus-persians.xml,tei/aeschylus-persians.xml,7f619d4b2e7b7beb6c951caf3f1a3d9f11ea3408,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/aeschylus-prometheus-bound.xml,tei/aeschylus-prometheus-bound.xml,5f1649e02c888712662815f9068ba9c2008bb511,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/aeschylus-seven-against-thebes.xml,tei/aeschylus-seven-against-thebes.xml,be13af8b9b328df23193f3c6be85997f4288f495,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/aeschylus-suppliant-women.xml,tei/aeschylus-suppliant-women.xml,44c8256d9c8b3ac365366577212f77ef57215ce9,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/aristophanes-acharnians.xml,tei/aristophanes-acharnians.xml,6978d8a6f663ead5688c89c37accf1d99e88cbda,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/aristophanes-birds.xml,tei/aristophanes-birds.xml,6e88515c41891fe689759fc64a522d744e413a37,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/aristophanes-clouds.xml,tei/aristophanes-clouds.xml,0a3114477308a8b94eeb275380dc6bd735db7d6a,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/aristophanes-ecclesiazusae.xml,tei/aristophanes-ecclesiazusae.xml,9c450bd417a82c226965fb751c7ecdfa5a14f322,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/aristophanes-frogs.xml,tei/aristophanes-frogs.xml,61048bb60d6fe4edcf635a307cb5d1d2c501d96f,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/aristophanes-knights.xml,tei/aristophanes-knights.xml,658b090d34a5df9f6a3c40bd868960e94f66bfc1,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/aristophanes-lysistrata.xml,tei/aristophanes-lysistrata.xml,41041ccf79ab4d3029af992bc3dde78156501bc3,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/aristophanes-peace.xml,tei/aristophanes-peace.xml,8537b4ccea0cbf1f2c3cf85a378668f8909dc83c,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/aristophanes-plutus.xml,tei/aristophanes-plutus.xml,521b9c79e684d07e2b841b3bd5521a2ecaa5739f,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/aristophanes-thesmophoriazusae.xml,tei/aristophanes-thesmophoriazusae.xml,2bfb4f2ca5a95e52eceb1fb5e6d5c5546bb61d80,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/aristophanes-wasps.xml,tei/aristophanes-wasps.xml,0b4768d0b89824beab546f31851716a5fb8b3600,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/euripides-bacchae.xml,tei/euripides-bacchae.xml,94055b543b31410004a6d0c791f51dad16be5da8,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/euripides-electra.xml,tei/euripides-electra.xml,c25491aab12bb07bac508df07526c2f676134cf6,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/euripides-hecuba.xml,tei/euripides-hecuba.xml,b5212ad2c54fcfd5d91a8a5e7cfaae7a351ba737,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/euripides-helen.xml,tei/euripides-helen.xml,d0dcda10ec748175c00ca1ca71e4cef9c4973e93,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/euripides-heracles.xml,tei/euripides-heracles.xml,9494b5bb488685b05994b9519d44422bc6da8299,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/euripides-ion.xml,tei/euripides-ion.xml,3d42ba8fb507e321898c55a287e220ad528babdf,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/euripides-iphigenia-in-aulis.xml,tei/euripides-iphigenia-in-aulis.xml,f4d64b930d885a3ecc985dd3f2ea614b70223771,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/euripides-iphigenia-in-tauris.xml,tei/euripides-iphigenia-in-tauris.xml,0c7ee239dce9ad65a2620cabdeec981c4724dd20,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/euripides-orestes.xml,tei/euripides-orestes.xml,ffa01a4a2126e4450ba5bf9f58d17ac4bfe02ecc,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/euripides-phoenissae.xml,tei/euripides-phoenissae.xml,d6729b6ec7e201b2538cdc1c7110034689100503,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/euripides-rhesus.xml,tei/euripides-rhesus.xml,55ea9462fed146aae4cf981a744f08d9d3d4f799,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/euripides-suppliants.xml,tei/euripides-suppliants.xml,ee0eb7333a861feb18b124ee7e5521cac580a845,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/euripides-the-trojan-women.xml,tei/euripides-the-trojan-women.xml,663af9069920eb9e9c87aa38ff99082264844b27,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/sophocles-ajax.xml,tei/sophocles-ajax.xml,ccafd4ef9801d261ad459598466c930c4a7ecb8b,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/sophocles-antigone.xml,tei/sophocles-antigone.xml,11cce03201a5bbf4111616c23d38f96f3d9cebec,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/sophocles-electra.xml,tei/sophocles-electra.xml,1139fcec573d85af656bbae5c301f2c46f247166,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/sophocles-ichneutae.xml,tei/sophocles-ichneutae.xml,e9d600e74bfdc3443382a9da1aaf46137a03fc89,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/sophocles-oedipus-at-colonus.xml,tei/sophocles-oedipus-at-colonus.xml,193aed0d242feb6a63b9a409fd9e05b2967c9afe,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/sophocles-oedipus-tyrannus.xml,tei/sophocles-oedipus-tyrannus.xml,2706a07f5eaa33958ec3c3d083d1eb71eea38d88,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/sophocles-philoctetes.xml,tei/sophocles-philoctetes.xml,d747d79d538621c57edd901d37ab608467f9ab98,
+tei-without-id,6,0894727e7b21574b03cd3912cdd07a90de31be62,tei/sophocles-trachiniae.xml,tei/sophocles-trachiniae.xml,736135d52b2b6879fca656ce2e1e45cdc7baa02f,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/aeschylus-agamemnon.xml,tei/aeschylus-agamemnon.xml,185e1d54f59084e9a78f57c6e3667571a504be44,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/aeschylus-eumenides.xml,tei/aeschylus-eumenides.xml,180b98809d89e5bce786c53f42dcb2160cdaaa1e,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/aeschylus-libation-bearers.xml,tei/aeschylus-libation-bearers.xml,57224a96b94a9b8b7f627c7c19d0f6e2b07128ba,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/aeschylus-persians.xml,tei/aeschylus-persians.xml,7637a4dec8612afb3f018e1c966af446649681de,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/aeschylus-prometheus-bound.xml,tei/aeschylus-prometheus-bound.xml,573b13005c45ec4b826467ab8cb01ee0e29c574d,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/aeschylus-seven-against-thebes.xml,tei/aeschylus-seven-against-thebes.xml,b188a3dd941bd7a1a07733d697390e64dd0c8d74,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/aeschylus-suppliant-women.xml,tei/aeschylus-suppliant-women.xml,e91169fe4475470f2a66829dda0a17573dabd174,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/aristophanes-acharnians.xml,tei/aristophanes-acharnians.xml,8c7d8632419171dba6d8957334cf4846c1b093eb,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/aristophanes-birds.xml,tei/aristophanes-birds.xml,593364d5cb61faeaf4f06008fb4f405e01c80adc,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/aristophanes-clouds.xml,tei/aristophanes-clouds.xml,8742176b19f0c788ac2872e12962e670a1c27f17,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/aristophanes-ecclesiazusae.xml,tei/aristophanes-ecclesiazusae.xml,099b14c0b4047754fcdf5f2bdda4d7c61a3bfe0c,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/aristophanes-frogs.xml,tei/aristophanes-frogs.xml,bf759f12ae4f0073cd03af9f7a0a0f71f4c3f265,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/aristophanes-knights.xml,tei/aristophanes-knights.xml,4f8e8a58d979a37c45c97e8fd1386365d1eddc27,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/aristophanes-lysistrata.xml,tei/aristophanes-lysistrata.xml,9e57a60e240cdcbe04c9f9343eb18260a3db0c24,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/aristophanes-peace.xml,tei/aristophanes-peace.xml,f147196f81de92076a0f04a807315b1961e2b988,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/aristophanes-plutus.xml,tei/aristophanes-plutus.xml,3c698439231d22d6113a35e3e520bb4bd1333d69,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/aristophanes-thesmophoriazusae.xml,tei/aristophanes-thesmophoriazusae.xml,e9cc72a26bf386c197e65d773985cbd5d7330688,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/aristophanes-wasps.xml,tei/aristophanes-wasps.xml,d231da796edc51f935eeb0655c83a8afca541426,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/euripides-bacchae.xml,tei/euripides-bacchae.xml,75a07028ec02e4830a5b4ae121467bc4643ad439,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/euripides-electra.xml,tei/euripides-electra.xml,3c8c118713061c4d69e1838686e7888b40a5f78e,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/euripides-hecuba.xml,tei/euripides-hecuba.xml,9c2dc9baa9488d1ecb899c48f43c53494addd206,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/euripides-helen.xml,tei/euripides-helen.xml,b1a7f104f12794b81686d3f21d666713def9edb8,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/euripides-heracles.xml,tei/euripides-heracles.xml,683ba45c9b934937e1a36ef81602c0d6596fc84b,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/euripides-ion.xml,tei/euripides-ion.xml,d12c916c010d23027b0a280ebab39cfb730b35ad,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/euripides-iphigenia-in-aulis.xml,tei/euripides-iphigenia-in-aulis.xml,02ba575ae2a133bdea6d7b1d78410f07e2c68df9,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/euripides-iphigenia-in-tauris.xml,tei/euripides-iphigenia-in-tauris.xml,56f57dea44bde7780ab01de52359550fd9ea3b27,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/euripides-orestes.xml,tei/euripides-orestes.xml,eaae8c3d1d789f9c77e6b5db0da36e014a233049,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/euripides-phoenissae.xml,tei/euripides-phoenissae.xml,dbe7e7b4eaa0359b8d88b21bbe431d31659a69a2,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/euripides-rhesus.xml,tei/euripides-rhesus.xml,98394be0f7f6392dbee946cfb984f82c4a2b44ee,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/euripides-suppliants.xml,tei/euripides-suppliants.xml,895bd4d35f3e358e4a8233ac429a4ec5a969f2cf,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/euripides-the-trojan-women.xml,tei/euripides-the-trojan-women.xml,6cfb7e78a7c5aaa89a1458befc575caa7c4d54ad,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/sophocles-ajax.xml,tei/sophocles-ajax.xml,99405bccefdc5e38d048276da0d19b60bbb1629c,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/sophocles-antigone.xml,tei/sophocles-antigone.xml,94ff9cf847392f7b2eebc25a806b086d218fc478,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/sophocles-electra.xml,tei/sophocles-electra.xml,7755109b549d680cae1bc30171822a348c074b58,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/sophocles-ichneutae.xml,tei/sophocles-ichneutae.xml,041a3f064a8fb541bb3529bd1a14a31512f66a02,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/sophocles-oedipus-at-colonus.xml,tei/sophocles-oedipus-at-colonus.xml,5c55eb6180ab04007154992f029c82eda455f610,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/sophocles-oedipus-tyrannus.xml,tei/sophocles-oedipus-tyrannus.xml,3c4042382dda87756f174fcdfacb1c724f538d5f,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/sophocles-philoctetes.xml,tei/sophocles-philoctetes.xml,bb4880362bb57e8f85b5861bd78b25afd4b05092,
+tei-without-id,7,06d69f55d9ae97e9ea60a19b1576c8c7f8083e3f,tei/sophocles-trachiniae.xml,tei/sophocles-trachiniae.xml,e1e95635547d534cea06f7621f6173d77b1de0da,
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000026,tei/aeschylus-agamemnon.xml,6ca175cec7e602d965d71daf41b41753d65a280f,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000004,tei/aeschylus-eumenides.xml,5a83a4e0a66bcfbb687e4c812af0b6840aff87f1,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000008,tei/aeschylus-libation-bearers.xml,f80e17353d08412bd7114b287ec1638044e0000d,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000022,tei/aeschylus-persians.xml,560c59ee6619214250585bfa3a4ea4bc876cec25,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000011,tei/aeschylus-prometheus-bound.xml,9ff094627e846cfbdb8b4b6999212de9e1c264c8,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000005,tei/aeschylus-seven-against-thebes.xml,e229c2843b6236a8c17c1b3d0b93d3f1910afa7d,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000020,tei/aeschylus-suppliant-women.xml,ce6101931edb7c6a1a1e4aec7aa97c92c5f384b7,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000032,tei/aristophanes-acharnians.xml,a78e7c87589306ff82e1745343ff32e650c69658,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000012,tei/aristophanes-birds.xml,70cd7c7d440e83cebe6bd0a1a265fe1a06da3a01,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000035,tei/aristophanes-clouds.xml,c4b8bc4598808fb81216fffe98fb5c6dc1e20da4,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000027,tei/aristophanes-ecclesiazusae.xml,3c5d0d9b9acc3f8f4bd2d1776d4b23e813e9d9ec,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000017,tei/aristophanes-frogs.xml,ffb3736458b29539631dc420ca998e34af206f73,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000010,tei/aristophanes-knights.xml,78d6ff110ae589f149f53d54733032a5e5e1e976,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000016,tei/aristophanes-lysistrata.xml,e697e9ea6dc795543258e6048c86c6eec69152f1,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000033,tei/aristophanes-peace.xml,1ac4433f607e40bb29900d44ffc137a182c4956e,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000037,tei/aristophanes-plutus.xml,949b70d58128c368ee181cdf047876158a5a2aa2,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000009,tei/aristophanes-thesmophoriazusae.xml,f93f717356a0bd07637b3f85d1c668eb564978dd,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000014,tei/aristophanes-wasps.xml,f38e61e336765621a2d4c1b7f8c6ddc86efba4e3,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000001,tei/euripides-bacchae.xml,6df8c5f9892cab69a43f0ce73042abca14c91603,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000039,tei/euripides-electra.xml,f0b81f385763673a1a2f8b12164fb380bf68f48d,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000003,tei/euripides-hecuba.xml,10751f05e50d219bdb4aaa78b8458abd68bf03e5,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000029,tei/euripides-helen.xml,0908367366d6ec26d4d9ff8e4d3016d8808ed7b6,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000013,tei/euripides-heracles.xml,971a2e7a580d9660a3486fac73d32629fb4c8007,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000034,tei/euripides-ion.xml,da76f37d8b1d8aee447c1d47957c92c54d165a7c,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000028,tei/euripides-iphigenia-in-aulis.xml,9a474445d21b4e7a8f4ce774b243d95a30874b64,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000002,tei/euripides-iphigenia-in-tauris.xml,5c7b65246da22d4ff9a3d21d3e54cc385f9d6ada,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000023,tei/euripides-orestes.xml,cc60a1ecce18f473d7eb7f9be3a15d46e7493565,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000030,tei/euripides-phoenissae.xml,aaa69994b8fdcad0ec057a21a6a967bfddeee09e,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000031,tei/euripides-rhesus.xml,724fb7f15678ff7b333cdd61422b678d6864dd6d,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000006,tei/euripides-suppliants.xml,095ffefc9f5b5f43310e0354c89be11fd6d59a04,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000019,tei/euripides-the-trojan-women.xml,4092c8e1f45d3a24b7e6f6f825553fbf3e14b06a,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000007,tei/sophocles-ajax.xml,1439f50fb4f940db20ab09aa3f92d2404c22adec,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000025,tei/sophocles-antigone.xml,b3f83e2406c3a75bdf18795b84e4b48fa25a4bac,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000021,tei/sophocles-electra.xml,016fad7b3b3159e860aef46dcf1629e3a1070dfd,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000018,tei/sophocles-ichneutae.xml,eabe255e35b43f76f727f49f241be466815f624e,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000036,tei/sophocles-oedipus-at-colonus.xml,eeb4c767b1a10a0bd4104844bb2199f4910eecda,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000015,tei/sophocles-oedipus-tyrannus.xml,3cbf019ea0f6a92e43b16237cb7254b7882eb7c9,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000038,tei/sophocles-philoctetes.xml,7d0478e1afbecf9e2f3058c7562c90fb8557eb4b,file had no DraCor ID before
+id-assigned,8,fea2036ccfd37abfb3e1adcaa9ba34195e40767c,greek000024,tei/sophocles-trachiniae.xml,a4aae63617c19ed18086ed8ec77e1abbe618f529,file had no DraCor ID before
+malformed-xml,18,14c234365cbd939caa154ff5418bc06ea8bdfced,greek000039,tei/euripides-electra.xml,411cf795a838bf91bf19abaf3598cba558e781cc,TEI file not well-formed; ID taken by regex
+malformed-xml,18,14c234365cbd939caa154ff5418bc06ea8bdfced,greek000019,tei/euripides-the-trojan-women.xml,1a02555ea837cfb67f8830dc9af7b6eeaba3fa05,TEI file not well-formed; ID taken by regex
+malformed-xml,20,dae3cff24e07e6fc964dbbdfe8b8fd217616c6ba,greek000039,tei/euripides-electra.xml,68ab3466c661f2bb34682360d2b867bbdcc28fbd,TEI file not well-formed; ID taken by regex
+malformed-xml,20,dae3cff24e07e6fc964dbbdfe8b8fd217616c6ba,greek000019,tei/euripides-the-trojan-women.xml,160d89b79f69ba386cb5667e25ac012e4465b6f8,TEI file not well-formed; ID taken by regex
+malformed-xml,28,6d260686b9aca3d1d96b3f80b012e81456770cfe,greek000006,tei/euripides-suppliants.xml,bfcee14298df750e565e83a97e02c27629bd9cfd,TEI file not well-formed; ID taken by regex
+malformed-xml,28,6d260686b9aca3d1d96b3f80b012e81456770cfe,greek000019,tei/euripides-the-trojan-women.xml,3771b49f5982e6cf7470b72b77297b3720bf8431,TEI file not well-formed; ID taken by regex
+rename-same-blob,84,f2ad49cb0d340c21925dd046588b1a45b072ff0a,greek000019,tei/euripides-trojan-women.xml,9e663f5a27993125da419d9a8045b856c6615fa0,from tei/euripides-the-trojan-women.xml
+gitlink,86,7d10bb62b4bece6ae27b883a5462dfa8f3bb0f29,perseusdl,perseusdl,77aaeaa3da08f1503953b08fbc740401591e48a2,submodule entry
+gitlink,93,0baadfc4a4243c5bd70b722a1baf1e38feadfa5b,perseusdl,perseusdl,9aba817233190bc527fccd72730dc0ec1671fcec,submodule entry
+gitlink,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,perseusdl,perseusdl,a065c359aab33c33bd17ddc2cac7d27fdc9cd870,submodule entry
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000008,tei/aeschylus-choephoroi.xml,ed1b709f6486d9a32fea0c08b67b6dd26e591327,from tei/aeschylus-libation-bearers.xml (blob 47726ba0c8)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000022,tei/aeschylus-persae.xml,33a37b5e1a7eba29a20f9d1b88fb1a6f50894aa4,from tei/aeschylus-persians.xml (blob e70b77e313)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000011,tei/aeschylus-prometheus.xml,95bdafe6fe545efbe84f7da785bdff4dc50da24c,from tei/aeschylus-prometheus-bound.xml (blob f04f0588bd)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000005,tei/aeschylus-septem-adversus-thebas.xml,6a3e5e1ea5ca21e977c58da3a75817ac9cc848ee,from tei/aeschylus-seven-against-thebes.xml (blob ac8537b0ef)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000020,tei/aeschylus-supplices.xml,c475f6a11de9d1f91f39a1afab7279bd0685582e,from tei/aeschylus-suppliant-women.xml (blob 4e901ef562)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000032,tei/aristophanes-acharnenses.xml,2932c166b7115a54f031a1609b0fb2bfd8726844,from tei/aristophanes-acharnians.xml (blob 09ab995c59)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000012,tei/aristophanes-aves.xml,ecd8fda48e29780672e096c5b474d7cb75dd5b45,from tei/aristophanes-birds.xml (blob 17f4d70dae)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000010,tei/aristophanes-equites.xml,27551878119fc0cef0d9507226fdfde6f45b961e,from tei/aristophanes-knights.xml (blob 9b285a3e0c)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000035,tei/aristophanes-nubes.xml,e235e3fda4c67af8ff30682bb980665e5808bcc4,from tei/aristophanes-clouds.xml (blob 8aa0c8f19a)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000033,tei/aristophanes-pax.xml,5f2ce288fac539a85459dd44f79fd71f31035e7c,from tei/aristophanes-peace.xml (blob 057f560df9)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000017,tei/aristophanes-ranae.xml,d9ccbb172378a2221b8dcaf92bbe3abd56114fc0,from tei/aristophanes-frogs.xml (blob cd69708081)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000014,tei/aristophanes-vespae.xml,f46ef3cb94bb264e22965484b7a2d96da8c9d9e3,from tei/aristophanes-wasps.xml (blob 4525f3d7a0)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000029,tei/euripides-helena.xml,36fef2d7bcef6db961de551f0d55969a0bed1c41,from tei/euripides-helen.xml (blob 7c9f2bdbcb)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000013,tei/euripides-hercules.xml,dbcf306cc46c04e5dac32cacfde24cb38e90be08,from tei/euripides-heracles.xml (blob 26081c0ed6)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000028,tei/euripides-iphigenia-aulidensis.xml,41fc0bf98e2f047aaced2137b7e3daa3732c9ded,from tei/euripides-iphigenia-in-aulis.xml (blob e4e4de239f)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000002,tei/euripides-iphigenia-taurica.xml,513e2813bd5c60985ed93d1636c1ac4fd8fb2738,from tei/euripides-iphigenia-in-tauris.xml (blob 24bff75982)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000006,tei/euripides-supplices.xml,b5f55e59044b016684edb72ab0c099179dee2341,from tei/euripides-suppliants.xml (blob 2812656812)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000019,tei/euripides-troades.xml,0ed4f6039cd16b89280cd7c86380ea2cb5f6d2cc,from tei/euripides-trojan-women.xml (blob 93bd2903ef)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000007,tei/sophocles-aias.xml,a3e19dcc1f68b4b615fb1feb4c4818587515af54,from tei/sophocles-ajax.xml (blob 8f64a64b6b)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000036,tei/sophocles-oedipus-coloneus.xml,aeb4809a14834f32e7b6076137f40594fc42512f,from tei/sophocles-oedipus-at-colonus.xml (blob 4fc422128e)
+rename-with-change,100,998d8aaeecf460f0708105b80ec5bd2d1363ae73,greek000015,tei/sophocles-oedipus-rex.xml,4ef251d29cd14d069b7ad22b23c6958e22fdedd4,from tei/sophocles-oedipus-tyrannus.xml (blob d602d8a03d)
+gitlink,106,ff3f7d8c4f97eb2d44e64f37a2708cf2842364d3,perseusdl,perseusdl,341e309c821d5eca8c976bebca77c28b10bad58f,submodule entry

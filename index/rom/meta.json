@@ -1,0 +1,354 @@
+{
+  "corpus": "rom",
+  "repository": "https://github.com/dracor-org/romdracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "e4cdf5f1ffcc86d40ae7bd5202c47982182c3b11",
+  "api_commit": "69f4a9a28eb167b05854df2c1510e180f0bf7672",
+  "api_commit_seq": 83,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 95,
+    "side_commits_merged": 16,
+    "side_commits_unmerged": 0,
+    "intervals": 1015,
+    "tei_ids": 36,
+    "tei_ids_valid_at_head": 36,
+    "tei_files_at_head": 36,
+    "distinct_tei_blobs": 941,
+    "tei_file_commit_pairs": 3384,
+    "dedup_factor": 3.6,
+    "tei_noid_intervals": 108,
+    "last_seq_with_noid_tei": 3,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "id-assigned": 36,
+      "id-change": 36,
+      "malformed-xml": 81,
+      "rename-same-blob": 36,
+      "tei-without-id": 108
+    }
+  },
+  "id_archaeology": {
+    "prefix": "rom",
+    "texts": 36,
+    "texts_by_method": {
+      "file": 36
+    },
+    "intervals_by_method": {
+      "lineage": 154,
+      "file": 823
+    },
+    "legacy_table": 0,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 16,
+    "with_base": 16,
+    "delta_rows": 155,
+    "tei_delta_rows_by_method": {
+      "file": 142
+    }
+  },
+  "state": {
+    "last_commit": "e4cdf5f1ffcc86d40ae7bd5202c47982182c3b11",
+    "last_seq": 94,
+    "dups_open": {},
+    "last_seen_id": {
+      "rom00021": [
+        5,
+        "tei/plautus-amphitruo.xml"
+      ],
+      "rom00017": [
+        5,
+        "tei/plautus-asinaria.xml"
+      ],
+      "rom00014": [
+        5,
+        "tei/plautus-aulularia.xml"
+      ],
+      "rom00024": [
+        5,
+        "tei/plautus-bacchides.xml"
+      ],
+      "rom00011": [
+        5,
+        "tei/plautus-captivi.xml"
+      ],
+      "rom00034": [
+        5,
+        "tei/plautus-casina.xml"
+      ],
+      "rom00025": [
+        5,
+        "tei/plautus-cistellaria.xml"
+      ],
+      "rom00023": [
+        5,
+        "tei/plautus-curculio.xml"
+      ],
+      "rom00032": [
+        5,
+        "tei/plautus-epidicus.xml"
+      ],
+      "rom0006": [
+        5,
+        "tei/plautus-menaechmi.xml"
+      ],
+      "rom00033": [
+        5,
+        "tei/plautus-mercator.xml"
+      ],
+      "rom00027": [
+        5,
+        "tei/plautus-miles-gloriosus.xml"
+      ],
+      "rom00019": [
+        5,
+        "tei/plautus-mostellaria.xml"
+      ],
+      "rom00022": [
+        5,
+        "tei/plautus-persa.xml"
+      ],
+      "rom0004": [
+        5,
+        "tei/plautus-poenulus.xml"
+      ],
+      "rom00028": [
+        5,
+        "tei/plautus-pseudolus.xml"
+      ],
+      "rom00035": [
+        5,
+        "tei/plautus-rudens.xml"
+      ],
+      "rom00020": [
+        5,
+        "tei/plautus-stichus.xml"
+      ],
+      "rom00010": [
+        5,
+        "tei/plautus-trinummus.xml"
+      ],
+      "rom0009": [
+        5,
+        "tei/plautus-truculentus.xml"
+      ],
+      "rom00029": [
+        5,
+        "tei/seneca-agamemnon.xml"
+      ],
+      "rom0007": [
+        5,
+        "tei/seneca-hercules-furens.xml"
+      ],
+      "rom0001": [
+        5,
+        "tei/seneca-hercules-oetaeus.xml"
+      ],
+      "rom0005": [
+        5,
+        "tei/seneca-medea.xml"
+      ],
+      "rom00030": [
+        5,
+        "tei/seneca-octavia.xml"
+      ],
+      "rom0002": [
+        5,
+        "tei/seneca-oedipus.xml"
+      ],
+      "rom00031": [
+        5,
+        "tei/seneca-phaedra.xml"
+      ],
+      "rom00015": [
+        5,
+        "tei/seneca-phoenissae.xml"
+      ],
+      "rom00026": [
+        5,
+        "tei/seneca-thyestes.xml"
+      ],
+      "rom00016": [
+        5,
+        "tei/seneca-troades.xml"
+      ],
+      "rom00012": [
+        5,
+        "tei/terence-adelphi.xml"
+      ],
+      "rom00013": [
+        5,
+        "tei/terence-andria.xml"
+      ],
+      "rom00018": [
+        5,
+        "tei/terence-eunuchus.xml"
+      ],
+      "rom0008": [
+        5,
+        "tei/terence-heautontimorumenos.xml"
+      ],
+      "rom00036": [
+        5,
+        "tei/terence-hecyra.xml"
+      ],
+      "rom0003": [
+        5,
+        "tei/terence-phormio.xml"
+      ],
+      "rom000021": [
+        94,
+        "tei/plautus-amphitruo.xml"
+      ],
+      "rom000017": [
+        94,
+        "tei/plautus-asinaria.xml"
+      ],
+      "rom000014": [
+        94,
+        "tei/plautus-aulularia.xml"
+      ],
+      "rom000024": [
+        94,
+        "tei/plautus-bacchides.xml"
+      ],
+      "rom000011": [
+        94,
+        "tei/plautus-captivi.xml"
+      ],
+      "rom000034": [
+        94,
+        "tei/plautus-casina.xml"
+      ],
+      "rom000025": [
+        94,
+        "tei/plautus-cistellaria.xml"
+      ],
+      "rom000023": [
+        94,
+        "tei/plautus-curculio.xml"
+      ],
+      "rom000032": [
+        94,
+        "tei/plautus-epidicus.xml"
+      ],
+      "rom000006": [
+        94,
+        "tei/plautus-menaechmi.xml"
+      ],
+      "rom000033": [
+        94,
+        "tei/plautus-mercator.xml"
+      ],
+      "rom000027": [
+        94,
+        "tei/plautus-miles-gloriosus.xml"
+      ],
+      "rom000019": [
+        94,
+        "tei/plautus-mostellaria.xml"
+      ],
+      "rom000022": [
+        94,
+        "tei/plautus-persa.xml"
+      ],
+      "rom000004": [
+        94,
+        "tei/plautus-poenulus.xml"
+      ],
+      "rom000028": [
+        94,
+        "tei/plautus-pseudolus.xml"
+      ],
+      "rom000035": [
+        94,
+        "tei/plautus-rudens.xml"
+      ],
+      "rom000020": [
+        94,
+        "tei/plautus-stichus.xml"
+      ],
+      "rom000010": [
+        94,
+        "tei/plautus-trinummus.xml"
+      ],
+      "rom000009": [
+        94,
+        "tei/plautus-truculentus.xml"
+      ],
+      "rom000029": [
+        94,
+        "tei/seneca-agamemnon.xml"
+      ],
+      "rom000007": [
+        94,
+        "tei/seneca-hercules-furens.xml"
+      ],
+      "rom000001": [
+        94,
+        "tei/seneca-hercules-oetaeus.xml"
+      ],
+      "rom000005": [
+        94,
+        "tei/seneca-medea.xml"
+      ],
+      "rom000030": [
+        94,
+        "tei/seneca-octavia.xml"
+      ],
+      "rom000002": [
+        94,
+        "tei/seneca-oedipus.xml"
+      ],
+      "rom000031": [
+        94,
+        "tei/seneca-phaedra.xml"
+      ],
+      "rom000015": [
+        94,
+        "tei/seneca-phoenissae.xml"
+      ],
+      "rom000026": [
+        94,
+        "tei/seneca-thyestes.xml"
+      ],
+      "rom000016": [
+        94,
+        "tei/seneca-troades.xml"
+      ],
+      "rom000012": [
+        94,
+        "tei/terence-adelphi.xml"
+      ],
+      "rom000013": [
+        94,
+        "tei/terence-andria.xml"
+      ],
+      "rom000018": [
+        94,
+        "tei/terence-eunuchus.xml"
+      ],
+      "rom000008": [
+        94,
+        "tei/terence-heautontimorumenos.xml"
+      ],
+      "rom000036": [
+        94,
+        "tei/terence-hecyra.xml"
+      ],
+      "rom000003": [
+        94,
+        "tei/terence-phormio.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 95,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

@@ -1,0 +1,7 @@
+key,path,from_seq,to_seq,id_in_file,id_method
+bash00001,tei/karim-ajtotolghantonda.xml,1,1,bash00001,file
+bash00001,tei/karim-aj-totolghan-tonda.xml,2,,bash00001,file
+bash00002,tei/karim-tashlamautty.xml,1,1,bash00004,lineage
+bash00002,tei/karim-tashlama-utty.xml,2,9,bash00004,lineage
+bash00002,tei/karim-tashlama-utty.xml,10,,bash00002,file
+bash00003,tei/khudayberdin-aq-bilettar.xml,16,,bash00003,file

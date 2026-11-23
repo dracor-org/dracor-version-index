@@ -1,0 +1,3 @@
+case,seq,commit,key,path,blob,detail
+id-change,21,b225fd92abf157cfad7167ce73af7090e23d9b12,gersh000038,tei/die-beiden-edlen-vettern.xml,4303f02abed2375865d9b5ae7dd1580ecee0c3f4,gersh000008 -> gersh000038 at same path
+id-change,21,b225fd92abf157cfad7167ce73af7090e23d9b12,gersh000008,tei/wie-es-euch-gefaellt.xml,5148ed8d5fcb2df03384cfa64d5ad4d4cc146cb4,gersh000038 -> gersh000008 at same path

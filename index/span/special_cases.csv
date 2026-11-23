@@ -1,0 +1,97 @@
+case,seq,commit,key,path,blob,detail
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/clarin-teresa.xml,tei/clarin-teresa.xml,6374cae6fe9648eda03fca433da59aad723ce161,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/dicenta-juan-jose.xml,tei/dicenta-juan-jose.xml,f24d5d96c1ee6c47909159748da7d9f2fac5e270,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/echegaray-arrastrarse.xml,tei/echegaray-arrastrarse.xml,e6bcf58f16218819e31ac8b270704369b8e5380a,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/echegaray-mancha.xml,tei/echegaray-mancha.xml,122538018a5cb11e45fdda60380f09378569a080,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/galdos-casandra.xml,tei/galdos-casandra.xml,cb5c21597b79814d7b049af2748789e6c5caf22a,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/galdos-electra.xml,tei/galdos-electra.xml,8bc4dbcdfa4787902dd844e03cac0397910ba890,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/galdos-perfecta.xml,tei/galdos-perfecta.xml,de6f4631cba87b01cb6ff141661c693a4e2b09b6,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/lorca-bernarda.xml,tei/lorca-bernarda.xml,099a8ee2f032a4ee0b941679634d4930b50b5fa5,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/lorca-bodas.xml,tei/lorca-bodas.xml,6eaa325d046b5e7f15493d740c076a201ea3b293,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/lorca-rosita.xml,tei/lorca-rosita.xml,e97967b11e4a08f0edb7bd2853439b301eb104cc,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/lorca-yerma.xml,tei/lorca-yerma.xml,cb1a5406c7b372670f93a41811dab2520ce0ae71,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/lorca-zapatera.xml,tei/lorca-zapatera.xml,1c976a5005558859e10e63a82124b90c90af3bfe,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/munoz-conferencia.xml,tei/munoz-conferencia.xml,bd3e16fdbe42238328895018f571bf7a4d9abca9,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/munoz-ortiz.xml,tei/munoz-ortiz.xml,b68f03bb37b25583ce22e508651017eafa972d05,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/munoz-pergaminos.xml,tei/munoz-pergaminos.xml,61216ae2e3826bb2f825bc7044b616baa0cfc0ea,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/munoz-refugio.xml,tei/munoz-refugio.xml,93aa204b87e64a2efe11d07a780966dd5919c5c7,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/unamuno-esfinge.xml,tei/unamuno-esfinge.xml,bb6e00c9d7ad01bb827ca7d498ea01a0f48810c4,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/unamuno-fedra.xml,tei/unamuno-fedra.xml,d8072cae6ea2f2d400d1ca2728f51ffb0fb625a1,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/valera-asclepigenia.xml,tei/valera-asclepigenia.xml,21eaec54531c49783678b94de27fd5d044c6a681,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/valera-atahualpa.xml,tei/valera-atahualpa.xml,f598cb8289fc41e8e2bfeb3d352ededf497ee7a0,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/valle-aguila.xml,tei/valle-aguila.xml,e3265810029e170628e9b529ae10f78ab358d089,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/valle-cara.xml,tei/valle-cara.xml,fba676cc0200a37f13d1ccfbec65acc3a8e40408,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/valle-divinas-palabras.xml,tei/valle-divinas-palabras.xml,8023558f0620a4a5c8c9211646be317ba164b226,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/valle-luces.xml,tei/valle-luces.xml,458b82d5795c274679e388c2d106de6ebc9833a0,
+tei-without-id,1,ef5934637fc38a5f3a0d8e932184850cc6535369,tei/valle-romance.xml,tei/valle-romance.xml,ce35f9e70a3c976b86bd8743033b7e0f0ed574f8,
+tei-without-id,4,45a66d690433094851499904c28973453ed258f5,tei/dicenta-juan-jose.xml,tei/dicenta-juan-jose.xml,eeeb35da11729887f9568cb018bd162ac11780e0,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/clarin-teresa.xml,tei/clarin-teresa.xml,8696e2a4397211dcdb0e7e735fc2259f727bf04f,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/dicenta-juan-jose.xml,tei/dicenta-juan-jose.xml,112732efe92b2cb41ccd71069d97983ef2b6fff6,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/echegaray-arrastrarse.xml,tei/echegaray-arrastrarse.xml,c25daf9f78b9bc0c79c92859099e506030f0f27b,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/echegaray-mancha.xml,tei/echegaray-mancha.xml,f207cd6bc51df11b62b94256da4fae4e5bd67f35,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/galdos-casandra.xml,tei/galdos-casandra.xml,1451492ab15a1ce445e31ffc5fc6a2a8ce16f6af,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/galdos-electra.xml,tei/galdos-electra.xml,4ccf01f6a055db0adc4437eacacd8e73b4327562,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/galdos-perfecta.xml,tei/galdos-perfecta.xml,db297861017b2b0b872c4ec0ee942ed37a4cd370,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/lorca-bernarda.xml,tei/lorca-bernarda.xml,662671ce08f979ce318fd704a976599a9c498742,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/lorca-bodas.xml,tei/lorca-bodas.xml,1ac53076bced5294840b10bc4aa0eb30d2253333,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/lorca-rosita.xml,tei/lorca-rosita.xml,df32e7c08f38fd694fb59d8344cd188c6b0d51e3,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/lorca-yerma.xml,tei/lorca-yerma.xml,cc63d49e8194531f808c56dfdc1a3b761412396c,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/lorca-zapatera.xml,tei/lorca-zapatera.xml,c7bc5462f0ac81337d037e46cf0dfb56a36f9e54,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/munoz-conferencia.xml,tei/munoz-conferencia.xml,37736cf1839a8bf55f07d63dbe8573536c271292,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/munoz-ortiz.xml,tei/munoz-ortiz.xml,92557eeec30257d85c2fb863de16b2dc98ae6578,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/munoz-pergaminos.xml,tei/munoz-pergaminos.xml,1d690f1fb97666f18ba5530b208e85c041a34e4b,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/munoz-refugio.xml,tei/munoz-refugio.xml,c9373bf7a49554b0fe833f07a472f232bd688ac3,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/unamuno-esfinge.xml,tei/unamuno-esfinge.xml,4bae486f530ce4febdc717cc7797f0dfc08677e4,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/unamuno-fedra.xml,tei/unamuno-fedra.xml,830e1868cc17cde19aa922965f16f4fc6d1dcf57,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/valera-asclepigenia.xml,tei/valera-asclepigenia.xml,f453166e8554fc86c0bc9daa34ab3c0cc4e3b0f3,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/valera-atahualpa.xml,tei/valera-atahualpa.xml,0b5d837ecd95bcc39d97b15b8e8d964707d98f24,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/valle-aguila.xml,tei/valle-aguila.xml,fd6650e6e7036e80f2f1585839df9e73578c92c0,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/valle-cara.xml,tei/valle-cara.xml,b50a0205dd0e1dd1ca1a1e34db29d7b3a7eec374,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/valle-divinas-palabras.xml,tei/valle-divinas-palabras.xml,4990347b846077b9e523d1096f53c02ffa8c7443,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/valle-luces.xml,tei/valle-luces.xml,2df123552f9e3925552ff9d692609a69e6749d9a,
+tei-without-id,5,5448fafb93a9bb201bf4eff441e0ae3f45f4cb08,tei/valle-romance.xml,tei/valle-romance.xml,2839e42bcc21bade33aa13d887d82c8ddbd39c78,
+tei-without-id,7,254f530b79ab7468779d10b61e7aabeb3783670f,tei/clarin-teresa.xml,tei/clarin-teresa.xml,7fe3d1986a5f53fe03cd69b93b6806f61a273f32,
+tei-without-id,7,254f530b79ab7468779d10b61e7aabeb3783670f,tei/dicenta-juan-jose.xml,tei/dicenta-juan-jose.xml,bc0fe5c4999d5467a13e39bbbe0053bfc7e5dd79,
+tei-without-id,7,254f530b79ab7468779d10b61e7aabeb3783670f,tei/echegaray-arrastrarse.xml,tei/echegaray-arrastrarse.xml,2a33acff3ef7bef613d418059de2ba25025cac4b,
+tei-without-id,7,254f530b79ab7468779d10b61e7aabeb3783670f,tei/echegaray-mancha.xml,tei/echegaray-mancha.xml,1ef1f0f1b52e024b72cc15e6ce931e49ca811e9e,
+tei-without-id,7,254f530b79ab7468779d10b61e7aabeb3783670f,tei/galdos-casandra.xml,tei/galdos-casandra.xml,471c367082f426797f7da6cce08d4a36ba6c0aea,
+tei-without-id,7,254f530b79ab7468779d10b61e7aabeb3783670f,tei/galdos-electra.xml,tei/galdos-electra.xml,77510dfc81477369175204bf9f5517a846767033,
+tei-without-id,7,254f530b79ab7468779d10b61e7aabeb3783670f,tei/galdos-perfecta.xml,tei/galdos-perfecta.xml,913cd67c6d51d60794cd52158d48cefb27976b0e,
+tei-without-id,7,254f530b79ab7468779d10b61e7aabeb3783670f,tei/lorca-bernarda.xml,tei/lorca-bernarda.xml,7cac65b72cb5068a2075a1509c1203187ca03699,
+tei-without-id,7,254f530b79ab7468779d10b61e7aabeb3783670f,tei/lorca-bodas.xml,tei/lorca-bodas.xml,de5e1ad69d413208d81a46946c80d1707d0fefb3,
+tei-without-id,7,254f530b79ab7468779d10b61e7aabeb3783670f,tei/lorca-rosita.xml,tei/lorca-rosita.xml,64fb5f6593dcb943a27222086e5bae1f0263ba1b,
+tei-without-id,7,254f530b79ab7468779d10b61e7aabeb3783670f,tei/lorca-zapatera.xml,tei/lorca-zapatera.xml,00cadcfd28e72dc3fd0bfea7c65d4a1c5611aa7e,
+tei-without-id,7,254f530b79ab7468779d10b61e7aabeb3783670f,tei/munoz-conferencia.xml,tei/munoz-conferencia.xml,ea94e76897d98c218c3c7a18fe3fbf386e09acd7,
+tei-without-id,7,254f530b79ab7468779d10b61e7aabeb3783670f,tei/munoz-ortiz.xml,tei/munoz-ortiz.xml,fa1b6f5071849de78621062983de59cc50702d4b,
+tei-without-id,7,254f530b79ab7468779d10b61e7aabeb3783670f,tei/munoz-pergaminos.xml,tei/munoz-pergaminos.xml,13962de22aeddd13c898faf426b728eff6f892dd,
+tei-without-id,7,254f530b79ab7468779d10b61e7aabeb3783670f,tei/unamuno-esfinge.xml,tei/unamuno-esfinge.xml,fe96c95a7ef43b6495b0fa0e55cabbb2bb4d1846,
+tei-without-id,7,254f530b79ab7468779d10b61e7aabeb3783670f,tei/valle-aguila.xml,tei/valle-aguila.xml,8ffc6e07d4c425cfb55b03a39b3d892c3ee89476,
+tei-without-id,7,254f530b79ab7468779d10b61e7aabeb3783670f,tei/valle-cara.xml,tei/valle-cara.xml,40b74e62b9de7a584c186fe859a68b0534a09123,
+tei-without-id,7,254f530b79ab7468779d10b61e7aabeb3783670f,tei/valle-divinas-palabras.xml,tei/valle-divinas-palabras.xml,11d131ff4de4654a9843427a2d0be7a5ba8e588b,
+tei-without-id,7,254f530b79ab7468779d10b61e7aabeb3783670f,tei/valle-romance.xml,tei/valle-romance.xml,9bb9cf51a0a468afde862fb6e05ac50dc5262e0b,
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000018,tei/clarin-teresa.xml,ef376d9ac935b10bf5bc8d25df63a936a30dfb8e,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000001,tei/dicenta-juan-jose.xml,7969bb804d9277ebe8131d6a53da6c4615aa36fd,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000003,tei/echegaray-arrastrarse.xml,7842fcbb0766f9c89cf73bf03626ecc4b75bb229,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000002,tei/echegaray-mancha.xml,c9375882fef2a754582bdd0019970e28c6f4a850,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000005,tei/galdos-casandra.xml,fc33919bd42e698071bcf373b24cdf3a6d212917,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000006,tei/galdos-electra.xml,cfc7987fe18d32422dd35f2ecd9b58f03ec1d407,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000004,tei/galdos-perfecta.xml,5f437a83abd0e73ef325176c110a181bf8a506d0,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000042,tei/lorca-bernarda.xml,8f48235946786be7535ca159a7709508e429f1d7,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000041,tei/lorca-bodas.xml,b9f92d6415dd347cdffbbf02061f6add1e628e8b,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000007,tei/lorca-rosita.xml,bf4ac5d0b6a94af70bcb73bb13f797f2456445a8,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000008,tei/lorca-yerma.xml,e9f7b0c3dd987eabecd36fcc3c2d7142f4cfdb92,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000040,tei/lorca-zapatera.xml,ae7b80a397be64c44702460879ddec354c7782bb,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000032,tei/munoz-conferencia.xml,4cce3797417c5f60b745d3ab0c77e3b3c12967bd,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000053,tei/munoz-ortiz.xml,6bb12f0cd71a0161492778cdb1f1996953e4bf07,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000030,tei/munoz-pergaminos.xml,e8a60ef22f041653fe16c85d34b42590f052ba67,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000031,tei/munoz-refugio.xml,3de145eda6b78827b68cf6f21c6d56a6cff1f961,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000056,tei/unamuno-esfinge.xml,7e4f5ea4fa0203111aaf37e87152d7215b4bb55e,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000012,tei/unamuno-fedra.xml,bf7b484d022031048885ef781a41898e4ce751a7,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000027,tei/valera-asclepigenia.xml,0965c58dc6d10abf6a7747c60a2a04650d10ba66,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000028,tei/valera-atahualpa.xml,239a13afafb3bfcc7ece3ba5b247fd2c0218a75f,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000043,tei/valle-aguila.xml,2f3e004970dc4f2bd1d4bf751754cc42b6917085,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000045,tei/valle-cara.xml,be9df180ae709096eab56b4db444b79cc9d66aff,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000013,tei/valle-divinas-palabras.xml,75c50a8f29bb9ddaf54a2c89ce57bef9f4b3a0c0,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000014,tei/valle-luces.xml,1f5796c76d696b62d6d0c971665a85129b450229,file had no DraCor ID before
+id-assigned,8,7ae252ca87639fb44a22b28d2cd6047130e3989e,span000044,tei/valle-romance.xml,88b85564f1329c281a6892bb4ffd28f7eeabb091,file had no DraCor ID before
+gitlink,23,9d1ac41ba8c7c5e17d1a000825e976422b3018e2,BETTE,BETTE,f0fee16c237004f661adb4fff34ed78e8728190d,submodule entry

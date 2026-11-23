@@ -1,0 +1,2 @@
+case,seq,commit,key,path,blob,detail
+malformed-xml,15,335a16a7b9a05321d73a82ccd49015a8374f6e98,tat000001,tei/qamal-berenche-teatr.xml,78f612a5facb5d63863ef502672b1b33daa8d7bb,TEI file not well-formed; ID taken by regex

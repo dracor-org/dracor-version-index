@@ -1,0 +1,6512 @@
+{
+  "corpus": "eng",
+  "repository": "https://github.com/dracor-org/engdracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "da50c42beae04de7aad57a21a0742e05e2f6ced1",
+  "api_commit": "16fc318f1ef1bc8a5733aad6f5013b5b665ff91d",
+  "api_commit_seq": 113,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 119,
+    "side_commits_merged": 106,
+    "side_commits_unmerged": 62,
+    "intervals": 16576,
+    "tei_ids": 865,
+    "tei_ids_valid_at_head": 753,
+    "tei_files_at_head": 753,
+    "distinct_tei_blobs": 15681,
+    "tei_file_commit_pairs": 89434,
+    "dedup_factor": 5.7,
+    "tei_noid_intervals": 852,
+    "last_seq_with_noid_tei": 11,
+    "tei_unresolved_intervals": 1,
+    "special_cases": {
+      "duplicate-id-inferred": 1,
+      "id-change": 435,
+      "id-from-legacy": 376,
+      "id-from-title": 467,
+      "id-invalid": 853,
+      "id-reappears": 1,
+      "id-unresolved": 1,
+      "legacy-id-ambiguous": 20,
+      "lineage-gap": 315,
+      "rename-similar": 1,
+      "rename-with-change": 1,
+      "tei-without-id": 852
+    }
+  },
+  "id_archaeology": {
+    "prefix": "eng",
+    "texts": 1710,
+    "texts_by_method": {
+      "legacy": 376,
+      "title": 467,
+      "file": 866,
+      "unresolved": 1
+    },
+    "intervals_by_method": {
+      "legacy:vid": 376,
+      "title": 467,
+      "lineage": 7038,
+      "file": 7800,
+      "unresolved": 1
+    },
+    "legacy_table": 376,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 168,
+    "with_base": 168,
+    "delta_rows": 43958,
+    "tei_delta_rows_by_method": {
+      "lineage": 26759,
+      "file": 9663
+    }
+  },
+  "state": {
+    "last_commit": "da50c42beae04de7aad57a21a0742e05e2f6ced1",
+    "last_seq": 118,
+    "dups_open": {},
+    "last_seen_id": {
+      "ep000123": [
+        71,
+        "tei/a-the-valiant-welshman.xml"
+      ],
+      "ep000318": [
+        77,
+        "tei/alexander-caesar.xml"
+      ],
+      "ep000315": [
+        77,
+        "tei/alexander-croesus.xml"
+      ],
+      "ep000316": [
+        77,
+        "tei/alexander-darius.xml"
+      ],
+      "ep000317": [
+        77,
+        "tei/alexander-the-alexandraean-tragedy.xml"
+      ],
+      "ep000346": [
+        71,
+        "tei/amerie-davies-chester-s-triumph.xml"
+      ],
+      "ep000117": [
+        77,
+        "tei/anon-a-knack-to-know-a-knave.xml"
+      ],
+      "ep000129": [
+        77,
+        "tei/anon-a-larum-for-london.xml"
+      ],
+      "ep000485": [
+        77,
+        "tei/anon-alphonsus-emperor-of-germany.xml"
+      ],
+      "ep000393": [
+        77,
+        "tei/anon-arden-of-faversham.xml"
+      ],
+      "ep000081": [
+        77,
+        "tei/anon-band-cuff-and-ruff.xml"
+      ],
+      "ep000436": [
+        71,
+        "tei/anon-bonduca.xml"
+      ],
+      "ep000815": [
+        77,
+        "tei/anon-caesar-and-pompey.xml"
+      ],
+      "ep000651": [
+        77,
+        "tei/anon-canterbury-his-change-of-diet.xml"
+      ],
+      "ep000562": [
+        71,
+        "tei/anon-emilia.xml"
+      ],
+      "ep000560": [
+        71,
+        "tei/anon-encyclochoria.xml"
+      ],
+      "ep000397": [
+        77,
+        "tei/anon-fair-em.xml"
+      ],
+      "ep000472": [
+        71,
+        "tei/anon-henry-ii-king-of-england.xml"
+      ],
+      "ep000288": [
+        77,
+        "tei/anon-jack-straw.xml"
+      ],
+      "ep000119": [
+        77,
+        "tei/anon-jeronimo-with-the-wars-of-portugal-1.xml"
+      ],
+      "ep000772": [
+        71,
+        "tei/anon-knavery-in-all-trades.xml"
+      ],
+      "ep000578": [
+        77,
+        "tei/anon-mucedorus-and-amadine.xml"
+      ],
+      "ep000217": [
+        77,
+        "tei/anon-nero.xml"
+      ],
+      "ep000218": [
+        77,
+        "tei/anon-nobody-and-somebody.xml"
+      ],
+      "ep000670": [
+        71,
+        "tei/anon-piso-s-conspiracy.xml"
+      ],
+      "ep000536": [
+        71,
+        "tei/anon-produced-by-duffett-the-amorous-old-woman.xml"
+      ],
+      "ep000583": [
+        71,
+        "tei/anon-produced-by-horden-neglected-virtue.xml"
+      ],
+      "ep000684": [
+        71,
+        "tei/anon-produced-by-powell-the-cornish-comedy.xml"
+      ],
+      "ep000686": [
+        71,
+        "tei/anon-produced-by-powell-verbruggen-brutus-of-alba.xml"
+      ],
+      "ep000763": [
+        71,
+        "tei/anon-romulus-and-hersilia.xml"
+      ],
+      "ep000713": [
+        71,
+        "tei/anon-settle-the-fairy-queen.xml"
+      ],
+      "ep000746": [
+        71,
+        "tei/anon-she-ventures-and-he-wins.xml"
+      ],
+      "ep000455": [
+        71,
+        "tei/anon-the-bloody-duke.xml"
+      ],
+      "ep000349": [
+        77,
+        "tei/anon-the-contention-between-liberality-and-prodigality.xml"
+      ],
+      "ep000636": [
+        71,
+        "tei/anon-the-counterfeit-bridegroom.xml"
+      ],
+      "ep000615": [
+        71,
+        "tei/anon-the-counterfeits.xml"
+      ],
+      "ep000500": [
+        71,
+        "tei/anon-the-feigned-astrologer.xml"
+      ],
+      "ep000567": [
+        71,
+        "tei/anon-the-island-princess.xml"
+      ],
+      "ep000257": [
+        77,
+        "tei/anon-the-london-prodigal.xml"
+      ],
+      "ep000145": [
+        77,
+        "tei/anon-the-maid-s-metamorphosis.xml"
+      ],
+      "ep000394": [
+        77,
+        "tei/anon-the-merry-devil-of-edmonton.xml"
+      ],
+      "ep000528": [
+        71,
+        "tei/anon-the-mistaken-husband.xml"
+      ],
+      "ep000309": [
+        77,
+        "tei/anon-the-pedlar-s-prophecy.xml"
+      ],
+      "ep000395": [
+        77,
+        "tei/anon-the-reign-of-king-edward-the-third.xml"
+      ],
+      "ep000399": [
+        71,
+        "tei/anon-the-siege-and-surrender-of-mons.xml"
+      ],
+      "ep000291": [
+        77,
+        "tei/anon-the-taming-of-a-shrew.xml"
+      ],
+      "ep000794": [
+        77,
+        "tei/anon-the-trial-of-chivalry.xml"
+      ],
+      "ep000085": [
+        71,
+        "tei/anon-the-troublesome-reign-of-king-john.xml"
+      ],
+      "ep000122": [
+        77,
+        "tei/anon-the-true-chronicle-of-king-leir.xml"
+      ],
+      "ep000234": [
+        77,
+        "tei/anon-the-true-tragedy-of-richard-the-third.xml"
+      ],
+      "ep000777": [
+        71,
+        "tei/anon-the-unnatural-mother.xml"
+      ],
+      "ep000355": [
+        77,
+        "tei/anon-the-wars-of-cyrus.xml"
+      ],
+      "ep000787": [
+        71,
+        "tei/anon-the-woman-turned-bully.xml"
+      ],
+      "ep000568": [
+        71,
+        "tei/anon-valentinian.xml"
+      ],
+      "ep000312": [
+        77,
+        "tei/anon-wily-beguiled.xml"
+      ],
+      "ep000022": [
+        77,
+        "tei/anon-wine-beer-and-ale-together-by-the-ears.xml"
+      ],
+      "ep000805": [
+        71,
+        "tei/anon-wit-for-money.xml"
+      ],
+      "ep000483": [
+        71,
+        "tei/anon-wits-led-by-the-nose.xml"
+      ],
+      "ep000027": [
+        71,
+        "tei/ariosto-supposes.xml"
+      ],
+      "ep000398": [
+        77,
+        "tei/armin-the-two-maids-of-more-clacke.xml"
+      ],
+      "ep000400": [
+        71,
+        "tei/arrowsmith-the-reformation.xml"
+      ],
+      "ep000460": [
+        71,
+        "tei/bailey-the-spiteful-sister.xml"
+      ],
+      "ep000474": [
+        71,
+        "tei/bancroft-sentorius.xml"
+      ],
+      "ep000475": [
+        71,
+        "tei/banks-cyrus-the-great.xml"
+      ],
+      "ep000476": [
+        71,
+        "tei/banks-the-destruction-of-troy.xml"
+      ],
+      "ep000477": [
+        71,
+        "tei/banks-the-innocent-usurper.xml"
+      ],
+      "ep000478": [
+        71,
+        "tei/banks-the-island-queens.xml"
+      ],
+      "ep000479": [
+        71,
+        "tei/banks-the-rival-kings.xml"
+      ],
+      "ep000480": [
+        71,
+        "tei/banks-the-unhappy-favourite.xml"
+      ],
+      "ep000086": [
+        77,
+        "tei/barnes-the-devil-s-charter.xml"
+      ],
+      "ep000481": [
+        71,
+        "tei/baron-mirza.xml"
+      ],
+      "ep000116": [
+        77,
+        "tei/barry-ram-alley.xml"
+      ],
+      "ep000401": [
+        71,
+        "tei/beaumont-comedies-and-tragedies.xml"
+      ],
+      "ep000127": [
+        77,
+        "tei/beaumont-fletcher-a-king-and-no-king.xml"
+      ],
+      "ep000125": [
+        77,
+        "tei/beaumont-fletcher-cupid-s-revenge.xml"
+      ],
+      "ep000434": [
+        77,
+        "tei/beaumont-fletcher-love-s-pilgrimage.xml"
+      ],
+      "ep000408": [
+        77,
+        "tei/beaumont-fletcher-massinger-beggars-bush.xml"
+      ],
+      "ep000426": [
+        77,
+        "tei/beaumont-fletcher-massinger-love-s-cure.xml"
+      ],
+      "ep000010": [
+        77,
+        "tei/beaumont-fletcher-massinger-thierry-and-theodoret.xml"
+      ],
+      "ep000131": [
+        77,
+        "tei/beaumont-fletcher-philaster.xml"
+      ],
+      "ep000409": [
+        77,
+        "tei/beaumont-fletcher-the-coxcomb.xml"
+      ],
+      "ep000130": [
+        77,
+        "tei/beaumont-fletcher-the-maid-s-tragedy.xml"
+      ],
+      "ep000132": [
+        77,
+        "tei/beaumont-fletcher-the-scornful-lady.xml"
+      ],
+      "ep000135": [
+        77,
+        "tei/beaumont-fletcher-the-woman-hater.xml"
+      ],
+      "ep000128": [
+        77,
+        "tei/beaumont-the-knight-of-the-burning-pestle.xml"
+      ],
+      "ep000124": [
+        77,
+        "tei/beaumont-the-masque-of-the-inner-temple-and-gray-s-inn.xml"
+      ],
+      "ep000440": [
+        71,
+        "tei/bedloe-the-excommunicated-prince.xml"
+      ],
+      "ep000441": [
+        71,
+        "tei/behn-abdelazer.xml"
+      ],
+      "ep000442": [
+        71,
+        "tei/behn-the-amorous-prince.xml"
+      ],
+      "ep000443": [
+        71,
+        "tei/behn-the-city-heiress.xml"
+      ],
+      "ep000465": [
+        71,
+        "tei/behn-the-debauchee.xml"
+      ],
+      "ep000444": [
+        71,
+        "tei/behn-the-dutch-lover.xml"
+      ],
+      "ep000445": [
+        71,
+        "tei/behn-the-emperor-of-the-moon.xml"
+      ],
+      "ep000446": [
+        71,
+        "tei/behn-the-false-count.xml"
+      ],
+      "ep000447": [
+        71,
+        "tei/behn-the-feign-d-curtizans.xml"
+      ],
+      "ep000448": [
+        71,
+        "tei/behn-the-forced-marriage.xml"
+      ],
+      "ep000449": [
+        71,
+        "tei/behn-the-lucky-chance.xml"
+      ],
+      "ep000454": [
+        71,
+        "tei/behn-the-revenge.xml"
+      ],
+      "ep000450": [
+        71,
+        "tei/behn-the-roundheads.xml"
+      ],
+      "ep000451": [
+        71,
+        "tei/behn-the-rover-1.xml"
+      ],
+      "ep000452": [
+        71,
+        "tei/behn-the-widow-ranter.xml"
+      ],
+      "ep000203": [
+        77,
+        "tei/belchier-hans-beer-pot.xml"
+      ],
+      "ep000453": [
+        71,
+        "tei/belon-the-mock-duellist.xml"
+      ],
+      "ep000221": [
+        77,
+        "tei/berkeley-the-lost-lady.xml"
+      ],
+      "ep000741": [
+        71,
+        "tei/betterton-henry-iv-with-the-humours-of-sir-john-falstaff.xml"
+      ],
+      "ep000437": [
+        71,
+        "tei/betterton-the-prophetess.xml"
+      ],
+      "ep000456": [
+        71,
+        "tei/boothby-marcelia.xml"
+      ],
+      "ep000457": [
+        71,
+        "tei/bourne-the-contended-cuckold.xml"
+      ],
+      "ep000001": [
+        77,
+        "tei/bower-appius-and-virginia.xml"
+      ],
+      "ep000691": [
+        71,
+        "tei/boyer-achilles.xml"
+      ],
+      "ep000655": [
+        71,
+        "tei/boyle-guzman.xml"
+      ],
+      "ep000657": [
+        71,
+        "tei/boyle-henry-v.xml"
+      ],
+      "ep000656": [
+        71,
+        "tei/boyle-herod-the-great.xml"
+      ],
+      "ep000658": [
+        71,
+        "tei/boyle-mr-anthony.xml"
+      ],
+      "ep000659": [
+        71,
+        "tei/boyle-mustapha-son-of-solyman-the-magnificent.xml"
+      ],
+      "ep000458": [
+        71,
+        "tei/brady-the-rape.xml"
+      ],
+      "ep000459": [
+        77,
+        "tei/brathwait-mercurius-britannicus.xml"
+      ],
+      "ep000466": [
+        77,
+        "tei/brome-a-jovial-crew.xml"
+      ],
+      "ep000806": [
+        77,
+        "tei/brome-a-mad-couple-well-matched.xml"
+      ],
+      "ep000319": [
+        77,
+        "tei/brome-the-antipodes.xml"
+      ],
+      "ep000808": [
+        77,
+        "tei/brome-the-city-wit.xml"
+      ],
+      "ep000463": [
+        77,
+        "tei/brome-the-court-beggar.xml"
+      ],
+      "ep000462": [
+        77,
+        "tei/brome-the-cunning-lovers.xml"
+      ],
+      "ep000464": [
+        77,
+        "tei/brome-the-damoiselle-or-the-new-ordinary.xml"
+      ],
+      "ep000809": [
+        77,
+        "tei/brome-the-english-moor.xml"
+      ],
+      "ep000810": [
+        77,
+        "tei/brome-the-lovesick-court.xml"
+      ],
+      "ep000812": [
+        77,
+        "tei/brome-the-new-academy.xml"
+      ],
+      "ep000320": [
+        77,
+        "tei/brome-the-northern-lass.xml"
+      ],
+      "ep000807": [
+        77,
+        "tei/brome-the-novella.xml"
+      ],
+      "ep000813": [
+        77,
+        "tei/brome-the-queen-and-concubine.xml"
+      ],
+      "ep000467": [
+        77,
+        "tei/brome-the-queen-s-exchange.xml"
+      ],
+      "ep000321": [
+        77,
+        "tei/brome-the-sparagus-garden.xml"
+      ],
+      "ep000811": [
+        77,
+        "tei/brome-the-weeding-of-the-covent-garden.xml"
+      ],
+      "ep000468": [
+        71,
+        "tei/browne-physic-lies-a-bleeding.xml"
+      ],
+      "ep000470": [
+        71,
+        "tei/burnaby-the-reformed-wife.xml"
+      ],
+      "ep000471": [
+        77,
+        "tei/burnell-landgartha.xml"
+      ],
+      "ep000323": [
+        77,
+        "tei/campion-the-masque-at-lord-hay-s-marriage.xml"
+      ],
+      "ep000324": [
+        71,
+        "tei/campion-the-masque-at-the-earl-of-somerset-s-marriage.xml"
+      ],
+      "ep000816": [
+        77,
+        "tei/carew-coelum-britannicum.xml"
+      ],
+      "ep000326": [
+        77,
+        "tei/carlell-the-deserving-favorite.xml"
+      ],
+      "ep000493": [
+        71,
+        "tei/carlisle-the-fortune-hunters.xml"
+      ],
+      "ep000494": [
+        71,
+        "tei/carpenter-the-pragmatical-jesuit-new-leavened.xml"
+      ],
+      "ep000573": [
+        71,
+        "tei/carr-pluto-furens-et-vinctus.xml"
+      ],
+      "ep000503": [
+        71,
+        "tei/cartwright-the-heroic-lover.xml"
+      ],
+      "ep000327": [
+        77,
+        "tei/cartwright-the-royal-slave.xml"
+      ],
+      "ep000325": [
+        77,
+        "tei/cary-mariam-the-fair-queen-of-jewry.xml"
+      ],
+      "ep000570": [
+        71,
+        "tei/cary-the-marriage-night.xml"
+      ],
+      "ep000513": [
+        71,
+        "tei/caryl-sir-salomon.xml"
+      ],
+      "ep000512": [
+        71,
+        "tei/caryl-the-english-princess.xml"
+      ],
+      "ep000652": [
+        71,
+        "tei/cavendish-plays.xml"
+      ],
+      "ep000653": [
+        77,
+        "tei/cavendish-shirley-the-country-captain.xml"
+      ],
+      "ep000803": [
+        71,
+        "tei/cavendish-the-triumphant-widow.xml"
+      ],
+      "ep000654": [
+        77,
+        "tei/cavendish-the-variety.xml"
+      ],
+      "ep000482": [
+        71,
+        "tei/centlivre-the-perjured-husband.xml"
+      ],
+      "ep000329": [
+        77,
+        "tei/chamberlain-the-swaggering-damsel.xml"
+      ],
+      "ep000330": [
+        77,
+        "tei/chapman-all-fools.xml"
+      ],
+      "ep000339": [
+        77,
+        "tei/chapman-an-humorous-day-s-mirth.xml"
+      ],
+      "ep000332": [
+        77,
+        "tei/chapman-bussy-d-ambois.xml"
+      ],
+      "ep000342": [
+        77,
+        "tei/chapman-caesar-and-pompey-the-wars-of-caesar-and-pompey.xml"
+      ],
+      "ep000335": [
+        77,
+        "tei/chapman-jonson-marston-eastward-ho.xml"
+      ],
+      "ep000337": [
+        77,
+        "tei/chapman-may-day.xml"
+      ],
+      "ep000800": [
+        77,
+        "tei/chapman-monsieur-d-olive.xml"
+      ],
+      "ep000037": [
+        77,
+        "tei/chapman-sir-giles-goosecap.xml"
+      ],
+      "ep000331": [
+        77,
+        "tei/chapman-the-blind-beggar-of-alexandria.xml"
+      ],
+      "ep000333": [
+        77,
+        "tei/chapman-the-conspiracy-of-charles-duke-of-byron.xml"
+      ],
+      "ep000336": [
+        77,
+        "tei/chapman-the-gentleman-usher.xml"
+      ],
+      "ep000338": [
+        77,
+        "tei/chapman-the-masque-of-the-middle-temple-and-lincoln-s-inn.xml"
+      ],
+      "ep000340": [
+        77,
+        "tei/chapman-the-revenge-of-bussy-d-ambois.xml"
+      ],
+      "ep000334": [
+        77,
+        "tei/chapman-the-tragedy-of-charles-duke-of-byron.xml"
+      ],
+      "ep000343": [
+        77,
+        "tei/chapman-the-widow-s-tears.xml"
+      ],
+      "ep000341": [
+        77,
+        "tei/chapman-two-wise-men-and-all-the-rest-fools.xml"
+      ],
+      "ep000347": [
+        77,
+        "tei/chettle-hoffman.xml"
+      ],
+      "ep000025": [
+        71,
+        "tei/churchyard-garter-goldingham-the-entertainment-at-norwich.xml"
+      ],
+      "ep000348": [
+        71,
+        "tei/churchyard-garter-goldingham-the-entertainment-in-suffolk-and-norfolk.xml"
+      ],
+      "ep000486": [
+        71,
+        "tei/cibber-xerxes.xml"
+      ],
+      "ep000487": [
+        71,
+        "tei/clerke-marciano.xml"
+      ],
+      "ep000490": [
+        71,
+        "tei/congreve-the-double-dealer.xml"
+      ],
+      "ep000491": [
+        71,
+        "tei/congreve-the-mourning-bride.xml"
+      ],
+      "ep000492": [
+        71,
+        "tei/congreve-the-way-of-the-world.xml"
+      ],
+      "ep000351": [
+        77,
+        "tei/cooke-greene-s-tu-quoque.xml"
+      ],
+      "ep000499": [
+        71,
+        "tei/corneille-amorous-orontus.xml"
+      ],
+      "ep000496": [
+        71,
+        "tei/corneille-nicomede.xml"
+      ],
+      "ep000498": [
+        71,
+        "tei/corneille-pompey-the-great.xml"
+      ],
+      "ep000497": [
+        71,
+        "tei/corneille-pompey.xml"
+      ],
+      "ep000352": [
+        71,
+        "tei/corneille-the-cid-1.xml"
+      ],
+      "ep000495": [
+        71,
+        "tei/corye-the-generous-enemies.xml"
+      ],
+      "ep000501": [
+        71,
+        "tei/cowley-cutter-of-coleman-street.xml"
+      ],
+      "ep000354": [
+        77,
+        "tei/cowley-love-s-riddle.xml"
+      ],
+      "ep000502": [
+        71,
+        "tei/crauford-courtship-a-la-mode.xml"
+      ],
+      "ep000506": [
+        71,
+        "tei/crowe-the-destruction-of-jerusalem-by-titus-vespasian.xml"
+      ],
+      "ep000504": [
+        71,
+        "tei/crowne-calisto.xml"
+      ],
+      "ep000507": [
+        71,
+        "tei/crowne-charles-viii-of-france.xml"
+      ],
+      "ep000505": [
+        71,
+        "tei/crowne-darius-king-of-persia.xml"
+      ],
+      "ep000508": [
+        71,
+        "tei/crowne-juliana.xml"
+      ],
+      "ep000510": [
+        71,
+        "tei/crowne-sir-courtly-nice.xml"
+      ],
+      "ep000509": [
+        71,
+        "tei/crowne-the-misery-of-civil-war.xml"
+      ],
+      "ep000511": [
+        71,
+        "tei/crowne-thyestes.xml"
+      ],
+      "ep000322": [
+        77,
+        "tei/cumber-the-two-merry-milkmaids.xml"
+      ],
+      "ep000356": [
+        77,
+        "tei/d-the-knave-in-grain-new-vamped.xml"
+      ],
+      "ep000542": [
+        71,
+        "tei/d-urfey-a-commonwealth-of-women.xml"
+      ],
+      "ep000544": [
+        71,
+        "tei/d-urfey-a-fond-husband.xml"
+      ],
+      "ep000546": [
+        71,
+        "tei/d-urfey-a-fool-s-preferment.xml"
+      ],
+      "ep000551": [
+        71,
+        "tei/d-urfey-cinthia-and-endimion.xml"
+      ],
+      "ep000549": [
+        71,
+        "tei/d-urfey-love-for-money.xml"
+      ],
+      "ep000543": [
+        71,
+        "tei/d-urfey-massaniello-1-2.xml"
+      ],
+      "ep000554": [
+        71,
+        "tei/d-urfey-squire-oldsapp.xml"
+      ],
+      "ep000541": [
+        71,
+        "tei/d-urfey-the-comical-history-of-don-quixote-2.xml"
+      ],
+      "ep000545": [
+        71,
+        "tei/d-urfey-the-fool-turned-critic.xml"
+      ],
+      "ep000547": [
+        71,
+        "tei/d-urfey-the-injured-princess.xml"
+      ],
+      "ep000548": [
+        71,
+        "tei/d-urfey-the-intrigues-at-versailles.xml"
+      ],
+      "ep000550": [
+        71,
+        "tei/d-urfey-the-marriage-hater-matched.xml"
+      ],
+      "ep000552": [
+        71,
+        "tei/d-urfey-the-richmond-heiress.xml"
+      ],
+      "ep000553": [
+        71,
+        "tei/d-urfey-the-royalist.xml"
+      ],
+      "ep000555": [
+        71,
+        "tei/d-urfey-trick-for-trick.xml"
+      ],
+      "ep000358": [
+        77,
+        "tei/daborne-a-christian-turned-turk.xml"
+      ],
+      "ep000690": [
+        71,
+        "tei/dancer-agrippa-king-of-alba.xml"
+      ],
+      "ep000822": [
+        71,
+        "tei/daniel-certaine-small-poems-lately-printed-with-the-tragedie-of-philotas.xml"
+      ],
+      "ep000360": [
+        77,
+        "tei/daniel-cleopatra.xml"
+      ],
+      "ep000823": [
+        71,
+        "tei/daniel-delia.xml"
+      ],
+      "ep000361": [
+        77,
+        "tei/daniel-hymen-s-triumph.xml"
+      ],
+      "ep000359": [
+        77,
+        "tei/daniel-philotas.xml"
+      ],
+      "ep000362": [
+        77,
+        "tei/daniel-the-queen-s-arcadia.xml"
+      ],
+      "ep000363": [
+        77,
+        "tei/daniel-the-vision-of-the-twelve-goddesses.xml"
+      ],
+      "ep000367": [
+        77,
+        "tei/davenant-albovine-king-of-the-lombards.xml"
+      ],
+      "ep000087": [
+        77,
+        "tei/davenant-britannia-triumphans.xml"
+      ],
+      "ep000556": [
+        71,
+        "tei/davenant-circe.xml"
+      ],
+      "ep000134": [
+        71,
+        "tei/davenant-luminalia.xml"
+      ],
+      "ep000742": [
+        71,
+        "tei/davenant-macbeth.xml"
+      ],
+      "ep000366": [
+        77,
+        "tei/davenant-salmacida-spolia.xml"
+      ],
+      "ep000364": [
+        77,
+        "tei/davenant-the-cruel-brother.xml"
+      ],
+      "ep000365": [
+        77,
+        "tei/davenant-the-just-italian.xml"
+      ],
+      "ep000557": [
+        71,
+        "tei/davenant-the-siege-of-rhodes-1-2.xml"
+      ],
+      "ep000744": [
+        71,
+        "tei/davenant-the-tempest.xml"
+      ],
+      "ep000088": [
+        77,
+        "tei/davenant-the-temple-of-love.xml"
+      ],
+      "ep000368": [
+        71,
+        "tei/davenant-the-triumphs-of-the-prince-d-amour.xml"
+      ],
+      "ep000369": [
+        77,
+        "tei/davenant-the-wits.xml"
+      ],
+      "ep000370": [
+        77,
+        "tei/davenport-a-new-trick-to-cheat-the-devil.xml"
+      ],
+      "ep000371": [
+        77,
+        "tei/day-humor-out-of-breath.xml"
+      ],
+      "ep000373": [
+        77,
+        "tei/day-law-tricks.xml"
+      ],
+      "ep000372": [
+        77,
+        "tei/day-the-isle-of-gulls.xml"
+      ],
+      "ep000558": [
+        77,
+        "tei/day-the-parliament-of-bees.xml"
+      ],
+      "ep000374": [
+        77,
+        "tei/day-wilkins-rowley-the-travels-of-the-three-english-brothers.xml"
+      ],
+      "ep000181": [
+        77,
+        "tei/dekker-blurt-master-constable.xml"
+      ],
+      "ep000375": [
+        71,
+        "tei/dekker-britannia-s-honour.xml"
+      ],
+      "ep000381": [
+        77,
+        "tei/dekker-chettle-haughton-patient-grissel.xml"
+      ],
+      "ep000638": [
+        77,
+        "tei/dekker-ford-middleton-rowley-the-spanish-gypsy.xml"
+      ],
+      "ep000569": [
+        77,
+        "tei/dekker-ford-the-sun-s-darling.xml"
+      ],
+      "ep000612": [
+        77,
+        "tei/dekker-haughton-day-lust-s-dominion.xml"
+      ],
+      "ep000378": [
+        77,
+        "tei/dekker-if-it-be-not-good-the-devil-is-in-it.xml"
+      ],
+      "ep000174": [
+        77,
+        "tei/dekker-massinger-the-virgin-martyr.xml"
+      ],
+      "ep000384": [
+        77,
+        "tei/dekker-match-me-in-london.xml"
+      ],
+      "ep000357": [
+        77,
+        "tei/dekker-middleton-the-bloody-banquet.xml"
+      ],
+      "ep000376": [
+        77,
+        "tei/dekker-middleton-the-honest-whore-1.xml"
+      ],
+      "ep000199": [
+        77,
+        "tei/dekker-middleton-the-roaring-girl.xml"
+      ],
+      "ep000380": [
+        77,
+        "tei/dekker-old-fortunatus.xml"
+      ],
+      "ep000693": [
+        77,
+        "tei/dekker-rowley-ford-the-witch-of-edmonton.xml"
+      ],
+      "ep000382": [
+        77,
+        "tei/dekker-satiromastix.xml"
+      ],
+      "ep000377": [
+        77,
+        "tei/dekker-the-honest-whore-2.xml"
+      ],
+      "ep000379": [
+        71,
+        "tei/dekker-the-magnificent-entertainment-given-to-king-james.xml"
+      ],
+      "ep000235": [
+        77,
+        "tei/dekker-the-noble-spanish-soldier.xml"
+      ],
+      "ep000383": [
+        77,
+        "tei/dekker-the-shoemaker-s-holiday.xml"
+      ],
+      "ep000386": [
+        71,
+        "tei/dekker-the-whore-of-babylon.xml"
+      ],
+      "ep000387": [
+        77,
+        "tei/dekker-the-wonder-of-a-kingdom.xml"
+      ],
+      "ep000385": [
+        71,
+        "tei/dekker-troia-nova-triumphans.xml"
+      ],
+      "ep000050": [
+        71,
+        "tei/dekker-webster-harrison-arches-of-triumph.xml"
+      ],
+      "ep000389": [
+        77,
+        "tei/dekker-webster-northward-ho.xml"
+      ],
+      "ep000388": [
+        77,
+        "tei/dekker-webster-the-famous-history-of-sir-thomas-wyatt.xml"
+      ],
+      "ep000390": [
+        77,
+        "tei/dekker-webster-westward-ho.xml"
+      ],
+      "ep000514": [
+        77,
+        "tei/denham-the-sophy.xml"
+      ],
+      "ep000515": [
+        71,
+        "tei/dennis-iphigenia.xml"
+      ],
+      "ep000516": [
+        71,
+        "tei/dennis-rinaldo-and-armida.xml"
+      ],
+      "ep000353": [
+        71,
+        "tei/desfontaines-the-cid-2.xml"
+      ],
+      "ep000461": [
+        71,
+        "tei/digby-elvira.xml"
+      ],
+      "ep000517": [
+        71,
+        "tei/dilke-the-lover-s-luck.xml"
+      ],
+      "ep000518": [
+        71,
+        "tei/doggett-the-country-wake.xml"
+      ],
+      "ep000028": [
+        71,
+        "tei/dolce-jocasta.xml"
+      ],
+      "ep000519": [
+        71,
+        "tei/drake-the-sham-lawyer.xml"
+      ],
+      "ep000391": [
+        77,
+        "tei/drue-the-duchess-of-suffolk.xml"
+      ],
+      "ep000345": [
+        71,
+        "tei/drummond-the-entertainment-at-edinburgh.xml"
+      ],
+      "ep000520": [
+        71,
+        "tei/dryden-albion-albanius.xml"
+      ],
+      "ep000521": [
+        71,
+        "tei/dryden-amboyna.xml"
+      ],
+      "ep000802": [
+        71,
+        "tei/dryden-amphitryon.xml"
+      ],
+      "ep000525": [
+        71,
+        "tei/dryden-an-evening-s-love.xml"
+      ],
+      "ep000523": [
+        71,
+        "tei/dryden-aureng-zebe.xml"
+      ],
+      "ep000524": [
+        71,
+        "tei/dryden-cleomenes-the-spartan-hero.xml"
+      ],
+      "ep000526": [
+        71,
+        "tei/dryden-love-triumphant.xml"
+      ],
+      "ep000527": [
+        71,
+        "tei/dryden-marriage-a-la-mode.xml"
+      ],
+      "ep000529": [
+        71,
+        "tei/dryden-oedipus.xml"
+      ],
+      "ep000530": [
+        71,
+        "tei/dryden-sir-martin-mar-all.xml"
+      ],
+      "ep000522": [
+        71,
+        "tei/dryden-the-assignation.xml"
+      ],
+      "ep000535": [
+        71,
+        "tei/dryden-the-husband-his-own-cuckold.xml"
+      ],
+      "ep000531": [
+        71,
+        "tei/dryden-the-spanish-friar.xml"
+      ],
+      "ep000532": [
+        71,
+        "tei/dryden-the-state-of-innocence-and-fall-of-man.xml"
+      ],
+      "ep000533": [
+        71,
+        "tei/dryden-troilus-and-cressida.xml"
+      ],
+      "ep000534": [
+        71,
+        "tei/dryden-tyrannic-love.xml"
+      ],
+      "ep000537": [
+        71,
+        "tei/duffett-beauty-s-triumph.xml"
+      ],
+      "ep000540": [
+        71,
+        "tei/duffett-psyche-debauched.xml"
+      ],
+      "ep000538": [
+        71,
+        "tei/duffett-the-empress-of-morocco.xml"
+      ],
+      "ep000539": [
+        71,
+        "tei/duffett-the-mock-tempest.xml"
+      ],
+      "ep000559": [
+        71,
+        "tei/ecclestone-noah-s-flood.xml"
+      ],
+      "ep000561": [
+        71,
+        "tei/etherege-the-comical-revenge.xml"
+      ],
+      "ep000571": [
+        71,
+        "tei/fane-love-in-the-dark.xml"
+      ],
+      "ep000572": [
+        71,
+        "tei/fane-the-sacrifice.xml"
+      ],
+      "ep000575": [
+        71,
+        "tei/farquhar-love-and-a-bottle.xml"
+      ],
+      "ep000574": [
+        71,
+        "tei/farquhar-the-constant-couple.xml"
+      ],
+      "ep000003": [
+        77,
+        "tei/field-a-woman-is-a-weathercock.xml"
+      ],
+      "ep000002": [
+        77,
+        "tei/field-amends-for-ladies.xml"
+      ],
+      "ep000424": [
+        77,
+        "tei/field-fletcher-massinger-the-knight-of-malta.xml"
+      ],
+      "ep000428": [
+        77,
+        "tei/field-fletcher-massinger-the-queen-of-corinth.xml"
+      ],
+      "ep000427": [
+        77,
+        "tei/field-massinger-fletcher-the-honest-man-s-fortune.xml"
+      ],
+      "ep000175": [
+        77,
+        "tei/field-massinger-the-fatal-dowry.xml"
+      ],
+      "ep000004": [
+        77,
+        "tei/fisher-fuimus-troes.xml"
+      ],
+      "ep000564": [
+        71,
+        "tei/flecknoe-erminia.xml"
+      ],
+      "ep000565": [
+        71,
+        "tei/flecknoe-love-s-kingdom.xml"
+      ],
+      "ep000563": [
+        71,
+        "tei/flecknoe-the-damoiselles-a-la-mode.xml"
+      ],
+      "ep000430": [
+        77,
+        "tei/fletcher-a-wife-for-a-month.xml"
+      ],
+      "ep000407": [
+        77,
+        "tei/fletcher-beaumont-the-captain.xml"
+      ],
+      "ep000406": [
+        77,
+        "tei/fletcher-beaumont-the-noble-gentleman.xml"
+      ],
+      "ep000420": [
+        77,
+        "tei/fletcher-bonduca.xml"
+      ],
+      "ep000435": [
+        77,
+        "tei/fletcher-field-four-plays.xml"
+      ],
+      "ep000433": [
+        77,
+        "tei/fletcher-ford-massinger-webster-the-fair-maid-of-the-inn.xml"
+      ],
+      "ep000632": [
+        77,
+        "tei/fletcher-massinger-a-very-woman.xml"
+      ],
+      "ep000005": [
+        77,
+        "tei/fletcher-massinger-the-bloody-brother-rollo-duke-of-normandy.xml"
+      ],
+      "ep000405": [
+        77,
+        "tei/fletcher-massinger-the-custom-of-the-country.xml"
+      ],
+      "ep000422": [
+        77,
+        "tei/fletcher-massinger-the-double-marriage.xml"
+      ],
+      "ep000006": [
+        77,
+        "tei/fletcher-massinger-the-elder-brother.xml"
+      ],
+      "ep000410": [
+        77,
+        "tei/fletcher-massinger-the-false-one.xml"
+      ],
+      "ep000404": [
+        77,
+        "tei/fletcher-massinger-the-little-french-lawyer.xml"
+      ],
+      "ep000419": [
+        77,
+        "tei/fletcher-massinger-the-prophetess.xml"
+      ],
+      "ep000421": [
+        77,
+        "tei/fletcher-massinger-the-sea-voyage.xml"
+      ],
+      "ep000403": [
+        77,
+        "tei/fletcher-massinger-the-spanish-curate.xml"
+      ],
+      "ep000414": [
+        77,
+        "tei/fletcher-massinger-the-wandering-lovers.xml"
+      ],
+      "ep000418": [
+        77,
+        "tei/fletcher-rowley-the-maid-in-the-mill.xml"
+      ],
+      "ep000009": [
+        77,
+        "tei/fletcher-rule-a-wife-and-have-a-wife.xml"
+      ],
+      "ep000008": [
+        77,
+        "tei/fletcher-shirley-the-night-walker.xml"
+      ],
+      "ep000012": [
+        77,
+        "tei/fletcher-sicelides.xml"
+      ],
+      "ep000411": [
+        77,
+        "tei/fletcher-the-chances.xml"
+      ],
+      "ep000007": [
+        77,
+        "tei/fletcher-the-faithful-shepherdess.xml"
+      ],
+      "ep000416": [
+        77,
+        "tei/fletcher-the-humorous-lieutenant.xml"
+      ],
+      "ep000415": [
+        77,
+        "tei/fletcher-the-island-princess.xml"
+      ],
+      "ep000412": [
+        77,
+        "tei/fletcher-the-loyal-subject.xml"
+      ],
+      "ep000402": [
+        77,
+        "tei/fletcher-the-mad-lover.xml"
+      ],
+      "ep000423": [
+        77,
+        "tei/fletcher-the-pilgrim.xml"
+      ],
+      "ep000438": [
+        77,
+        "tei/fletcher-the-wild-goose-chase.xml"
+      ],
+      "ep000425": [
+        77,
+        "tei/fletcher-the-woman-s-prize.xml"
+      ],
+      "ep000432": [
+        77,
+        "tei/fletcher-valentinian.xml"
+      ],
+      "ep000439": [
+        71,
+        "tei/fletcher-wit-without-money.xml"
+      ],
+      "ep000429": [
+        77,
+        "tei/fletcher-women-pleased.xml"
+      ],
+      "ep000018": [
+        77,
+        "tei/ford-love-s-sacrifice.xml"
+      ],
+      "ep000014": [
+        77,
+        "tei/ford-perkin-warbeck.xml"
+      ],
+      "ep000013": [
+        77,
+        "tei/ford-the-broken-heart.xml"
+      ],
+      "ep000015": [
+        77,
+        "tei/ford-the-fancies-chaste-and-noble.xml"
+      ],
+      "ep000016": [
+        77,
+        "tei/ford-the-lady-s-trial.xml"
+      ],
+      "ep000413": [
+        77,
+        "tei/ford-the-laws-of-candy.xml"
+      ],
+      "ep000017": [
+        77,
+        "tei/ford-the-lover-s-melancholy.xml"
+      ],
+      "ep000689": [
+        77,
+        "tei/ford-the-queen.xml"
+      ],
+      "ep000019": [
+        77,
+        "tei/ford-tis-pity-she-s-a-whore.xml"
+      ],
+      "ep000020": [
+        77,
+        "tei/freeman-imperiale.xml"
+      ],
+      "ep000021": [
+        77,
+        "tei/fulwel-like-will-to-like.xml"
+      ],
+      "ep000024": [
+        71,
+        "tei/garnier-antonius.xml"
+      ],
+      "ep000023": [
+        71,
+        "tei/garnier-cornelia.xml"
+      ],
+      "ep000026": [
+        77,
+        "tei/garter-the-most-virtuous-and-godly-susanna.xml"
+      ],
+      "ep000826": [
+        71,
+        "tei/gascoigne-a-hundreth-sundrie-flowres-bounde-vp-in-one-small-poesie.xml"
+      ],
+      "ep000396": [
+        71,
+        "tei/gascoigne-lee-the-queen-s-entertainment-at-woodstock.xml"
+      ],
+      "ep000029": [
+        77,
+        "tei/gascoigne-the-glass-of-government.xml"
+      ],
+      "ep000743": [
+        71,
+        "tei/gildon-measure-for-measure.xml"
+      ],
+      "ep000033": [
+        77,
+        "tei/glapthorne-albertus-wallenstein.xml"
+      ],
+      "ep000030": [
+        77,
+        "tei/glapthorne-argalus-and-parthenia.xml"
+      ],
+      "ep000484": [
+        77,
+        "tei/glapthorne-revenge-for-honor.xml"
+      ],
+      "ep000031": [
+        77,
+        "tei/glapthorne-the-hollander.xml"
+      ],
+      "ep000032": [
+        77,
+        "tei/glapthorne-the-ladies-privilege.xml"
+      ],
+      "ep000034": [
+        77,
+        "tei/glapthorne-wit-in-a-constable.xml"
+      ],
+      "ep000035": [
+        77,
+        "tei/goffe-orestes.xml"
+      ],
+      "ep000576": [
+        77,
+        "tei/goffe-the-careless-shepherdess.xml"
+      ],
+      "ep000036": [
+        77,
+        "tei/gomersall-lodovick-sforza.xml"
+      ],
+      "ep000038": [
+        77,
+        "tei/gough-the-strange-discovery.xml"
+      ],
+      "ep000577": [
+        71,
+        "tei/gould-the-rival-sisters.xml"
+      ],
+      "ep000613": [
+        71,
+        "tei/granville-heroic-love.xml"
+      ],
+      "ep000614": [
+        71,
+        "tei/granville-the-she-gallants.xml"
+      ],
+      "ep000040": [
+        77,
+        "tei/greene-alphonsus-king-of-aragon.xml"
+      ],
+      "ep000042": [
+        77,
+        "tei/greene-friar-bacon-and-friar-bongay.xml"
+      ],
+      "ep000039": [
+        77,
+        "tei/greene-george-a-green-the-pinner-of-wakefield.xml"
+      ],
+      "ep000041": [
+        77,
+        "tei/greene-orlando-furioso.xml"
+      ],
+      "ep000793": [
+        77,
+        "tei/greene-selimus-1.xml"
+      ],
+      "ep000043": [
+        77,
+        "tei/greene-the-scottish-history-of-james-the-fourth.xml"
+      ],
+      "ep000044": [
+        77,
+        "tei/greville-alaham.xml"
+      ],
+      "ep000045": [
+        77,
+        "tei/greville-mustapha.xml"
+      ],
+      "ep000046": [
+        71,
+        "tei/grotius-christ-s-passion.xml"
+      ],
+      "ep000047": [
+        71,
+        "tei/guarini-il-pastor-fido-1602.xml"
+      ],
+      "ep000579": [
+        71,
+        "tei/guarini-il-pastor-fido-1647.xml"
+      ],
+      "ep000048": [
+        77,
+        "tei/habington-the-queen-of-aragon.xml"
+      ],
+      "ep000049": [
+        77,
+        "tei/harding-sicily-and-naples.xml"
+      ],
+      "ep000591": [
+        71,
+        "tei/harris-the-city-bride.xml"
+      ],
+      "ep000592": [
+        71,
+        "tei/harris-the-mistakes.xml"
+      ],
+      "ep000051": [
+        77,
+        "tei/haughton-englishmen-for-my-money.xml"
+      ],
+      "ep000814": [
+        77,
+        "tei/hausted-the-rival-friends.xml"
+      ],
+      "ep000052": [
+        77,
+        "tei/hawkins-apollo-shroving.xml"
+      ],
+      "ep000581": [
+        71,
+        "tei/haynes-a-fatal-mistake.xml"
+      ],
+      "ep000055": [
+        77,
+        "tei/heywood-a-challenge-for-beauty.xml"
+      ],
+      "ep000073": [
+        71,
+        "tei/heywood-a-maidenhead-well-lost.xml"
+      ],
+      "ep000078": [
+        77,
+        "tei/heywood-a-woman-killed-with-kindness.xml"
+      ],
+      "ep000079": [
+        77,
+        "tei/heywood-brome-the-late-lancashire-witches.xml"
+      ],
+      "ep000066": [
+        77,
+        "tei/heywood-edward-the-fourth-1.xml"
+      ],
+      "ep000350": [
+        77,
+        "tei/heywood-how-a-man-may-choose-a-good-wife-from-a-bad.xml"
+      ],
+      "ep000062": [
+        77,
+        "tei/heywood-if-you-know-not-me-you-know-nobody-1.xml"
+      ],
+      "ep000063": [
+        77,
+        "tei/heywood-if-you-know-not-me-you-know-nobody-2.xml"
+      ],
+      "ep000067": [
+        71,
+        "tei/heywood-londini-artium-et-scientiarum-scaturigo.xml"
+      ],
+      "ep000068": [
+        71,
+        "tei/heywood-londini-emporia.xml"
+      ],
+      "ep000069": [
+        71,
+        "tei/heywood-londini-speculum.xml"
+      ],
+      "ep000070": [
+        71,
+        "tei/heywood-londini-status-pacatus.xml"
+      ],
+      "ep000071": [
+        71,
+        "tei/heywood-london-s-ius-honorarium.xml"
+      ],
+      "ep000072": [
+        77,
+        "tei/heywood-love-s-mistress.xml"
+      ],
+      "ep000074": [
+        71,
+        "tei/heywood-porta-pietatis.xml"
+      ],
+      "ep000580": [
+        77,
+        "tei/heywood-rowley-fortune-by-land-and-sea.xml"
+      ],
+      "ep000054": [
+        77,
+        "tei/heywood-the-brazen-age.xml"
+      ],
+      "ep000056": [
+        77,
+        "tei/heywood-the-english-traveller.xml"
+      ],
+      "ep000057": [
+        77,
+        "tei/heywood-the-fair-maid-of-the-exchange.xml"
+      ],
+      "ep000058": [
+        77,
+        "tei/heywood-the-fair-maid-of-the-west-1.xml"
+      ],
+      "ep000059": [
+        77,
+        "tei/heywood-the-fair-maid-of-the-west-2.xml"
+      ],
+      "ep000060": [
+        77,
+        "tei/heywood-the-four-prentices-of-london.xml"
+      ],
+      "ep000061": [
+        77,
+        "tei/heywood-the-golden-age.xml"
+      ],
+      "ep000064": [
+        77,
+        "tei/heywood-the-iron-age-1.xml"
+      ],
+      "ep000065": [
+        77,
+        "tei/heywood-the-iron-age-2.xml"
+      ],
+      "ep000075": [
+        77,
+        "tei/heywood-the-rape-of-lucrece.xml"
+      ],
+      "ep000076": [
+        77,
+        "tei/heywood-the-royal-king-and-the-loyal-subject.xml"
+      ],
+      "ep000077": [
+        77,
+        "tei/heywood-the-wise-woman-of-hogsdon.xml"
+      ],
+      "ep000582": [
+        71,
+        "tei/higden-the-wary-widow.xml"
+      ],
+      "ep000082": [
+        77,
+        "tei/holiday-technogamia.xml"
+      ],
+      "ep000588": [
+        71,
+        "tei/howard-all-mistaken.xml"
+      ],
+      "ep000589": [
+        71,
+        "tei/howard-the-english-monsieur.xml"
+      ],
+      "ep000584": [
+        71,
+        "tei/howard-the-man-of-newmarket.xml"
+      ],
+      "ep000585": [
+        71,
+        "tei/howard-the-six-days-adventure.xml"
+      ],
+      "ep000586": [
+        71,
+        "tei/howard-the-usurper.xml"
+      ],
+      "ep000587": [
+        71,
+        "tei/howard-the-women-s-conquest.xml"
+      ],
+      "ep000083": [
+        77,
+        "tei/hughes-the-misfortunes-of-arthur.xml"
+      ],
+      "ep000590": [
+        71,
+        "tei/hurtado-de-mendoza-to-love-only-for-love-s-sake.xml"
+      ],
+      "ep000602": [
+        71,
+        "tei/jevon-the-devil-of-a-wife.xml"
+      ],
+      "ep000089": [
+        77,
+        "tei/jones-adrasta.xml"
+      ],
+      "ep000101": [
+        77,
+        "tei/jonson-bartholomew-fair.xml"
+      ],
+      "ep000099": [
+        77,
+        "tei/jonson-catiline-his-conspiracy.xml"
+      ],
+      "ep000106": [
+        77,
+        "tei/jonson-chloridia.xml"
+      ],
+      "ep000093": [
+        77,
+        "tei/jonson-cynthia-s-revels.xml"
+      ],
+      "ep000097": [
+        71,
+        "tei/jonson-epicoene-or-the-silent-woman-A04632_07.xml"
+      ],
+      "ep000107": [
+        77,
+        "tei/jonson-epicoene-or-the-silent-woman-A04645.xml"
+      ],
+      "ep000091": [
+        77,
+        "tei/jonson-every-man-in-his-humour.xml"
+      ],
+      "ep000092": [
+        71,
+        "tei/jonson-every-man-out-of-his-humor.xml"
+      ],
+      "ep000108": [
+        77,
+        "tei/jonson-every-man-out-of-his-humour.xml"
+      ],
+      "ep000110": [
+        77,
+        "tei/jonson-hymenaei.xml"
+      ],
+      "ep000103": [
+        71,
+        "tei/jonson-king-james-his-royal-and-magnificent-entertainment.xml"
+      ],
+      "ep000111": [
+        77,
+        "tei/jonson-love-s-triumph-through-callipolis.xml"
+      ],
+      "ep000112": [
+        77,
+        "tei/jonson-neptune-s-triumph-for-the-return-of-albion.xml"
+      ],
+      "ep000094": [
+        77,
+        "tei/jonson-poetaster.xml"
+      ],
+      "ep000095": [
+        77,
+        "tei/jonson-sejanus-his-fall.xml"
+      ],
+      "ep000098": [
+        77,
+        "tei/jonson-the-alchemist.xml"
+      ],
+      "ep000104": [
+        77,
+        "tei/jonson-the-case-is-altered.xml"
+      ],
+      "ep000105": [
+        77,
+        "tei/jonson-the-characters-of-two-royal-masques.xml"
+      ],
+      "ep000593": [
+        77,
+        "tei/jonson-the-devil-is-an-ass.xml"
+      ],
+      "ep000100": [
+        77,
+        "tei/jonson-the-entertainment-of-the-queen-and-prince-at-althorp.xml"
+      ],
+      "ep000109": [
+        77,
+        "tei/jonson-the-fortunate-isles-and-their-union.xml"
+      ],
+      "ep000113": [
+        77,
+        "tei/jonson-the-new-inn.xml"
+      ],
+      "ep000102": [
+        77,
+        "tei/jonson-the-staple-of-news.xml"
+      ],
+      "ep000090": [
+        71,
+        "tei/jonson-the-works.xml"
+      ],
+      "ep000096": [
+        77,
+        "tei/jonson-volpone.xml"
+      ],
+      "ep000596": [
+        71,
+        "tei/jordan-london-in-its-splendour.xml"
+      ],
+      "ep000597": [
+        71,
+        "tei/jordan-london-in-lustre.xml"
+      ],
+      "ep000598": [
+        71,
+        "tei/jordan-london-s-resurrection-to-joy-and-triumph.xml"
+      ],
+      "ep000599": [
+        71,
+        "tei/jordan-london-s-triumphs.xml"
+      ],
+      "ep000595": [
+        71,
+        "tei/jordan-the-goldsmiths-jubilee.xml"
+      ],
+      "ep000600": [
+        71,
+        "tei/jordan-the-triumphs-of-london.xml"
+      ],
+      "ep000601": [
+        71,
+        "tei/jordan-triumphs-of-london.xml"
+      ],
+      "ep000605": [
+        77,
+        "tei/killigrew-claricilla.xml"
+      ],
+      "ep000114": [
+        77,
+        "tei/killigrew-the-conspiracy.xml"
+      ],
+      "ep000607": [
+        71,
+        "tei/killigrew-the-imperial-tragedy.xml"
+      ],
+      "ep000604": [
+        77,
+        "tei/killigrew-the-parson-s-wedding.xml"
+      ],
+      "ep000603": [
+        77,
+        "tei/killigrew-the-princess.xml"
+      ],
+      "ep000606": [
+        77,
+        "tei/killigrew-the-prisoners.xml"
+      ],
+      "ep000115": [
+        77,
+        "tei/kirke-the-seven-champions-of-christendom.xml"
+      ],
+      "ep000786": [
+        71,
+        "tei/kirkman-the-wits-1.xml"
+      ],
+      "ep000118": [
+        77,
+        "tei/knevet-rhodon-and-iris.xml"
+      ],
+      "ep000285": [
+        77,
+        "tei/kyd-soliman-and-perseda.xml"
+      ],
+      "ep000120": [
+        77,
+        "tei/kyd-the-spanish-tragedy.xml"
+      ],
+      "ep000121": [
+        77,
+        "tei/kynaston-corona-minervae.xml"
+      ],
+      "ep000610": [
+        71,
+        "tei/lacy-sauny-the-scot.xml"
+      ],
+      "ep000611": [
+        71,
+        "tei/lacy-sir-hercules-buffoon.xml"
+      ],
+      "ep000608": [
+        71,
+        "tei/lacy-the-dumb-lady.xml"
+      ],
+      "ep000609": [
+        71,
+        "tei/lacy-the-old-troop.xml"
+      ],
+      "ep000616": [
+        71,
+        "tei/leanerd-the-rambling-justice.xml"
+      ],
+      "ep000617": [
+        71,
+        "tei/lee-caesar-borgia-son-of-pope-alexander-vi.xml"
+      ],
+      "ep000618": [
+        71,
+        "tei/lee-constantine-the-great.xml"
+      ],
+      "ep000619": [
+        71,
+        "tei/lee-gloriana.xml"
+      ],
+      "ep000620": [
+        71,
+        "tei/lee-lucius-junius-brutus-father-of-his-country.xml"
+      ],
+      "ep000622": [
+        71,
+        "tei/lee-mithridates-king-of-pontus.xml"
+      ],
+      "ep000627": [
+        71,
+        "tei/lee-nero-emperor-of-rome.xml"
+      ],
+      "ep000625": [
+        71,
+        "tei/lee-sophonisba.xml"
+      ],
+      "ep000621": [
+        71,
+        "tei/lee-the-massacre-of-paris.xml"
+      ],
+      "ep000623": [
+        71,
+        "tei/lee-the-princess-of-cleve.xml"
+      ],
+      "ep000624": [
+        71,
+        "tei/lee-the-rival-queens.xml"
+      ],
+      "ep000626": [
+        71,
+        "tei/lee-theodosius.xml"
+      ],
+      "ep000126": [
+        77,
+        "tei/lodge-the-wounds-of-civil-war.xml"
+      ],
+      "ep000133": [
+        77,
+        "tei/lower-the-phoenix-in-her-flames.xml"
+      ],
+      "ep000136": [
+        77,
+        "tei/lupton-all-for-money.xml"
+      ],
+      "ep000137": [
+        77,
+        "tei/lyly-campaspe.xml"
+      ],
+      "ep000138": [
+        77,
+        "tei/lyly-endymion.xml"
+      ],
+      "ep000139": [
+        77,
+        "tei/lyly-gallathea.xml"
+      ],
+      "ep000140": [
+        77,
+        "tei/lyly-love-s-metamorphosis.xml"
+      ],
+      "ep000141": [
+        77,
+        "tei/lyly-midas.xml"
+      ],
+      "ep000142": [
+        77,
+        "tei/lyly-mother-bombie.xml"
+      ],
+      "ep000143": [
+        77,
+        "tei/lyly-sappho-and-phao.xml"
+      ],
+      "ep000144": [
+        77,
+        "tei/lyly-the-woman-in-the-moon.xml"
+      ],
+      "ep000158": [
+        77,
+        "tei/machin-barkstead-marston-the-insatiate-countess.xml"
+      ],
+      "ep000642": [
+        71,
+        "tei/maidwell-the-loving-enemies.xml"
+      ],
+      "ep000146": [
+        77,
+        "tei/markham-sampson-herod-and-antipater.xml"
+      ],
+      "ep000150": [
+        77,
+        "tei/marlowe-dr-faustus.xml"
+      ],
+      "ep000151": [
+        77,
+        "tei/marlowe-edward-the-second.xml"
+      ],
+      "ep000152": [
+        77,
+        "tei/marlowe-nashe-dido-queen-of-carthage.xml"
+      ],
+      "ep000149": [
+        77,
+        "tei/marlowe-tamburlaine-1.xml"
+      ],
+      "ep000147": [
+        77,
+        "tei/marlowe-the-jew-of-malta.xml"
+      ],
+      "ep000148": [
+        77,
+        "tei/marlowe-the-massacre-at-paris.xml"
+      ],
+      "ep000153": [
+        77,
+        "tei/marmion-a-fine-companion.xml"
+      ],
+      "ep000154": [
+        77,
+        "tei/marmion-holland-s-leaguer.xml"
+      ],
+      "ep000155": [
+        77,
+        "tei/marston-antonio-and-mellida.xml"
+      ],
+      "ep000156": [
+        77,
+        "tei/marston-antonio-s-revenge.xml"
+      ],
+      "ep000080": [
+        77,
+        "tei/marston-histriomastix.xml"
+      ],
+      "ep000392": [
+        77,
+        "tei/marston-jack-drum-s-entertainment.xml"
+      ],
+      "ep000160": [
+        77,
+        "tei/marston-parasitaster.xml"
+      ],
+      "ep000157": [
+        77,
+        "tei/marston-the-dutch-courtesan.xml"
+      ],
+      "ep000159": [
+        77,
+        "tei/marston-the-malcontent.xml"
+      ],
+      "ep000162": [
+        77,
+        "tei/marston-the-wonder-of-women.xml"
+      ],
+      "ep000161": [
+        77,
+        "tei/marston-what-you-will.xml"
+      ],
+      "ep000163": [
+        77,
+        "tei/mason-the-turk.xml"
+      ],
+      "ep000169": [
+        77,
+        "tei/massinger-a-new-way-to-pay-old-debts.xml"
+      ],
+      "ep000630": [
+        77,
+        "tei/massinger-the-bashful-lover.xml"
+      ],
+      "ep000164": [
+        77,
+        "tei/massinger-the-bondman.xml"
+      ],
+      "ep000628": [
+        77,
+        "tei/massinger-the-city-madam.xml"
+      ],
+      "ep000165": [
+        77,
+        "tei/massinger-the-duke-of-milan.xml"
+      ],
+      "ep000166": [
+        77,
+        "tei/massinger-the-emperor-of-the-east.xml"
+      ],
+      "ep000167": [
+        77,
+        "tei/massinger-the-great-duke-of-florence.xml"
+      ],
+      "ep000631": [
+        77,
+        "tei/massinger-the-guardian.xml"
+      ],
+      "ep000168": [
+        77,
+        "tei/massinger-the-maid-of-honour.xml"
+      ],
+      "ep000170": [
+        77,
+        "tei/massinger-the-picture.xml"
+      ],
+      "ep000171": [
+        77,
+        "tei/massinger-the-renegado.xml"
+      ],
+      "ep000172": [
+        77,
+        "tei/massinger-the-roman-actor.xml"
+      ],
+      "ep000173": [
+        77,
+        "tei/massinger-the-unnatural-combat.xml"
+      ],
+      "ep000177": [
+        77,
+        "tei/may-antigone-the-theban-princess.xml"
+      ],
+      "ep000178": [
+        77,
+        "tei/may-cleopatra-queen-of-egypt.xml"
+      ],
+      "ep000179": [
+        77,
+        "tei/may-julia-agrippina-empress-of-rome.xml"
+      ],
+      "ep000176": [
+        77,
+        "tei/may-the-heir.xml"
+      ],
+      "ep000180": [
+        77,
+        "tei/mayne-the-city-match.xml"
+      ],
+      "ep000182": [
+        77,
+        "tei/middleton-a-chaste-maid-in-cheapside.xml"
+      ],
+      "ep000185": [
+        77,
+        "tei/middleton-a-game-at-chess.xml"
+      ],
+      "ep000188": [
+        77,
+        "tei/middleton-a-mad-world-my-masters.xml"
+      ],
+      "ep000192": [
+        77,
+        "tei/middleton-a-trick-to-catch-the-old-one.xml"
+      ],
+      "ep000259": [
+        77,
+        "tei/middleton-a-yorkshire-tragedy.xml"
+      ],
+      "ep000634": [
+        77,
+        "tei/middleton-anything-for-a-quiet-life.xml"
+      ],
+      "ep000183": [
+        71,
+        "tei/middleton-civitatis-amor.xml"
+      ],
+      "ep000417": [
+        77,
+        "tei/middleton-fletcher-the-nice-valor.xml"
+      ],
+      "ep000186": [
+        71,
+        "tei/middleton-honorable-entertainments.xml"
+      ],
+      "ep000189": [
+        77,
+        "tei/middleton-michaelmas-term.xml"
+      ],
+      "ep000639": [
+        77,
+        "tei/middleton-more-dissemblers-besides-women.xml"
+      ],
+      "ep000629": [
+        77,
+        "tei/middleton-rowley-heywood-the-old-law.xml"
+      ],
+      "ep000635": [
+        77,
+        "tei/middleton-rowley-the-changeling.xml"
+      ],
+      "ep000200": [
+        77,
+        "tei/middleton-rowley-the-world-tossed-at-tennis.xml"
+      ],
+      "ep000431": [
+        77,
+        "tei/middleton-rowley-wit-at-several-weapons.xml"
+      ],
+      "ep000184": [
+        77,
+        "tei/middleton-the-family-of-love.xml"
+      ],
+      "ep000187": [
+        77,
+        "tei/middleton-the-inner-temple-masque.xml"
+      ],
+      "ep000637": [
+        77,
+        "tei/middleton-the-mayor-of-quinborough.xml"
+      ],
+      "ep000190": [
+        77,
+        "tei/middleton-the-phoenix.xml"
+      ],
+      "ep000243": [
+        77,
+        "tei/middleton-the-puritan.xml"
+      ],
+      "ep000296": [
+        77,
+        "tei/middleton-the-revenger-s-tragedy.xml"
+      ],
+      "ep000191": [
+        71,
+        "tei/middleton-the-sun-in-aries.xml"
+      ],
+      "ep000193": [
+        71,
+        "tei/middleton-the-triumphs-of-health-and-prosperity.xml"
+      ],
+      "ep000194": [
+        71,
+        "tei/middleton-the-triumphs-of-honor-and-industry.xml"
+      ],
+      "ep000195": [
+        71,
+        "tei/middleton-the-triumphs-of-honor-and-virtue.xml"
+      ],
+      "ep000196": [
+        71,
+        "tei/middleton-the-triumphs-of-integrity.xml"
+      ],
+      "ep000197": [
+        71,
+        "tei/middleton-the-triumphs-of-love-and-antiquity.xml"
+      ],
+      "ep000198": [
+        71,
+        "tei/middleton-the-triumphs-of-truth.xml"
+      ],
+      "ep000594": [
+        77,
+        "tei/middleton-the-widow.xml"
+      ],
+      "ep000201": [
+        77,
+        "tei/middleton-william-rowley-a-fair-quarrel.xml"
+      ],
+      "ep000640": [
+        77,
+        "tei/middleton-women-beware-women.xml"
+      ],
+      "ep000795": [
+        77,
+        "tei/middleton-your-five-gallants.xml"
+      ],
+      "ep000202": [
+        77,
+        "tei/milton-comus.xml"
+      ],
+      "ep000643": [
+        71,
+        "tei/motteux-beauty-in-distress.xml"
+      ],
+      "ep000645": [
+        71,
+        "tei/motteux-love-s-a-jest.xml"
+      ],
+      "ep000644": [
+        71,
+        "tei/motteux-the-island-princess.xml"
+      ],
+      "ep000646": [
+        71,
+        "tei/motteux-the-novelty.xml"
+      ],
+      "ep000649": [
+        71,
+        "tei/mountfort-doctor-faustus.xml"
+      ],
+      "ep000473": [
+        71,
+        "tei/mountfort-edward-iii-with-the-fall-of-mortimer.xml"
+      ],
+      "ep000647": [
+        71,
+        "tei/mountfort-greenwich-park.xml"
+      ],
+      "ep000648": [
+        71,
+        "tei/mountfort-the-injured-lovers.xml"
+      ],
+      "ep000205": [
+        77,
+        "tei/munday-chettle-the-death-of-robert-earl-of-huntingdon.xml"
+      ],
+      "ep000796": [
+        71,
+        "tei/munday-chrysanaleia.xml"
+      ],
+      "ep000204": [
+        71,
+        "tei/munday-chryso-thriambos.xml"
+      ],
+      "ep000220": [
+        77,
+        "tei/munday-drayton-wilson-hathaway-sir-john-oldcastle-1.xml"
+      ],
+      "ep000206": [
+        71,
+        "tei/munday-himatia-poleos.xml"
+      ],
+      "ep000053": [
+        71,
+        "tei/munday-london-s-love-to-prince-henry.xml"
+      ],
+      "ep000207": [
+        71,
+        "tei/munday-metropolis-coronata.xml"
+      ],
+      "ep000208": [
+        71,
+        "tei/munday-siderothriambos.xml"
+      ],
+      "ep000209": [
+        71,
+        "tei/munday-the-triumphs-of-reunited-britannia.xml"
+      ],
+      "ep000211": [
+        77,
+        "tei/nabbes-covent-garden.xml"
+      ],
+      "ep000212": [
+        77,
+        "tei/nabbes-hannibal-and-scipio.xml"
+      ],
+      "ep000213": [
+        71,
+        "tei/nabbes-microcosmus.xml"
+      ],
+      "ep000210": [
+        77,
+        "tei/nabbes-the-bride.xml"
+      ],
+      "ep000825": [
+        77,
+        "tei/nabbes-the-spring-s-glory.xml"
+      ],
+      "ep000215": [
+        77,
+        "tei/nabbes-the-unfortunate-mother.xml"
+      ],
+      "ep000214": [
+        77,
+        "tei/nabbes-tottenham-court.xml"
+      ],
+      "ep000216": [
+        77,
+        "tei/nashe-summer-s-last-will-and-testament.xml"
+      ],
+      "ep000246": [
+        71,
+        "tei/newton-preface-to-seneca-s-ten-tragedies.xml"
+      ],
+      "ep000650": [
+        71,
+        "tei/norton-pausanious-the-betrayer-of-his-country.xml"
+      ],
+      "ep000219": [
+        77,
+        "tei/norton-sackville-gorboduc.xml"
+      ],
+      "ep000660": [
+        71,
+        "tei/otway-alcibiades.xml"
+      ],
+      "ep000663": [
+        71,
+        "tei/otway-caius-marius.xml"
+      ],
+      "ep000662": [
+        71,
+        "tei/otway-don-carlos-prince-of-spain.xml"
+      ],
+      "ep000661": [
+        71,
+        "tei/otway-the-atheist.xml"
+      ],
+      "ep000664": [
+        71,
+        "tei/otway-the-orphan.xml"
+      ],
+      "ep000665": [
+        71,
+        "tei/otway-the-soldier-s-fortune.xml"
+      ],
+      "ep000666": [
+        71,
+        "tei/otway-titus-and-berenice.xml"
+      ],
+      "ep000682": [
+        71,
+        "tei/p-a-witty-combat.xml"
+      ],
+      "ep000680": [
+        71,
+        "tei/p-the-french-conjurer.xml"
+      ],
+      "ep000222": [
+        71,
+        "tei/pasqualigo-fedele-and-fortunia.xml"
+      ],
+      "ep000801": [
+        77,
+        "tei/peele-clyomon-and-clamydes.xml"
+      ],
+      "ep000225": [
+        71,
+        "tei/peele-descensus-astraeae.xml"
+      ],
+      "ep000226": [
+        77,
+        "tei/peele-edward-the-first.xml"
+      ],
+      "ep000223": [
+        77,
+        "tei/peele-the-arraignment-of-paris.xml"
+      ],
+      "ep000224": [
+        77,
+        "tei/peele-the-battle-of-alcazar.xml"
+      ],
+      "ep000227": [
+        77,
+        "tei/peele-the-love-of-david-and-fair-bathsheba.xml"
+      ],
+      "ep000228": [
+        77,
+        "tei/peele-the-old-wives-tale.xml"
+      ],
+      "ep000667": [
+        71,
+        "tei/perrin-ariadne.xml"
+      ],
+      "ep000669": [
+        71,
+        "tei/phillips-st-stephen-s-green.xml"
+      ],
+      "ep000668": [
+        71,
+        "tei/phillips-the-revengeful-queen.xml"
+      ],
+      "ep000229": [
+        77,
+        "tei/pikering-horestes.xml"
+      ],
+      "ep000674": [
+        71,
+        "tei/pix-ibrahim-the-thirteenth-emperor-of-the-turks.xml"
+      ],
+      "ep000671": [
+        71,
+        "tei/pix-the-beau-defeated.xml"
+      ],
+      "ep000672": [
+        71,
+        "tei/pix-the-deceiver-deceived.xml"
+      ],
+      "ep000673": [
+        71,
+        "tei/pix-the-false-friend.xml"
+      ],
+      "ep000675": [
+        71,
+        "tei/pix-the-innocent-mistress.xml"
+      ],
+      "ep000676": [
+        71,
+        "tei/pix-the-spanish-wives.xml"
+      ],
+      "ep000677": [
+        71,
+        "tei/pordage-herod-and-mariamne.xml"
+      ],
+      "ep000678": [
+        71,
+        "tei/pordage-the-siege-of-babylon.xml"
+      ],
+      "ep000679": [
+        71,
+        "tei/porter-the-carnival.xml"
+      ],
+      "ep000230": [
+        77,
+        "tei/porter-the-two-angry-women-of-abingdon.xml"
+      ],
+      "ep000681": [
+        71,
+        "tei/porter-the-villain.xml"
+      ],
+      "ep000688": [
+        71,
+        "tei/powell-a-very-good-wife.xml"
+      ],
+      "ep000683": [
+        71,
+        "tei/powell-alphonso-king-of-naples.xml"
+      ],
+      "ep000685": [
+        71,
+        "tei/powell-the-imposture-defeated.xml"
+      ],
+      "ep000687": [
+        71,
+        "tei/powell-the-treacherous-brothers.xml"
+      ],
+      "ep000231": [
+        77,
+        "tei/randolph-aristippus-or-the-jovial-philosopher.xml"
+      ],
+      "ep000232": [
+        77,
+        "tei/randolph-the-jealous-lovers.xml"
+      ],
+      "ep000698": [
+        71,
+        "tei/ravenscroft-dame-dobson.xml"
+      ],
+      "ep000700": [
+        71,
+        "tei/ravenscroft-king-edgar-and-alfreda.xml"
+      ],
+      "ep000701": [
+        71,
+        "tei/ravenscroft-scaramouch-a-philosopher.xml"
+      ],
+      "ep000804": [
+        71,
+        "tei/ravenscroft-the-anatomist.xml"
+      ],
+      "ep000696": [
+        71,
+        "tei/ravenscroft-the-canterbury-guests.xml"
+      ],
+      "ep000697": [
+        71,
+        "tei/ravenscroft-the-careless-lovers.xml"
+      ],
+      "ep000641": [
+        71,
+        "tei/ravenscroft-the-citizen-turned-gentleman.xml"
+      ],
+      "ep000694": [
+        71,
+        "tei/ravenscroft-the-english-lawyer.xml"
+      ],
+      "ep000699": [
+        71,
+        "tei/ravenscroft-the-italian-husband.xml"
+      ],
+      "ep000702": [
+        71,
+        "tei/ravenscroft-the-wrangling-lovers.xml"
+      ],
+      "ep000745": [
+        71,
+        "tei/ravenscroft-titus-andronicus.xml"
+      ],
+      "eng000703": [
+        118,
+        "tei/ravenscroft-the-italian-husband.xml"
+      ],
+      "ep000233": [
+        77,
+        "tei/rawlins-the-rebellion.xml"
+      ],
+      "ep000703": [
+        71,
+        "tei/rawlins-tom-essence.xml"
+      ],
+      "ep000704": [
+        71,
+        "tei/rawlins-tunbridge-wells.xml"
+      ],
+      "ep000797": [
+        77,
+        "tei/richards-messalina-the-roman-empress.xml"
+      ],
+      "ep000328": [
+        71,
+        "tei/rojas-the-spanish-bawd.xml"
+      ],
+      "ep000237": [
+        77,
+        "tei/rowley-a-match-at-midnight.xml"
+      ],
+      "ep000239": [
+        77,
+        "tei/rowley-a-new-wonder-a-woman-never-vexed.xml"
+      ],
+      "ep000238": [
+        77,
+        "tei/rowley-a-shoemaker-a-gentleman.xml"
+      ],
+      "ep000240": [
+        77,
+        "tei/rowley-all-s-lost-by-lust.xml"
+      ],
+      "ep000692": [
+        77,
+        "tei/rowley-the-birth-of-merlin.xml"
+      ],
+      "ep000236": [
+        77,
+        "tei/rowley-when-you-see-me-you-know-me.xml"
+      ],
+      "ep000695": [
+        71,
+        "tei/ruggle-ignoramus.xml"
+      ],
+      "ep000241": [
+        77,
+        "tei/rutter-the-shepherds-holiday.xml"
+      ],
+      "ep000242": [
+        77,
+        "tei/s-locrine.xml"
+      ],
+      "ep000798": [
+        77,
+        "tei/s-the-honest-lawyer.xml"
+      ],
+      "ep000244": [
+        77,
+        "tei/s-thomas-lord-cromwell.xml"
+      ],
+      "ep000245": [
+        77,
+        "tei/sampson-the-vow-breaker.xml"
+      ],
+      "ep000762": [
+        71,
+        "tei/saunders-tamerlane-the-great.xml"
+      ],
+      "ep000705": [
+        71,
+        "tei/sedley-antony-and-cleopatra.xml"
+      ],
+      "ep000706": [
+        71,
+        "tei/sedley-bellamira.xml"
+      ],
+      "ep000707": [
+        71,
+        "tei/sedley-the-mulberry-garden.xml"
+      ],
+      "ep000254": [
+        71,
+        "tei/seneca-agamemnon.xml"
+      ],
+      "ep000247": [
+        71,
+        "tei/seneca-hercules-furens.xml"
+      ],
+      "ep000256": [
+        71,
+        "tei/seneca-hercules-oetaeus.xml"
+      ],
+      "ep000250": [
+        71,
+        "tei/seneca-hippolytus.xml"
+      ],
+      "ep000253": [
+        71,
+        "tei/seneca-medea.xml"
+      ],
+      "ep000255": [
+        71,
+        "tei/seneca-octavia.xml"
+      ],
+      "ep000251": [
+        71,
+        "tei/seneca-oedipus.xml"
+      ],
+      "ep000249": [
+        71,
+        "tei/seneca-thebais.xml"
+      ],
+      "ep000248": [
+        71,
+        "tei/seneca-thyestes.xml"
+      ],
+      "ep000708": [
+        71,
+        "tei/seneca-troades.xml"
+      ],
+      "ep000252": [
+        71,
+        "tei/seneca-troas.xml"
+      ],
+      "ep000710": [
+        71,
+        "tei/settle-cambyses-king-of-persia.xml"
+      ],
+      "ep000714": [
+        71,
+        "tei/settle-fatal-love.xml"
+      ],
+      "ep000716": [
+        71,
+        "tei/settle-glory-s-resurrection.xml"
+      ],
+      "ep000718": [
+        71,
+        "tei/settle-ibrahim-the-illustrious-bassa.xml"
+      ],
+      "ep000719": [
+        71,
+        "tei/settle-love-and-revenge.xml"
+      ],
+      "ep000720": [
+        71,
+        "tei/settle-pastor-fido.xml"
+      ],
+      "ep000709": [
+        71,
+        "tei/settle-the-ambitious-slave.xml"
+      ],
+      "ep000711": [
+        71,
+        "tei/settle-the-conquest-of-china-by-the-tartars.xml"
+      ],
+      "ep000712": [
+        71,
+        "tei/settle-the-empress-of-morocco.xml"
+      ],
+      "ep000715": [
+        71,
+        "tei/settle-the-female-prelate.xml"
+      ],
+      "ep000717": [
+        71,
+        "tei/settle-the-heir-of-morocco.xml"
+      ],
+      "ep000723": [
+        71,
+        "tei/settle-the-triumphs-of-london-1691.xml"
+      ],
+      "ep000722": [
+        71,
+        "tei/settle-the-triumphs-of-london-1693.xml"
+      ],
+      "ep000725": [
+        71,
+        "tei/settle-the-triumphs-of-london-1694.xml"
+      ],
+      "ep000724": [
+        71,
+        "tei/settle-the-triumphs-of-london-1695.xml"
+      ],
+      "ep000721": [
+        71,
+        "tei/settle-the-triumphs-of-london-1699.xml"
+      ],
+      "ep000726": [
+        71,
+        "tei/settle-the-world-in-the-moon.xml"
+      ],
+      "ep000738": [
+        71,
+        "tei/shadwell-a-true-widow.xml"
+      ],
+      "ep000727": [
+        71,
+        "tei/shadwell-bury-fair.xml"
+      ],
+      "ep000728": [
+        71,
+        "tei/shadwell-epsom-wells.xml"
+      ],
+      "ep000733": [
+        71,
+        "tei/shadwell-psyche.xml"
+      ],
+      "ep000729": [
+        71,
+        "tei/shadwell-the-humorists.xml"
+      ],
+      "ep000730": [
+        71,
+        "tei/shadwell-the-lancashire-witches-and-tegue-o-divelly.xml"
+      ],
+      "ep000731": [
+        71,
+        "tei/shadwell-the-libertine.xml"
+      ],
+      "ep000732": [
+        71,
+        "tei/shadwell-the-miser.xml"
+      ],
+      "ep000734": [
+        71,
+        "tei/shadwell-the-royal-shepherdess.xml"
+      ],
+      "ep000735": [
+        71,
+        "tei/shadwell-the-scowrers.xml"
+      ],
+      "ep000736": [
+        71,
+        "tei/shadwell-the-squire-of-alsatia.xml"
+      ],
+      "ep000737": [
+        71,
+        "tei/shadwell-the-sullen-lovers.xml"
+      ],
+      "ep000739": [
+        71,
+        "tei/shadwell-the-virtuoso.xml"
+      ],
+      "ep000740": [
+        71,
+        "tei/shadwell-the-woman-captain.xml"
+      ],
+      "ep000837": [
+        71,
+        "tei/shakespeare-a-midsommer-night-s-dream.xml"
+      ],
+      "ep000849": [
+        71,
+        "tei/shakespeare-hamlet.xml"
+      ],
+      "ep000846": [
+        71,
+        "tei/shakespeare-henry-iv-part-ii.xml"
+      ],
+      "ep000827": [
+        71,
+        "tei/shakespeare-henry-v.xml"
+      ],
+      "ep000830": [
+        71,
+        "tei/shakespeare-henry-vi-part-ii.xml"
+      ],
+      "ep000851": [
+        71,
+        "tei/shakespeare-henry-vi-part-iii.xml"
+      ],
+      "ep000833": [
+        71,
+        "tei/shakespeare-julius-caesar.xml"
+      ],
+      "ep000835": [
+        71,
+        "tei/shakespeare-king-lear.xml"
+      ],
+      "ep000843": [
+        71,
+        "tei/shakespeare-love-s-labor-s-lost.xml"
+      ],
+      "ep000834": [
+        71,
+        "tei/shakespeare-lucrece.xml"
+      ],
+      "ep000842": [
+        71,
+        "tei/shakespeare-much-adoe-about-nothing.xml"
+      ],
+      "ep000850": [
+        71,
+        "tei/shakespeare-othello.xml"
+      ],
+      "ep000258": [
+        71,
+        "tei/shakespeare-pericles.xml"
+      ],
+      "ep000841": [
+        71,
+        "tei/shakespeare-plays.xml"
+      ],
+      "ep000847": [
+        71,
+        "tei/shakespeare-richard-ii.xml"
+      ],
+      "ep000848": [
+        71,
+        "tei/shakespeare-richard-iii.xml"
+      ],
+      "ep000828": [
+        71,
+        "tei/shakespeare-romeo-and-iuliet.xml"
+      ],
+      "ep000832": [
+        71,
+        "tei/shakespeare-the-history-of-henrie-the-fourth.xml"
+      ],
+      "ep000838": [
+        71,
+        "tei/shakespeare-the-merchant-of-venice-1600.xml"
+      ],
+      "ep000829": [
+        71,
+        "tei/shakespeare-the-merchant-of-venice-1619.xml"
+      ],
+      "ep000840": [
+        71,
+        "tei/shakespeare-the-merry-wives-of-windsor-1602.xml"
+      ],
+      "ep000836": [
+        71,
+        "tei/shakespeare-the-merry-wives-of-windsor-1630.xml"
+      ],
+      "ep000844": [
+        71,
+        "tei/shakespeare-the-rape-of-lucrece-1616.xml"
+      ],
+      "ep000845": [
+        71,
+        "tei/shakespeare-the-rape-of-lucrece-1655.xml"
+      ],
+      "ep000852": [
+        71,
+        "tei/shakespeare-the-taming-of-the-shrew.xml"
+      ],
+      "ep000011": [
+        71,
+        "tei/shakespeare-the-two-noble-kinsmen.xml"
+      ],
+      "ep000839": [
+        71,
+        "tei/shakespeare-titus-andronicus.xml"
+      ],
+      "ep000831": [
+        71,
+        "tei/shakespeare-troilus-and-cressida.xml"
+      ],
+      "ep000260": [
+        77,
+        "tei/sharpham-cupid-s-whirligig.xml"
+      ],
+      "ep000261": [
+        77,
+        "tei/sharpham-the-fleer.xml"
+      ],
+      "ep000747": [
+        71,
+        "tei/shipman-henry-iii-of-france.xml"
+      ],
+      "ep000264": [
+        77,
+        "tei/shirley-changes.xml"
+      ],
+      "ep000270": [
+        77,
+        "tei/shirley-hyde-park.xml"
+      ],
+      "ep000273": [
+        77,
+        "tei/shirley-love-s-cruelty.xml"
+      ],
+      "ep000278": [
+        77,
+        "tei/shirley-saint-patrick-for-ireland-1.xml"
+      ],
+      "ep000276": [
+        77,
+        "tei/shirley-the-arcadia.xml"
+      ],
+      "ep000344": [
+        77,
+        "tei/shirley-the-ball.xml"
+      ],
+      "ep000263": [
+        77,
+        "tei/shirley-the-bird-in-a-cage.xml"
+      ],
+      "ep000817": [
+        77,
+        "tei/shirley-the-brothers.xml"
+      ],
+      "ep000818": [
+        77,
+        "tei/shirley-the-cardinal.xml"
+      ],
+      "ep000265": [
+        77,
+        "tei/shirley-the-constant-maid.xml"
+      ],
+      "ep000266": [
+        77,
+        "tei/shirley-the-contention-for-honor-and-riches.xml"
+      ],
+      "ep000751": [
+        77,
+        "tei/shirley-the-court-secret.xml"
+      ],
+      "ep000819": [
+        77,
+        "tei/shirley-the-doubtful-heir.xml"
+      ],
+      "ep000267": [
+        77,
+        "tei/shirley-the-duke-s-mistress.xml"
+      ],
+      "ep000268": [
+        77,
+        "tei/shirley-the-example.xml"
+      ],
+      "ep000269": [
+        77,
+        "tei/shirley-the-gamester.xml"
+      ],
+      "ep000748": [
+        77,
+        "tei/shirley-the-gentleman-of-venice.xml"
+      ],
+      "ep000271": [
+        77,
+        "tei/shirley-the-humorous-courtier.xml"
+      ],
+      "ep000750": [
+        77,
+        "tei/shirley-the-impostor.xml"
+      ],
+      "ep000272": [
+        77,
+        "tei/shirley-the-lady-of-pleasure.xml"
+      ],
+      "ep000274": [
+        77,
+        "tei/shirley-the-maid-s-revenge.xml"
+      ],
+      "ep000262": [
+        77,
+        "tei/shirley-the-martyred-soldier.xml"
+      ],
+      "ep000275": [
+        77,
+        "tei/shirley-the-opportunity.xml"
+      ],
+      "ep000749": [
+        77,
+        "tei/shirley-the-politician.xml"
+      ],
+      "ep000277": [
+        77,
+        "tei/shirley-the-royal-master.xml"
+      ],
+      "ep000279": [
+        77,
+        "tei/shirley-the-school-of-compliment.xml"
+      ],
+      "ep000820": [
+        77,
+        "tei/shirley-the-sisters.xml"
+      ],
+      "ep000280": [
+        77,
+        "tei/shirley-the-traitor.xml"
+      ],
+      "ep000821": [
+        77,
+        "tei/shirley-the-triumph-of-peace.xml"
+      ],
+      "ep000281": [
+        77,
+        "tei/shirley-the-wedding.xml"
+      ],
+      "ep000282": [
+        77,
+        "tei/shirley-the-witty-fair-one.xml"
+      ],
+      "ep000283": [
+        77,
+        "tei/shirley-the-young-admiral.xml"
+      ],
+      "ep000284": [
+        77,
+        "tei/smith-smith-the-hector-of-germany.xml"
+      ],
+      "ep000755": [
+        71,
+        "tei/southerne-oroonoko.xml"
+      ],
+      "ep000752": [
+        71,
+        "tei/southerne-the-fatal-marriage.xml"
+      ],
+      "ep000753": [
+        71,
+        "tei/southerne-the-loyal-brother.xml"
+      ],
+      "ep000754": [
+        71,
+        "tei/southerne-the-maid-s-last-prayer.xml"
+      ],
+      "ep000756": [
+        71,
+        "tei/southerne-the-wives-excuse.xml"
+      ],
+      "ep000761": [
+        71,
+        "tei/st-serfe-tarugo-s-wiles.xml"
+      ],
+      "ep000759": [
+        71,
+        "tei/stapylton-hero-and-leander.xml"
+      ],
+      "ep000757": [
+        71,
+        "tei/stapylton-the-slighted-maid.xml"
+      ],
+      "ep000758": [
+        71,
+        "tei/stapylton-the-stepmother.xml"
+      ],
+      "ep000286": [
+        77,
+        "tei/stephens-cynthia-s-revenge.xml"
+      ],
+      "ep000287": [
+        77,
+        "tei/stevenson-gammer-gurton-s-needle.xml"
+      ],
+      "ep000289": [
+        71,
+        "tei/suckling-aglaura.xml"
+      ],
+      "ep000760": [
+        77,
+        "tei/suckling-brennoralt.xml"
+      ],
+      "ep000290": [
+        77,
+        "tei/tailor-the-hog-hath-lost-his-pearl.xml"
+      ],
+      "ep000765": [
+        71,
+        "tei/tate-brutus-of-alba.xml"
+      ],
+      "ep000766": [
+        71,
+        "tei/tate-cuckolds-haven.xml"
+      ],
+      "ep000768": [
+        71,
+        "tei/tate-the-ingratitude-of-a-commonwealth.xml"
+      ],
+      "ep000769": [
+        71,
+        "tei/tate-the-island-princess.xml"
+      ],
+      "ep000770": [
+        71,
+        "tei/tate-the-loyal-general.xml"
+      ],
+      "ep000771": [
+        71,
+        "tei/tatham-aqua-triumphalis.xml"
+      ],
+      "ep000773": [
+        71,
+        "tei/tatham-londinium-triumphans.xml"
+      ],
+      "ep000774": [
+        71,
+        "tei/tatham-london-s-triumphs.xml"
+      ],
+      "ep000824": [
+        71,
+        "tei/tatham-the-fancies-theater.xml"
+      ],
+      "ep000775": [
+        71,
+        "tei/taubman-london-s-great-jubilee.xml"
+      ],
+      "ep000776": [
+        71,
+        "tei/taubman-london-s-triumph.xml"
+      ],
+      "ep000292": [
+        71,
+        "tei/terence-andria.xml"
+      ],
+      "ep000293": [
+        71,
+        "tei/terence-the-two-first-comedies-andria-the-eunuch.xml"
+      ],
+      "ep000294": [
+        77,
+        "tei/tomkis-albumazar.xml"
+      ],
+      "ep000767": [
+        77,
+        "tei/tomkis-lingua.xml"
+      ],
+      "ep000295": [
+        77,
+        "tei/tourneur-the-atheist-s-tragedy.xml"
+      ],
+      "ep000297": [
+        77,
+        "tei/townshend-albion-s-triumph.xml"
+      ],
+      "ep000298": [
+        77,
+        "tei/townshend-tempe-restored.xml"
+      ],
+      "ep000488": [
+        71,
+        "tei/trotter-agnes-de-castro.xml"
+      ],
+      "ep000489": [
+        71,
+        "tei/trotter-fatal-friendship.xml"
+      ],
+      "ep000084": [
+        77,
+        "tei/udall-jacob-and-esau.xml"
+      ],
+      "ep000299": [
+        77,
+        "tei/udall-ralph-roister-doister.xml"
+      ],
+      "ep000778": [
+        71,
+        "tei/vanbrugh-aesop-1-2.xml"
+      ],
+      "ep000779": [
+        71,
+        "tei/vanbrugh-the-provoked-wife.xml"
+      ],
+      "ep000780": [
+        71,
+        "tei/vanbrugh-the-relapse.xml"
+      ],
+      "ep000566": [
+        71,
+        "tei/villiers-the-chances.xml"
+      ],
+      "ep000469": [
+        71,
+        "tei/villiers-the-rehearsal.xml"
+      ],
+      "ep000300": [
+        77,
+        "tei/w-the-valiant-scot.xml"
+      ],
+      "ep000792": [
+        71,
+        "tei/waller-the-maid-s-tragedy.xml"
+      ],
+      "ep000301": [
+        77,
+        "tei/wapull-the-tide-tarrieth-no-man.xml"
+      ],
+      "ep000303": [
+        71,
+        "tei/webster-monuments-of-honor.xml"
+      ],
+      "ep000764": [
+        77,
+        "tei/webster-rowley-the-thracian-wonder.xml"
+      ],
+      "ep000302": [
+        77,
+        "tei/webster-the-devil-s-law-case.xml"
+      ],
+      "ep000304": [
+        77,
+        "tei/webster-the-duchess-of-malfi.xml"
+      ],
+      "ep000305": [
+        77,
+        "tei/webster-the-white-devil.xml"
+      ],
+      "ep000781": [
+        71,
+        "tei/whitaker-the-conspiracy.xml"
+      ],
+      "ep000306": [
+        77,
+        "tei/wilkins-the-miseries-of-enforced-marriage.xml"
+      ],
+      "ep000307": [
+        77,
+        "tei/wilmot-hatton-noel-al-stafford-tancred-and-gismund.xml"
+      ],
+      "ep000782": [
+        71,
+        "tei/wilson-andronicus-comnenus.xml"
+      ],
+      "ep000783": [
+        71,
+        "tei/wilson-belphegor.xml"
+      ],
+      "ep000784": [
+        71,
+        "tei/wilson-the-cheats.xml"
+      ],
+      "ep000308": [
+        77,
+        "tei/wilson-the-cobbler-s-prophecy.xml"
+      ],
+      "ep000785": [
+        71,
+        "tei/wilson-the-projectors.xml"
+      ],
+      "ep000311": [
+        77,
+        "tei/wilson-the-three-ladies-of-london.xml"
+      ],
+      "ep000310": [
+        77,
+        "tei/wilson-the-three-lords-and-three-ladies-of-london.xml"
+      ],
+      "ep000799": [
+        77,
+        "tei/woodes-the-conflict-of-conscience.xml"
+      ],
+      "ep000790": [
+        71,
+        "tei/wycherley-love-in-a-wood.xml"
+      ],
+      "ep000788": [
+        71,
+        "tei/wycherley-the-country-wife.xml"
+      ],
+      "ep000789": [
+        71,
+        "tei/wycherley-the-gentleman-dancing-master.xml"
+      ],
+      "ep000791": [
+        71,
+        "tei/wycherley-the-plain-dealer.xml"
+      ],
+      "ep000313": [
+        77,
+        "tei/yarington-two-lamentable-tragedies.xml"
+      ],
+      "ep000314": [
+        77,
+        "tei/zouche-the-sophister.xml"
+      ],
+      "ep000853": [
+        71,
+        "tei/centlivre-the-man-s-bewitch-d.xml"
+      ],
+      "ep000854": [
+        71,
+        "tei/rowe-the-fair-penitent.xml"
+      ],
+      "eng000261": [
+        118,
+        "tei/alexander-caesar.xml"
+      ],
+      "eng000258": [
+        118,
+        "tei/alexander-croesus.xml"
+      ],
+      "eng000259": [
+        118,
+        "tei/alexander-darius.xml"
+      ],
+      "eng000260": [
+        118,
+        "tei/alexander-the-alexandraean-tragedy.xml"
+      ],
+      "eng000095": [
+        118,
+        "tei/anon-a-knack-to-know-a-knave.xml"
+      ],
+      "eng000106": [
+        118,
+        "tei/anon-a-larum-for-london.xml"
+      ],
+      "eng000372": [
+        118,
+        "tei/anon-alphonsus-emperor-of-germany.xml"
+      ],
+      "eng000324": [
+        118,
+        "tei/anon-arden-of-faversham.xml"
+      ],
+      "eng000064": [
+        118,
+        "tei/anon-band-cuff-and-ruff.xml"
+      ],
+      "eng000427": [
+        118,
+        "tei/anon-caesar-and-pompey.xml"
+      ],
+      "eng000397": [
+        118,
+        "tei/anon-canterbury-his-change-of-diet.xml"
+      ],
+      "eng000327": [
+        118,
+        "tei/anon-fair-em.xml"
+      ],
+      "eng000235": [
+        118,
+        "tei/anon-jack-straw.xml"
+      ],
+      "eng000097": [
+        118,
+        "tei/anon-jeronimo-with-the-wars-of-portugal-1.xml"
+      ],
+      "eng000377": [
+        118,
+        "tei/anon-mucedorus-and-amadine.xml"
+      ],
+      "eng000178": [
+        118,
+        "tei/anon-nero.xml"
+      ],
+      "eng000179": [
+        118,
+        "tei/anon-nobody-and-somebody.xml"
+      ],
+      "eng000287": [
+        118,
+        "tei/anon-the-contention-between-liberality-and-prodigality.xml"
+      ],
+      "eng000205": [
+        118,
+        "tei/anon-the-london-prodigal.xml"
+      ],
+      "eng000121": [
+        118,
+        "tei/anon-the-maid-s-metamorphosis.xml"
+      ],
+      "eng000325": [
+        118,
+        "tei/anon-the-merry-devil-of-edmonton.xml"
+      ],
+      "eng000252": [
+        118,
+        "tei/anon-the-pedlar-s-prophecy.xml"
+      ],
+      "eng000326": [
+        118,
+        "tei/anon-the-reign-of-king-edward-the-third.xml"
+      ],
+      "eng000237": [
+        118,
+        "tei/anon-the-taming-of-a-shrew.xml"
+      ],
+      "eng000411": [
+        118,
+        "tei/anon-the-trial-of-chivalry.xml"
+      ],
+      "eng000100": [
+        118,
+        "tei/anon-the-true-chronicle-of-king-leir.xml"
+      ],
+      "eng000193": [
+        118,
+        "tei/anon-the-true-tragedy-of-richard-the-third.xml"
+      ],
+      "eng000291": [
+        118,
+        "tei/anon-the-wars-of-cyrus.xml"
+      ],
+      "eng000255": [
+        118,
+        "tei/anon-wily-beguiled.xml"
+      ],
+      "eng000021": [
+        118,
+        "tei/anon-wine-beer-and-ale-together-by-the-ears.xml"
+      ],
+      "eng000328": [
+        118,
+        "tei/armin-the-two-maids-of-more-clacke.xml"
+      ],
+      "eng000068": [
+        118,
+        "tei/barnes-the-devil-s-charter.xml"
+      ],
+      "eng000094": [
+        118,
+        "tei/barry-ram-alley.xml"
+      ],
+      "eng000104": [
+        118,
+        "tei/beaumont-fletcher-a-king-and-no-king.xml"
+      ],
+      "eng000102": [
+        118,
+        "tei/beaumont-fletcher-cupid-s-revenge.xml"
+      ],
+      "eng000361": [
+        118,
+        "tei/beaumont-fletcher-love-s-pilgrimage.xml"
+      ],
+      "eng000335": [
+        118,
+        "tei/beaumont-fletcher-massinger-beggars-bush.xml"
+      ],
+      "eng000353": [
+        118,
+        "tei/beaumont-fletcher-massinger-love-s-cure.xml"
+      ],
+      "eng000010": [
+        118,
+        "tei/beaumont-fletcher-massinger-thierry-and-theodoret.xml"
+      ],
+      "eng000108": [
+        118,
+        "tei/beaumont-fletcher-philaster.xml"
+      ],
+      "eng000336": [
+        118,
+        "tei/beaumont-fletcher-the-coxcomb.xml"
+      ],
+      "eng000107": [
+        118,
+        "tei/beaumont-fletcher-the-maid-s-tragedy.xml"
+      ],
+      "eng000109": [
+        118,
+        "tei/beaumont-fletcher-the-scornful-lady.xml"
+      ],
+      "eng000111": [
+        118,
+        "tei/beaumont-fletcher-the-woman-hater.xml"
+      ],
+      "eng000105": [
+        118,
+        "tei/beaumont-the-knight-of-the-burning-pestle.xml"
+      ],
+      "eng000101": [
+        118,
+        "tei/beaumont-the-masque-of-the-inner-temple-and-gray-s-inn.xml"
+      ],
+      "eng000170": [
+        118,
+        "tei/belchier-hans-beer-pot.xml"
+      ],
+      "eng000182": [
+        118,
+        "tei/berkeley-the-lost-lady.xml"
+      ],
+      "eng000001": [
+        118,
+        "tei/bower-appius-and-virginia.xml"
+      ],
+      "eng000364": [
+        118,
+        "tei/brathwait-mercurius-britannicus.xml"
+      ],
+      "eng000368": [
+        118,
+        "tei/brome-a-jovial-crew.xml"
+      ],
+      "eng000418": [
+        118,
+        "tei/brome-a-mad-couple-well-matched.xml"
+      ],
+      "eng000262": [
+        118,
+        "tei/brome-the-antipodes.xml"
+      ],
+      "eng000420": [
+        118,
+        "tei/brome-the-city-wit.xml"
+      ],
+      "eng000366": [
+        118,
+        "tei/brome-the-court-beggar.xml"
+      ],
+      "eng000365": [
+        118,
+        "tei/brome-the-cunning-lovers.xml"
+      ],
+      "eng000367": [
+        118,
+        "tei/brome-the-damoiselle-or-the-new-ordinary.xml"
+      ],
+      "eng000421": [
+        118,
+        "tei/brome-the-english-moor.xml"
+      ],
+      "eng000422": [
+        118,
+        "tei/brome-the-lovesick-court.xml"
+      ],
+      "eng000424": [
+        118,
+        "tei/brome-the-new-academy.xml"
+      ],
+      "eng000263": [
+        118,
+        "tei/brome-the-northern-lass.xml"
+      ],
+      "eng000419": [
+        118,
+        "tei/brome-the-novella.xml"
+      ],
+      "eng000425": [
+        118,
+        "tei/brome-the-queen-and-concubine.xml"
+      ],
+      "eng000369": [
+        118,
+        "tei/brome-the-queen-s-exchange.xml"
+      ],
+      "eng000264": [
+        118,
+        "tei/brome-the-sparagus-garden.xml"
+      ],
+      "eng000423": [
+        118,
+        "tei/brome-the-weeding-of-the-covent-garden.xml"
+      ],
+      "eng000370": [
+        118,
+        "tei/burnell-landgartha.xml"
+      ],
+      "eng000266": [
+        118,
+        "tei/campion-the-masque-at-lord-hay-s-marriage.xml"
+      ],
+      "eng000428": [
+        118,
+        "tei/carew-coelum-britannicum.xml"
+      ],
+      "eng000268": [
+        118,
+        "tei/carlell-the-deserving-favorite.xml"
+      ],
+      "eng000269": [
+        118,
+        "tei/cartwright-the-royal-slave.xml"
+      ],
+      "eng000267": [
+        118,
+        "tei/cary-mariam-the-fair-queen-of-jewry.xml"
+      ],
+      "eng000398": [
+        118,
+        "tei/cavendish-shirley-the-country-captain.xml"
+      ],
+      "eng000399": [
+        118,
+        "tei/cavendish-the-variety.xml"
+      ],
+      "eng000270": [
+        118,
+        "tei/chamberlain-the-swaggering-damsel.xml"
+      ],
+      "eng000271": [
+        118,
+        "tei/chapman-all-fools.xml"
+      ],
+      "eng000280": [
+        118,
+        "tei/chapman-an-humorous-day-s-mirth.xml"
+      ],
+      "eng000273": [
+        118,
+        "tei/chapman-bussy-d-ambois.xml"
+      ],
+      "eng000283": [
+        118,
+        "tei/chapman-caesar-and-pompey-the-wars-of-caesar-and-pompey.xml"
+      ],
+      "eng000276": [
+        118,
+        "tei/chapman-jonson-marston-eastward-ho.xml"
+      ],
+      "eng000278": [
+        118,
+        "tei/chapman-may-day.xml"
+      ],
+      "eng000416": [
+        118,
+        "tei/chapman-monsieur-d-olive.xml"
+      ],
+      "eng000031": [
+        118,
+        "tei/chapman-sir-giles-goosecap.xml"
+      ],
+      "eng000272": [
+        118,
+        "tei/chapman-the-blind-beggar-of-alexandria.xml"
+      ],
+      "eng000274": [
+        118,
+        "tei/chapman-the-conspiracy-of-charles-duke-of-byron.xml"
+      ],
+      "eng000277": [
+        118,
+        "tei/chapman-the-gentleman-usher.xml"
+      ],
+      "eng000279": [
+        118,
+        "tei/chapman-the-masque-of-the-middle-temple-and-lincoln-s-inn.xml"
+      ],
+      "eng000281": [
+        118,
+        "tei/chapman-the-revenge-of-bussy-d-ambois.xml"
+      ],
+      "eng000275": [
+        118,
+        "tei/chapman-the-tragedy-of-charles-duke-of-byron.xml"
+      ],
+      "eng000284": [
+        118,
+        "tei/chapman-the-widow-s-tears.xml"
+      ],
+      "eng000282": [
+        118,
+        "tei/chapman-two-wise-men-and-all-the-rest-fools.xml"
+      ],
+      "eng000286": [
+        118,
+        "tei/chettle-hoffman.xml"
+      ],
+      "eng000289": [
+        118,
+        "tei/cooke-greene-s-tu-quoque.xml"
+      ],
+      "eng000290": [
+        118,
+        "tei/cowley-love-s-riddle.xml"
+      ],
+      "eng000265": [
+        118,
+        "tei/cumber-the-two-merry-milkmaids.xml"
+      ],
+      "eng000292": [
+        118,
+        "tei/d-the-knave-in-grain-new-vamped.xml"
+      ],
+      "eng000294": [
+        118,
+        "tei/daborne-a-christian-turned-turk.xml"
+      ],
+      "eng000296": [
+        118,
+        "tei/daniel-cleopatra.xml"
+      ],
+      "eng000297": [
+        118,
+        "tei/daniel-hymen-s-triumph.xml"
+      ],
+      "eng000295": [
+        118,
+        "tei/daniel-philotas.xml"
+      ],
+      "eng000298": [
+        118,
+        "tei/daniel-the-queen-s-arcadia.xml"
+      ],
+      "eng000299": [
+        118,
+        "tei/daniel-the-vision-of-the-twelve-goddesses.xml"
+      ],
+      "eng000303": [
+        118,
+        "tei/davenant-albovine-king-of-the-lombards.xml"
+      ],
+      "eng000069": [
+        118,
+        "tei/davenant-britannia-triumphans.xml"
+      ],
+      "eng000302": [
+        118,
+        "tei/davenant-salmacida-spolia.xml"
+      ],
+      "eng000300": [
+        118,
+        "tei/davenant-the-cruel-brother.xml"
+      ],
+      "eng000301": [
+        118,
+        "tei/davenant-the-just-italian.xml"
+      ],
+      "eng000070": [
+        118,
+        "tei/davenant-the-temple-of-love.xml"
+      ],
+      "eng000304": [
+        118,
+        "tei/davenant-the-wits.xml"
+      ],
+      "eng000305": [
+        118,
+        "tei/davenport-a-new-trick-to-cheat-the-devil.xml"
+      ],
+      "eng000306": [
+        118,
+        "tei/day-humor-out-of-breath.xml"
+      ],
+      "eng000308": [
+        118,
+        "tei/day-law-tricks.xml"
+      ],
+      "eng000307": [
+        118,
+        "tei/day-the-isle-of-gulls.xml"
+      ],
+      "eng000374": [
+        118,
+        "tei/day-the-parliament-of-bees.xml"
+      ],
+      "eng000309": [
+        118,
+        "tei/day-wilkins-rowley-the-travels-of-the-three-english-brothers.xml"
+      ],
+      "eng000157": [
+        118,
+        "tei/dekker-blurt-master-constable.xml"
+      ],
+      "eng000314": [
+        118,
+        "tei/dekker-chettle-haughton-patient-grissel.xml"
+      ],
+      "eng000394": [
+        118,
+        "tei/dekker-ford-middleton-rowley-the-spanish-gypsy.xml"
+      ],
+      "eng000375": [
+        118,
+        "tei/dekker-ford-the-sun-s-darling.xml"
+      ],
+      "eng000385": [
+        118,
+        "tei/dekker-haughton-day-lust-s-dominion.xml"
+      ],
+      "eng000312": [
+        118,
+        "tei/dekker-if-it-be-not-good-the-devil-is-in-it.xml"
+      ],
+      "eng000150": [
+        118,
+        "tei/dekker-massinger-the-virgin-martyr.xml"
+      ],
+      "eng000317": [
+        118,
+        "tei/dekker-match-me-in-london.xml"
+      ],
+      "eng000293": [
+        118,
+        "tei/dekker-middleton-the-bloody-banquet.xml"
+      ],
+      "eng000310": [
+        118,
+        "tei/dekker-middleton-the-honest-whore-1.xml"
+      ],
+      "eng000166": [
+        118,
+        "tei/dekker-middleton-the-roaring-girl.xml"
+      ],
+      "eng000313": [
+        118,
+        "tei/dekker-old-fortunatus.xml"
+      ],
+      "eng000402": [
+        118,
+        "tei/dekker-rowley-ford-the-witch-of-edmonton.xml"
+      ],
+      "eng000315": [
+        118,
+        "tei/dekker-satiromastix.xml"
+      ],
+      "eng000311": [
+        118,
+        "tei/dekker-the-honest-whore-2.xml"
+      ],
+      "eng000194": [
+        118,
+        "tei/dekker-the-noble-spanish-soldier.xml"
+      ],
+      "eng000316": [
+        118,
+        "tei/dekker-the-shoemaker-s-holiday.xml"
+      ],
+      "eng000318": [
+        118,
+        "tei/dekker-the-wonder-of-a-kingdom.xml"
+      ],
+      "eng000320": [
+        118,
+        "tei/dekker-webster-northward-ho.xml"
+      ],
+      "eng000319": [
+        118,
+        "tei/dekker-webster-the-famous-history-of-sir-thomas-wyatt.xml"
+      ],
+      "eng000321": [
+        118,
+        "tei/dekker-webster-westward-ho.xml"
+      ],
+      "eng000373": [
+        118,
+        "tei/denham-the-sophy.xml"
+      ],
+      "eng000322": [
+        118,
+        "tei/drue-the-duchess-of-suffolk.xml"
+      ],
+      "eng000003": [
+        118,
+        "tei/field-a-woman-is-a-weathercock.xml"
+      ],
+      "eng000002": [
+        118,
+        "tei/field-amends-for-ladies.xml"
+      ],
+      "eng000351": [
+        118,
+        "tei/field-fletcher-massinger-the-knight-of-malta.xml"
+      ],
+      "eng000355": [
+        118,
+        "tei/field-fletcher-massinger-the-queen-of-corinth.xml"
+      ],
+      "eng000354": [
+        118,
+        "tei/field-massinger-fletcher-the-honest-man-s-fortune.xml"
+      ],
+      "eng000151": [
+        118,
+        "tei/field-massinger-the-fatal-dowry.xml"
+      ],
+      "eng000004": [
+        118,
+        "tei/fisher-fuimus-troes.xml"
+      ],
+      "eng000357": [
+        118,
+        "tei/fletcher-a-wife-for-a-month.xml"
+      ],
+      "eng000334": [
+        118,
+        "tei/fletcher-beaumont-the-captain.xml"
+      ],
+      "eng000333": [
+        118,
+        "tei/fletcher-beaumont-the-noble-gentleman.xml"
+      ],
+      "eng000347": [
+        118,
+        "tei/fletcher-bonduca.xml"
+      ],
+      "eng000362": [
+        118,
+        "tei/fletcher-field-four-plays.xml"
+      ],
+      "eng000360": [
+        118,
+        "tei/fletcher-ford-massinger-webster-the-fair-maid-of-the-inn.xml"
+      ],
+      "eng000390": [
+        118,
+        "tei/fletcher-massinger-a-very-woman.xml"
+      ],
+      "eng000005": [
+        118,
+        "tei/fletcher-massinger-the-bloody-brother-rollo-duke-of-normandy.xml"
+      ],
+      "eng000332": [
+        118,
+        "tei/fletcher-massinger-the-custom-of-the-country.xml"
+      ],
+      "eng000349": [
+        118,
+        "tei/fletcher-massinger-the-double-marriage.xml"
+      ],
+      "eng000006": [
+        118,
+        "tei/fletcher-massinger-the-elder-brother.xml"
+      ],
+      "eng000337": [
+        118,
+        "tei/fletcher-massinger-the-false-one.xml"
+      ],
+      "eng000331": [
+        118,
+        "tei/fletcher-massinger-the-little-french-lawyer.xml"
+      ],
+      "eng000346": [
+        118,
+        "tei/fletcher-massinger-the-prophetess.xml"
+      ],
+      "eng000348": [
+        118,
+        "tei/fletcher-massinger-the-sea-voyage.xml"
+      ],
+      "eng000330": [
+        118,
+        "tei/fletcher-massinger-the-spanish-curate.xml"
+      ],
+      "eng000341": [
+        118,
+        "tei/fletcher-massinger-the-wandering-lovers.xml"
+      ],
+      "eng000345": [
+        118,
+        "tei/fletcher-rowley-the-maid-in-the-mill.xml"
+      ],
+      "eng000009": [
+        118,
+        "tei/fletcher-rule-a-wife-and-have-a-wife.xml"
+      ],
+      "eng000008": [
+        118,
+        "tei/fletcher-shirley-the-night-walker.xml"
+      ],
+      "eng000011": [
+        118,
+        "tei/fletcher-sicelides.xml"
+      ],
+      "eng000338": [
+        91,
+        "tei/fletcher-the-chances.xml"
+      ],
+      "eng000007": [
+        118,
+        "tei/fletcher-the-faithful-shepherdess.xml"
+      ],
+      "eng000343": [
+        118,
+        "tei/fletcher-the-humorous-lieutenant.xml"
+      ],
+      "eng000342": [
+        118,
+        "tei/fletcher-the-island-princess.xml"
+      ],
+      "eng000339": [
+        118,
+        "tei/fletcher-the-loyal-subject.xml"
+      ],
+      "eng000329": [
+        118,
+        "tei/fletcher-the-mad-lover.xml"
+      ],
+      "eng000350": [
+        118,
+        "tei/fletcher-the-pilgrim.xml"
+      ],
+      "eng000363": [
+        118,
+        "tei/fletcher-the-wild-goose-chase.xml"
+      ],
+      "eng000352": [
+        118,
+        "tei/fletcher-the-woman-s-prize.xml"
+      ],
+      "eng000359": [
+        118,
+        "tei/fletcher-valentinian.xml"
+      ],
+      "eng000356": [
+        118,
+        "tei/fletcher-women-pleased.xml"
+      ],
+      "eng000017": [
+        118,
+        "tei/ford-love-s-sacrifice.xml"
+      ],
+      "eng000013": [
+        118,
+        "tei/ford-perkin-warbeck.xml"
+      ],
+      "eng000012": [
+        118,
+        "tei/ford-the-broken-heart.xml"
+      ],
+      "eng000014": [
+        118,
+        "tei/ford-the-fancies-chaste-and-noble.xml"
+      ],
+      "eng000015": [
+        118,
+        "tei/ford-the-lady-s-trial.xml"
+      ],
+      "eng000340": [
+        118,
+        "tei/ford-the-laws-of-candy.xml"
+      ],
+      "eng000016": [
+        118,
+        "tei/ford-the-lover-s-melancholy.xml"
+      ],
+      "eng000400": [
+        118,
+        "tei/ford-the-queen.xml"
+      ],
+      "eng000018": [
+        118,
+        "tei/ford-tis-pity-she-s-a-whore.xml"
+      ],
+      "eng000019": [
+        118,
+        "tei/freeman-imperiale.xml"
+      ],
+      "eng000020": [
+        118,
+        "tei/fulwel-like-will-to-like.xml"
+      ],
+      "eng000022": [
+        118,
+        "tei/garter-the-most-virtuous-and-godly-susanna.xml"
+      ],
+      "eng000023": [
+        118,
+        "tei/gascoigne-the-glass-of-government.xml"
+      ],
+      "eng000027": [
+        118,
+        "tei/glapthorne-albertus-wallenstein.xml"
+      ],
+      "eng000024": [
+        118,
+        "tei/glapthorne-argalus-and-parthenia.xml"
+      ],
+      "eng000371": [
+        118,
+        "tei/glapthorne-revenge-for-honor.xml"
+      ],
+      "eng000025": [
+        118,
+        "tei/glapthorne-the-hollander.xml"
+      ],
+      "eng000026": [
+        118,
+        "tei/glapthorne-the-ladies-privilege.xml"
+      ],
+      "eng000028": [
+        118,
+        "tei/glapthorne-wit-in-a-constable.xml"
+      ],
+      "eng000029": [
+        118,
+        "tei/goffe-orestes.xml"
+      ],
+      "eng000376": [
+        118,
+        "tei/goffe-the-careless-shepherdess.xml"
+      ],
+      "eng000030": [
+        118,
+        "tei/gomersall-lodovick-sforza.xml"
+      ],
+      "eng000032": [
+        118,
+        "tei/gough-the-strange-discovery.xml"
+      ],
+      "eng000034": [
+        118,
+        "tei/greene-alphonsus-king-of-aragon.xml"
+      ],
+      "eng000036": [
+        118,
+        "tei/greene-friar-bacon-and-friar-bongay.xml"
+      ],
+      "eng000033": [
+        118,
+        "tei/greene-george-a-green-the-pinner-of-wakefield.xml"
+      ],
+      "eng000035": [
+        118,
+        "tei/greene-orlando-furioso.xml"
+      ],
+      "eng000410": [
+        118,
+        "tei/greene-selimus-1.xml"
+      ],
+      "eng000037": [
+        118,
+        "tei/greene-the-scottish-history-of-james-the-fourth.xml"
+      ],
+      "eng000038": [
+        118,
+        "tei/greville-alaham.xml"
+      ],
+      "eng000039": [
+        118,
+        "tei/greville-mustapha.xml"
+      ],
+      "eng000040": [
+        118,
+        "tei/habington-the-queen-of-aragon.xml"
+      ],
+      "eng000041": [
+        118,
+        "tei/harding-sicily-and-naples.xml"
+      ],
+      "eng000042": [
+        118,
+        "tei/haughton-englishmen-for-my-money.xml"
+      ],
+      "eng000426": [
+        118,
+        "tei/hausted-the-rival-friends.xml"
+      ],
+      "eng000043": [
+        118,
+        "tei/hawkins-apollo-shroving.xml"
+      ],
+      "eng000045": [
+        118,
+        "tei/heywood-a-challenge-for-beauty.xml"
+      ],
+      "eng000061": [
+        118,
+        "tei/heywood-a-woman-killed-with-kindness.xml"
+      ],
+      "eng000062": [
+        118,
+        "tei/heywood-brome-the-late-lancashire-witches.xml"
+      ],
+      "eng000056": [
+        118,
+        "tei/heywood-edward-the-fourth-1.xml"
+      ],
+      "eng000288": [
+        118,
+        "tei/heywood-how-a-man-may-choose-a-good-wife-from-a-bad.xml"
+      ],
+      "eng000052": [
+        118,
+        "tei/heywood-if-you-know-not-me-you-know-nobody-1.xml"
+      ],
+      "eng000053": [
+        118,
+        "tei/heywood-if-you-know-not-me-you-know-nobody-2.xml"
+      ],
+      "eng000057": [
+        118,
+        "tei/heywood-love-s-mistress.xml"
+      ],
+      "eng000378": [
+        118,
+        "tei/heywood-rowley-fortune-by-land-and-sea.xml"
+      ],
+      "eng000044": [
+        118,
+        "tei/heywood-the-brazen-age.xml"
+      ],
+      "eng000046": [
+        118,
+        "tei/heywood-the-english-traveller.xml"
+      ],
+      "eng000047": [
+        118,
+        "tei/heywood-the-fair-maid-of-the-exchange.xml"
+      ],
+      "eng000048": [
+        118,
+        "tei/heywood-the-fair-maid-of-the-west-1.xml"
+      ],
+      "eng000049": [
+        118,
+        "tei/heywood-the-fair-maid-of-the-west-2.xml"
+      ],
+      "eng000050": [
+        118,
+        "tei/heywood-the-four-prentices-of-london.xml"
+      ],
+      "eng000051": [
+        118,
+        "tei/heywood-the-golden-age.xml"
+      ],
+      "eng000054": [
+        118,
+        "tei/heywood-the-iron-age-1.xml"
+      ],
+      "eng000055": [
+        118,
+        "tei/heywood-the-iron-age-2.xml"
+      ],
+      "eng000058": [
+        118,
+        "tei/heywood-the-rape-of-lucrece.xml"
+      ],
+      "eng000059": [
+        118,
+        "tei/heywood-the-royal-king-and-the-loyal-subject.xml"
+      ],
+      "eng000060": [
+        118,
+        "tei/heywood-the-wise-woman-of-hogsdon.xml"
+      ],
+      "eng000065": [
+        118,
+        "tei/holiday-technogamia.xml"
+      ],
+      "eng000066": [
+        118,
+        "tei/hughes-the-misfortunes-of-arthur.xml"
+      ],
+      "eng000071": [
+        118,
+        "tei/jones-adrasta.xml"
+      ],
+      "eng000080": [
+        118,
+        "tei/jonson-bartholomew-fair.xml"
+      ],
+      "eng000078": [
+        118,
+        "tei/jonson-catiline-his-conspiracy.xml"
+      ],
+      "eng000084": [
+        118,
+        "tei/jonson-chloridia.xml"
+      ],
+      "eng000073": [
+        118,
+        "tei/jonson-cynthia-s-revels.xml"
+      ],
+      "eng000085": [
+        118,
+        "tei/jonson-epicoene-or-the-silent-woman-A04645.xml"
+      ],
+      "eng000072": [
+        118,
+        "tei/jonson-every-man-in-his-humour.xml"
+      ],
+      "eng000086": [
+        118,
+        "tei/jonson-every-man-out-of-his-humour.xml"
+      ],
+      "eng000088": [
+        118,
+        "tei/jonson-hymenaei.xml"
+      ],
+      "eng000089": [
+        118,
+        "tei/jonson-love-s-triumph-through-callipolis.xml"
+      ],
+      "eng000090": [
+        118,
+        "tei/jonson-neptune-s-triumph-for-the-return-of-albion.xml"
+      ],
+      "eng000074": [
+        118,
+        "tei/jonson-poetaster.xml"
+      ],
+      "eng000075": [
+        118,
+        "tei/jonson-sejanus-his-fall.xml"
+      ],
+      "eng000077": [
+        118,
+        "tei/jonson-the-alchemist.xml"
+      ],
+      "eng000082": [
+        118,
+        "tei/jonson-the-case-is-altered.xml"
+      ],
+      "eng000083": [
+        118,
+        "tei/jonson-the-characters-of-two-royal-masques.xml"
+      ],
+      "eng000379": [
+        118,
+        "tei/jonson-the-devil-is-an-ass.xml"
+      ],
+      "eng000079": [
+        118,
+        "tei/jonson-the-entertainment-of-the-queen-and-prince-at-althorp.xml"
+      ],
+      "eng000087": [
+        118,
+        "tei/jonson-the-fortunate-isles-and-their-union.xml"
+      ],
+      "eng000091": [
+        118,
+        "tei/jonson-the-new-inn.xml"
+      ],
+      "eng000081": [
+        118,
+        "tei/jonson-the-staple-of-news.xml"
+      ],
+      "eng000076": [
+        118,
+        "tei/jonson-volpone.xml"
+      ],
+      "eng000383": [
+        118,
+        "tei/killigrew-claricilla.xml"
+      ],
+      "eng000092": [
+        118,
+        "tei/killigrew-the-conspiracy.xml"
+      ],
+      "eng000382": [
+        118,
+        "tei/killigrew-the-parson-s-wedding.xml"
+      ],
+      "eng000381": [
+        118,
+        "tei/killigrew-the-princess.xml"
+      ],
+      "eng000384": [
+        118,
+        "tei/killigrew-the-prisoners.xml"
+      ],
+      "eng000093": [
+        118,
+        "tei/kirke-the-seven-champions-of-christendom.xml"
+      ],
+      "eng000096": [
+        118,
+        "tei/knevet-rhodon-and-iris.xml"
+      ],
+      "eng000232": [
+        118,
+        "tei/kyd-soliman-and-perseda.xml"
+      ],
+      "eng000098": [
+        118,
+        "tei/kyd-the-spanish-tragedy.xml"
+      ],
+      "eng000099": [
+        118,
+        "tei/kynaston-corona-minervae.xml"
+      ],
+      "eng000103": [
+        118,
+        "tei/lodge-the-wounds-of-civil-war.xml"
+      ],
+      "eng000110": [
+        118,
+        "tei/lower-the-phoenix-in-her-flames.xml"
+      ],
+      "eng000112": [
+        118,
+        "tei/lupton-all-for-money.xml"
+      ],
+      "eng000113": [
+        118,
+        "tei/lyly-campaspe.xml"
+      ],
+      "eng000114": [
+        118,
+        "tei/lyly-endymion.xml"
+      ],
+      "eng000115": [
+        118,
+        "tei/lyly-gallathea.xml"
+      ],
+      "eng000116": [
+        118,
+        "tei/lyly-love-s-metamorphosis.xml"
+      ],
+      "eng000117": [
+        118,
+        "tei/lyly-midas.xml"
+      ],
+      "eng000118": [
+        118,
+        "tei/lyly-mother-bombie.xml"
+      ],
+      "eng000119": [
+        118,
+        "tei/lyly-sappho-and-phao.xml"
+      ],
+      "eng000120": [
+        118,
+        "tei/lyly-the-woman-in-the-moon.xml"
+      ],
+      "eng000134": [
+        118,
+        "tei/machin-barkstead-marston-the-insatiate-countess.xml"
+      ],
+      "eng000122": [
+        118,
+        "tei/markham-sampson-herod-and-antipater.xml"
+      ],
+      "eng000126": [
+        118,
+        "tei/marlowe-dr-faustus.xml"
+      ],
+      "eng000127": [
+        118,
+        "tei/marlowe-edward-the-second.xml"
+      ],
+      "eng000128": [
+        118,
+        "tei/marlowe-nashe-dido-queen-of-carthage.xml"
+      ],
+      "eng000125": [
+        118,
+        "tei/marlowe-tamburlaine-1.xml"
+      ],
+      "eng000123": [
+        118,
+        "tei/marlowe-the-jew-of-malta.xml"
+      ],
+      "eng000124": [
+        118,
+        "tei/marlowe-the-massacre-at-paris.xml"
+      ],
+      "eng000129": [
+        118,
+        "tei/marmion-a-fine-companion.xml"
+      ],
+      "eng000130": [
+        118,
+        "tei/marmion-holland-s-leaguer.xml"
+      ],
+      "eng000131": [
+        118,
+        "tei/marston-antonio-and-mellida.xml"
+      ],
+      "eng000132": [
+        118,
+        "tei/marston-antonio-s-revenge.xml"
+      ],
+      "eng000063": [
+        118,
+        "tei/marston-histriomastix.xml"
+      ],
+      "eng000323": [
+        118,
+        "tei/marston-jack-drum-s-entertainment.xml"
+      ],
+      "eng000136": [
+        118,
+        "tei/marston-parasitaster.xml"
+      ],
+      "eng000133": [
+        118,
+        "tei/marston-the-dutch-courtesan.xml"
+      ],
+      "eng000135": [
+        118,
+        "tei/marston-the-malcontent.xml"
+      ],
+      "eng000138": [
+        118,
+        "tei/marston-the-wonder-of-women.xml"
+      ],
+      "eng000137": [
+        118,
+        "tei/marston-what-you-will.xml"
+      ],
+      "eng000139": [
+        118,
+        "tei/mason-the-turk.xml"
+      ],
+      "eng000145": [
+        118,
+        "tei/massinger-a-new-way-to-pay-old-debts.xml"
+      ],
+      "eng000388": [
+        118,
+        "tei/massinger-the-bashful-lover.xml"
+      ],
+      "eng000140": [
+        118,
+        "tei/massinger-the-bondman.xml"
+      ],
+      "eng000386": [
+        118,
+        "tei/massinger-the-city-madam.xml"
+      ],
+      "eng000141": [
+        118,
+        "tei/massinger-the-duke-of-milan.xml"
+      ],
+      "eng000142": [
+        118,
+        "tei/massinger-the-emperor-of-the-east.xml"
+      ],
+      "eng000143": [
+        118,
+        "tei/massinger-the-great-duke-of-florence.xml"
+      ],
+      "eng000389": [
+        118,
+        "tei/massinger-the-guardian.xml"
+      ],
+      "eng000144": [
+        118,
+        "tei/massinger-the-maid-of-honour.xml"
+      ],
+      "eng000146": [
+        118,
+        "tei/massinger-the-picture.xml"
+      ],
+      "eng000147": [
+        118,
+        "tei/massinger-the-renegado.xml"
+      ],
+      "eng000148": [
+        118,
+        "tei/massinger-the-roman-actor.xml"
+      ],
+      "eng000149": [
+        118,
+        "tei/massinger-the-unnatural-combat.xml"
+      ],
+      "eng000153": [
+        118,
+        "tei/may-antigone-the-theban-princess.xml"
+      ],
+      "eng000154": [
+        118,
+        "tei/may-cleopatra-queen-of-egypt.xml"
+      ],
+      "eng000155": [
+        118,
+        "tei/may-julia-agrippina-empress-of-rome.xml"
+      ],
+      "eng000152": [
+        118,
+        "tei/may-the-heir.xml"
+      ],
+      "eng000156": [
+        118,
+        "tei/mayne-the-city-match.xml"
+      ],
+      "eng000158": [
+        118,
+        "tei/middleton-a-chaste-maid-in-cheapside.xml"
+      ],
+      "eng000160": [
+        118,
+        "tei/middleton-a-game-at-chess.xml"
+      ],
+      "eng000162": [
+        118,
+        "tei/middleton-a-mad-world-my-masters.xml"
+      ],
+      "eng000165": [
+        118,
+        "tei/middleton-a-trick-to-catch-the-old-one.xml"
+      ],
+      "eng000206": [
+        118,
+        "tei/middleton-a-yorkshire-tragedy.xml"
+      ],
+      "eng000391": [
+        118,
+        "tei/middleton-anything-for-a-quiet-life.xml"
+      ],
+      "eng000344": [
+        118,
+        "tei/middleton-fletcher-the-nice-valor.xml"
+      ],
+      "eng000163": [
+        118,
+        "tei/middleton-michaelmas-term.xml"
+      ],
+      "eng000395": [
+        118,
+        "tei/middleton-more-dissemblers-besides-women.xml"
+      ],
+      "eng000387": [
+        118,
+        "tei/middleton-rowley-heywood-the-old-law.xml"
+      ],
+      "eng000392": [
+        118,
+        "tei/middleton-rowley-the-changeling.xml"
+      ],
+      "eng000167": [
+        118,
+        "tei/middleton-rowley-the-world-tossed-at-tennis.xml"
+      ],
+      "eng000358": [
+        118,
+        "tei/middleton-rowley-wit-at-several-weapons.xml"
+      ],
+      "eng000159": [
+        118,
+        "tei/middleton-the-family-of-love.xml"
+      ],
+      "eng000161": [
+        118,
+        "tei/middleton-the-inner-temple-masque.xml"
+      ],
+      "eng000393": [
+        118,
+        "tei/middleton-the-mayor-of-quinborough.xml"
+      ],
+      "eng000164": [
+        118,
+        "tei/middleton-the-phoenix.xml"
+      ],
+      "eng000202": [
+        118,
+        "tei/middleton-the-puritan.xml"
+      ],
+      "eng000240": [
+        118,
+        "tei/middleton-the-revenger-s-tragedy.xml"
+      ],
+      "eng000380": [
+        118,
+        "tei/middleton-the-widow.xml"
+      ],
+      "eng000168": [
+        118,
+        "tei/middleton-william-rowley-a-fair-quarrel.xml"
+      ],
+      "eng000396": [
+        118,
+        "tei/middleton-women-beware-women.xml"
+      ],
+      "eng000412": [
+        118,
+        "tei/middleton-your-five-gallants.xml"
+      ],
+      "eng000169": [
+        118,
+        "tei/milton-comus.xml"
+      ],
+      "eng000171": [
+        118,
+        "tei/munday-chettle-the-death-of-robert-earl-of-huntingdon.xml"
+      ],
+      "eng000181": [
+        118,
+        "tei/munday-drayton-wilson-hathaway-sir-john-oldcastle-1.xml"
+      ],
+      "eng000173": [
+        118,
+        "tei/nabbes-covent-garden.xml"
+      ],
+      "eng000174": [
+        118,
+        "tei/nabbes-hannibal-and-scipio.xml"
+      ],
+      "eng000172": [
+        118,
+        "tei/nabbes-the-bride.xml"
+      ],
+      "eng000434": [
+        118,
+        "tei/nabbes-the-spring-s-glory.xml"
+      ],
+      "eng000176": [
+        118,
+        "tei/nabbes-the-unfortunate-mother.xml"
+      ],
+      "eng000175": [
+        118,
+        "tei/nabbes-tottenham-court.xml"
+      ],
+      "eng000177": [
+        118,
+        "tei/nashe-summer-s-last-will-and-testament.xml"
+      ],
+      "eng000180": [
+        118,
+        "tei/norton-sackville-gorboduc.xml"
+      ],
+      "eng000417": [
+        118,
+        "tei/peele-clyomon-and-clamydes.xml"
+      ],
+      "eng000185": [
+        118,
+        "tei/peele-edward-the-first.xml"
+      ],
+      "eng000183": [
+        118,
+        "tei/peele-the-arraignment-of-paris.xml"
+      ],
+      "eng000184": [
+        118,
+        "tei/peele-the-battle-of-alcazar.xml"
+      ],
+      "eng000186": [
+        118,
+        "tei/peele-the-love-of-david-and-fair-bathsheba.xml"
+      ],
+      "eng000187": [
+        118,
+        "tei/peele-the-old-wives-tale.xml"
+      ],
+      "eng000188": [
+        118,
+        "tei/pikering-horestes.xml"
+      ],
+      "eng000189": [
+        118,
+        "tei/porter-the-two-angry-women-of-abingdon.xml"
+      ],
+      "eng000190": [
+        118,
+        "tei/randolph-aristippus-or-the-jovial-philosopher.xml"
+      ],
+      "eng000191": [
+        118,
+        "tei/randolph-the-jealous-lovers.xml"
+      ],
+      "eng000192": [
+        118,
+        "tei/rawlins-the-rebellion.xml"
+      ],
+      "eng000413": [
+        118,
+        "tei/richards-messalina-the-roman-empress.xml"
+      ],
+      "eng000196": [
+        118,
+        "tei/rowley-a-match-at-midnight.xml"
+      ],
+      "eng000198": [
+        118,
+        "tei/rowley-a-new-wonder-a-woman-never-vexed.xml"
+      ],
+      "eng000197": [
+        118,
+        "tei/rowley-a-shoemaker-a-gentleman.xml"
+      ],
+      "eng000199": [
+        118,
+        "tei/rowley-all-s-lost-by-lust.xml"
+      ],
+      "eng000401": [
+        118,
+        "tei/rowley-the-birth-of-merlin.xml"
+      ],
+      "eng000195": [
+        118,
+        "tei/rowley-when-you-see-me-you-know-me.xml"
+      ],
+      "eng000200": [
+        118,
+        "tei/rutter-the-shepherds-holiday.xml"
+      ],
+      "eng000201": [
+        118,
+        "tei/anon-locrine.xml"
+      ],
+      "eng000414": [
+        118,
+        "tei/s-the-honest-lawyer.xml"
+      ],
+      "eng000203": [
+        118,
+        "tei/s-thomas-lord-cromwell.xml"
+      ],
+      "eng000204": [
+        118,
+        "tei/sampson-the-vow-breaker.xml"
+      ],
+      "eng000207": [
+        118,
+        "tei/sharpham-cupid-s-whirligig.xml"
+      ],
+      "eng000208": [
+        118,
+        "tei/sharpham-the-fleer.xml"
+      ],
+      "eng000211": [
+        118,
+        "tei/shirley-changes.xml"
+      ],
+      "eng000217": [
+        118,
+        "tei/shirley-hyde-park.xml"
+      ],
+      "eng000220": [
+        118,
+        "tei/shirley-love-s-cruelty.xml"
+      ],
+      "eng000225": [
+        118,
+        "tei/shirley-saint-patrick-for-ireland-1.xml"
+      ],
+      "eng000223": [
+        118,
+        "tei/shirley-the-arcadia.xml"
+      ],
+      "eng000285": [
+        118,
+        "tei/shirley-the-ball.xml"
+      ],
+      "eng000210": [
+        118,
+        "tei/shirley-the-bird-in-a-cage.xml"
+      ],
+      "eng000429": [
+        118,
+        "tei/shirley-the-brothers.xml"
+      ],
+      "eng000430": [
+        118,
+        "tei/shirley-the-cardinal.xml"
+      ],
+      "eng000212": [
+        118,
+        "tei/shirley-the-constant-maid.xml"
+      ],
+      "eng000213": [
+        118,
+        "tei/shirley-the-contention-for-honor-and-riches.xml"
+      ],
+      "eng000406": [
+        118,
+        "tei/shirley-the-court-secret.xml"
+      ],
+      "eng000431": [
+        118,
+        "tei/shirley-the-doubtful-heir.xml"
+      ],
+      "eng000214": [
+        118,
+        "tei/shirley-the-duke-s-mistress.xml"
+      ],
+      "eng000215": [
+        118,
+        "tei/shirley-the-example.xml"
+      ],
+      "eng000216": [
+        118,
+        "tei/shirley-the-gamester.xml"
+      ],
+      "eng000403": [
+        118,
+        "tei/shirley-the-gentleman-of-venice.xml"
+      ],
+      "eng000218": [
+        118,
+        "tei/shirley-the-humorous-courtier.xml"
+      ],
+      "eng000405": [
+        118,
+        "tei/shirley-the-impostor.xml"
+      ],
+      "eng000219": [
+        118,
+        "tei/shirley-the-lady-of-pleasure.xml"
+      ],
+      "eng000221": [
+        118,
+        "tei/shirley-the-maid-s-revenge.xml"
+      ],
+      "eng000209": [
+        118,
+        "tei/shirley-the-martyred-soldier.xml"
+      ],
+      "eng000222": [
+        118,
+        "tei/shirley-the-opportunity.xml"
+      ],
+      "eng000404": [
+        118,
+        "tei/shirley-the-politician.xml"
+      ],
+      "eng000224": [
+        118,
+        "tei/shirley-the-royal-master.xml"
+      ],
+      "eng000226": [
+        118,
+        "tei/shirley-the-school-of-compliment.xml"
+      ],
+      "eng000432": [
+        118,
+        "tei/shirley-the-sisters.xml"
+      ],
+      "eng000227": [
+        118,
+        "tei/shirley-the-traitor.xml"
+      ],
+      "eng000433": [
+        118,
+        "tei/shirley-the-triumph-of-peace.xml"
+      ],
+      "eng000228": [
+        118,
+        "tei/shirley-the-wedding.xml"
+      ],
+      "eng000229": [
+        118,
+        "tei/shirley-the-witty-fair-one.xml"
+      ],
+      "eng000230": [
+        118,
+        "tei/shirley-the-young-admiral.xml"
+      ],
+      "eng000231": [
+        118,
+        "tei/smith-smith-the-hector-of-germany.xml"
+      ],
+      "eng000233": [
+        118,
+        "tei/stephens-cynthia-s-revenge.xml"
+      ],
+      "eng000234": [
+        118,
+        "tei/stevenson-gammer-gurton-s-needle.xml"
+      ],
+      "eng000407": [
+        118,
+        "tei/suckling-brennoralt.xml"
+      ],
+      "eng000236": [
+        118,
+        "tei/tailor-the-hog-hath-lost-his-pearl.xml"
+      ],
+      "eng000238": [
+        118,
+        "tei/tomkis-albumazar.xml"
+      ],
+      "eng000409": [
+        118,
+        "tei/tomkis-lingua.xml"
+      ],
+      "eng000239": [
+        118,
+        "tei/tourneur-the-atheist-s-tragedy.xml"
+      ],
+      "eng000241": [
+        118,
+        "tei/townshend-albion-s-triumph.xml"
+      ],
+      "eng000242": [
+        118,
+        "tei/townshend-tempe-restored.xml"
+      ],
+      "eng000067": [
+        118,
+        "tei/udall-jacob-and-esau.xml"
+      ],
+      "eng000243": [
+        118,
+        "tei/udall-ralph-roister-doister.xml"
+      ],
+      "eng000244": [
+        118,
+        "tei/w-the-valiant-scot.xml"
+      ],
+      "eng000245": [
+        118,
+        "tei/wapull-the-tide-tarrieth-no-man.xml"
+      ],
+      "eng000408": [
+        118,
+        "tei/webster-rowley-the-thracian-wonder.xml"
+      ],
+      "eng000246": [
+        118,
+        "tei/webster-the-devil-s-law-case.xml"
+      ],
+      "eng000247": [
+        118,
+        "tei/webster-the-duchess-of-malfi.xml"
+      ],
+      "eng000248": [
+        118,
+        "tei/webster-the-white-devil.xml"
+      ],
+      "eng000249": [
+        118,
+        "tei/wilkins-the-miseries-of-enforced-marriage.xml"
+      ],
+      "eng000250": [
+        118,
+        "tei/wilmot-hatton-noel-al-stafford-tancred-and-gismund.xml"
+      ],
+      "eng000251": [
+        118,
+        "tei/wilson-the-cobbler-s-prophecy.xml"
+      ],
+      "eng000254": [
+        118,
+        "tei/wilson-the-three-ladies-of-london.xml"
+      ],
+      "eng000253": [
+        118,
+        "tei/wilson-the-three-lords-and-three-ladies-of-london.xml"
+      ],
+      "eng000415": [
+        118,
+        "tei/woodes-the-conflict-of-conscience.xml"
+      ],
+      "eng000256": [
+        118,
+        "tei/yarington-two-lamentable-tragedies.xml"
+      ],
+      "eng000257": [
+        118,
+        "tei/zouche-the-sophister.xml"
+      ],
+      "test000005": [
+        81,
+        "tei/anonymous-everyman.xml"
+      ],
+      "eng000435": [
+        118,
+        "tei/anon-everyman.xml"
+      ],
+      "eng000609": [
+        118,
+        "tei/a-the-valiant-welshman.xml"
+      ],
+      "eng000637": [
+        118,
+        "tei/anon-bonduca.xml"
+      ],
+      "eng000620": [
+        118,
+        "tei/anon-brutus-of-alba.xml"
+      ],
+      "eng000594": [
+        118,
+        "tei/anon-emilia.xml"
+      ],
+      "eng000641": [
+        118,
+        "tei/anon-henry-ii-king-of-england.xml"
+      ],
+      "eng000566": [
+        118,
+        "tei/anon-knavery-in-all-trades.xml"
+      ],
+      "eng000695": [
+        118,
+        "tei/anon-piso-s-conspiracy.xml"
+      ],
+      "eng000480": [
+        118,
+        "tei/anon-produced-by-duffett-the-amorous-old-woman.xml"
+      ],
+      "eng000673": [
+        118,
+        "tei/anon-produced-by-horden-neglected-virtue.xml"
+      ],
+      "eng000723": [
+        118,
+        "tei/anon-romulus-and-hersilia.xml"
+      ],
+      "eng000621": [
+        118,
+        "tei/anon-settle-the-fairy-queen.xml"
+      ],
+      "eng000560": [
+        118,
+        "tei/anon-she-ventures-and-he-wins.xml"
+      ],
+      "eng000737": [
+        118,
+        "tei/anon-the-bloody-duke.xml"
+      ],
+      "eng000533": [
+        118,
+        "tei/anon-the-cornish-comedy.xml"
+      ],
+      "eng000516": [
+        118,
+        "tei/anon-the-counterfeit-bridegroom.xml"
+      ],
+      "eng000514": [
+        118,
+        "tei/anon-the-counterfeits.xml"
+      ],
+      "eng000467": [
+        118,
+        "tei/anon-the-feigned-astrologer.xml"
+      ],
+      "eng000497": [
+        118,
+        "tei/anon-the-island-princess.xml"
+      ],
+      "eng000477": [
+        118,
+        "tei/anon-the-mistaken-husband.xml"
+      ],
+      "eng000735": [
+        118,
+        "tei/anon-the-siege-and-surrender-of-mons.xml"
+      ],
+      "eng000607": [
+        118,
+        "tei/anon-the-unnatural-mother.xml"
+      ],
+      "eng000572": [
+        118,
+        "tei/anon-the-woman-turned-bully.xml"
+      ],
+      "eng000669": [
+        118,
+        "tei/anon-valentinian.xml"
+      ],
+      "eng000579": [
+        118,
+        "tei/anon-wit-for-money.xml"
+      ],
+      "eng000739": [
+        118,
+        "tei/anon-wits-led-by-the-nose.xml"
+      ],
+      "eng000436": [
+        118,
+        "tei/ariosto-supposes.xml"
+      ],
+      "eng000442": [
+        118,
+        "tei/arrowsmith-the-reformation.xml"
+      ],
+      "eng000456": [
+        118,
+        "tei/bailey-the-spiteful-sister.xml"
+      ],
+      "eng000642": [
+        118,
+        "tei/bancroft-sentorius.xml"
+      ],
+      "eng000643": [
+        118,
+        "tei/banks-cyrus-the-great.xml"
+      ],
+      "eng000644": [
+        118,
+        "tei/banks-the-destruction-of-troy.xml"
+      ],
+      "eng000645": [
+        118,
+        "tei/banks-the-innocent-usurper.xml"
+      ],
+      "eng000646": [
+        118,
+        "tei/banks-the-island-queens.xml"
+      ],
+      "eng000647": [
+        118,
+        "tei/banks-the-rival-kings.xml"
+      ],
+      "eng000648": [
+        118,
+        "tei/banks-the-unhappy-favourite.xml"
+      ],
+      "eng000649": [
+        118,
+        "tei/baron-mirza.xml"
+      ],
+      "eng000638": [
+        118,
+        "tei/bedloe-the-excommunicated-prince.xml"
+      ],
+      "eng000639": [
+        118,
+        "tei/behn-abdelazer.xml"
+      ],
+      "eng000444": [
+        118,
+        "tei/behn-the-amorous-prince.xml"
+      ],
+      "eng000445": [
+        118,
+        "tei/behn-the-city-heiress.xml"
+      ],
+      "eng000458": [
+        118,
+        "tei/behn-the-debauchee.xml"
+      ],
+      "eng000446": [
+        118,
+        "tei/behn-the-dutch-lover.xml"
+      ],
+      "eng000447": [
+        118,
+        "tei/behn-the-emperor-of-the-moon.xml"
+      ],
+      "eng000448": [
+        118,
+        "tei/behn-the-false-count.xml"
+      ],
+      "eng000449": [
+        118,
+        "tei/behn-the-feign-d-curtizans.xml"
+      ],
+      "eng000450": [
+        118,
+        "tei/behn-the-forced-marriage.xml"
+      ],
+      "eng000451": [
+        118,
+        "tei/behn-the-lucky-chance.xml"
+      ],
+      "eng000454": [
+        118,
+        "tei/behn-the-revenge.xml"
+      ],
+      "eng000452": [
+        118,
+        "tei/behn-the-roundheads.xml"
+      ],
+      "eng000582": [
+        118,
+        "tei/behn-the-rover-1.xml"
+      ],
+      "eng000736": [
+        118,
+        "tei/behn-the-widow-ranter.xml"
+      ],
+      "eng000453": [
+        118,
+        "tei/belon-the-mock-duellist.xml"
+      ],
+      "eng000613": [
+        118,
+        "tei/betterton-the-prophetess.xml"
+      ],
+      "eng000738": [
+        118,
+        "tei/boothby-marcelia.xml"
+      ],
+      "eng000455": [
+        118,
+        "tei/bourne-the-contended-cuckold.xml"
+      ],
+      "eng000702": [
+        118,
+        "tei/boyer-achilles.xml"
+      ],
+      "eng000522": [
+        118,
+        "tei/boyle-guzman.xml"
+      ],
+      "eng000612": [
+        118,
+        "tei/boyle-henry-v.xml"
+      ],
+      "eng000687": [
+        118,
+        "tei/boyle-herod-the-great.xml"
+      ],
+      "eng000523": [
+        118,
+        "tei/boyle-mr-anthony.xml"
+      ],
+      "eng000688": [
+        118,
+        "tei/boyle-mustapha-son-of-solyman-the-magnificent.xml"
+      ],
+      "eng000640": [
+        118,
+        "tei/brady-the-rape.xml"
+      ],
+      "eng000459": [
+        118,
+        "tei/browne-physic-lies-a-bleeding.xml"
+      ],
+      "eng000460": [
+        118,
+        "tei/burnaby-the-reformed-wife.xml"
+      ],
+      "eng000464": [
+        118,
+        "tei/carlisle-the-fortune-hunters.xml"
+      ],
+      "eng000465": [
+        118,
+        "tei/carpenter-the-pragmatical-jesuit-new-leavened.xml"
+      ],
+      "eng000499": [
+        118,
+        "tei/carr-pluto-furens-et-vinctus.xml"
+      ],
+      "eng000585": [
+        118,
+        "tei/cartwright-the-heroic-lover.xml"
+      ],
+      "eng000595": [
+        118,
+        "tei/cary-the-marriage-night.xml"
+      ],
+      "eng000471": [
+        118,
+        "tei/caryl-sir-salomon.xml"
+      ],
+      "eng000659": [
+        118,
+        "tei/caryl-the-english-princess.xml"
+      ],
+      "eng000578": [
+        118,
+        "tei/cavendish-the-triumphant-widow.xml"
+      ],
+      "eng000461": [
+        118,
+        "tei/centlivre-the-perjured-husband.xml"
+      ],
+      "eng000650": [
+        118,
+        "tei/cibber-xerxes.xml"
+      ],
+      "eng000740": [
+        118,
+        "tei/clerke-marciano.xml"
+      ],
+      "eng000462": [
+        118,
+        "tei/congreve-the-double-dealer.xml"
+      ],
+      "eng000653": [
+        118,
+        "tei/congreve-the-mourning-bride.xml"
+      ],
+      "eng000463": [
+        118,
+        "tei/congreve-the-way-of-the-world.xml"
+      ],
+      "eng000584": [
+        118,
+        "tei/corneille-amorous-orontus.xml"
+      ],
+      "eng000741": [
+        118,
+        "tei/corneille-nicomede.xml"
+      ],
+      "eng000655": [
+        118,
+        "tei/corneille-pompey-the-great.xml"
+      ],
+      "eng000654": [
+        118,
+        "tei/corneille-pompey.xml"
+      ],
+      "eng000733": [
+        118,
+        "tei/corneille-the-cid-1.xml"
+      ],
+      "eng000466": [
+        118,
+        "tei/corye-the-generous-enemies.xml"
+      ],
+      "eng000468": [
+        118,
+        "tei/cowley-cutter-of-coleman-street.xml"
+      ],
+      "eng000469": [
+        118,
+        "tei/crauford-courtship-a-la-mode.xml"
+      ],
+      "eng000611": [
+        118,
+        "tei/crowne-charles-viii-of-france.xml"
+      ],
+      "eng000656": [
+        118,
+        "tei/crowne-darius-king-of-persia.xml"
+      ],
+      "eng000742": [
+        118,
+        "tei/crowne-juliana.xml"
+      ],
+      "eng000470": [
+        118,
+        "tei/crowne-sir-courtly-nice.xml"
+      ],
+      "eng000586": [
+        118,
+        "tei/crowne-the-destruction-of-jerusalem.xml"
+      ],
+      "eng000657": [
+        118,
+        "tei/crowne-the-misery-of-civil-war.xml"
+      ],
+      "eng000658": [
+        118,
+        "tei/crowne-thyestes.xml"
+      ],
+      "eng000590": [
+        118,
+        "tei/d-urfey-a-commonwealth-of-women.xml"
+      ],
+      "eng000484": [
+        118,
+        "tei/d-urfey-a-fond-husband.xml"
+      ],
+      "eng000486": [
+        118,
+        "tei/d-urfey-a-fool-s-preferment.xml"
+      ],
+      "eng000616": [
+        118,
+        "tei/d-urfey-cinthia-and-endimion.xml"
+      ],
+      "eng000488": [
+        118,
+        "tei/d-urfey-love-for-money.xml"
+      ],
+      "eng000591": [
+        118,
+        "tei/d-urfey-massaniello-1-2.xml"
+      ],
+      "eng000492": [
+        118,
+        "tei/d-urfey-squire-oldsapp.xml"
+      ],
+      "eng000483": [
+        118,
+        "tei/d-urfey-the-comical-history-of-don-quixote-2.xml"
+      ],
+      "eng000485": [
+        118,
+        "tei/d-urfey-the-fool-turned-critic.xml"
+      ],
+      "eng000592": [
+        118,
+        "tei/d-urfey-the-injured-princess.xml"
+      ],
+      "eng000487": [
+        118,
+        "tei/d-urfey-the-intrigues-at-versailles.xml"
+      ],
+      "eng000489": [
+        118,
+        "tei/d-urfey-the-marriage-hater-matched.xml"
+      ],
+      "eng000490": [
+        118,
+        "tei/d-urfey-the-richmond-heiress.xml"
+      ],
+      "eng000491": [
+        118,
+        "tei/d-urfey-the-royalist.xml"
+      ],
+      "eng000493": [
+        118,
+        "tei/d-urfey-trick-for-trick.xml"
+      ],
+      "eng000602": [
+        118,
+        "tei/dancer-agrippa-king-of-alba.xml"
+      ],
+      "eng000729": [
+        118,
+        "tei/daniel-certaine-small-poems-lately-printed-with-the-tragedie-of-philotas.xml"
+      ],
+      "eng000730": [
+        118,
+        "tei/daniel-delia.xml"
+      ],
+      "eng000668": [
+        118,
+        "tei/davenant-circe.xml"
+      ],
+      "eng000716": [
+        118,
+        "tei/davenant-macbeth.xml"
+      ],
+      "eng000593": [
+        118,
+        "tei/davenant-the-siege-of-rhodes-1-2.xml"
+      ],
+      "eng000559": [
+        118,
+        "tei/davenant-the-tempest.xml"
+      ],
+      "eng000581": [
+        118,
+        "tei/dekker-the-whore-of-babylon.xml"
+      ],
+      "eng000660": [
+        118,
+        "tei/dennis-iphigenia.xml"
+      ],
+      "eng000661": [
+        118,
+        "tei/dennis-rinaldo-and-armida.xml"
+      ],
+      "eng000734": [
+        118,
+        "tei/desfontaines-the-cid-2.xml"
+      ],
+      "eng000457": [
+        118,
+        "tei/digby-elvira.xml"
+      ],
+      "eng000472": [
+        118,
+        "tei/dilke-the-lover-s-luck.xml"
+      ],
+      "eng000473": [
+        118,
+        "tei/doggett-the-country-wake.xml"
+      ],
+      "eng000625": [
+        118,
+        "tei/dolce-jocasta.xml"
+      ],
+      "eng000474": [
+        118,
+        "tei/drake-the-sham-lawyer.xml"
+      ],
+      "eng000614": [
+        118,
+        "tei/dryden-albion-albanius.xml"
+      ],
+      "eng000662": [
+        118,
+        "tei/dryden-amboyna.xml"
+      ],
+      "eng000577": [
+        118,
+        "tei/dryden-amphitryon.xml"
+      ],
+      "eng000475": [
+        118,
+        "tei/dryden-an-evening-s-love.xml"
+      ],
+      "eng000663": [
+        118,
+        "tei/dryden-aureng-zebe.xml"
+      ],
+      "eng000664": [
+        118,
+        "tei/dryden-cleomenes-the-spartan-hero.xml"
+      ],
+      "eng000743": [
+        118,
+        "tei/dryden-love-triumphant.xml"
+      ],
+      "eng000476": [
+        118,
+        "tei/dryden-marriage-a-la-mode.xml"
+      ],
+      "eng000665": [
+        118,
+        "tei/dryden-oedipus.xml"
+      ],
+      "eng000478": [
+        118,
+        "tei/dryden-sir-martin-mar-all.xml"
+      ],
+      "eng000587": [
+        118,
+        "tei/dryden-the-assignation.xml"
+      ],
+      "eng000479": [
+        118,
+        "tei/dryden-the-husband-his-own-cuckold.xml"
+      ],
+      "eng000588": [
+        118,
+        "tei/dryden-the-spanish-friar.xml"
+      ],
+      "eng000615": [
+        118,
+        "tei/dryden-the-state-of-innocence-and-fall-of-man.xml"
+      ],
+      "eng000666": [
+        118,
+        "tei/dryden-troilus-and-cressida.xml"
+      ],
+      "eng000667": [
+        118,
+        "tei/dryden-tyrannic-love.xml"
+      ],
+      "eng000482": [
+        118,
+        "tei/duffett-psyche-debauched.xml"
+      ],
+      "eng000481": [
+        118,
+        "tei/duffett-the-empress-of-morocco.xml"
+      ],
+      "eng000589": [
+        118,
+        "tei/duffett-the-mock-tempest.xml"
+      ],
+      "eng000617": [
+        118,
+        "tei/ecclestone-noah-s-flood.xml"
+      ],
+      "eng000494": [
+        118,
+        "tei/etherege-the-comical-revenge.xml"
+      ],
+      "eng000498": [
+        118,
+        "tei/fane-love-in-the-dark.xml"
+      ],
+      "eng000670": [
+        118,
+        "tei/fane-the-sacrifice.xml"
+      ],
+      "eng000501": [
+        118,
+        "tei/farquhar-love-and-a-bottle.xml"
+      ],
+      "eng000500": [
+        118,
+        "tei/farquhar-the-constant-couple.xml"
+      ],
+      "eng000744": [
+        118,
+        "tei/flecknoe-erminia.xml"
+      ],
+      "eng000745": [
+        118,
+        "tei/flecknoe-love-s-kingdom.xml"
+      ],
+      "eng000495": [
+        118,
+        "tei/flecknoe-the-damoiselles-a-la-mode.xml"
+      ],
+      "eng000496": [
+        118,
+        "tei/fletcher-the-chances.xml"
+      ],
+      "eng000443": [
+        118,
+        "tei/fletcher-wit-without-money.xml"
+      ],
+      "eng000624": [
+        118,
+        "tei/garnier-antonius.xml"
+      ],
+      "eng000623": [
+        118,
+        "tei/garnier-cornelia.xml"
+      ],
+      "eng000558": [
+        118,
+        "tei/gildon-measure-for-measure.xml"
+      ],
+      "eng000671": [
+        118,
+        "tei/gould-the-rival-sisters.xml"
+      ],
+      "eng000676": [
+        118,
+        "tei/granville-heroic-love.xml"
+      ],
+      "eng000513": [
+        118,
+        "tei/granville-the-she-gallants.xml"
+      ],
+      "eng000626": [
+        118,
+        "tei/grotius-christ-s-passion.xml"
+      ],
+      "eng000731": [
+        118,
+        "tei/guarini-il-pastor-fido-1602.xml"
+      ],
+      "eng000746": [
+        118,
+        "tei/guarini-il-pastor-fido-1647.xml"
+      ],
+      "eng000507": [
+        118,
+        "tei/harris-the-city-bride.xml"
+      ],
+      "eng000748": [
+        118,
+        "tei/harris-the-mistakes.xml"
+      ],
+      "eng000672": [
+        118,
+        "tei/haynes-a-fatal-mistake.xml"
+      ],
+      "eng000437": [
+        118,
+        "tei/heywood-a-maidenhead-well-lost.xml"
+      ],
+      "eng000502": [
+        118,
+        "tei/higden-the-wary-widow.xml"
+      ],
+      "eng000504": [
+        118,
+        "tei/howard-all-mistaken.xml"
+      ],
+      "eng000505": [
+        118,
+        "tei/howard-the-english-monsieur.xml"
+      ],
+      "eng000596": [
+        118,
+        "tei/howard-the-man-of-newmarket.xml"
+      ],
+      "eng000503": [
+        118,
+        "tei/howard-the-six-days-adventure.xml"
+      ],
+      "eng000674": [
+        118,
+        "tei/howard-the-usurper.xml"
+      ],
+      "eng000747": [
+        118,
+        "tei/howard-the-women-s-conquest.xml"
+      ],
+      "eng000506": [
+        118,
+        "tei/hurtado-de-mendoza-to-love-only-for-love-s-sake.xml"
+      ],
+      "eng000508": [
+        118,
+        "tei/jevon-the-devil-of-a-wife.xml"
+      ],
+      "eng000439": [
+        118,
+        "tei/jonson-epicoene-or-the-silent-woman-A04632_07.xml"
+      ],
+      "eng000438": [
+        118,
+        "tei/jonson-every-man-out-of-his-humor.xml"
+      ],
+      "eng000675": [
+        118,
+        "tei/killigrew-the-imperial-tragedy.xml"
+      ],
+      "eng000511": [
+        118,
+        "tei/lacy-sauny-the-scot.xml"
+      ],
+      "eng000512": [
+        118,
+        "tei/lacy-sir-hercules-buffoon.xml"
+      ],
+      "eng000509": [
+        118,
+        "tei/lacy-the-dumb-lady.xml"
+      ],
+      "eng000510": [
+        118,
+        "tei/lacy-the-old-troop.xml"
+      ],
+      "eng000515": [
+        118,
+        "tei/leanerd-the-rambling-justice.xml"
+      ],
+      "eng000677": [
+        118,
+        "tei/lee-caesar-borgia-son-of-pope-alexander-vi.xml"
+      ],
+      "eng000678": [
+        118,
+        "tei/lee-constantine-the-great.xml"
+      ],
+      "eng000597": [
+        118,
+        "tei/lee-gloriana.xml"
+      ],
+      "eng000679": [
+        118,
+        "tei/lee-lucius-junius-brutus-father-of-his-country.xml"
+      ],
+      "eng000681": [
+        118,
+        "tei/lee-mithridates-king-of-pontus.xml"
+      ],
+      "eng000684": [
+        118,
+        "tei/lee-nero-emperor-of-rome.xml"
+      ],
+      "eng000682": [
+        118,
+        "tei/lee-sophonisba.xml"
+      ],
+      "eng000680": [
+        118,
+        "tei/lee-the-massacre-of-paris.xml"
+      ],
+      "eng000598": [
+        118,
+        "tei/lee-the-princess-of-cleve.xml"
+      ],
+      "eng000599": [
+        118,
+        "tei/lee-the-rival-queens.xml"
+      ],
+      "eng000683": [
+        118,
+        "tei/lee-theodosius.xml"
+      ],
+      "eng000518": [
+        118,
+        "tei/maidwell-the-loving-enemies.xml"
+      ],
+      "eng000600": [
+        118,
+        "tei/motteux-beauty-in-distress.xml"
+      ],
+      "eng000519": [
+        118,
+        "tei/motteux-love-s-a-jest.xml"
+      ],
+      "eng000618": [
+        118,
+        "tei/motteux-the-island-princess.xml"
+      ],
+      "eng000521": [
+        118,
+        "tei/mountfort-doctor-faustus.xml"
+      ],
+      "eng000610": [
+        118,
+        "tei/mountfort-edward-iii-with-the-fall-of-mortimer.xml"
+      ],
+      "eng000520": [
+        118,
+        "tei/mountfort-greenwich-park.xml"
+      ],
+      "eng000685": [
+        118,
+        "tei/mountfort-the-injured-lovers.xml"
+      ],
+      "eng000686": [
+        118,
+        "tei/norton-pausanious-the-betrayer-of-his-country.xml"
+      ],
+      "eng000689": [
+        118,
+        "tei/otway-alcibiades.xml"
+      ],
+      "eng000691": [
+        118,
+        "tei/otway-caius-marius.xml"
+      ],
+      "eng000690": [
+        118,
+        "tei/otway-don-carlos-prince-of-spain.xml"
+      ],
+      "eng000524": [
+        118,
+        "tei/otway-the-atheist.xml"
+      ],
+      "eng000692": [
+        118,
+        "tei/otway-the-orphan.xml"
+      ],
+      "eng000525": [
+        118,
+        "tei/otway-the-soldier-s-fortune.xml"
+      ],
+      "eng000693": [
+        118,
+        "tei/otway-titus-and-berenice.xml"
+      ],
+      "eng000440": [
+        118,
+        "tei/pasqualigo-fedele-and-fortunia.xml"
+      ],
+      "eng000619": [
+        118,
+        "tei/perrin-ariadne.xml"
+      ],
+      "eng000526": [
+        118,
+        "tei/phillips-st-stephen-s-green.xml"
+      ],
+      "eng000694": [
+        118,
+        "tei/phillips-the-revengeful-queen.xml"
+      ],
+      "eng000697": [
+        118,
+        "tei/pix-ibrahim-the-thirteenth-emperor-of-the-turks.xml"
+      ],
+      "eng000527": [
+        118,
+        "tei/pix-the-beau-defeated.xml"
+      ],
+      "eng000528": [
+        118,
+        "tei/pix-the-deceiver-deceived.xml"
+      ],
+      "eng000696": [
+        118,
+        "tei/pix-the-false-friend.xml"
+      ],
+      "eng000529": [
+        118,
+        "tei/pix-the-innocent-mistress.xml"
+      ],
+      "eng000530": [
+        118,
+        "tei/pix-the-spanish-wives.xml"
+      ],
+      "eng000698": [
+        118,
+        "tei/pordage-herod-and-mariamne.xml"
+      ],
+      "eng000601": [
+        118,
+        "tei/pordage-the-siege-of-babylon.xml"
+      ],
+      "eng000749": [
+        118,
+        "tei/porter-a-witty-combat.xml"
+      ],
+      "eng000531": [
+        118,
+        "tei/porter-the-carnival.xml"
+      ],
+      "eng000532": [
+        118,
+        "tei/porter-the-french-conjurer.xml"
+      ],
+      "eng000699": [
+        118,
+        "tei/porter-the-villain.xml"
+      ],
+      "eng000535": [
+        118,
+        "tei/powell-a-very-good-wife.xml"
+      ],
+      "eng000700": [
+        118,
+        "tei/powell-alphonso-king-of-naples.xml"
+      ],
+      "eng000534": [
+        118,
+        "tei/powell-the-imposture-defeated.xml"
+      ],
+      "eng000701": [
+        118,
+        "tei/powell-the-treacherous-brothers.xml"
+      ],
+      "eng000540": [
+        118,
+        "tei/ravenscroft-dame-dobson.xml"
+      ],
+      "eng000750": [
+        118,
+        "tei/ravenscroft-king-edgar-and-alfreda.xml"
+      ],
+      "eng000541": [
+        118,
+        "tei/ravenscroft-scaramouch-a-philosopher.xml"
+      ],
+      "eng000608": [
+        118,
+        "tei/ravenscroft-the-anatomist.xml"
+      ],
+      "eng000538": [
+        118,
+        "tei/ravenscroft-the-canterbury-guests.xml"
+      ],
+      "eng000539": [
+        118,
+        "tei/ravenscroft-the-careless-lovers.xml"
+      ],
+      "eng000517": [
+        118,
+        "tei/ravenscroft-the-citizen-turned-gentleman.xml"
+      ],
+      "eng000536": [
+        118,
+        "tei/ravenscroft-the-english-lawyer.xml"
+      ],
+      "eng000542": [
+        118,
+        "tei/ravenscroft-the-wrangling-lovers.xml"
+      ],
+      "eng000717": [
+        118,
+        "tei/ravenscroft-titus-andronicus.xml"
+      ],
+      "eng000543": [
+        118,
+        "tei/rawlins-tom-essence.xml"
+      ],
+      "eng000544": [
+        118,
+        "tei/rawlins-tunbridge-wells.xml"
+      ],
+      "eng000732": [
+        118,
+        "tei/rojas-the-spanish-bawd.xml"
+      ],
+      "eng000537": [
+        118,
+        "tei/ruggle-ignoramus.xml"
+      ],
+      "eng000722": [
+        118,
+        "tei/saunders-tamerlane-the-great.xml"
+      ],
+      "eng000704": [
+        118,
+        "tei/sedley-antony-and-cleopatra.xml"
+      ],
+      "eng000545": [
+        118,
+        "tei/sedley-bellamira.xml"
+      ],
+      "eng000546": [
+        118,
+        "tei/sedley-the-mulberry-garden.xml"
+      ],
+      "eng000634": [
+        118,
+        "tei/seneca-agamemnon.xml"
+      ],
+      "eng000627": [
+        118,
+        "tei/seneca-hercules-furens.xml"
+      ],
+      "eng000636": [
+        118,
+        "tei/seneca-hercules-oetaeus.xml"
+      ],
+      "eng000630": [
+        118,
+        "tei/seneca-hippolytus.xml"
+      ],
+      "eng000633": [
+        118,
+        "tei/seneca-medea.xml"
+      ],
+      "eng000635": [
+        118,
+        "tei/seneca-octavia.xml"
+      ],
+      "eng000631": [
+        118,
+        "tei/seneca-oedipus.xml"
+      ],
+      "eng000629": [
+        118,
+        "tei/seneca-thebais.xml"
+      ],
+      "eng000628": [
+        118,
+        "tei/seneca-thyestes.xml"
+      ],
+      "eng000705": [
+        118,
+        "tei/seneca-troades.xml"
+      ],
+      "eng000632": [
+        118,
+        "tei/seneca-troas.xml"
+      ],
+      "eng000707": [
+        118,
+        "tei/settle-cambyses-king-of-persia.xml"
+      ],
+      "eng000710": [
+        118,
+        "tei/settle-fatal-love.xml"
+      ],
+      "eng000712": [
+        118,
+        "tei/settle-ibrahim-the-illustrious-bassa.xml"
+      ],
+      "eng000713": [
+        118,
+        "tei/settle-love-and-revenge.xml"
+      ],
+      "eng000751": [
+        118,
+        "tei/settle-pastor-fido.xml"
+      ],
+      "eng000706": [
+        118,
+        "tei/settle-the-ambitious-slave.xml"
+      ],
+      "eng000708": [
+        118,
+        "tei/settle-the-conquest-of-china-by-the-tartars.xml"
+      ],
+      "eng000709": [
+        118,
+        "tei/settle-the-empress-of-morocco.xml"
+      ],
+      "eng000711": [
+        118,
+        "tei/settle-the-female-prelate.xml"
+      ],
+      "eng000603": [
+        118,
+        "tei/settle-the-heir-of-morocco.xml"
+      ],
+      "eng000622": [
+        118,
+        "tei/settle-the-world-in-the-moon.xml"
+      ],
+      "eng000555": [
+        118,
+        "tei/shadwell-a-true-widow.xml"
+      ],
+      "eng000547": [
+        118,
+        "tei/shadwell-bury-fair.xml"
+      ],
+      "eng000548": [
+        118,
+        "tei/shadwell-epsom-wells.xml"
+      ],
+      "eng000715": [
+        118,
+        "tei/shadwell-psyche.xml"
+      ],
+      "eng000549": [
+        118,
+        "tei/shadwell-the-humorists.xml"
+      ],
+      "eng000550": [
+        118,
+        "tei/shadwell-the-lancashire-witches-and-tegue-o-divelly.xml"
+      ],
+      "eng000714": [
+        118,
+        "tei/shadwell-the-libertine.xml"
+      ],
+      "eng000551": [
+        118,
+        "tei/shadwell-the-miser.xml"
+      ],
+      "eng000752": [
+        118,
+        "tei/shadwell-the-royal-shepherdess.xml"
+      ],
+      "eng000552": [
+        118,
+        "tei/shadwell-the-scowrers.xml"
+      ],
+      "eng000553": [
+        118,
+        "tei/shadwell-the-squire-of-alsatia.xml"
+      ],
+      "eng000554": [
+        118,
+        "tei/shadwell-the-sullen-lovers.xml"
+      ],
+      "eng000556": [
+        118,
+        "tei/shadwell-the-virtuoso.xml"
+      ],
+      "eng000557": [
+        118,
+        "tei/shadwell-the-woman-captain.xml"
+      ],
+      "eng000718": [
+        118,
+        "tei/shipman-henry-iii-of-france.xml"
+      ],
+      "eng000720": [
+        118,
+        "tei/southerne-oroonoko.xml"
+      ],
+      "eng000604": [
+        118,
+        "tei/southerne-the-fatal-marriage.xml"
+      ],
+      "eng000719": [
+        118,
+        "tei/southerne-the-loyal-brother.xml"
+      ],
+      "eng000561": [
+        118,
+        "tei/southerne-the-maid-s-last-prayer.xml"
+      ],
+      "eng000562": [
+        118,
+        "tei/southerne-the-wives-excuse.xml"
+      ],
+      "eng000564": [
+        118,
+        "tei/st-serfe-tarugo-s-wiles.xml"
+      ],
+      "eng000721": [
+        118,
+        "tei/stapylton-hero-and-leander.xml"
+      ],
+      "eng000563": [
+        118,
+        "tei/stapylton-the-slighted-maid.xml"
+      ],
+      "eng000753": [
+        118,
+        "tei/stapylton-the-stepmother.xml"
+      ],
+      "eng000580": [
+        118,
+        "tei/suckling-aglaura.xml"
+      ],
+      "eng000724": [
+        118,
+        "tei/tate-brutus-of-alba.xml"
+      ],
+      "eng000565": [
+        118,
+        "tei/tate-cuckolds-haven.xml"
+      ],
+      "eng000605": [
+        118,
+        "tei/tate-the-ingratitude-of-a-commonwealth.xml"
+      ],
+      "eng000606": [
+        118,
+        "tei/tate-the-island-princess.xml"
+      ],
+      "eng000725": [
+        118,
+        "tei/tate-the-loyal-general.xml"
+      ],
+      "eng000441": [
+        118,
+        "tei/terence-andria.xml"
+      ],
+      "eng000651": [
+        118,
+        "tei/trotter-agnes-de-castro.xml"
+      ],
+      "eng000652": [
+        118,
+        "tei/trotter-fatal-friendship.xml"
+      ],
+      "eng000567": [
+        118,
+        "tei/vanbrugh-aesop-1-2.xml"
+      ],
+      "eng000568": [
+        118,
+        "tei/vanbrugh-the-provoked-wife.xml"
+      ],
+      "eng000569": [
+        118,
+        "tei/vanbrugh-the-relapse.xml"
+      ],
+      "eng000583": [
+        118,
+        "tei/villiers-the-rehearsal.xml"
+      ],
+      "eng000728": [
+        118,
+        "tei/waller-the-maid-s-tragedy.xml"
+      ],
+      "eng000726": [
+        118,
+        "tei/whitaker-the-conspiracy.xml"
+      ],
+      "eng000727": [
+        118,
+        "tei/wilson-andronicus-comnenus.xml"
+      ],
+      "eng000754": [
+        118,
+        "tei/wilson-belphegor.xml"
+      ],
+      "eng000570": [
+        118,
+        "tei/wilson-the-cheats.xml"
+      ],
+      "eng000571": [
+        118,
+        "tei/wilson-the-projectors.xml"
+      ],
+      "eng000575": [
+        118,
+        "tei/wycherley-love-in-a-wood.xml"
+      ],
+      "eng000573": [
+        118,
+        "tei/wycherley-the-country-wife.xml"
+      ],
+      "eng000574": [
+        118,
+        "tei/wycherley-the-gentleman-dancing-master.xml"
+      ],
+      "eng000576": [
+        118,
+        "tei/wycherley-the-plain-dealer.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 119,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

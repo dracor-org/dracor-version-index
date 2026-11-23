@@ -1,0 +1,444 @@
+case,seq,commit,key,path,blob,detail
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/a-dios-por-razon-de-estado.xml,tei/a-dios-por-razon-de-estado.xml,727b2716b813c6d5405cb94532826fb540e72489,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/a-maria-el-corazon.xml,tei/a-maria-el-corazon.xml,5e67ee30d9ce62d9b8b2ad2fa66d1684963e8b77,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/afectos-de-odio-y-amor.xml,tei/afectos-de-odio-y-amor.xml,0b5e6dcfdb8ea468229b3622714d1c8162252487,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/amor-honor-y-poder.xml,tei/amor-honor-y-poder.xml,d477bb7a31dd9b70389acb10200ca6ed6380f8e0,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/andromeda-y-perseo.xml,tei/andromeda-y-perseo.xml,187c2758f266454d4d0958221cbc71cb5a8dd79a,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/casa-con-dos-puertas-mala-es-de-guardar.xml,tei/casa-con-dos-puertas-mala-es-de-guardar.xml,4de97d1ccc42e952b3da9285d82c1e9b7cbc88e4,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/el-ano-santo-de-roma.xml,tei/el-ano-santo-de-roma.xml,11d2c15febd40ae37dfc6876235234cab991438b,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/el-cordero-de-isaias.xml,tei/el-cordero-de-isaias.xml,1640ed528455dd7112f168f5bbd015000e41bb90,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/el-diablo-mudo-primera-version.xml,tei/el-diablo-mudo-primera-version.xml,e1f25e03aa47f8565d77f2f42f7dfc31181d0458,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/el-diablo-mudo-segunda-version.xml,tei/el-diablo-mudo-segunda-version.xml,fe910e20bc2cded8508a6adbd94a1a29348be256,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/el-divino-jason.xml,tei/el-divino-jason.xml,32509cad7958f478dd3df4d05b9bc7165d3aa0c9,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/el-divino-orfeo.xml,tei/el-divino-orfeo.xml,5c74d4d236dafc8dfa602ccef7d84fcc33ab4f7a,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/el-faetonte.xml,tei/el-faetonte.xml,c74d7195583557dc71fb15e5447c450d187f8fe2,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/el-galan-fantasma.xml,tei/el-galan-fantasma.xml,92cb3020839ef716c7d54f077eab96cb4a43c3e6,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/el-gran-teatro-del-mundo.xml,tei/el-gran-teatro-del-mundo.xml,9bcd68699c28fc4048b9bc07b6757435e1f00080,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/el-indulto-general.xml,tei/el-indulto-general.xml,883709ff8d9bf844bab6b4a58c3985b8b34fc197,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/el-jardin-de-falerina.xml,tei/el-jardin-de-falerina.xml,8f275e503f61e218dcdab3f8de84819903baafd9,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/el-medico-de-su-honra.xml,tei/el-medico-de-su-honra.xml,1bb237c49d12b2e3fe41a68075d78ea2bff16ae0,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/el-monstruo-de-los-jardines.xml,tei/el-monstruo-de-los-jardines.xml,5dc26028df205d27fe54933ee2fc5e5d6f4a3bd9,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/el-nuevo-hospicio-de-pobres.xml,tei/el-nuevo-hospicio-de-pobres.xml,ce392245d68113340e1d3db0ad9764f0611abe3d,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/el-santo-rey-don-fernando-primera-parte.xml,tei/el-santo-rey-don-fernando-primera-parte.xml,388b78e8fe2a38cb1aafcff9a7e4a51dfc16b8ce,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/el-socorro-general.xml,tei/el-socorro-general.xml,3aa438e66dc849a7d35f5f33a0404c4ea99486be,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/el-veneno-y-la-triaca.xml,tei/el-veneno-y-la-triaca.xml,34bce2cebbb0eb6e4bf18c2fedfb2964340f291f,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/la-aurora-en-copacabana.xml,tei/la-aurora-en-copacabana.xml,3e3a6019041550e5edeb06f2f392cc44c1772b9d,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/la-dama-duende.xml,tei/la-dama-duende.xml,c4b4623972c0519026b4847435745b9fe703e423,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/la-devocion-de-la-cruz.xml,tei/la-devocion-de-la-cruz.xml,651a501583a6fef08640b663c37b2ef7fdb65e20,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/la-devocion-de-la-misa.xml,tei/la-devocion-de-la-misa.xml,9a6e96ca102f31ce63a44ff734a80957de5864e2,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/la-fiera-el-rayo-y-la-piedra.xml,tei/la-fiera-el-rayo-y-la-piedra.xml,3652b2e4b5d46c76969f499ddd0dcaa194b473c5,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/la-hidalga-del-valle.xml,tei/la-hidalga-del-valle.xml,d3ae4e5f2383c4da5009e0d0d72e50860f0aec75,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/la-humildad-coronada-de-las-plantas.xml,tei/la-humildad-coronada-de-las-plantas.xml,4e4eeca48f1397da10a55481f10beaebbc0bb919,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/la-inmunidad-del-sagrado.xml,tei/la-inmunidad-del-sagrado.xml,e00f193d665387e858316f9ac0e47b329f5c9ac1,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/la-nave-del-mercader.xml,tei/la-nave-del-mercader.xml,4c7e43bb8ad40b65ab47978ed4332c51ecb25824,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/la-piel-de-gedeon.xml,tei/la-piel-de-gedeon.xml,596128072ae0da05b0eb23f68f4c2f6801b066a2,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/la-primer-flor-del-carmelo.xml,tei/la-primer-flor-del-carmelo.xml,1a523df9c0a8637a2b3f6ee5fc641c2d6f36592b,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/la-protestacion-de-la-fe.xml,tei/la-protestacion-de-la-fe.xml,28efb17ee8ff66a67b5642bf00435c6e5ae9d11d,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/la-segunda-esposa.xml,tei/la-segunda-esposa.xml,3629edd2e88c54dad93298a57e1390dab670d4cd,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/la-vida-es-sueno.xml,tei/la-vida-es-sueno.xml,dff6b38d8b4da38168c7cf3fa3deb385c781047b,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/la-vina-del-senor.xml,tei/la-vina-del-senor.xml,8813af111191b5efab4a3f3a867dc32ab26a4a4a,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/las-ordenes-militares.xml,tei/las-ordenes-militares.xml,9e3cb59036c5547770c2cd965c8a8befd83b7ded,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/las-visiones-de-la-muerte.xml,tei/las-visiones-de-la-muerte.xml,611a53ccb02c0f2677126666c0940d110761108c,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/loa-a-el-ano-santo-de-roma.xml,tei/loa-a-el-ano-santo-de-roma.xml,d21dbf8bbf8f5c5750ec4ac17caa24bc9910068d,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/loa-a-el-divino-orfeo.xml,tei/loa-a-el-divino-orfeo.xml,a64c87c73b1efe7885f42fd2a2d54cff3cfe7588,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/loa-a-fieras-afemina-amor.xml,tei/loa-a-fieras-afemina-amor.xml,4496f5a2c5dbcf719dcf679d3d3324be9d1b67dc,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/loa-en-metafora-de-la-piadosa-hermandad-del-refugio.xml,tei/loa-en-metafora-de-la-piadosa-hermandad-del-refugio.xml,b65457a0592f0db75238d34cf087382d5dceeb66,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/loa-para-el-gran-teatro-del-mundo.xml,tei/loa-para-el-gran-teatro-del-mundo.xml,cb462b0330e335fe66150d9b951369a16a148c64,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/loa-para-la-humildad-coronada-de-las-plantas.xml,tei/loa-para-la-humildad-coronada-de-las-plantas.xml,e91ee1dabeb2819a4d08471a6ab16bf5a66a12f6,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/loa-para-psiquis-y-cupido.xml,tei/loa-para-psiquis-y-cupido.xml,314a8144a968fa0cd1cd0e9c7d5ecc4e444c3be7,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/los-encantos-de-la-culpa.xml,tei/los-encantos-de-la-culpa.xml,2ac336807946acc6c20de16aef4af79988a85452,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/no-hay-instante-sin-milagro.xml,tei/no-hay-instante-sin-milagro.xml,4956b600f92962a65fc21199a6fc83510bb48906,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/primero-y-segundo-isaac.xml,tei/primero-y-segundo-isaac.xml,11fb5d585df9bbb1d8df4e027ed3ffe9a9de5e80,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/psiquis-y-cupido-que-escribio-para-esta-villa-de-madrid.xml,tei/psiquis-y-cupido-que-escribio-para-esta-villa-de-madrid.xml,ae4bcd4f9756832f7aa978eebf44d8a1376d34c2,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/quien-hallara-mujer-fuerte.xml,tei/quien-hallara-mujer-fuerte.xml,d2ae446ab7576213622be59316cc122d24f8731c,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/suenos-hay-que-verdad-son.xml,tei/suenos-hay-que-verdad-son.xml,c33cfeaafb1edbee7c86da8e9cf416db00dd8851,
+tei-without-id,1,8baca52461daf03eab4f0ee854a03a161907da8e,tei/triunfar-muriendo.xml,tei/triunfar-muriendo.xml,9885affef086303f30029197b0989088d9d77696,
+tei-without-id,2,d92070d97424c5914daf58d4a97fc4f55e362b32,tei/el-faetonte.xml,tei/el-faetonte.xml,cfc27de4dfef2b4f58295fe973d933bc804ccd96,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/afectos-de-odio-y-amor.xml,tei/afectos-de-odio-y-amor.xml,bed9cdb5c325790dcf42b618b63221bcb28443f3,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/amor-honor-y-poder.xml,tei/amor-honor-y-poder.xml,a11593fb20b75d08b0027ec69bbf759351754be2,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/andromeda-y-perseo.xml,tei/andromeda-y-perseo.xml,e99c6c43d358119a031848c88f98947cefd75361,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/casa-con-dos-puertas-mala-es-de-guardar.xml,tei/casa-con-dos-puertas-mala-es-de-guardar.xml,17fe1aa4e82ea0bbbfe61c7ad3c89cda36637f82,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/el-ano-santo-de-roma.xml,tei/el-ano-santo-de-roma.xml,c03de7f01c83a35d18dd84570cd0e773b7946417,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/el-cordero-de-isaias.xml,tei/el-cordero-de-isaias.xml,4403c360932a1cb513d72234f2837d9413bf7bc0,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/el-diablo-mudo-primera-version.xml,tei/el-diablo-mudo-primera-version.xml,4ff8dc0394583032842860ea4b62dc89f458b889,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/el-divino-jason.xml,tei/el-divino-jason.xml,6107afd8a51a558d0c16111e9effddbd265f0a76,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/el-faetonte.xml,tei/el-faetonte.xml,852113d52b5234745445a596cd9b4cf7a2b9cbc0,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/el-galan-fantasma.xml,tei/el-galan-fantasma.xml,0f6e04557bf8a50d75847da513e54d8747ef084c,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/el-indulto-general.xml,tei/el-indulto-general.xml,b502125ef269b6dc11084a37e737590225ac6d76,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/el-jardin-de-falerina.xml,tei/el-jardin-de-falerina.xml,e689554bd54c53fe148507aadbf28208492b7dd0,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/el-medico-de-su-honra.xml,tei/el-medico-de-su-honra.xml,dde983b896801f73e1c30c296ee2644ddea2c0cd,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/el-monstruo-de-los-jardines.xml,tei/el-monstruo-de-los-jardines.xml,311ab1d0c680b41f6ccd6040dac0f58b8e4ea52a,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/el-nuevo-hospicio-de-pobres.xml,tei/el-nuevo-hospicio-de-pobres.xml,dcf11ddbf33c5a400af7a769f6a392dbb3e8ba44,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/la-aurora-en-copacabana.xml,tei/la-aurora-en-copacabana.xml,d2001ec56bb2f92f6dd25a6393a73948f3f7127d,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/la-dama-duende.xml,tei/la-dama-duende.xml,e94ff0db06d0966b39bc602a39efcf17660f7c52,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/la-devocion-de-la-cruz.xml,tei/la-devocion-de-la-cruz.xml,80f33c0718efb19d740030a09d37113bb5e3a48d,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/la-devocion-de-la-misa.xml,tei/la-devocion-de-la-misa.xml,e893ff105bcb924f25b897a2ee0e1bd1e4c86a2a,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/la-fiera-el-rayo-y-la-piedra.xml,tei/la-fiera-el-rayo-y-la-piedra.xml,d9f29d95fe4b5c8ce0a3c2406a358adcebe98407,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/la-hidalga-del-valle.xml,tei/la-hidalga-del-valle.xml,c6f504689086caa7855b45e28cbe1cf184c50824,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/la-inmunidad-del-sagrado.xml,tei/la-inmunidad-del-sagrado.xml,5d17de75cf35957f5902f1d87477a01e8a0c0e65,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/la-nave-del-mercader.xml,tei/la-nave-del-mercader.xml,f42fbe1b73adb66420f46f7b3bafbfbd251a7f8f,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/la-piel-de-gedeon.xml,tei/la-piel-de-gedeon.xml,3fc5d82c429a25289e42a69051761971db23affa,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/la-primer-flor-del-carmelo.xml,tei/la-primer-flor-del-carmelo.xml,c582e237a290dd5736a5bb32f874a3c0300763a8,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/la-segunda-esposa.xml,tei/la-segunda-esposa.xml,0fc47880e404678e17b5cff56451cc9cc338858e,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/la-vida-es-sueno.xml,tei/la-vida-es-sueno.xml,f72cab711e0f6549aef078454ebd692429f48fd7,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/las-visiones-de-la-muerte.xml,tei/las-visiones-de-la-muerte.xml,e59157a36e25e33e2f0e7c55b2ac8547d037fe43,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/loa-en-metafora-de-la-piadosa-hermandad-del-refugio.xml,tei/loa-en-metafora-de-la-piadosa-hermandad-del-refugio.xml,e631746cd5f76175a7dbc56ddc63773fa85db03d,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/loa-para-el-gran-teatro-del-mundo.xml,tei/loa-para-el-gran-teatro-del-mundo.xml,fbaf3429d86cd0cfc6ddce008620b85aeed35ac9,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/loa-para-la-humildad-coronada-de-las-plantas.xml,tei/loa-para-la-humildad-coronada-de-las-plantas.xml,bfe47820fc73e48f26b1faee60fd339e396eae1a,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/loa-para-psiquis-y-cupido.xml,tei/loa-para-psiquis-y-cupido.xml,136b81f4e61ae6d5d52d7d90c3b26558d41c6f60,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/psiquis-y-cupido-que-escribio-para-esta-villa-de-madrid.xml,tei/psiquis-y-cupido-que-escribio-para-esta-villa-de-madrid.xml,f053c4b1f548090329f8c653ccae6a805b4037b6,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/quien-hallara-mujer-fuerte.xml,tei/quien-hallara-mujer-fuerte.xml,13924a7db304fe2e7e7c687746afd652e11685e4,
+tei-without-id,3,81040f5d48d89a0bda5c9d1ffff41cac8aaf5bcc,tei/triunfar-muriendo.xml,tei/triunfar-muriendo.xml,f14a378d8bfe86a9aa1bb9707659cd8a9b85de3b,
+tei-without-id,4,b4cb1dbff3f281e9cebd863b391bb2d67b18ee2c,tei/a-dios-por-razon-de-estado.xml,tei/a-dios-por-razon-de-estado.xml,a57f2b7740bfda166ad4d56ffe8aa8295ec24883,
+tei-without-id,4,b4cb1dbff3f281e9cebd863b391bb2d67b18ee2c,tei/amor-honor-y-poder.xml,tei/amor-honor-y-poder.xml,26193d6c4973dd8410c0c6c03b521f72708db210,
+tei-without-id,4,b4cb1dbff3f281e9cebd863b391bb2d67b18ee2c,tei/andromeda-y-perseo.xml,tei/andromeda-y-perseo.xml,644d41c8cbc1a09ad3828e9622d507704ffda488,
+tei-without-id,4,b4cb1dbff3f281e9cebd863b391bb2d67b18ee2c,tei/casa-con-dos-puertas-mala-es-de-guardar.xml,tei/casa-con-dos-puertas-mala-es-de-guardar.xml,acd9e8acf224226ce70ecc6ddbfcbc19e4383eab,
+tei-without-id,4,b4cb1dbff3f281e9cebd863b391bb2d67b18ee2c,tei/el-galan-fantasma.xml,tei/el-galan-fantasma.xml,0f146ef6779b8b7c292994b60eb3955767970a76,
+tei-without-id,4,b4cb1dbff3f281e9cebd863b391bb2d67b18ee2c,tei/el-gran-teatro-del-mundo.xml,tei/el-gran-teatro-del-mundo.xml,914c4709ce2e33f532393c172d2d5a03c5fecf36,
+tei-without-id,4,b4cb1dbff3f281e9cebd863b391bb2d67b18ee2c,tei/el-medico-de-su-honra.xml,tei/el-medico-de-su-honra.xml,7796ba44982035dec93aecd769de6207e3594ec3,
+tei-without-id,4,b4cb1dbff3f281e9cebd863b391bb2d67b18ee2c,tei/la-aurora-en-copacabana.xml,tei/la-aurora-en-copacabana.xml,506e971d18ac86335556cf2c81e012bf7a6030aa,
+tei-without-id,4,b4cb1dbff3f281e9cebd863b391bb2d67b18ee2c,tei/la-dama-duende.xml,tei/la-dama-duende.xml,8c030ece94bd78ead1c4b53f94e2b3d7b16dc5a8,
+tei-without-id,4,b4cb1dbff3f281e9cebd863b391bb2d67b18ee2c,tei/la-devocion-de-la-cruz.xml,tei/la-devocion-de-la-cruz.xml,61f96f51488fa8f017d651047ee9661fbb5dddae,
+tei-without-id,4,b4cb1dbff3f281e9cebd863b391bb2d67b18ee2c,tei/la-fiera-el-rayo-y-la-piedra.xml,tei/la-fiera-el-rayo-y-la-piedra.xml,a25716d24ce0988185582b36334596a3c49c5435,
+tei-without-id,4,b4cb1dbff3f281e9cebd863b391bb2d67b18ee2c,tei/la-vida-es-sueno.xml,tei/la-vida-es-sueno.xml,a76ee86648b6be8347954156f1a88035d9a581ca,
+tei-without-id,4,b4cb1dbff3f281e9cebd863b391bb2d67b18ee2c,tei/los-encantos-de-la-culpa.xml,tei/los-encantos-de-la-culpa.xml,376fd49a06bf675c653c7f00a4733306e68b3f0e,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/afectos-de-odio-y-amor.xml,tei/afectos-de-odio-y-amor.xml,e6ffd983719bf1dd4f7a4f1fb32feaabc3be4423,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/amor-honor-y-poder.xml,tei/amor-honor-y-poder.xml,1d3afc95ac2321a3abd1e6d46201ecbb59a05b76,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/andromeda-y-perseo.xml,tei/andromeda-y-perseo.xml,2a19fcf4aea79797f6c155885f4f7720131abe11,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/casa-con-dos-puertas-mala-es-de-guardar.xml,tei/casa-con-dos-puertas-mala-es-de-guardar.xml,1e54e53e4b3c21245647a091ea4611d3eced6999,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/el-ano-santo-de-roma.xml,tei/el-ano-santo-de-roma.xml,590c85519d304cfbe59582e202208c4649286202,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/el-cordero-de-isaias.xml,tei/el-cordero-de-isaias.xml,b4ed8d946e75b9c569f4c578c1e2dba2e035c0fc,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/el-diablo-mudo-primera-version.xml,tei/el-diablo-mudo-primera-version.xml,c392f3d009ff4fdbc0667ceca87ea24d0c0df095,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/el-divino-jason.xml,tei/el-divino-jason.xml,1204899f78bc888603f84cbd84cebf4b6650f12e,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/el-faetonte.xml,tei/el-faetonte.xml,3fc168c9f4b732b9e5aee7518f9590025af621b2,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/el-galan-fantasma.xml,tei/el-galan-fantasma.xml,ba7fbb9fee2b871c0e9b6ba4269e888d7833e9ab,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/el-indulto-general.xml,tei/el-indulto-general.xml,436ca040250a571542efc1673e87f6026af9efce,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/el-jardin-de-falerina.xml,tei/el-jardin-de-falerina.xml,50ce6b5151ae84c1bfca7494cf5b89c0d8dca4a4,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/el-medico-de-su-honra.xml,tei/el-medico-de-su-honra.xml,9ca69996309400c1332e4e2d975d3e9195efab16,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/el-monstruo-de-los-jardines.xml,tei/el-monstruo-de-los-jardines.xml,9501fb2ddf2489f1ed6be3556e41eea2b2c1e971,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/el-nuevo-hospicio-de-pobres.xml,tei/el-nuevo-hospicio-de-pobres.xml,cf4682e9f5b56ef2fac4ae5c5068ee040ac5df98,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/la-aurora-en-copacabana.xml,tei/la-aurora-en-copacabana.xml,14bf89d41c7ed4580eac2dff82a8fa2e56100002,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/la-dama-duende.xml,tei/la-dama-duende.xml,0494b3c786c98b2830ab6587536380a626d7402b,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/la-devocion-de-la-cruz.xml,tei/la-devocion-de-la-cruz.xml,7ae541e1acef3fe47b520b5ccd3d11f7144889fe,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/la-devocion-de-la-misa.xml,tei/la-devocion-de-la-misa.xml,e00ff8b30955b1041463953d5a59b047f4d93e47,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/la-fiera-el-rayo-y-la-piedra.xml,tei/la-fiera-el-rayo-y-la-piedra.xml,a6878af6e5407fe72971138b582a08cd620ac1e6,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/la-hidalga-del-valle.xml,tei/la-hidalga-del-valle.xml,2eba5b96cca7c9d6691d52b2787dd3fcc200828c,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/la-inmunidad-del-sagrado.xml,tei/la-inmunidad-del-sagrado.xml,a43983f07f7cb342d92ddbc9cafd866b5145dfb2,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/la-nave-del-mercader.xml,tei/la-nave-del-mercader.xml,0ce9a096a22269eac6102e22498cde3704780f52,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/la-piel-de-gedeon.xml,tei/la-piel-de-gedeon.xml,a75fe06750952914a42416c9e58336aa12bb5dc0,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/la-primer-flor-del-carmelo.xml,tei/la-primer-flor-del-carmelo.xml,425f79a232c1526e9dee4de4ce623b186183f413,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/la-segunda-esposa.xml,tei/la-segunda-esposa.xml,9776dedb6f358c34374e99de7cfd5df0e62bb91e,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/la-vida-es-sueno.xml,tei/la-vida-es-sueno.xml,c4580464537654b1425e46d8cdc1ccb9c3dc606e,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/las-visiones-de-la-muerte.xml,tei/las-visiones-de-la-muerte.xml,5316c06160116bd557659fdd024de05ec040667a,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/psiquis-y-cupido-que-escribio-para-esta-villa-de-madrid.xml,tei/psiquis-y-cupido-que-escribio-para-esta-villa-de-madrid.xml,99ae0cc27c39e44104cc9415d8b7d8547d6310c0,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/quien-hallara-mujer-fuerte.xml,tei/quien-hallara-mujer-fuerte.xml,fe9733c050d30b7e7dea54073fcaefd5c4315725,
+tei-without-id,5,1de8919f416fb43c261b42928094a15419c1be78,tei/triunfar-muriendo.xml,tei/triunfar-muriendo.xml,985672ba61d821fe705565b848192d4ca8759d96,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/a-dios-por-razon-de-estado.xml,tei/a-dios-por-razon-de-estado.xml,c663c624dcffb5e835adeeeccf00632f969c74cb,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/a-maria-el-corazon.xml,tei/a-maria-el-corazon.xml,71eafff80f5524a73540281ee90b9f3a0ad95661,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/afectos-de-odio-y-amor.xml,tei/afectos-de-odio-y-amor.xml,d6f0a629bcd82cc072249c5b0c41107c6c82af53,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/amor-honor-y-poder.xml,tei/amor-honor-y-poder.xml,04a4e9ae8cdde43f820d4142414a550797fe514a,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/andromeda-y-perseo.xml,tei/andromeda-y-perseo.xml,333504696404545d37ea5425ad1e68ec1bb72642,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/casa-con-dos-puertas-mala-es-de-guardar.xml,tei/casa-con-dos-puertas-mala-es-de-guardar.xml,e4bd88662f0ffdffc60c1859e917f1a37b9d1fb0,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/el-cordero-de-isaias.xml,tei/el-cordero-de-isaias.xml,3c6f299dae4a29aabc7e50d0b24b3de9ddc98216,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/el-diablo-mudo-primera-version.xml,tei/el-diablo-mudo-primera-version.xml,5d3e6bcc91bbdd137225e39662500fb1fc66d7e0,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/el-diablo-mudo-segunda-version.xml,tei/el-diablo-mudo-segunda-version.xml,3345c05d3bd7153b7aabef1138ce32750a69a8d4,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/el-divino-jason.xml,tei/el-divino-jason.xml,7e091d2831d77ac4c16fb7889c86a3009beb3bff,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/el-divino-orfeo.xml,tei/el-divino-orfeo.xml,464c213576f13a0af5ab354df49d35270c431e29,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/el-faetonte.xml,tei/el-faetonte.xml,c1da28105ce6408fda7c7e2ef061bf0058d89626,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/el-galan-fantasma.xml,tei/el-galan-fantasma.xml,d673a384efdf76987cf43303e2fff2b0b1320ed2,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/el-gran-teatro-del-mundo.xml,tei/el-gran-teatro-del-mundo.xml,bc26dc1914af7138b99b2cb1a72333de9c670859,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/el-indulto-general.xml,tei/el-indulto-general.xml,52208619d93737cde5c5633a970d9b52d06eb072,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/el-jardin-de-falerina.xml,tei/el-jardin-de-falerina.xml,5aa1161b3b9c410e1ec9bb332aa05cdc952ff1a8,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/el-medico-de-su-honra.xml,tei/el-medico-de-su-honra.xml,5de4fa2d73cf7523182669c182d05e93d583aa8a,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/el-monstruo-de-los-jardines.xml,tei/el-monstruo-de-los-jardines.xml,a6aa13b060eca8a96194391602791985c4129f05,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/el-nuevo-hospicio-de-pobres.xml,tei/el-nuevo-hospicio-de-pobres.xml,89793fcaacf37b2be791970e64ab6601d72d5d78,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/el-santo-rey-don-fernando-primera-parte.xml,tei/el-santo-rey-don-fernando-primera-parte.xml,d0ee528fe5d57eb3b3535d05e1e1d806ec4c77a5,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/el-socorro-general.xml,tei/el-socorro-general.xml,b5de7b97c1fdd2c2ec47afc5ee7ab573578fd8e8,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/el-veneno-y-la-triaca.xml,tei/el-veneno-y-la-triaca.xml,6d6e01005026f3c9a486826c9923fedb0c2d8b91,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/la-aurora-en-copacabana.xml,tei/la-aurora-en-copacabana.xml,551e514d5276ca367baec24196bd6f2d5f8f02f2,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/la-dama-duende.xml,tei/la-dama-duende.xml,b882e8831908895d1e8a061ccfbc6859c5aa99f2,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/la-devocion-de-la-cruz.xml,tei/la-devocion-de-la-cruz.xml,c6fbaf12a47ee14524de3be93860882141819e46,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/la-devocion-de-la-misa.xml,tei/la-devocion-de-la-misa.xml,f26dc6802aa1e962d660aedc706458ce8fdc2f7a,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/la-fiera-el-rayo-y-la-piedra.xml,tei/la-fiera-el-rayo-y-la-piedra.xml,b625221e1983b9c54f98cef676ab741b38020d34,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/la-hidalga-del-valle.xml,tei/la-hidalga-del-valle.xml,32aaf155cf151446bd24699a13378586d8e851f9,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/la-humildad-coronada-de-las-plantas.xml,tei/la-humildad-coronada-de-las-plantas.xml,e017daeecb44231a398f9b379d2f92e8f5b0c6ae,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/la-inmunidad-del-sagrado.xml,tei/la-inmunidad-del-sagrado.xml,0cec2ddbb3c2e1552fdc3bf5dc3444c5a7abff43,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/la-nave-del-mercader.xml,tei/la-nave-del-mercader.xml,e3aead2473f6d72dc885e88d8e9c072fe2894252,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/la-primer-flor-del-carmelo.xml,tei/la-primer-flor-del-carmelo.xml,c6963e2a05fe2c9a234b5fea6392f9823c6ac962,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/la-protestacion-de-la-fe.xml,tei/la-protestacion-de-la-fe.xml,c8e90bde52afcdae2b96a6a0cb1e5020f22040f4,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/la-segunda-esposa.xml,tei/la-segunda-esposa.xml,1a028a492f7bc0e857635510f36f75c41ca89ce4,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/la-vida-es-sueno.xml,tei/la-vida-es-sueno.xml,72ee7f034ac001768d280ecd194b85438af5afff,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/la-vina-del-senor.xml,tei/la-vina-del-senor.xml,2ca2187c1839940ad5b240d235fb63da78fab3a8,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/las-ordenes-militares.xml,tei/las-ordenes-militares.xml,b3e7fcaa44baab23a769f71e2e0d7896d19ad2c9,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/las-visiones-de-la-muerte.xml,tei/las-visiones-de-la-muerte.xml,066edda7a4fbf82a79bc553507290ffa24d6d582,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/loa-a-el-ano-santo-de-roma.xml,tei/loa-a-el-ano-santo-de-roma.xml,07325d55c096802423b25de0e39fa939a61ab722,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/loa-a-el-divino-orfeo.xml,tei/loa-a-el-divino-orfeo.xml,1f975c53f0b9063ea96edf271298f862a5a05ede,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/loa-a-fieras-afemina-amor.xml,tei/loa-a-fieras-afemina-amor.xml,1ca782af4e547cf7ee9d529b971318bd31b00b91,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/loa-en-metafora-de-la-piadosa-hermandad-del-refugio.xml,tei/loa-en-metafora-de-la-piadosa-hermandad-del-refugio.xml,518a0989e5b8fad85ee256b29d0ffc9af91b6a7d,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/loa-para-el-gran-teatro-del-mundo.xml,tei/loa-para-el-gran-teatro-del-mundo.xml,c3dd2c4918d5de250bbde457ad0787329b3dea78,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/loa-para-la-humildad-coronada-de-las-plantas.xml,tei/loa-para-la-humildad-coronada-de-las-plantas.xml,d1e25c15de1d7b1e88997cc1f1a50e5b023b8d7b,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/loa-para-psiquis-y-cupido.xml,tei/loa-para-psiquis-y-cupido.xml,ad6999b3fa7d287de97ab7a1236644c6461e4472,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/los-encantos-de-la-culpa.xml,tei/los-encantos-de-la-culpa.xml,f7b2dead1be1b1c21b24819bfe07bf3751134e45,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/no-hay-instante-sin-milagro.xml,tei/no-hay-instante-sin-milagro.xml,a2c13e601b2bd3c62d7b476fabe324532d5fb0e1,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/primero-y-segundo-isaac.xml,tei/primero-y-segundo-isaac.xml,159ba7685b028d1d2b1d1d866fea5a50483b8711,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/psiquis-y-cupido-que-escribio-para-esta-villa-de-madrid.xml,tei/psiquis-y-cupido-que-escribio-para-esta-villa-de-madrid.xml,df62a439f31dab3d7baa2047ade325316cc4c523,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/quien-hallara-mujer-fuerte.xml,tei/quien-hallara-mujer-fuerte.xml,3faf99d7784960473b12577ac6451b91e15273bf,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/suenos-hay-que-verdad-son.xml,tei/suenos-hay-que-verdad-son.xml,665bec62ec482cc20c98ec6bdbe23e46cbe3ecd8,
+tei-without-id,6,52db9f0bdd30fa741de060e7d25bcfe176a4e27e,tei/triunfar-muriendo.xml,tei/triunfar-muriendo.xml,5ecf5df09fd31f6ec122196ee361ae96865a318d,
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000001,tei/a-dios-por-razon-de-estado.xml,2a86144f13c17ab6b0d40c971bd1c05baeb8c050,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000002,tei/a-maria-el-corazon.xml,7686eb0c31342309dc698508602faad9cc97c5eb,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000003,tei/afectos-de-odio-y-amor.xml,84f247aced3a7a13acf9cff4aee26c6cacac2415,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000004,tei/amor-honor-y-poder.xml,ead21a41554cda0061cbd729d2c38024be62598a,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000005,tei/andromeda-y-perseo.xml,cd41143da22413c703678e70e0e3f3b47f99df8e,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000006,tei/casa-con-dos-puertas-mala-es-de-guardar.xml,ef0682427476f61536f21c1d87d568b49671729e,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000007,tei/el-ano-santo-de-roma.xml,9a483ebdbe5a6a3e8eefffbf6dac1339bef44f47,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000008,tei/el-cordero-de-isaias.xml,6f04a9c88addfcd748047f0b8a552069a0d56fef,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000009,tei/el-diablo-mudo-primera-version.xml,7a18879ef845ea7eb356297a3542f71cf98b650c,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000010,tei/el-diablo-mudo-segunda-version.xml,f5f66271ccfe1ae499a8721ca978b08682ccdc26,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000011,tei/el-divino-jason.xml,47af66fcc780adef3386f62de1e34a8b1fa6ac5d,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000012,tei/el-divino-orfeo.xml,e5c3be2aa2f6bc0d5dbc5190e39cc3b64a2893fa,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000013,tei/el-faetonte.xml,b1778fd88f56f097597d1f193f763f93ef08d855,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000014,tei/el-galan-fantasma.xml,1457dd09ffa08022f888206f6dc812863d5e610e,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000015,tei/el-gran-teatro-del-mundo.xml,2b33acf4c95dd4cc2fb14b35222b08170d652c8c,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000016,tei/el-indulto-general.xml,a96577a5917e2d1aa1a54ea873c4842b7c277292,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000017,tei/el-jardin-de-falerina.xml,d6c1e57396d906b8b1395ff33b6cb3a0c543de16,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000018,tei/el-medico-de-su-honra.xml,26fe0daf767c93ca0ba22be86bd7f44e0c543da9,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000019,tei/el-monstruo-de-los-jardines.xml,aae0255bb0bdb68961436dac82e0d647dca3537f,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000020,tei/el-nuevo-hospicio-de-pobres.xml,b9cdd96cd609e7d5368433858e92971579a86887,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000021,tei/el-santo-rey-don-fernando-primera-parte.xml,6109c17b93d6811668e5388e685a35a1c594e98b,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000022,tei/el-socorro-general.xml,2a455ff33963beebccaffd00208f03896261d2e3,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000023,tei/el-veneno-y-la-triaca.xml,b904283a3f7896eacba1d3542c242cf158151c3e,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000024,tei/la-aurora-en-copacabana.xml,22920583e671fa534886f3dba34287667f52253b,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000025,tei/la-dama-duende.xml,de0ad4c4f4a3f36ef4d9244990ac3f2f6b6cf08f,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000026,tei/la-devocion-de-la-cruz.xml,3708ebe86ec775dad0c274d68972068ba23c892e,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000027,tei/la-devocion-de-la-misa.xml,e888872e71649d34248122849501cf040225e945,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000028,tei/la-fiera-el-rayo-y-la-piedra.xml,089cf710f8098115d0097013977d4d4967a5c9ec,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000029,tei/la-hidalga-del-valle.xml,99db40b4f7d347b8dc759a1ba88b00a3a9f14e02,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000030,tei/la-humildad-coronada-de-las-plantas.xml,1a305637e54ebf7d01c546d0d64749fff6d3a46c,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000031,tei/la-inmunidad-del-sagrado.xml,836e451ca99ab3231901cc86128b87024e42388a,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000032,tei/la-nave-del-mercader.xml,8a84bb06caf28f78411f24fb77c983c82fe36584,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000033,tei/la-piel-de-gedeon.xml,c3f1953eb8dd1d424b3afbdce654f88e031feb31,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000034,tei/la-primer-flor-del-carmelo.xml,62a9917da05fef1726a8a064915dcda95568a5e4,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000035,tei/la-protestacion-de-la-fe.xml,11fa014284d1d0aab9f6af1a0a1059decbf0f930,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000036,tei/la-segunda-esposa.xml,ce301cad9d4038e915483fcde73084c5aa3db55c,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000037,tei/la-vida-es-sueno.xml,d0f6d9fee47e09840255edb903a4deae9efe5ca2,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000038,tei/la-vina-del-senor.xml,4db5d8b654f3f8075aef27415af2f7fb26106008,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000039,tei/las-ordenes-militares.xml,603d8f039485f3f86991478f8973d0da91b65e04,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000040,tei/las-visiones-de-la-muerte.xml,2da88d567556cbea4ffdcdb91adfc26b5536aedb,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000041,tei/loa-a-el-ano-santo-de-roma.xml,963cd402be03f36b0a6d42f3f9dc22fcb52f5574,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000042,tei/loa-a-el-divino-orfeo.xml,113aca388b45d8a0fe023470e230d10be5dec8eb,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000043,tei/loa-a-fieras-afemina-amor.xml,94ad2b45b6ae626d8e6888a94ca4b0c1d12b5f6c,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000044,tei/loa-en-metafora-de-la-piadosa-hermandad-del-refugio.xml,9dc212146a131e28beb8a722800efd0fa6760b09,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000045,tei/loa-para-el-gran-teatro-del-mundo.xml,2d210469598f6835837b079a5623db3cb2e98746,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000046,tei/loa-para-la-humildad-coronada-de-las-plantas.xml,3e09eef7ccc46a088798f8f3d88810bac1e8d917,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000047,tei/loa-para-psiquis-y-cupido.xml,7ccc778666644ddd7966a1986450e4af53645961,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000048,tei/los-encantos-de-la-culpa.xml,8dae9f458ef32abb3957b1eabbf60ff9cf80236a,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000049,tei/no-hay-instante-sin-milagro.xml,93c10df49ab72ee221971e88b191e24b9127c96a,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000050,tei/primero-y-segundo-isaac.xml,4951f290f62f78bf613ba380c7b2ca28598a1af7,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000051,tei/psiquis-y-cupido-que-escribio-para-esta-villa-de-madrid.xml,c8491d914040d7c7c528c6e37479764172f5d652,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000052,tei/quien-hallara-mujer-fuerte.xml,be57e6ee62328cbe278610bed6a2f072e40f967d,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000053,tei/suenos-hay-que-verdad-son.xml,038a1406bbf3026ec628b155cdcf1826b39ecc86,file had no DraCor ID before
+id-assigned,7,be8ea8d0f49f3635bfd407d0e318287a3d21f043,cal000054,tei/triunfar-muriendo.xml,71795b55afa14a424f99d10ddfba3f04ff3337ed,file had no DraCor ID before
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/amar-y-ser-amado-y-divina-filotea.xml,tei/amar-y-ser-amado-y-divina-filotea.xml,6f50fd293c537aa2338036f9282169fdf73e0f56,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-ano-santo-de-madrid.xml,tei/el-ano-santo-de-madrid.xml,855f152fba66beaf088d4956433efbad75e937f4,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-arbol-de-mejor-fruto.xml,tei/el-arbol-de-mejor-fruto.xml,179869bb9d61be79478408c2d882ff13bbc73f2d,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-arca-de-dios-cautiva.xml,tei/el-arca-de-dios-cautiva.xml,ecb11edcc93e3e40ca03323e11e48061008fd868,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-convite-general.xml,tei/el-convite-general.xml,a371a7ccd3feb5493e45c243e3798ce374067368,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-cubo-de-la-almudena.xml,tei/el-cubo-de-la-almudena.xml,04f94336d6ea5eba99aef2a0524b81fcd9837924,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-dia-mayor-de-los-dias.xml,tei/el-dia-mayor-de-los-dias.xml,cbbed717da751079ec93b6eace8ea5d3e92238ee,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-divino-cazador.xml,tei/el-divino-cazador.xml,7dae227f65f22145f8d174f55a9a427c33b77633,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-divino-jason-attributed.xml,tei/el-divino-jason-attributed.xml,5d3a0f5ffc4b3aa380815ada39fc476c82254f1a,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-divino-orfeo-1634.xml,tei/el-divino-orfeo-1634.xml,562f9d490eab184d05f5e48cd69d23747de65aa3,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-gran-duque-de-gandia.xml,tei/el-gran-duque-de-gandia.xml,bd3ebbff96b7d464093572168d134c39bf412c51,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-gran-mercado-del-mundo.xml,tei/el-gran-mercado-del-mundo.xml,79b80cc8c9d5017c486ba42eebe28a2a169bb032,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-laberinto-del-mundo.xml,tei/el-laberinto-del-mundo.xml,3a18d5d49c88b441f80b64266850f9e095368412,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-lirio-y-la-azucena.xml,tei/el-lirio-y-la-azucena.xml,49550b20eb0a46bddfa31ee79025c0fccc58ba99,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-maestrazgo-del-tuson.xml,tei/el-maestrazgo-del-tuson.xml,a60d05c82edd26b433056e44d08a77eb0b8bc694,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-nuevo-palacio-del-retiro.xml,tei/el-nuevo-palacio-del-retiro.xml,afbe2adb0e5f917922c7ee39978f149751774bb6,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-orden-de-melquisedec.xml,tei/el-orden-de-melquisedec.xml,a4bfe8302a61ab34b5b302b900446534e54a7cd6,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-pastor-fido.xml,tei/el-pastor-fido.xml,406bb45e03e9b43d06359dcaf2f2dcf724bb57c0,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-pleito-matrimonial-del-cuerpo-y-el-alma.xml,tei/el-pleito-matrimonial-del-cuerpo-y-el-alma.xml,c4b0da9ba6e5a6a3e7a4c2bf783b016e59a586fa,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-primer-refugio-del-hombre-loa.xml,tei/el-primer-refugio-del-hombre-loa.xml,825bf22dceb96064b519b6329f8bedb07b468059,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-primer-refugio-del-hombre-y-probatica-piscina.xml,tei/el-primer-refugio-del-hombre-y-probatica-piscina.xml,bf884adc7899e6243d12dde10fc8938f3ea4cb17,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-sacro-pernaso.xml,tei/el-sacro-pernaso.xml,9a5a3d54c2d141ddaf1e2364c7ec92eeae32bac7,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-santo-rey-fernando-segunda-parte.xml,tei/el-santo-rey-fernando-segunda-parte.xml,4ca06f55f921e3b82a5255ecab5ced2745ca506a,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-segundo-blason-del-austria.xml,tei/el-segundo-blason-del-austria.xml,db27144a4559a91f27b2094847d2811893fba7f8,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-tesoro-escondido.xml,tei/el-tesoro-escondido.xml,29f6194b64f192d3022ad019e0656fd1826d5cf1,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-valle-de-la-zarzuela.xml,tei/el-valle-de-la-zarzuela.xml,663fb2fde844e2943b1d66d610793973aebb12a0,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-verdadero-dios-pan.xml,tei/el-verdadero-dios-pan.xml,8aa0a2a97f5298758ca351475f9e5e68c7428744,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/el-viatico-cordero.xml,tei/el-viatico-cordero.xml,9e41aec8f093f051185bd2342719f3e27fdb62c7,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/la-cena-del-rey-baltasar-auto.xml,tei/la-cena-del-rey-baltasar-auto.xml,07f97a1cdffefc9bd7699fc8a7541e0aeebf5630,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/la-cura-y-la-enfermedad.xml,tei/la-cura-y-la-enfermedad.xml,00c745074f0978fa841d6c132096309154940a02,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/la-iglesia-sitiada.xml,tei/la-iglesia-sitiada.xml,ec1fff066ab1d5245eb6ca544fb3edcfa9c7b156,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/la-lepra-de-constantino.xml,tei/la-lepra-de-constantino.xml,db592e691aaed7c22ea6b881ed43f9c25e362ecb,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/la-redencion-de-cautivos.xml,tei/la-redencion-de-cautivos.xml,2ba16844a1049d4b19c3a12717198c76ca08177a,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/la-semilla-y-la-cizana.xml,tei/la-semilla-y-la-cizana.xml,ceae95977dd8faa0596df96fc86ae56d282f80c6,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/la-serpiente-de-metal.xml,tei/la-serpiente-de-metal.xml,a33b2d2820245fc0e795053c622a74bf899f9ce5,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/la-siembra-del-senor.xml,tei/la-siembra-del-senor.xml,bf9a06f3eaafdabd47ff6b08de9ded09b1dc039c,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/la-torre-de-babilonia.xml,tei/la-torre-de-babilonia.xml,46cd193bc254bd16077aad9713b6d3288e5a9d53,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/la-universal-redencion.xml,tei/la-universal-redencion.xml,bdf75975e18739ab99a768cc5bcb4e32588b5fee,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/la-vacante-general.xml,tei/la-vacante-general.xml,c8e25152311333006c93d42abae4e3cfc3d7d633,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/la-vida-es-sueno-primera-version-auto.xml,tei/la-vida-es-sueno-primera-version-auto.xml,35dcf8dbbd3fdad91624a235eac237156519fc90,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/la-vida-es-sueno-segunda-version-auto.xml,tei/la-vida-es-sueno-segunda-version-auto.xml,7fa5cb47bd8bec15a856f31b4b8b388a7c37b00b,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/la-vina-del-senor-1996.xml,tei/la-vina-del-senor-1996.xml,1d080243b3af22d5116f03f6a2c4e458beb73b65,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/las-espigas-de-ruth.xml,tei/las-espigas-de-ruth.xml,942eed260bb1b0eb1a2e2335f6dfc2d0911cdaba,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/llamados-y-escogidos.xml,tei/llamados-y-escogidos.xml,69922857e575dcba568bb78376c6d0013f8f43fc,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/lo-que-va-del-hombre-a-dios.xml,tei/lo-que-va-del-hombre-a-dios.xml,0bc2916fbe8cf395e7dac5b053980f195b839312,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/los-alimentos-del-hombre-auto.xml,tei/los-alimentos-del-hombre-auto.xml,3372b1bf06bf62742f7ef4f5aa61186f0c3ad2a8,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/los-misterios-de-la-misa.xml,tei/los-misterios-de-la-misa.xml,7d6856ee03ce8f8fdc828b1ead06a58832ccd9f1,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/mistica-y-real-babilonia.xml,tei/mistica-y-real-babilonia.xml,e9165b150137efd9e2ba1d8e2c71545aadd5ac27,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/no-hay-mas-fortuna-que-dios.xml,tei/no-hay-mas-fortuna-que-dios.xml,3f27b7fb92413256549aa1d92b66081c57b40659,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/psiquis-y-cupido-toledo.xml,tei/psiquis-y-cupido-toledo.xml,f8afd329d44de8c3be47c88ae13bf90e691ef976,
+tei-without-id,170,b3c8cc6aa79b3a704a47891deb8ac3b6cf7e055e,tei/tu-projimo-como-a-ti.xml,tei/tu-projimo-como-a-ti.xml,dcd0aa2d5ed1c8819021517c4c58a4b2a1252266,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/amar-y-ser-amado-y-divina-filotea.xml,tei/amar-y-ser-amado-y-divina-filotea.xml,def2560ef81fb8db32516d4ac911e90fdceb4157,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-ano-santo-de-madrid.xml,tei/el-ano-santo-de-madrid.xml,5497ae105e863f8c31b10228ba2b674c164b4d49,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-arbol-de-mejor-fruto.xml,tei/el-arbol-de-mejor-fruto.xml,7b93a6b624e52339570bfb7fd4099f102c9d7302,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-arca-de-dios-cautiva.xml,tei/el-arca-de-dios-cautiva.xml,2d871ebd49956308191523a6d7984e984e450258,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-convite-general.xml,tei/el-convite-general.xml,8879fe47c6ac4a77485536af8c955d19b61a9d80,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-cubo-de-la-almudena.xml,tei/el-cubo-de-la-almudena.xml,037931e033b962d534376b3c50df2aba98d2b797,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-dia-mayor-de-los-dias.xml,tei/el-dia-mayor-de-los-dias.xml,5ac1f4344be8b2d10effba687f901aa549111cbc,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-divino-cazador.xml,tei/el-divino-cazador.xml,504761b537ef3513811fe48dd756aca3e6a6da47,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-divino-jason-attributed.xml,tei/el-divino-jason-attributed.xml,5760367e44cb6bb2d0e6783b388995fab25fe064,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-divino-orfeo-1634.xml,tei/el-divino-orfeo-1634.xml,387179ecd0e6634070b2668e71f961ba8984628d,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-gran-duque-de-gandia.xml,tei/el-gran-duque-de-gandia.xml,44760ecd5353b97a2269a52974473cc2e1d94141,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-gran-mercado-del-mundo.xml,tei/el-gran-mercado-del-mundo.xml,8f04081cf07719e99d51b6f6fc4d9f60da1758ca,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-laberinto-del-mundo.xml,tei/el-laberinto-del-mundo.xml,a05c9e06b15ec11bf3807fd027b6873f81e7947f,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-lirio-y-la-azucena.xml,tei/el-lirio-y-la-azucena.xml,277a91da4e179d522c6b66037f8fa57cd0398db3,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-maestrazgo-del-tuson.xml,tei/el-maestrazgo-del-tuson.xml,c3546ed010a8adf38085a311d66742eaf2b2bb45,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-nuevo-palacio-del-retiro.xml,tei/el-nuevo-palacio-del-retiro.xml,550df8c1f4cbad5d7c89cee2c163cb2284443dea,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-orden-de-melquisedec.xml,tei/el-orden-de-melquisedec.xml,f4438b157813cd06238df172fc1fd51fb7aee5b6,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-pastor-fido.xml,tei/el-pastor-fido.xml,d1173de4fe96f70c7ba24b633a1588204fff5e8a,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-pleito-matrimonial-del-cuerpo-y-el-alma.xml,tei/el-pleito-matrimonial-del-cuerpo-y-el-alma.xml,a593c45f56fd7d6404e1cc6a38f0dd8223c00de4,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-primer-refugio-del-hombre-loa.xml,tei/el-primer-refugio-del-hombre-loa.xml,11362fe8b21f2b61aa807d20b7130ed8f01e2b29,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-primer-refugio-del-hombre-y-probatica-piscina.xml,tei/el-primer-refugio-del-hombre-y-probatica-piscina.xml,0035ef9056145ce8a474583e406d5140e1c7645c,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-sacro-pernaso.xml,tei/el-sacro-pernaso.xml,07d8423cf4e4ee680e1064f7c688df79740c8382,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-santo-rey-fernando-segunda-parte.xml,tei/el-santo-rey-fernando-segunda-parte.xml,35094ff103580a19acbfbabad37fa9d073d038cd,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-segundo-blason-del-austria.xml,tei/el-segundo-blason-del-austria.xml,a4d7ce7131ded97431ae9f92f88a35ab6d623cca,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-tesoro-escondido.xml,tei/el-tesoro-escondido.xml,a0dc934d9093c78d71a948517869d456a298d905,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-valle-de-la-zarzuela.xml,tei/el-valle-de-la-zarzuela.xml,4be768f311d7fd3da6d8a34d6352fa82d5441403,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-verdadero-dios-pan.xml,tei/el-verdadero-dios-pan.xml,4fb079fbd85962adb4d55eba49dfaab144ee014f,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/el-viatico-cordero.xml,tei/el-viatico-cordero.xml,7c5bfc1e41150e5354bb5712b8b2802ccf70da83,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/la-cena-del-rey-baltasar-auto.xml,tei/la-cena-del-rey-baltasar-auto.xml,9decceb3557ebcfc25f37eb6a44f00017b037e91,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/la-cura-y-la-enfermedad.xml,tei/la-cura-y-la-enfermedad.xml,41c4c6ee382d714981f0c39d3a2e31cddb3839ab,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/la-iglesia-sitiada.xml,tei/la-iglesia-sitiada.xml,8a0d2bfb94e9b3ddc4f472a1bd93e11694165e4a,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/la-lepra-de-constantino.xml,tei/la-lepra-de-constantino.xml,4166690a4ae5f1e27daeea8b611a23982dad41e3,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/la-redencion-de-cautivos.xml,tei/la-redencion-de-cautivos.xml,75ac1cb624a7cca9a9bb6e12a6a6613fb5a846ea,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/la-semilla-y-la-cizana.xml,tei/la-semilla-y-la-cizana.xml,381ab234d56f46e037f3d9606c66f6fbfb11be69,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/la-serpiente-de-metal.xml,tei/la-serpiente-de-metal.xml,1a3de04baa6b7af9f8bcf27891682c7d3588418e,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/la-siembra-del-senor.xml,tei/la-siembra-del-senor.xml,b83c1416cf0c7980f5e0c3a6f7427e65e481f299,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/la-torre-de-babilonia.xml,tei/la-torre-de-babilonia.xml,9798a02d35af472e06198f3096ec81a28b26f760,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/la-universal-redencion.xml,tei/la-universal-redencion.xml,b8bf770d2c8666187960b378e53eda1342d0283d,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/la-vacante-general.xml,tei/la-vacante-general.xml,022ea7878f8a04854c8274934953d6d820b5b057,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/la-vida-es-sueno-primera-version-auto.xml,tei/la-vida-es-sueno-primera-version-auto.xml,7751bc76cef93476bff19373bd57a1cbbefeeba1,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/la-vida-es-sueno-segunda-version-auto.xml,tei/la-vida-es-sueno-segunda-version-auto.xml,e749102e93a9ca33b043ba1567b3fff7e793db22,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/la-vina-del-senor-1996.xml,tei/la-vina-del-senor-1996.xml,5746c5206c6a91425aa7b5736a113d1b23f95da4,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/las-espigas-de-ruth.xml,tei/las-espigas-de-ruth.xml,eabb5f1178ef57c64676a7b050825e296cd92e87,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/llamados-y-escogidos.xml,tei/llamados-y-escogidos.xml,5a8a9aeee868b70e5c80a0b5e266f2152a13455d,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/lo-que-va-del-hombre-a-dios.xml,tei/lo-que-va-del-hombre-a-dios.xml,7aa31e56492ebcede4a24cc2b46952a1d456dd50,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/los-alimentos-del-hombre-auto.xml,tei/los-alimentos-del-hombre-auto.xml,a7ddca84625cc47acf2494a260e072e162b97f7a,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/los-misterios-de-la-misa.xml,tei/los-misterios-de-la-misa.xml,6d0be5637d29b02f4bc1c0d5025470fc003b25de,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/mistica-y-real-babilonia.xml,tei/mistica-y-real-babilonia.xml,6ab0d697a6dd3d7fbae75fecad1094274877e8d0,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/no-hay-mas-fortuna-que-dios.xml,tei/no-hay-mas-fortuna-que-dios.xml,58e02f0cfdf0d8ebca3a58ceea73c5b2e8e5b9f6,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/psiquis-y-cupido-toledo.xml,tei/psiquis-y-cupido-toledo.xml,a69e43102445ebe89581fde2f7a9ba7032c49865,
+tei-without-id,171,9a7e7a67bcec5a252188c29c5dc893e440a63db4,tei/tu-projimo-como-a-ti.xml,tei/tu-projimo-como-a-ti.xml,d92c728413fb01d0e5c87d905e6679d31bc205f9,
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000152,tei/amar-y-ser-amado-y-divina-filotea.xml,6fdc82ee4ce960e6c056230c3484315abec1c037,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000153,tei/el-ano-santo-de-madrid.xml,4f76b66b8e4086e31c32174e2d4b69f95686477b,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000154,tei/el-arbol-de-mejor-fruto.xml,0218ac709289a0d12900a1f4c96655aa36b9fbcb,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000155,tei/el-arca-de-dios-cautiva.xml,ec55eb377a686cfabea50a14072e795e4978b3fd,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000156,tei/el-convite-general.xml,f1fafd745315dc7706ea791a9d37f50fe9216a7c,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000157,tei/el-cubo-de-la-almudena.xml,89a56d9263cbde17a85b977f96933b429312a2d3,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000158,tei/el-dia-mayor-de-los-dias.xml,b52cae9709039e625ee32f44a3293ce70298cc15,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000159,tei/el-divino-cazador.xml,fb36cfc6dd00b6fa4d71d13b56e202a06caf6c1e,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000160,tei/el-divino-jason-attributed.xml,d6aaf64c5ad2570fd16a6992f32a90be7836abbd,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000161,tei/el-divino-orfeo-1634.xml,aa681d30120b35fae3441b65de0628cc6a9245a5,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000162,tei/el-gran-duque-de-gandia.xml,6780d9f5681dc0129d53f4002a9465feae767003,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000163,tei/el-gran-mercado-del-mundo.xml,dc7172405dde7fa1a7e806d89101c40f0277e34d,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000164,tei/el-laberinto-del-mundo.xml,e1288444a4e142956237db4ea95e07ccf89be38c,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000165,tei/el-lirio-y-la-azucena.xml,1539eabfd02a577bbd3b0424bffd0632d7440878,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000166,tei/el-maestrazgo-del-tuson.xml,e8f36d8fedc18d0022e4246cd4d8f5eabd7ae455,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000167,tei/el-nuevo-palacio-del-retiro.xml,3e5f0b1cc9992f90f1d197970e258e7f9a203477,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000168,tei/el-orden-de-melquisedec.xml,efecdfe2d03e350fd5b2eec267b6f81a620f8cc3,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000169,tei/el-pastor-fido.xml,e24f53be6abdf1916a4d161e79c42dab9950c1bf,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000170,tei/el-pleito-matrimonial-del-cuerpo-y-el-alma.xml,522b93c28d5c88a8e5fc99be149e0b23ce3bd68d,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000171,tei/el-primer-refugio-del-hombre-loa.xml,dd572ce23b6612402aa0628bc2eecd973b74559e,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000172,tei/el-primer-refugio-del-hombre-y-probatica-piscina.xml,56b941989285055831a90bbab9e39d7b06415e0f,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000173,tei/el-sacro-pernaso.xml,5aa54e860fd46e34cce71c83a16edf86ac2dfde3,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000174,tei/el-santo-rey-fernando-segunda-parte.xml,4c7a4dcc517a965fb33d2474d3b521817217651f,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000175,tei/el-segundo-blason-del-austria.xml,92e12d32871fecced4c7f38ec88f94278e151e42,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000176,tei/el-tesoro-escondido.xml,1810a4c644da36b33b606aa892320e36753dcb1d,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000177,tei/el-valle-de-la-zarzuela.xml,b5b682f38f6698d5f2954b9077439dbb86f507af,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000178,tei/el-verdadero-dios-pan.xml,177ce154cad8a683626648274c1253c1b35ca5a3,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000179,tei/el-viatico-cordero.xml,ed12105584cdb9520c9567746344f148da8f0c1e,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000180,tei/la-cena-del-rey-baltasar-auto.xml,cf542a110307bc6c6e987613772d7c7a2d02c875,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000181,tei/la-cura-y-la-enfermedad.xml,3c1ba6af0e79514ad2daf8ac699c111f0797b295,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000182,tei/la-iglesia-sitiada.xml,24d6596f45610657676098020bec3c440307f0d4,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000183,tei/la-lepra-de-constantino.xml,1cd1c82fd7028a61047900cfa71a4182a53dc9c9,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000184,tei/la-redencion-de-cautivos.xml,bcd5195b284d9af20dfd95dc4d23ee236bdcb794,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000185,tei/la-semilla-y-la-cizana.xml,ad245bbf154ca18d77c8ba7e0659a382528e3d23,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000186,tei/la-serpiente-de-metal.xml,d4e16dd658d5aafbdff7f766788ecaac8e8482b7,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000187,tei/la-siembra-del-senor.xml,89c8de300175dca72d14006df0d00ab2a8b44828,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000188,tei/la-torre-de-babilonia.xml,0db47600c32b0282dae09eb71aba6b1ec0b4306f,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000189,tei/la-universal-redencion.xml,474a6d95a5604d5b66e44118010c618d1958ef0a,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000190,tei/la-vacante-general.xml,fcc7a2c619e9dcc95066b78cdcfaabc2adbdd5c4,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000191,tei/la-vida-es-sueno-primera-version-auto.xml,3795fa59125e52def7d22f4f016258338ddd2b5b,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000192,tei/la-vida-es-sueno-segunda-version-auto.xml,914c728cb327cc4a35704b6bf7699ba4fb16ac96,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000193,tei/la-vina-del-senor-1996.xml,e682e094c252848017c24f61218f05f6b93161f9,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000194,tei/las-espigas-de-ruth.xml,72028d2fad537ae732719a38714bc727a347da66,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000195,tei/llamados-y-escogidos.xml,2808bcd8ffeaccfa0c871de7d70032afdba80668,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000196,tei/lo-que-va-del-hombre-a-dios.xml,17fd13d9603f4f73c19af75c43629585f2612dee,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000197,tei/los-alimentos-del-hombre-auto.xml,7a98e4fef6e8facf8015b0d6b6f2cc4f98ad64a2,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000198,tei/los-misterios-de-la-misa.xml,86dc5ab1c98af42f90c506ea78d975d6a6d7b3b5,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000199,tei/mistica-y-real-babilonia.xml,032cb1c8ecdd8d7ed9ffc42bd74f6dc2e1af3573,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000200,tei/no-hay-mas-fortuna-que-dios.xml,fb772fcd23079745b11c5364afc3fb9fbc4bf9ce,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000201,tei/psiquis-y-cupido-toledo.xml,0325d527065dcd41eb08ab4bce77f5b328160ba9,file had no DraCor ID before
+id-assigned,172,49a3b4ec97580f3d104f02dd06a93a499ccff13d,cal000202,tei/tu-projimo-como-a-ti.xml,c96b9319f8b821c4d887dd369378edb63ccd90ab,file had no DraCor ID before
+malformed-xml,182,db383acc2b1cef808cf1737c2e6f8432b66d6212,cal000007,tei/el-ano-santo-de-roma.xml,9c0590e723501d73272ed74665ed4482fccbae13,TEI file not well-formed; ID taken by regex
+malformed-xml,216,8b552ea3921be7d66f88596adff6538042a1f348,cal000138,tei/mejor-esta-que-estaba.xml,349fb6d2869f7842b37e3b615e446cc3b7cbd74c,TEI file not well-formed; ID taken by regex
+malformed-xml,218,fd71afa97012b46ef8acf6b2bd4c13a970767418,cal000138,tei/mejor-esta-que-estaba.xml,d2fee7c79b61fc233f7cf33f9eea003adb894041,TEI file not well-formed; ID taken by regex
+malformed-xml,218,fd71afa97012b46ef8acf6b2bd4c13a970767418,cal000200,tei/no-hay-mas-fortuna-que-dios.xml,66ec52448a3cb64d01c4aaebf2023c804e333588,TEI file not well-formed; ID taken by regex
+malformed-xml,218,fd71afa97012b46ef8acf6b2bd4c13a970767418,cal000052,tei/quien-hallara-mujer-fuerte.xml,d18561ac09efaa5d9bfe593628b548010e679c4e,TEI file not well-formed; ID taken by regex
+malformed-xml,218,fd71afa97012b46ef8acf6b2bd4c13a970767418,cal000149,tei/saber-del-mal-y-el-bien.xml,81cf6e6233e1b825a2af762e6a8517eb1883e5af,TEI file not well-formed; ID taken by regex
+malformed-xml,219,06dec681dcb554c96e6800abbaaaa1d02ff4a86e,cal000183,tei/la-lepra-de-constantino.xml,81bbf052bc90040d5da0452bc64f365153a91d34,TEI file not well-formed; ID taken by regex
+malformed-xml,219,06dec681dcb554c96e6800abbaaaa1d02ff4a86e,cal000189,tei/la-universal-redencion.xml,704c7938e95eade413d561046664ecfdd5d37f2f,TEI file not well-formed; ID taken by regex
+malformed-xml,222,26b8d93ba6b273ec70cfc22fbe5189d189618396,cal000163,tei/el-gran-mercado-del-mundo.xml,b23da4940dfdf60de8bc6620fb136165b6d83881,TEI file not well-formed; ID taken by regex
+rename-same-blob,227,a8b4ec2bf8a3ed7194ec68120b7bf34c34383bb1,cal000117,tei/la-hija-del-aire-i.xml,9ce81b67b442d36503f1505a07a85102dda254f9,from tei/la-hija-del-aire-I.xml
+rename-same-blob,227,a8b4ec2bf8a3ed7194ec68120b7bf34c34383bb1,cal000118,tei/la-hija-del-aire-ii.xml,c6cf5d7392119fbbb6a614f5b17c546d78cfc25e,from tei/la-hija-del-aire-II.xml
+malformed-xml,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,cal000008,tei/el-cordero-de-isaias.xml,7389b9744fa77c9d30ca4d6e49339f52b7a4387c,TEI file not well-formed; ID taken by regex
+id-reappears,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,cal000008,tei/el-cordero-de-isaias.xml,7389b9744fa77c9d30ca4d6e49339f52b7a4387c,last valid at seq 225 as tei/el-cordero-de-isaias.xml
+malformed-xml,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,cal000009,tei/el-diablo-mudo-primera-version.xml,69effa61ee5dfe8593d2699c8b3df6df4db31bba,TEI file not well-formed; ID taken by regex
+id-reappears,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,cal000009,tei/el-diablo-mudo-primera-version.xml,69effa61ee5dfe8593d2699c8b3df6df4db31bba,last valid at seq 225 as tei/el-diablo-mudo-primera-version.xml
+malformed-xml,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,cal000011,tei/el-divino-jason.xml,e3142f2817524446bd98fc2cc3a11b26a7231dd5,TEI file not well-formed; ID taken by regex
+id-reappears,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,cal000011,tei/el-divino-jason.xml,e3142f2817524446bd98fc2cc3a11b26a7231dd5,last valid at seq 225 as tei/el-divino-jason.xml
+malformed-xml,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,cal000016,tei/el-indulto-general.xml,aee3c128bf0ef80bcb6918f011f9e3aa16ae9464,TEI file not well-formed; ID taken by regex
+id-reappears,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,cal000016,tei/el-indulto-general.xml,aee3c128bf0ef80bcb6918f011f9e3aa16ae9464,last valid at seq 225 as tei/el-indulto-general.xml
+malformed-xml,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,cal000138,tei/mejor-esta-que-estaba.xml,d04a6e641c6f5d541c79cd9c42a7295f21902000,TEI file not well-formed; ID taken by regex
+id-reappears,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,cal000138,tei/mejor-esta-que-estaba.xml,d04a6e641c6f5d541c79cd9c42a7295f21902000,last valid at seq 225 as tei/mejor-esta-que-estaba.xml
+malformed-xml,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,cal000200,tei/no-hay-mas-fortuna-que-dios.xml,f534cb22b1b757fca55f9c22ef89976d2b80ba0e,TEI file not well-formed; ID taken by regex
+id-reappears,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,cal000200,tei/no-hay-mas-fortuna-que-dios.xml,f534cb22b1b757fca55f9c22ef89976d2b80ba0e,last valid at seq 225 as tei/no-hay-mas-fortuna-que-dios.xml
+malformed-xml,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,cal000149,tei/saber-del-mal-y-el-bien.xml,20fd9c2f19d4ede85d72ac5df7687ff2ef44f7eb,TEI file not well-formed; ID taken by regex
+id-reappears,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,cal000149,tei/saber-del-mal-y-el-bien.xml,20fd9c2f19d4ede85d72ac5df7687ff2ef44f7eb,last valid at seq 225 as tei/saber-del-mal-y-el-bien.xml
+tei-without-id,257,f249e572c1af6969be6a6d8809208f56036c548d,tei/como-se-comunican-dos-estrellas-contrarias.xml,tei/como-se-comunican-dos-estrellas-contrarias.xml,d2898d00cdff8f0f4dfca26dd1092f87911e89e4,
+tei-without-id,257,f249e572c1af6969be6a6d8809208f56036c548d,tei/el-jardin-de-falerina-auto.xml,tei/el-jardin-de-falerina-auto.xml,9b0ad61c13c9002b03abf00b15114527c15fa4e6,
+tei-without-id,257,f249e572c1af6969be6a6d8809208f56036c548d,tei/el-pintor-de-su-deshonra-auto.xml,tei/el-pintor-de-su-deshonra-auto.xml,e04767d1a5c0eb2c35b9505095f740fc361b70fc,
+tei-without-id,257,f249e572c1af6969be6a6d8809208f56036c548d,tei/el-primer-blason-del-austria-auto.xml,tei/el-primer-blason-del-austria-auto.xml,6b2229e0749056e70c8d3ab8559db90c22b35e0d,
+tei-without-id,258,4d0d3d5e600bdff2dd40cd51b3dcf1e1a7e3bdcb,tei/como-se-comunican-dos-estrellas-contrarias.xml,tei/como-se-comunican-dos-estrellas-contrarias.xml,527bec48c783bf02060d4e4db0a2ee9217606991,
+tei-without-id,258,4d0d3d5e600bdff2dd40cd51b3dcf1e1a7e3bdcb,tei/la-selva-confusa.xml,tei/la-selva-confusa.xml,6734ef7aeef441b575e1b782c09fbcb7b7f3c0fc,
+tei-without-id,259,b19a901c62e8d7bee72bcde27a0fc9eef4d64d7b,tei/la-selva-confusa.xml,tei/la-selva-confusa.xml,efa56b5dccaa91a4f31d36984e540f958b8483a9,
+id-assigned,261,beb23efe56dab0f08280c39d47e5a1092dbc4ae0,cal000203,tei/como-se-comunican-dos-estrellas-contrarias.xml,543b821cb899c246113ee37ea5ac97a448e2cc2c,file had no DraCor ID before
+id-assigned,261,beb23efe56dab0f08280c39d47e5a1092dbc4ae0,cal000204,tei/el-jardin-de-falerina-auto.xml,7678883dd5195b0f0935114bbd3612096ac45f66,file had no DraCor ID before
+id-assigned,261,beb23efe56dab0f08280c39d47e5a1092dbc4ae0,cal000205,tei/el-pintor-de-su-deshonra-auto.xml,d096daea77c3dec19b9d0b84c7e54d4b5458f0c7,file had no DraCor ID before
+id-assigned,261,beb23efe56dab0f08280c39d47e5a1092dbc4ae0,cal000206,tei/el-primer-blason-del-austria-auto.xml,b853a2f408582648b4ec80d1330d6a5bbec0b487,file had no DraCor ID before
+id-assigned,261,beb23efe56dab0f08280c39d47e5a1092dbc4ae0,cal000207,tei/la-selva-confusa.xml,3bbb3610fd96a70dce7346e46fbb4691ff3a442d,file had no DraCor ID before
+lineage-gap,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,,tei/el-cordero-de-isaias.xml,7389b9744fa77c9d30ca4d6e49339f52b7a4387c,continues tei/el-cordero-de-isaias.xml (valid until seq 225) via same path
+lineage-gap,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,,tei/el-diablo-mudo-primera-version.xml,69effa61ee5dfe8593d2699c8b3df6df4db31bba,continues tei/el-diablo-mudo-primera-version.xml (valid until seq 225) via same path
+lineage-gap,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,,tei/el-divino-jason.xml,e3142f2817524446bd98fc2cc3a11b26a7231dd5,continues tei/el-divino-jason.xml (valid until seq 225) via same path
+lineage-gap,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,,tei/el-indulto-general.xml,aee3c128bf0ef80bcb6918f011f9e3aa16ae9464,continues tei/el-indulto-general.xml (valid until seq 225) via same path
+lineage-gap,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,,tei/mejor-esta-que-estaba.xml,d04a6e641c6f5d541c79cd9c42a7295f21902000,continues tei/mejor-esta-que-estaba.xml (valid until seq 225) via same path
+lineage-gap,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,,tei/saber-del-mal-y-el-bien.xml,20fd9c2f19d4ede85d72ac5df7687ff2ef44f7eb,continues tei/saber-del-mal-y-el-bien.xml (valid until seq 225) via same path
+lineage-gap,229,5b72d609221e3a0b831ac02f03c4762f9bdfdd31,,tei/no-hay-mas-fortuna-que-dios.xml,f534cb22b1b757fca55f9c22ef89976d2b80ba0e,continues tei/no-hay-mas-fortuna-que-dios.xml (valid until seq 225) via same path
+legacy-id-ambiguous,,,cal000009 | cal000010,,,quadramaX=El diablo mudo belongs to texts with different IDs
+legacy-id-ambiguous,,,cal000011 | cal000160,,,quadramaX=El divino Jasón belongs to texts with different IDs
+legacy-id-ambiguous,,,cal000012 | cal000161,,,quadramaX=El divino Orfeo belongs to texts with different IDs
+legacy-id-ambiguous,,,cal000017 | cal000204,,,quadramaX=El jardín de Falerina belongs to texts with different IDs
+legacy-id-ambiguous,,,cal000038 | cal000193,,,quadramaX=La viña del Señor belongs to texts with different IDs
+legacy-id-ambiguous,,,cal000096 | cal000205,,,quadramaX=El pintor de su deshonra belongs to texts with different IDs

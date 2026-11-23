@@ -1,0 +1,298 @@
+case,seq,commit,key,path,blob,detail
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/ad_lat.xml,tei/ad_lat.xml,dda2683be519607f24cef3d6ef6ff4021ca6ad92,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/ad_lat.xml,tei/ad_lat.xml,dda2683be519607f24cef3d6ef6ff4021ca6ad92,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/an_lat.xml,tei/an_lat.xml,21f73deb3d35840d09700530c22e8c4f121020ec,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/an_lat.xml,tei/an_lat.xml,21f73deb3d35840d09700530c22e8c4f121020ec,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/eu_lat.xml,tei/eu_lat.xml,6aee3167d8d24ce914bac4af5f40ef63636490f6,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/eu_lat.xml,tei/eu_lat.xml,6aee3167d8d24ce914bac4af5f40ef63636490f6,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/hau_lat.xml,tei/hau_lat.xml,2f96b20ce54faf51237e4c1abd054a74b66bdcbd,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/hau_lat.xml,tei/hau_lat.xml,2f96b20ce54faf51237e4c1abd054a74b66bdcbd,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/hec_lat.xml,tei/hec_lat.xml,ac55dea68628488106bcb5b600dd14fc7b9256bb,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/hec_lat.xml,tei/hec_lat.xml,ac55dea68628488106bcb5b600dd14fc7b9256bb,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/ph_lat.xml,tei/ph_lat.xml,6f87e8a57c1d6ae6a5ede57980dffc66a2ce14a0,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/ph_lat.xml,tei/ph_lat.xml,6f87e8a57c1d6ae6a5ede57980dffc66a2ce14a0,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.am_lat.xml,tei/pl.am_lat.xml,24d0fc4d30f606e0f83bad1f45c8c247c5a6d94c,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.am_lat.xml,tei/pl.am_lat.xml,24d0fc4d30f606e0f83bad1f45c8c247c5a6d94c,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.as_lat.xml,tei/pl.as_lat.xml,7bc7c0f7507e0130cb17d1cb3b0439d1d5a59412,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.as_lat.xml,tei/pl.as_lat.xml,7bc7c0f7507e0130cb17d1cb3b0439d1d5a59412,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.aul_lat.xml,tei/pl.aul_lat.xml,2d3d9ec378ae0edf0d871206d0893669b5f5ba31,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.aul_lat.xml,tei/pl.aul_lat.xml,2d3d9ec378ae0edf0d871206d0893669b5f5ba31,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.bac_lat.xml,tei/pl.bac_lat.xml,ee0b5348fa5baca5319449b134f5851b61059beb,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.bac_lat.xml,tei/pl.bac_lat.xml,ee0b5348fa5baca5319449b134f5851b61059beb,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.capt_lat.xml,tei/pl.capt_lat.xml,e6788b9bbce391719e41d094186391b7fffdad20,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.capt_lat.xml,tei/pl.capt_lat.xml,e6788b9bbce391719e41d094186391b7fffdad20,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.cas_lat.xml,tei/pl.cas_lat.xml,361a00436f23b2363de3925ac1ffefec01417570,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.cas_lat.xml,tei/pl.cas_lat.xml,361a00436f23b2363de3925ac1ffefec01417570,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.cist_lat.xml,tei/pl.cist_lat.xml,4d96ee9334526330411118c4a15dd1c910687eef,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.cist_lat.xml,tei/pl.cist_lat.xml,4d96ee9334526330411118c4a15dd1c910687eef,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.cur_lat.xml,tei/pl.cur_lat.xml,215461070a000396683b84c80f446fe66bda24ab,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.cur_lat.xml,tei/pl.cur_lat.xml,215461070a000396683b84c80f446fe66bda24ab,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.epid_lat.xml,tei/pl.epid_lat.xml,81477f191b72219a54252c370d579299fe394aba,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.epid_lat.xml,tei/pl.epid_lat.xml,81477f191b72219a54252c370d579299fe394aba,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.men_lat.xml,tei/pl.men_lat.xml,2434720f4de222e4d8bdb846d6624cb6c72a14d3,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.men_lat.xml,tei/pl.men_lat.xml,2434720f4de222e4d8bdb846d6624cb6c72a14d3,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.mer_lat.xml,tei/pl.mer_lat.xml,cc76441cc7b32ba668f52a927fd4403da7597f87,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.mer_lat.xml,tei/pl.mer_lat.xml,cc76441cc7b32ba668f52a927fd4403da7597f87,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.mil_lat.xml,tei/pl.mil_lat.xml,60b33634ede6c571bcb814e29e53c7ce103bdaf5,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.mil_lat.xml,tei/pl.mil_lat.xml,60b33634ede6c571bcb814e29e53c7ce103bdaf5,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.mos_lat.xml,tei/pl.mos_lat.xml,49ee3cd35319bbf1aca5b25da1f10c567b911969,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.mos_lat.xml,tei/pl.mos_lat.xml,49ee3cd35319bbf1aca5b25da1f10c567b911969,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.per_lat.xml,tei/pl.per_lat.xml,b49ec218d67e704f3846fe7c451e9c2b185ccede,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.per_lat.xml,tei/pl.per_lat.xml,b49ec218d67e704f3846fe7c451e9c2b185ccede,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.poen_lat.xml,tei/pl.poen_lat.xml,7864c9f4fa5282563e56bf42f7f5b6b0cfb7c89a,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.poen_lat.xml,tei/pl.poen_lat.xml,7864c9f4fa5282563e56bf42f7f5b6b0cfb7c89a,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.ps_lat.xml,tei/pl.ps_lat.xml,450c50756d522e1ed41828627bb3cc45c7d4e233,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.ps_lat.xml,tei/pl.ps_lat.xml,450c50756d522e1ed41828627bb3cc45c7d4e233,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.rud_lat.xml,tei/pl.rud_lat.xml,ebce2766f896a140fa096cb15fa7f668d0e7216b,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.rud_lat.xml,tei/pl.rud_lat.xml,ebce2766f896a140fa096cb15fa7f668d0e7216b,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.st_lat.xml,tei/pl.st_lat.xml,6906838444d69bf84ca91679d7034f5983ce415a,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.st_lat.xml,tei/pl.st_lat.xml,6906838444d69bf84ca91679d7034f5983ce415a,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.trin_lat.xml,tei/pl.trin_lat.xml,ba977da133364a4ca44b0583c2a7d0613b66df52,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.trin_lat.xml,tei/pl.trin_lat.xml,ba977da133364a4ca44b0583c2a7d0613b66df52,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.truc_lat.xml,tei/pl.truc_lat.xml,430848686a85f9255658eadc399daaeefa53d230,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/pl.truc_lat.xml,tei/pl.truc_lat.xml,430848686a85f9255658eadc399daaeefa53d230,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.ag_lat.xml,tei/sen.ag_lat.xml,8f338c6b077b7a2aad5ca5f92064d8fb461326b2,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.ag_lat.xml,tei/sen.ag_lat.xml,8f338c6b077b7a2aad5ca5f92064d8fb461326b2,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.her.f_lat.xml,tei/sen.her.f_lat.xml,8167591b40109d8625121575f7031d3c3c9fbd96,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.her.f_lat.xml,tei/sen.her.f_lat.xml,8167591b40109d8625121575f7031d3c3c9fbd96,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.her.o_lat.xml,tei/sen.her.o_lat.xml,52d437887c82ab974865c0703015d113c045eb37,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.her.o_lat.xml,tei/sen.her.o_lat.xml,52d437887c82ab974865c0703015d113c045eb37,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.med_lat.xml,tei/sen.med_lat.xml,defffc56ba614ef3dcbad4a0e209b74c892306b0,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.med_lat.xml,tei/sen.med_lat.xml,defffc56ba614ef3dcbad4a0e209b74c892306b0,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.oct_lat.xml,tei/sen.oct_lat.xml,fbedaff540396c75aa6ce3e6eaba43f189fd1122,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.oct_lat.xml,tei/sen.oct_lat.xml,fbedaff540396c75aa6ce3e6eaba43f189fd1122,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.oed_lat.xml,tei/sen.oed_lat.xml,edeca12baa73c91b9421d9a2902a9370db313c4c,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.oed_lat.xml,tei/sen.oed_lat.xml,edeca12baa73c91b9421d9a2902a9370db313c4c,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.phaed_lat.xml,tei/sen.phaed_lat.xml,230ac2cb14daab0b6bdc73c4817cf9fe7e4a69aa,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.phaed_lat.xml,tei/sen.phaed_lat.xml,230ac2cb14daab0b6bdc73c4817cf9fe7e4a69aa,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.phoen_lat.xml,tei/sen.phoen_lat.xml,bd90a462e231c4597d70547539ec04d17a531e34,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.phoen_lat.xml,tei/sen.phoen_lat.xml,bd90a462e231c4597d70547539ec04d17a531e34,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.thy_lat.xml,tei/sen.thy_lat.xml,bdb69986576fd326b8f562e5b2876163e2a3d53d,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.thy_lat.xml,tei/sen.thy_lat.xml,bdb69986576fd326b8f562e5b2876163e2a3d53d,
+malformed-xml,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.tro_lat.xml,tei/sen.tro_lat.xml,3fbb23c051540050132c11429a143bdc64471b1b,TEI file not well-formed; ID taken by regex
+tei-without-id,1,e80db098a89e842174cf76dd0ffb56b5449d351d,tei/sen.tro_lat.xml,tei/sen.tro_lat.xml,3fbb23c051540050132c11429a143bdc64471b1b,
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-amphitruo.xml,tei/plautus-amphitruo.xml,24d0fc4d30f606e0f83bad1f45c8c247c5a6d94c,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-amphitruo.xml,tei/plautus-amphitruo.xml,24d0fc4d30f606e0f83bad1f45c8c247c5a6d94c,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-amphitruo.xml,tei/plautus-amphitruo.xml,24d0fc4d30f606e0f83bad1f45c8c247c5a6d94c,from tei/pl.am_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-asinaria.xml,tei/plautus-asinaria.xml,7bc7c0f7507e0130cb17d1cb3b0439d1d5a59412,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-asinaria.xml,tei/plautus-asinaria.xml,7bc7c0f7507e0130cb17d1cb3b0439d1d5a59412,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-asinaria.xml,tei/plautus-asinaria.xml,7bc7c0f7507e0130cb17d1cb3b0439d1d5a59412,from tei/pl.as_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-aulularia.xml,tei/plautus-aulularia.xml,2d3d9ec378ae0edf0d871206d0893669b5f5ba31,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-aulularia.xml,tei/plautus-aulularia.xml,2d3d9ec378ae0edf0d871206d0893669b5f5ba31,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-aulularia.xml,tei/plautus-aulularia.xml,2d3d9ec378ae0edf0d871206d0893669b5f5ba31,from tei/pl.aul_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-bacchides.xml,tei/plautus-bacchides.xml,ee0b5348fa5baca5319449b134f5851b61059beb,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-bacchides.xml,tei/plautus-bacchides.xml,ee0b5348fa5baca5319449b134f5851b61059beb,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-bacchides.xml,tei/plautus-bacchides.xml,ee0b5348fa5baca5319449b134f5851b61059beb,from tei/pl.bac_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-captivi.xml,tei/plautus-captivi.xml,e6788b9bbce391719e41d094186391b7fffdad20,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-captivi.xml,tei/plautus-captivi.xml,e6788b9bbce391719e41d094186391b7fffdad20,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-captivi.xml,tei/plautus-captivi.xml,e6788b9bbce391719e41d094186391b7fffdad20,from tei/pl.capt_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-casina.xml,tei/plautus-casina.xml,361a00436f23b2363de3925ac1ffefec01417570,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-casina.xml,tei/plautus-casina.xml,361a00436f23b2363de3925ac1ffefec01417570,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-casina.xml,tei/plautus-casina.xml,361a00436f23b2363de3925ac1ffefec01417570,from tei/pl.cas_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-cistellaria.xml,tei/plautus-cistellaria.xml,4d96ee9334526330411118c4a15dd1c910687eef,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-cistellaria.xml,tei/plautus-cistellaria.xml,4d96ee9334526330411118c4a15dd1c910687eef,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-cistellaria.xml,tei/plautus-cistellaria.xml,4d96ee9334526330411118c4a15dd1c910687eef,from tei/pl.cist_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-curculio.xml,tei/plautus-curculio.xml,215461070a000396683b84c80f446fe66bda24ab,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-curculio.xml,tei/plautus-curculio.xml,215461070a000396683b84c80f446fe66bda24ab,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-curculio.xml,tei/plautus-curculio.xml,215461070a000396683b84c80f446fe66bda24ab,from tei/pl.cur_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-epidicus.xml,tei/plautus-epidicus.xml,81477f191b72219a54252c370d579299fe394aba,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-epidicus.xml,tei/plautus-epidicus.xml,81477f191b72219a54252c370d579299fe394aba,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-epidicus.xml,tei/plautus-epidicus.xml,81477f191b72219a54252c370d579299fe394aba,from tei/pl.epid_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-menaechmi.xml,tei/plautus-menaechmi.xml,2434720f4de222e4d8bdb846d6624cb6c72a14d3,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-menaechmi.xml,tei/plautus-menaechmi.xml,2434720f4de222e4d8bdb846d6624cb6c72a14d3,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-menaechmi.xml,tei/plautus-menaechmi.xml,2434720f4de222e4d8bdb846d6624cb6c72a14d3,from tei/pl.men_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-mercator.xml,tei/plautus-mercator.xml,cc76441cc7b32ba668f52a927fd4403da7597f87,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-mercator.xml,tei/plautus-mercator.xml,cc76441cc7b32ba668f52a927fd4403da7597f87,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-mercator.xml,tei/plautus-mercator.xml,cc76441cc7b32ba668f52a927fd4403da7597f87,from tei/pl.mer_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-miles-gloriosus.xml,tei/plautus-miles-gloriosus.xml,60b33634ede6c571bcb814e29e53c7ce103bdaf5,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-miles-gloriosus.xml,tei/plautus-miles-gloriosus.xml,60b33634ede6c571bcb814e29e53c7ce103bdaf5,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-miles-gloriosus.xml,tei/plautus-miles-gloriosus.xml,60b33634ede6c571bcb814e29e53c7ce103bdaf5,from tei/pl.mil_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-mostellaria.xml,tei/plautus-mostellaria.xml,49ee3cd35319bbf1aca5b25da1f10c567b911969,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-mostellaria.xml,tei/plautus-mostellaria.xml,49ee3cd35319bbf1aca5b25da1f10c567b911969,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-mostellaria.xml,tei/plautus-mostellaria.xml,49ee3cd35319bbf1aca5b25da1f10c567b911969,from tei/pl.mos_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-persa.xml,tei/plautus-persa.xml,b49ec218d67e704f3846fe7c451e9c2b185ccede,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-persa.xml,tei/plautus-persa.xml,b49ec218d67e704f3846fe7c451e9c2b185ccede,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-persa.xml,tei/plautus-persa.xml,b49ec218d67e704f3846fe7c451e9c2b185ccede,from tei/pl.per_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-poenulus.xml,tei/plautus-poenulus.xml,7864c9f4fa5282563e56bf42f7f5b6b0cfb7c89a,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-poenulus.xml,tei/plautus-poenulus.xml,7864c9f4fa5282563e56bf42f7f5b6b0cfb7c89a,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-poenulus.xml,tei/plautus-poenulus.xml,7864c9f4fa5282563e56bf42f7f5b6b0cfb7c89a,from tei/pl.poen_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-pseudolus.xml,tei/plautus-pseudolus.xml,450c50756d522e1ed41828627bb3cc45c7d4e233,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-pseudolus.xml,tei/plautus-pseudolus.xml,450c50756d522e1ed41828627bb3cc45c7d4e233,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-pseudolus.xml,tei/plautus-pseudolus.xml,450c50756d522e1ed41828627bb3cc45c7d4e233,from tei/pl.ps_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-rudens.xml,tei/plautus-rudens.xml,ebce2766f896a140fa096cb15fa7f668d0e7216b,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-rudens.xml,tei/plautus-rudens.xml,ebce2766f896a140fa096cb15fa7f668d0e7216b,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-rudens.xml,tei/plautus-rudens.xml,ebce2766f896a140fa096cb15fa7f668d0e7216b,from tei/pl.rud_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-stichus.xml,tei/plautus-stichus.xml,6906838444d69bf84ca91679d7034f5983ce415a,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-stichus.xml,tei/plautus-stichus.xml,6906838444d69bf84ca91679d7034f5983ce415a,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-stichus.xml,tei/plautus-stichus.xml,6906838444d69bf84ca91679d7034f5983ce415a,from tei/pl.st_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-trinummus.xml,tei/plautus-trinummus.xml,ba977da133364a4ca44b0583c2a7d0613b66df52,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-trinummus.xml,tei/plautus-trinummus.xml,ba977da133364a4ca44b0583c2a7d0613b66df52,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-trinummus.xml,tei/plautus-trinummus.xml,ba977da133364a4ca44b0583c2a7d0613b66df52,from tei/pl.trin_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-truculentus.xml,tei/plautus-truculentus.xml,430848686a85f9255658eadc399daaeefa53d230,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-truculentus.xml,tei/plautus-truculentus.xml,430848686a85f9255658eadc399daaeefa53d230,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/plautus-truculentus.xml,tei/plautus-truculentus.xml,430848686a85f9255658eadc399daaeefa53d230,from tei/pl.truc_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-agamemnon.xml,tei/seneca-agamemnon.xml,8f338c6b077b7a2aad5ca5f92064d8fb461326b2,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-agamemnon.xml,tei/seneca-agamemnon.xml,8f338c6b077b7a2aad5ca5f92064d8fb461326b2,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-agamemnon.xml,tei/seneca-agamemnon.xml,8f338c6b077b7a2aad5ca5f92064d8fb461326b2,from tei/sen.ag_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-hercules-furens.xml,tei/seneca-hercules-furens.xml,8167591b40109d8625121575f7031d3c3c9fbd96,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-hercules-furens.xml,tei/seneca-hercules-furens.xml,8167591b40109d8625121575f7031d3c3c9fbd96,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-hercules-furens.xml,tei/seneca-hercules-furens.xml,8167591b40109d8625121575f7031d3c3c9fbd96,from tei/sen.her.f_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-hercules-oetaeus.xml,tei/seneca-hercules-oetaeus.xml,52d437887c82ab974865c0703015d113c045eb37,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-hercules-oetaeus.xml,tei/seneca-hercules-oetaeus.xml,52d437887c82ab974865c0703015d113c045eb37,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-hercules-oetaeus.xml,tei/seneca-hercules-oetaeus.xml,52d437887c82ab974865c0703015d113c045eb37,from tei/sen.her.o_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-medea.xml,tei/seneca-medea.xml,defffc56ba614ef3dcbad4a0e209b74c892306b0,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-medea.xml,tei/seneca-medea.xml,defffc56ba614ef3dcbad4a0e209b74c892306b0,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-medea.xml,tei/seneca-medea.xml,defffc56ba614ef3dcbad4a0e209b74c892306b0,from tei/sen.med_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-octavia.xml,tei/seneca-octavia.xml,fbedaff540396c75aa6ce3e6eaba43f189fd1122,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-octavia.xml,tei/seneca-octavia.xml,fbedaff540396c75aa6ce3e6eaba43f189fd1122,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-octavia.xml,tei/seneca-octavia.xml,fbedaff540396c75aa6ce3e6eaba43f189fd1122,from tei/sen.oct_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-oedipus.xml,tei/seneca-oedipus.xml,edeca12baa73c91b9421d9a2902a9370db313c4c,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-oedipus.xml,tei/seneca-oedipus.xml,edeca12baa73c91b9421d9a2902a9370db313c4c,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-oedipus.xml,tei/seneca-oedipus.xml,edeca12baa73c91b9421d9a2902a9370db313c4c,from tei/sen.oed_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-phaedra.xml,tei/seneca-phaedra.xml,230ac2cb14daab0b6bdc73c4817cf9fe7e4a69aa,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-phaedra.xml,tei/seneca-phaedra.xml,230ac2cb14daab0b6bdc73c4817cf9fe7e4a69aa,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-phaedra.xml,tei/seneca-phaedra.xml,230ac2cb14daab0b6bdc73c4817cf9fe7e4a69aa,from tei/sen.phaed_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-phoenissae.xml,tei/seneca-phoenissae.xml,bd90a462e231c4597d70547539ec04d17a531e34,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-phoenissae.xml,tei/seneca-phoenissae.xml,bd90a462e231c4597d70547539ec04d17a531e34,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-phoenissae.xml,tei/seneca-phoenissae.xml,bd90a462e231c4597d70547539ec04d17a531e34,from tei/sen.phoen_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-thyestes.xml,tei/seneca-thyestes.xml,bdb69986576fd326b8f562e5b2876163e2a3d53d,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-thyestes.xml,tei/seneca-thyestes.xml,bdb69986576fd326b8f562e5b2876163e2a3d53d,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-thyestes.xml,tei/seneca-thyestes.xml,bdb69986576fd326b8f562e5b2876163e2a3d53d,from tei/sen.thy_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-troades.xml,tei/seneca-troades.xml,3fbb23c051540050132c11429a143bdc64471b1b,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-troades.xml,tei/seneca-troades.xml,3fbb23c051540050132c11429a143bdc64471b1b,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/seneca-troades.xml,tei/seneca-troades.xml,3fbb23c051540050132c11429a143bdc64471b1b,from tei/sen.tro_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/terence-adelphi.xml,tei/terence-adelphi.xml,dda2683be519607f24cef3d6ef6ff4021ca6ad92,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/terence-adelphi.xml,tei/terence-adelphi.xml,dda2683be519607f24cef3d6ef6ff4021ca6ad92,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/terence-adelphi.xml,tei/terence-adelphi.xml,dda2683be519607f24cef3d6ef6ff4021ca6ad92,from tei/ad_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/terence-andria.xml,tei/terence-andria.xml,21f73deb3d35840d09700530c22e8c4f121020ec,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/terence-andria.xml,tei/terence-andria.xml,21f73deb3d35840d09700530c22e8c4f121020ec,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/terence-andria.xml,tei/terence-andria.xml,21f73deb3d35840d09700530c22e8c4f121020ec,from tei/an_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/terence-eunuchus.xml,tei/terence-eunuchus.xml,6aee3167d8d24ce914bac4af5f40ef63636490f6,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/terence-eunuchus.xml,tei/terence-eunuchus.xml,6aee3167d8d24ce914bac4af5f40ef63636490f6,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/terence-eunuchus.xml,tei/terence-eunuchus.xml,6aee3167d8d24ce914bac4af5f40ef63636490f6,from tei/eu_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/terence-heautontimorumenos.xml,tei/terence-heautontimorumenos.xml,2f96b20ce54faf51237e4c1abd054a74b66bdcbd,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/terence-heautontimorumenos.xml,tei/terence-heautontimorumenos.xml,2f96b20ce54faf51237e4c1abd054a74b66bdcbd,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/terence-heautontimorumenos.xml,tei/terence-heautontimorumenos.xml,2f96b20ce54faf51237e4c1abd054a74b66bdcbd,from tei/hau_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/terence-hecyra.xml,tei/terence-hecyra.xml,ac55dea68628488106bcb5b600dd14fc7b9256bb,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/terence-hecyra.xml,tei/terence-hecyra.xml,ac55dea68628488106bcb5b600dd14fc7b9256bb,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/terence-hecyra.xml,tei/terence-hecyra.xml,ac55dea68628488106bcb5b600dd14fc7b9256bb,from tei/hec_lat.xml
+malformed-xml,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/terence-phormio.xml,tei/terence-phormio.xml,6f87e8a57c1d6ae6a5ede57980dffc66a2ce14a0,TEI file not well-formed; ID taken by regex
+tei-without-id,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/terence-phormio.xml,tei/terence-phormio.xml,6f87e8a57c1d6ae6a5ede57980dffc66a2ce14a0,
+rename-same-blob,2,2a5d0163f2924874881a9904d40698d07bd789ad,tei/terence-phormio.xml,tei/terence-phormio.xml,6f87e8a57c1d6ae6a5ede57980dffc66a2ce14a0,from tei/ph_lat.xml
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-amphitruo.xml,tei/plautus-amphitruo.xml,6622ef77670476b29cd004d8b801b39826338f1b,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-asinaria.xml,tei/plautus-asinaria.xml,85f03ce0c11677d602cc4eeaee0b532e49f6410c,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-aulularia.xml,tei/plautus-aulularia.xml,e8aca33b3b9dd507785c17d336670a434b391e3f,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-bacchides.xml,tei/plautus-bacchides.xml,e4f52cfd977039b11dc613e62088e8b6ab97df1b,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-captivi.xml,tei/plautus-captivi.xml,d883421f975c4898aebbcf74e47f8e049b97c624,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-casina.xml,tei/plautus-casina.xml,e5ac9d67f1f118c2af6de090c48bbabc7dbc43ef,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-cistellaria.xml,tei/plautus-cistellaria.xml,70503333b080136118fb254822cb1b85221b76ac,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-curculio.xml,tei/plautus-curculio.xml,f37a5169ac5aaab963bceae8413666b08d9594d2,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-epidicus.xml,tei/plautus-epidicus.xml,0162bee2cab265c4be09831ef2d54a29e1505173,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-menaechmi.xml,tei/plautus-menaechmi.xml,aba4a190039fbe594914bacbb7aa85463508342c,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-mercator.xml,tei/plautus-mercator.xml,bd19ff38d856681cdc36d1212ee43a7e8d3e6e1d,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-miles-gloriosus.xml,tei/plautus-miles-gloriosus.xml,d0a58648a1e9f1aca81842b20dd8ae28cb87c6b0,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-mostellaria.xml,tei/plautus-mostellaria.xml,ff7943c6d4cc04f0d31786e170ce3372bf6ebfe3,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-persa.xml,tei/plautus-persa.xml,ad40a0052d0d401f875ad12560b0d1bf75053e5f,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-poenulus.xml,tei/plautus-poenulus.xml,838af731faf762becf61f7f7d9c5c1da2b9becbe,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-pseudolus.xml,tei/plautus-pseudolus.xml,bdcfdd9414d5aa565d03c778d02ef551265765c3,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-rudens.xml,tei/plautus-rudens.xml,7710d3b69a4ab2642f8c1bef93dd783f0b9493c6,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-stichus.xml,tei/plautus-stichus.xml,09c97a89857218a0c4b286892de1027048d700de,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-trinummus.xml,tei/plautus-trinummus.xml,5a79c2e9bc64b927a8090a177b21b3ddf79bd0df,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/plautus-truculentus.xml,tei/plautus-truculentus.xml,4f5ee6c47c9385204d8c811dd2541931f460c781,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/seneca-agamemnon.xml,tei/seneca-agamemnon.xml,ddff0993afa1741778f71e966085e150936b2272,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/seneca-hercules-furens.xml,tei/seneca-hercules-furens.xml,7e01e2213c052c801ce27c427cf5dc5f5fb0c3a0,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/seneca-hercules-oetaeus.xml,tei/seneca-hercules-oetaeus.xml,8886ecc23933f909bba93fb9e9a3f795d485b4b6,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/seneca-medea.xml,tei/seneca-medea.xml,e673d2a49855c7a10248239a6a50b04964ac24c8,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/seneca-octavia.xml,tei/seneca-octavia.xml,94183f7b403e4f9c18a9894198426346068b59cf,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/seneca-oedipus.xml,tei/seneca-oedipus.xml,2cfd29363dfdaacc6070371d6ec4404424af91dc,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/seneca-phaedra.xml,tei/seneca-phaedra.xml,482daf7fac2779a7d8c6a43871ca41bed6800935,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/seneca-phoenissae.xml,tei/seneca-phoenissae.xml,e129f4a897e0b7ca6b265a4d7c41604aa79888c5,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/seneca-thyestes.xml,tei/seneca-thyestes.xml,24a1d77f7b2823c926ef8ae07787e906549196b4,
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/seneca-troades.xml,tei/seneca-troades.xml,61962650cb3da9bc55b594a989485455d5b99590,
+malformed-xml,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/terence-adelphi.xml,tei/terence-adelphi.xml,a222cd3721e863026a6d0cc2713931f022ec3e0b,TEI file not well-formed; ID taken by regex
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/terence-adelphi.xml,tei/terence-adelphi.xml,a222cd3721e863026a6d0cc2713931f022ec3e0b,
+malformed-xml,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/terence-andria.xml,tei/terence-andria.xml,eec10f767204ca4a13caedb6ad0ec55f69264543,TEI file not well-formed; ID taken by regex
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/terence-andria.xml,tei/terence-andria.xml,eec10f767204ca4a13caedb6ad0ec55f69264543,
+malformed-xml,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/terence-eunuchus.xml,tei/terence-eunuchus.xml,124a820822cc780198d6094305d1e5bc09e9b7d2,TEI file not well-formed; ID taken by regex
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/terence-eunuchus.xml,tei/terence-eunuchus.xml,124a820822cc780198d6094305d1e5bc09e9b7d2,
+malformed-xml,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/terence-heautontimorumenos.xml,tei/terence-heautontimorumenos.xml,47a55437d6380d4c199b2c217165af7b450104ce,TEI file not well-formed; ID taken by regex
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/terence-heautontimorumenos.xml,tei/terence-heautontimorumenos.xml,47a55437d6380d4c199b2c217165af7b450104ce,
+malformed-xml,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/terence-hecyra.xml,tei/terence-hecyra.xml,b63840c378cdc52f5757f327dbe1968eeb680953,TEI file not well-formed; ID taken by regex
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/terence-hecyra.xml,tei/terence-hecyra.xml,b63840c378cdc52f5757f327dbe1968eeb680953,
+malformed-xml,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/terence-phormio.xml,tei/terence-phormio.xml,867f2a820ea99879e2a000f743772913f75081fd,TEI file not well-formed; ID taken by regex
+tei-without-id,3,0ed23fcc9ef18db8d817f12a802cc746930aba34,tei/terence-phormio.xml,tei/terence-phormio.xml,867f2a820ea99879e2a000f743772913f75081fd,
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00021,tei/plautus-amphitruo.xml,f2b603e5e0931a05ba6bc8995042b12bb5834d68,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00017,tei/plautus-asinaria.xml,0bb427ac2f79684ec393729afa8bed6b713b3b39,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00014,tei/plautus-aulularia.xml,1c63e26bf1ab2844d39312ce59646e4ccbe0fa9c,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00024,tei/plautus-bacchides.xml,d56f5023aa7d730ef63fa37f1d2e9586b489cb2c,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00011,tei/plautus-captivi.xml,807d1762c9cb62b7af9dd3e8ad8a12a94e9d8599,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00034,tei/plautus-casina.xml,1e0856f40c8a071f118382dd7ceeeb68363489eb,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00025,tei/plautus-cistellaria.xml,a3b22c9d62e1c06dbc4df20ee21bf1ea8164ecfe,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00023,tei/plautus-curculio.xml,73df0ec75beee55ce8dc05e7d72472b09bf87bb5,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00032,tei/plautus-epidicus.xml,e77160f9421d23830f979309f75ee0bc049a4b5c,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom0006,tei/plautus-menaechmi.xml,b68f4259f30b06c8427f6c94bf968c501d831430,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00033,tei/plautus-mercator.xml,9b13265900e0f6bbf96cc6330cbe65381c07d6f8,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00027,tei/plautus-miles-gloriosus.xml,2ffc7a75c678c3df457a3e1b53e6d0389d44a715,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00019,tei/plautus-mostellaria.xml,e1817e62e9476efb7dd10dc2b59cbb18517b627a,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00022,tei/plautus-persa.xml,52e06a3033adcd319848cac1544397156695804e,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom0004,tei/plautus-poenulus.xml,ae8f3d318c9657fe99926fb561ecf7010b0266bc,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00028,tei/plautus-pseudolus.xml,4b7a5791df561660c15d7ee05061739b5796e2df,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00035,tei/plautus-rudens.xml,d37c8d40cdba28ef5397f34638415a498fa55c16,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00020,tei/plautus-stichus.xml,585b3b4a71fe9097e74a97835cce6eb92866489d,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00010,tei/plautus-trinummus.xml,6260f205811033349bc048e3f4f010bcc707b2d3,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom0009,tei/plautus-truculentus.xml,0a7f6eecd57ed45d12bd56b768ea1158cee3e4b7,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00029,tei/seneca-agamemnon.xml,83a5d2ab046d2fa5e644ee743d1b7f3ed8b3b6ed,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom0007,tei/seneca-hercules-furens.xml,21ab51c9ef9405e29b08c7fd2d156272d04a2881,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom0001,tei/seneca-hercules-oetaeus.xml,70d7e992e74ab368a2a4033786573cdd49114d34,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom0005,tei/seneca-medea.xml,64d7c77565e09274b4f12008c2ff04d4979f4f7b,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00030,tei/seneca-octavia.xml,4f1933329adfe8d7cabc881d92f8d2b6303cc3b2,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom0002,tei/seneca-oedipus.xml,9c7e629cdd0950bcc65e1fa652e5ed2cfe623092,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00031,tei/seneca-phaedra.xml,a8b79904a97bcf80e74d14b43fd6c49e225ca300,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00015,tei/seneca-phoenissae.xml,df1bf887937bbba9c2a525e1d601a5ab4af4a48d,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00026,tei/seneca-thyestes.xml,3c97001e30ce2a447f13867908607385b4e7ac2b,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00016,tei/seneca-troades.xml,4280c3f01b373b251160bf76254f9c4d71d654c6,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00012,tei/terence-adelphi.xml,17aacbaa0f987392eeb3b2d7a47a17aff172fe48,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00013,tei/terence-andria.xml,6644ccd9fee5e85867ea2282c4327cb1cf0ca80f,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00018,tei/terence-eunuchus.xml,d0e4ff9e6258160fd5fc926b2f676761b6a9e22d,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom0008,tei/terence-heautontimorumenos.xml,b5b4bc9218360aa67e344069e98d68e4ca9dac8b,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom00036,tei/terence-hecyra.xml,eb8fd3012768a6ac5ece831899585edbbcdd2203,file had no DraCor ID before
+id-assigned,4,be8e7610fa866a53c01f7c7eb6ea5213d0b24311,rom0003,tei/terence-phormio.xml,93b40abd9488373b62d70f5c814dc099a152726d,file had no DraCor ID before
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000021,tei/plautus-amphitruo.xml,bbe4ff87cb091d7107f5f615098df1a17f8b45b5,rom00021 -> rom000021 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000017,tei/plautus-asinaria.xml,3be9f6187ceb8080f90f7aed877a406fa84bbd6d,rom00017 -> rom000017 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000014,tei/plautus-aulularia.xml,f798f5f2acccc65a9177a745ff579ed7c12f7ff0,rom00014 -> rom000014 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000024,tei/plautus-bacchides.xml,b0d3c33c656e373c4b8e5da7f0785e7ec1321b79,rom00024 -> rom000024 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000011,tei/plautus-captivi.xml,d018dbcd24b25a0a3dc283160c24cd60386ca02c,rom00011 -> rom000011 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000034,tei/plautus-casina.xml,6f0339d9385de0de88ee75def8a7d861a1e2322a,rom00034 -> rom000034 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000025,tei/plautus-cistellaria.xml,10991351a9c9f5f1acc0cbefda26d0ace48a7333,rom00025 -> rom000025 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000023,tei/plautus-curculio.xml,6f30daee1cdd5ccfe1c0b6995337696537e2827b,rom00023 -> rom000023 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000032,tei/plautus-epidicus.xml,4c9e5116ae2ad152d55493b1f3dae0431f8025e0,rom00032 -> rom000032 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000006,tei/plautus-menaechmi.xml,7ddb61f0e521adf8e89114547b175aa9e494fa91,rom0006 -> rom000006 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000033,tei/plautus-mercator.xml,3f4012f3ccff1b893c1cc25c1f232f67cd4167ef,rom00033 -> rom000033 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000027,tei/plautus-miles-gloriosus.xml,4e307e8a96e4efd9bab297d72e4aed9c7a83e04d,rom00027 -> rom000027 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000019,tei/plautus-mostellaria.xml,15c08decd9290615f90d4d47212d400846d8e8d1,rom00019 -> rom000019 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000022,tei/plautus-persa.xml,fd354b71244cabfb84f0972c6bbe41f4ed5ec57f,rom00022 -> rom000022 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000004,tei/plautus-poenulus.xml,4b5d3be12f41e0ff4d18916cd9de1da90fafe8c6,rom0004 -> rom000004 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000028,tei/plautus-pseudolus.xml,3eed621c329ca25cbd50095f60001c28d39afbec,rom00028 -> rom000028 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000035,tei/plautus-rudens.xml,c7fa249b9dbe454bdc0390a8211090db208cc837,rom00035 -> rom000035 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000020,tei/plautus-stichus.xml,a4ddd5795bbcd92ca7ba54e78e630f6a834c9e43,rom00020 -> rom000020 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000010,tei/plautus-trinummus.xml,d68c4b1f96739af326bbf9ae67a5a7ac0bd80a11,rom00010 -> rom000010 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000009,tei/plautus-truculentus.xml,2ab72c96ebce2f4636fdcb91f7d0309084ef9752,rom0009 -> rom000009 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000029,tei/seneca-agamemnon.xml,ccb17a029f3a31104993d4423a62a5a3e83322e2,rom00029 -> rom000029 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000007,tei/seneca-hercules-furens.xml,d96aa89cfb2252a342b0ec5c2d6c65725332fbfa,rom0007 -> rom000007 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000001,tei/seneca-hercules-oetaeus.xml,1952c3800bf8fe701baf400bb0963d412c3db1f3,rom0001 -> rom000001 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000005,tei/seneca-medea.xml,324587c742b92fd53989835c9d2f4b62737255a1,rom0005 -> rom000005 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000030,tei/seneca-octavia.xml,d7edff5d9b87d2414774949aff9c292178210579,rom00030 -> rom000030 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000002,tei/seneca-oedipus.xml,4b9e2cfbd5bb754d5887d6a2fd8d8433d230a0bd,rom0002 -> rom000002 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000031,tei/seneca-phaedra.xml,07796e27bd06b088ab66ee2c8f8c20886753414b,rom00031 -> rom000031 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000015,tei/seneca-phoenissae.xml,41846eb2668d310dc3a1fe91a987c98fdbfac572,rom00015 -> rom000015 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000026,tei/seneca-thyestes.xml,d577101097062d950878900a55d05b63ca319263,rom00026 -> rom000026 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000016,tei/seneca-troades.xml,fff048247844270e4028f26f35ce322d2bead896,rom00016 -> rom000016 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000012,tei/terence-adelphi.xml,0c22e1494c69215a247d95b63c72b25678bf8f57,rom00012 -> rom000012 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000013,tei/terence-andria.xml,2a8d46daae63bc74bd398b71586b8b7e93fca2a1,rom00013 -> rom000013 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000018,tei/terence-eunuchus.xml,446fb1c53956e18e96ced7a4dc8c8da2e061bb5e,rom00018 -> rom000018 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000008,tei/terence-heautontimorumenos.xml,569640d0c5874544899c7954d5d56acc2af1ddae,rom0008 -> rom000008 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000036,tei/terence-hecyra.xml,8957f38ac7376f63f979c0616ef2c44d72c061ed,rom00036 -> rom000036 at same path
+id-change,6,8391fb5b229186c77ea0cf6e47d44612a09cc128,rom000003,tei/terence-phormio.xml,75eadd68a31d1a4b1966e91637b3fa808d33d361,rom0003 -> rom000003 at same path
+malformed-xml,14,ddfba8e7b89464bb911aa83958802fab4135322e,rom000029,tei/seneca-agamemnon.xml,74844a8494bd06e114a2d004deb631dfe99bc725,TEI file not well-formed; ID taken by regex
+malformed-xml,16,0b09e2914e38b6b1845111bf78b9e8562ed6fc84,rom000021,tei/plautus-amphitruo.xml,0ba8fd8953513f859abcbf6a0650b259d6167361,TEI file not well-formed; ID taken by regex
+malformed-xml,16,0b09e2914e38b6b1845111bf78b9e8562ed6fc84,rom000026,tei/seneca-thyestes.xml,7be8465b52d4e6af49a432687968928fe572e737,TEI file not well-formed; ID taken by regex

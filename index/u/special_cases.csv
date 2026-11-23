@@ -1,0 +1,117 @@
+case,seq,commit,key,path,blob,detail
+tei-without-id,1,aa31fbf4e58418ee5266b5220aab7c6b2f7e7827,tei/kropivnitskij_daj_sertsju_volju_zavede_u_nevolju.xml,tei/kropivnitskij_daj_sertsju_volju_zavede_u_nevolju.xml,c6b038ebe83092e2572850fa2ca1c4d71d0e5beb,
+tei-without-id,2,b22893f8a3070dbcbd4e5296beb34dde48d76515,tei/kropivnitskij-daj-sertsju-volju-zavede-u-nevolju.xml,tei/kropivnitskij-daj-sertsju-volju-zavede-u-nevolju.xml,c6b038ebe83092e2572850fa2ca1c4d71d0e5beb,
+rename-same-blob,2,b22893f8a3070dbcbd4e5296beb34dde48d76515,tei/kropivnitskij-daj-sertsju-volju-zavede-u-nevolju.xml,tei/kropivnitskij-daj-sertsju-volju-zavede-u-nevolju.xml,c6b038ebe83092e2572850fa2ca1c4d71d0e5beb,from tei/kropivnitskij_daj_sertsju_volju_zavede_u_nevolju.xml
+id-assigned,3,be2e1ad2fe19f15a22980cc8c91dbe8b42f64393,u0000016,tei/kropivnitskij-daj-sertsju-volju-zavede-u-nevolju.xml,8205a02cdc9c768ec9b4fbfa9ffe5ee8a6500ac0,file had no DraCor ID before
+tei-without-id,23,4a7d18f71339c57844747351564632bff61ffb48,tei/starytsky-rizdvjana-nich.xml,tei/starytsky-rizdvjana-nich.xml,6b38243f47d9c00c205d2a644fd5a8da68d51033,
+id-assigned,24,e5e9afff99a0997d629fb36e0aaf1c5b095563ea,u0000043,tei/starytsky-rizdvjana-nich.xml,27299b7644f54088668a711db3807d0d1402460f,file had no DraCor ID before
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000035,tei/dmitrenko-kum-miroshnik-abo-satana-u-bochci.xml,775135c87fb497b6e206e2cd3994c75091ccfa7d,u0000035 -> u000035 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000029,tei/franko-budka-ch-27.xml,9c246d07f9db079771832583f0b6cb77752eaa44,u0000029 -> u000029 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000028,tei/franko-majster-chyrnjak.xml,178bd513d00a8ba4f4ed4503aaee15552a1dd000,u0000028 -> u000028 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000027,tei/franko-poslidnij-krejtsar.xml,8462bf9f7f67d2ee0d96edb7c7b02680ac0f8602,u0000027 -> u000027 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000030,tei/franko-rjabyna.xml,4adf31a0874efb14603467930b7ae64bc862ec43,u0000030 -> u000030 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000032,tei/franko-slavoj-i-khrudosh.xml,87305495225624c492799403f953c946ed2e4a48,u0000032 -> u000032 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000025,tei/franko-sud-svjatogo-nikolaja.xml,5f3adbdf5922357853235537b12682dd55951df0,u0000025 -> u000025 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000031,tei/franko-try-knjazi-na-odyn-prestol.xml,fff475f3cf9411c389903ea889395b55bd4b29da,u0000031 -> u000031 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000023,tei/gogol-janovskij-prostak-abo-hitrist-zhinki-perehitrena-moskalem.xml,396d78ebee0e32dd807e8f09fd1986da7bca95ac,u0000023 -> u000023 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000041,tei/kocherha-marko-v-pekli.xml,1aa1f261f54f8689738c6988c5a72fd2b8094180,u0000041 -> u000041 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000020,tei/kotljarevskij-moskal-charivnik.xml,39d18c328a51727b07e66b7e860b1d1d7e5dc488,u0000020 -> u000020 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000016,tei/kropivnitskij-daj-sertsju-volju-zavede-u-nevolju.xml,f6a911be51cc8acb40afe53d3d57d69f2b913314,u0000016 -> u000016 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000037,tei/kropivnitskij-dvi-simyi.xml,b06546398e8f81cb099044c8383153beeb10db58,u0000037 -> u000037 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000036,tei/kropivnitskij-suprotyvni-techiyi.xml,d7ec714ffe45e352fe4f48c69fe1c8f26fcae3fd,u0000036 -> u000036 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000042,tei/kropivnitskij-zerno-i-polova.xml,c8994b4affa9dd6c59809009456592aab2f6caec,u0000042 -> u000042 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000033,tei/kropyvnytskyy-marko-lukych-hlytay-abo-zh-pavuk.xml,a013d7a2d9946a90e2caeb6bd509aeeb62579276,u0000033 -> u000033 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000026,tei/kulish-97.xml,1fcd05918c8f128128b88f6c4c4ccbb507993a78,u0000026 -> u000026 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000034,tei/kvitka-osnovianenko-hryhoriy-fedorovych-shelmenko-dens.xml,956e44997e8a3bb9c57e4165f924224e0f2bf544,u0000034 -> u000034 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000022,tei/kvitka-osnovjanenko-svatannja-na-goncharivci.xml,800c092eea1c073461ceb0b78086ed9f7225ee23,u0000022 -> u000022 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000015,tei/lesya-ukrainka-iphigenia-vtavrydi.xml,27a852145e0ea6096b8c858994a9e0f467ff8c5d,u0000015 -> u000015 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000013,tei/lesya-ukrainka-lt-blue-rose.xml,bc6ca7a8e0bfb13d8e9d868e6d085cf733872ffd,u0000013 -> u000013 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000011,tei/lesya-ukrainka-oderzhyma.xml,c2cd894df4028923ad99d3c23fbaa025f4b0ca93,u0000011 -> u000011 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000017,tei/lesya-ukrainka-proscannja.xml,aa98e0e2311d2199830ab55def5ee6a6258b01f3,u0000017 -> u000017 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000010,tei/lesya-ukrainka-tri-xvylyny.xml,11f1643e4bbbe408ed5c6a682df762e5bf7fcdc7,u0000010 -> u000010 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000018,tei/lesya-ukrainka-upoloni.xml,6243f971d8f443e9a0e0f39ddeb6232b604fd5ca,u0000018 -> u000018 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000012,tei/lesya-ukrainka-upusci.xml,def57e9a4fddbfcd723a9e35b0788c8c9cd333b1,u0000012 -> u000012 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000014,tei/lesya-ukrainka-vdomu-roboty.xml,e74b0c15770d3342fe823e17a0914d7e90defe03,u0000014 -> u000014 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000021,tei/shevchenko-nazar-stodolja.xml,0a1e9a76a1e696b5573c8324bfae29405dc26abf,u0000021 -> u000021 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000039,tei/starytsky-chornomortsi.xml,cd3751e0581c5a43d7428c3178513f3f85c63f5c,u0000039 -> u000039 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000038,tei/starytsky-jak-kovbasa-ta-charka-to-mynetsja-j-svarka.xml,c428350d5cf4595c822e79bcc618d722ef7d87c3,u0000038 -> u000038 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000043,tei/starytsky-rizdvjana-nich.xml,636e6b37f5189ffe31b0d9d63c21d74bbf38737d,u0000043 -> u000043 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000044,tei/starytsky-sorochynskyj-jarmarok.xml,5b84a73208bb09d2eabd67983cd2dc128de0dcec,u0000044 -> u000044 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000040,tei/starytsky-utoplena-abo-rusalchyna-nich.xml,b7544aaacca14e606749be39a907ddf7358e6eed,u0000040 -> u000040 at same path
+id-change,44,7f16f3ba0693f9dfb23177dcaea6a7cd036a5f87,u000024,tei/topolja-chari.xml,1ccdc6f65bcf168f2105c66fb983ed24432a3d90,u0000024 -> u000024 at same path
+tei-without-id,45,45702568f97147f405cd3bb26e79fdac185f8668,tei/karpenko-karij-beztalanna.xml,tei/karpenko-karij-beztalanna.xml,30a53e6367e137185633e162cedd3fab88ab7627,
+id-assigned,46,4a733d3a88172d30df7c8a501e6dfcdb4f674324,u000046,tei/karpenko-karij-beztalanna.xml,c8946c119663c305a3e278ea90ef7429cab793b8,file had no DraCor ID before
+rename-same-blob,60,d7a9722999551eb6f4f3e0ebb7be971ab1cff710,u000018,tei/lesya-ukrainka-u-poloni.xml,f91735023ccaa685105b99e3022579f3a9cdb6cd,from tei/lesya-ukrainka-upoloni.xml
+rename-same-blob,60,d7a9722999551eb6f4f3e0ebb7be971ab1cff710,u000012,tei/lesya-ukrainka-u-pusci.xml,ff4ed4dd94a5fb9e3eba706c7a4aa1f5aeeda774,from tei/lesya-ukrainka-upusci.xml
+rename-same-blob,61,d84ed79ded91928e7f031e3ebb594216534c4feb,u000047,tei/franko-vijt-zalamejskyj.xml,55b19253dd874cfa5e2a35651d9088feb25ce3e0,from tei/franko-vijt-zalamejskyj.tei.xml
+rename-same-blob,63,943ae0166564c67f0e9872ed285faf4c99a1bf27,u000013,tei/lesya-ukrainka-blakitna-trojanda.xml,6457ff2e91457f3301cc09ac98e50ab93d0ff536,from tei/lesya-ukrainka-lt-blue-rose.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000035,tei/dmytrenko-kum-miroshnyk-abo-satana-u-bochtsi.xml,bf32fbf533c1ed1f7f73d442861540afcc28b3fb,from tei/dmitrenko-kum-miroshnik-abo-satana-u-bochci.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000030,tei/franko-rjabyna-1886.xml,e15bf00eb72ac86cbbe7092bb970b3455da78f68,from tei/franko-rjabyna.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000025,tei/franko-sud-svjatoho-nykolaja.xml,0d3dde6a7af77a1c23d7da98ed506da97285773f,from tei/franko-sud-svjatogo-nikolaja.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000023,tei/gogol-yanovsky-prostak-abo-khytrist-zhinky-perekhytrena-moskalem.xml,8db2a389135305d66e4e3c4421ec6d4ecae9a3f9,from tei/gogol-janovskij-prostak-abo-hitrist-zhinki-perehitrena-moskalem.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000046,tei/karpenko-karyi-beztalanna.xml,cd7215dddf6942ec5238a52affaa476a0193939e,from tei/karpenko-karij-beztalanna.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000020,tei/kotliarevskyi-moskal-charivnyk.xml,419c8415fbbcde5a4a6fe6de791554ba84e8d4ee,from tei/kotljarevskij-moskal-charivnik.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000016,tei/kropyvnytskyi-daj-sertsju-volju-zavede-u-nevolju.xml,729c94f09e7f985981cbfb888b085978b31970fd,from tei/kropivnitskij-daj-sertsju-volju-zavede-u-nevolju.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000037,tei/kropyvnytskyi-dvi-simyi-de-zerno-tam-i-polova.xml,f4aa76a37e052cf779b1e1b8a8728b5126bcbe39,from tei/kropivnitskij-dvi-simyi.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000033,tei/kropyvnytskyi-hlytaj-abo-zh-pavuk.xml,3b0df20a418d3f3fb075cae1d5ef4cb64e201adb,from tei/kropyvnytskyy-marko-lukych-hlytay-abo-zh-pavuk.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000036,tei/kropyvnytskyi-suprotyvni-techiyi.xml,2e1b7f237174c8fbd032ddcdd76b506cb084799b,from tei/kropivnitskij-suprotyvni-techiyi.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000042,tei/kropyvnytskyi-zerno-i-polova.xml,4588c786d575edc024e980acea60f2d1e795c4c5,from tei/kropivnitskij-zerno-i-polova.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000034,tei/kvitka-osnovianenko-hryhoriy-fedorovych-shelmenko-denshchyk.xml,f25e5cc62eb7c8e9d8d1f23de7f9cb6907562397,from tei/kvitka-osnovianenko-hryhoriy-fedorovych-shelmenko-dens.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000022,tei/kvitka-osnovianenko-svatannja-na-honcharivtsi.xml,e10e78cfa07bbf212672d9ff30575dfff7fa2415,from tei/kvitka-osnovjanenko-svatannja-na-goncharivci.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000039,tei/starytskyi-chornomortsi.xml,5d19811cab605d430fac537d93c180cdbfa29e26,from tei/starytsky-chornomortsi.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000038,tei/starytskyi-jak-kovbasa-ta-charka-to-mynetsja-j-svarka.xml,95a8048c66dc7708b8c05270be6effd9e2b8134b,from tei/starytsky-jak-kovbasa-ta-charka-to-mynetsja-j-svarka.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000043,tei/starytskyi-rizdvjana-nich.xml,fd6a40b6d8d71cb2354909cfa51c298cbfef2fa6,from tei/starytsky-rizdvjana-nich.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000044,tei/starytskyi-sorochynskyj-jarmarok.xml,05be2191c6ec82afd26da8fa97ae09d533310fdf,from tei/starytsky-sorochynskyj-jarmarok.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000040,tei/starytskyi-utoplena-abo-rusalchyna-nich.xml,b2d8e30119022ed65a013e96b530ca1c400854fc,from tei/starytsky-utoplena-abo-rusalchyna-nich.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000024,tei/topolya-chary.xml,b0a8e0f877dac344ea9ff7bb14a89a97d136ab51,from tei/topolja-chari.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000001,tei/ukrainka-advokat-martian.xml,9c00b0343cca214ffe636183b7e8e2bba82562c3,from tei/lesya-ukrainka-advokat-martian.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000003,tei/ukrainka-ajsha-ta-mokhammed.xml,ddba55bc5dd43127eb6742c61015933687b53b0f,from tei/lesya-ukrainka-ajsha-mochammed.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000013,tei/ukrainka-blakytna-trojanda.xml,9c9b92fa11d55eb636c89b6a4df0101964a61715,from tei/lesya-ukrainka-blakitna-trojanda.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000004,tei/ukrainka-bojarynja.xml,a8fa2a1924dd5ad481b50c8cffd8b44d32828910,from tei/lesya-ukrainka-bojarynja.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000015,tei/ukrainka-ifihenija-v-tavridi.xml,1b9f7577d5196fafeac5f72cac139660e3213597,from tei/lesya-ukrainka-iphigenia-vtavrydi.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000002,tei/ukrainka-johanna-zhinka-khusova.xml,1fd097f137675fc8262f11b3addb7f9b6acfe144,from tei/lesya-ukrainka-johanna.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000006,tei/ukrainka-kaminnyj-hospodar.xml,3ba76d8efd65ce5352af5f2d358d6d34e724328e,from tei/lesya-ukrainka-kaminnyj-gospodar.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000005,tei/ukrainka-kassandra.xml,2ec9241be271316afa979828c9789f174ed91445,from tei/lesya-ukrainka-kassandra.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000045,tei/ukrainka-na-ruyinakh.xml,83339d3eb14c2a207dc06b483e4b178ed9fdc783,from tei/lesya-ukrainka-na-ruinach.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000011,tei/ukrainka-oderzhyma.xml,b76816eccf631bc491e30cf8f67158b05b1eb9b8,from tei/lesya-ukrainka-oderzhyma.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000008,tei/ukrainka-orhija.xml,84d316bb206d2b1566a5b7e4f0eaeb43390bb3af,from tei/lesya-ukrainka-orgija.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000019,tei/ukrainka-osinnja-kazka.xml,9dd044a8f72caf2123d6d3e9ce74f38813de9341,from tei/lesya-ukrainka-osin-kazka.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000017,tei/ukrainka-proshchannja.xml,be9fc042dd5de3f2b1ab9d769bdcae0c4bd36c6b,from tei/lesya-ukrainka-proscannja.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000007,tei/ukrainka-rufin-i-pristsilla.xml,0b5420b058ef4bce6e1d8eaee635d76253708726,from tei/lesya-ukrainka-rufin-priscilla.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000010,tei/ukrainka-try-khvylyny.xml,fbe46e1ac1a28c644b2ed92cca474256a6624cfb,from tei/lesya-ukrainka-tri-xvylyny.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000009,tei/ukrainka-tryptykh-2-orfeyeve-chudo.xml,2fff5a48842510f435b54b5eabeaa79b96426e2c,from tei/lesya-ukrainka-orpheus-miracle.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000018,tei/ukrainka-u-poloni.xml,2d1aa30d8ff9b1a6818fbd256262a563a8825048,from tei/lesya-ukrainka-u-poloni.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000012,tei/ukrainka-u-pushchi.xml,26c42aa4fad94e33a0a227dbb174e26c08825b48,from tei/lesya-ukrainka-u-pusci.xml
+rename-same-blob,65,fe73ae41a0962c2bd6ac6794a3f2f59f53a35bdd,u000014,tei/ukrainka-v-domu-roboty-v-krayini-nevoli.xml,f73ac0c2039df15c7f0487eebd67c43667ec136f,from tei/lesya-ukrainka-vdomu-roboty.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000028,tei/franko-maister-chyrniak.xml,093c70bb1b4b2507e046d160f72ca61a3ca4491e,from tei/franko-majster-chyrnjak.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000027,tei/franko-poslidnii-kreitsar.xml,59fce09c8a6c0d4df6c62f421a072ba9be7355da,from tei/franko-poslidnij-krejtsar.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000030,tei/franko-riabyna-1886.xml,d77d978e94768849e1488290acdcb2990ae52538,from tei/franko-rjabyna-1886.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000032,tei/franko-slavoi-i-khrudosh.xml,6ed82a682fb9135007e92b2edaeafaac43aef464,from tei/franko-slavoj-i-khrudosh.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000025,tei/franko-sud-sviatoho-nykolaia.xml,9babb3f8fb3200cb0bb6aba95b4b1f1e02deece8,from tei/franko-sud-svjatoho-nykolaja.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000031,tei/franko-try-kniazi-na-odyn-prestol.xml,1aaf005f0c8136fe6f58241ea375e8eba222cd4b,from tei/franko-try-knjazi-na-odyn-prestol.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000047,tei/franko-viit-zalameiskyi.xml,0ec793d8ddab39e68efc654425d72643f93dc728,from tei/franko-vijt-zalamejskyj.xml
+rename-with-change,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000023,tei/hohol-yanovskyi-prostak-abo-khytrist-zhinky-perekhytrena-moskalem.xml,1b934395f80d40274e1a6e7c6cb7659a4b024de9,from tei/gogol-yanovsky-prostak-abo-khytrist-zhinky-perekhytrena-moskalem.xml (blob 6acfac96af)
+rename-with-change,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000016,tei/kropyvnytskyi-dai-sertsiu-voliu-zavede-u-nevoliu.xml,b3b36e982af5af55dc13b49ff3f491aef9c09ac2,from tei/kropyvnytskyi-daj-sertsju-volju-zavede-u-nevolju.xml (blob 5bc66c9161)
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000037,tei/kropyvnytskyi-dvi-simi.xml,827c2e992787d7228b6b0cad4c27c4827ff218c6,from tei/kropyvnytskyi-dvi-simyi-de-zerno-tam-i-polova.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000033,tei/kropyvnytskyi-hlytai-abo-zh-pavuk.xml,0fbe6efb4d1f9105d3407f89a58c82dd5947aa39,from tei/kropyvnytskyi-hlytaj-abo-zh-pavuk.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000036,tei/kropyvnytskyi-suprotyvni-techii.xml,aa4092675bb8af0ee6200b373956fca9e20990ea,from tei/kropyvnytskyi-suprotyvni-techiyi.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000034,tei/kvitka-osnovianenko-shelmenko-denshchyk.xml,ed2f55f22a07510a6fa9fc8878663be8a5966f45,from tei/kvitka-osnovianenko-hryhoriy-fedorovych-shelmenko-denshchyk.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000022,tei/kvitka-osnovianenko-svatannia-na-honcharivtsi.xml,d7f6092ab53b2049dc166d4a5231f64aac3bee08,from tei/kvitka-osnovianenko-svatannja-na-honcharivtsi.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000021,tei/shevchenko-nazar-stodolia.xml,8c0b8da90fd6b6c71be1328569006d3ebc55185c,from tei/shevchenko-nazar-stodolja.xml
+rename-with-change,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000043,tei/starytskyi-rizdviana-nich.xml,d3bc73cb49f7d6b518513d7b1a2e5c86ce77c2c5,from tei/starytskyi-rizdvjana-nich.xml (blob 0d9ef817f2)
+rename-with-change,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000044,tei/starytskyi-sorochynskyi-yarmarok.xml,312c81d575b215fc33fd2147410fb4a30ee5f202,from tei/starytskyi-sorochynskyj-jarmarok.xml (blob 147830a617)
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000038,tei/starytskyi-yak-kovbasa-ta-charka-to-mynetsia-y-svarka.xml,d0838fe3102f9f36681e2a1168aad6deaa17792c,from tei/starytskyi-jak-kovbasa-ta-charka-to-mynetsja-j-svarka.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000024,tei/topolia-chary.xml,a07636bda550fd1a15741ebd5a29144e93469fe1,from tei/topolya-chary.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000003,tei/ukrainka-aisha-ta-mokhammed.xml,cd48f97250432dfad7b6f2566ec3368eeda91966,from tei/ukrainka-ajsha-ta-mokhammed.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000013,tei/ukrainka-blakytna-troianda.xml,347ed8222e2e7875ec64c0ba04211afa78090f01,from tei/ukrainka-blakytna-trojanda.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000004,tei/ukrainka-boiarynia.xml,2522f8e2570e952f6ff4649c3ec3cbca11557480,from tei/ukrainka-bojarynja.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000015,tei/ukrainka-ifiheniia-v-tavridi.xml,5f75bb17bfb7d49825118c91fae7c254d0f181d2,from tei/ukrainka-ifihenija-v-tavridi.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000006,tei/ukrainka-kaminnyi-hospodar.xml,9201170d91291f179b4aaab2e2812d930e5b82c5,from tei/ukrainka-kaminnyj-hospodar.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000045,tei/ukrainka-na-ruinakh.xml,4c6d902541e0adea4fce523c76a6374af3e403cd,from tei/ukrainka-na-ruyinakh.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000008,tei/ukrainka-orhiia.xml,5da4afa35d9f92cd0020c8635077064d55447f59,from tei/ukrainka-orhija.xml
+rename-with-change,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000019,tei/ukrainka-osinnia-kazka.xml,e1ef0c7f1b64c641a7b80dfeaa4e0ae0b13c99a7,from tei/ukrainka-osinnja-kazka.xml (blob 54f3b97234)
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000017,tei/ukrainka-proshchannia.xml,c473e8116b1db95b6f75a41bdbee0c4359df3d9a,from tei/ukrainka-proshchannja.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000009,tei/ukrainka-tryptykh-2-orfeieve-chudo.xml,2cf58333a0623847f4b595f5261a49fe5760b003,from tei/ukrainka-tryptykh-2-orfeyeve-chudo.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000014,tei/ukrainka-v-domu-roboty-v-kraini-nevoli.xml,a6da7321f045077904ef9e05aeab7c39ad46bd39,from tei/ukrainka-v-domu-roboty-v-krayini-nevoli.xml
+rename-same-blob,92,50d6bf110b9bea3f8bad39b8bf33a462d5a78459,u000002,tei/ukrainka-yohanna-zhinka-khusova.xml,a7527a769578cf0ce162018291a53d4f6860b34e,from tei/ukrainka-johanna-zhinka-khusova.xml
+id-invalid,45,45702568f97147f405cd3bb26e79fdac185f8668,insert_id,tei/karpenko-karij-beztalanna.xml,30a53e6367e137185633e162cedd3fab88ab7627,'insert_id' is not a u… DraCor ID; treated as no ID

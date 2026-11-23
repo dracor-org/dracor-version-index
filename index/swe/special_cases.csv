@@ -1,0 +1,350 @@
+case,seq,commit,key,path,blob,detail
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/AgrellA_Domd.xml,tei/AgrellA_Domd.xml,160bd7134522d526a669d9ad5c10c974bad49d41,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/AgrellA_EnHufvudsak.xml,tei/AgrellA_EnHufvudsak.xml,f3bae95c5e0d732a0b921eb223065826307d997b,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/AgrellA_EnLektion.xml,tei/AgrellA_EnLektion.xml,49007e64c6e969ea4d9c70385e36dfc64b61d050,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/AgrellA_Ensam.xml,tei/AgrellA_Ensam.xml,92f2586770d3dc66bb005f6f95e49b54f9c1613d,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/AgrellA_Hvarfor.xml,tei/AgrellA_Hvarfor.xml,09c3aac0eea14c8a401a805e320b91ffaae97a4e,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/AgrellA_IngridEnDodsKarlekssaga.xml,tei/AgrellA_IngridEnDodsKarlekssaga.xml,4df1efa333279e8243ea90815b1066eb551d441c,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/AgrellA_Smastadslif.xml,tei/AgrellA_Smastadslif.xml,eb4e1f62f612cf262e3a8fcf27aa73be8e3239d9,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/AureliusH_FarmorsFodelsedag.xml,tei/AureliusH_FarmorsFodelsedag.xml,33b6f7ef3e907b98159cc86ebd51e398e208c4be,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/BarthelsonA_Efterspel.xml,tei/BarthelsonA_Efterspel.xml,3ba852de3eb47bf180aef4492d67a9ae30c70c8f,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/BenedictssonV_Final.xml,tei/BenedictssonV_Final.xml,a6d3c12a53c560d410ee3a5c3d415ca935c05027,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/BenedictssonV_ITelefon.xml,tei/BenedictssonV_ITelefon.xml,0aeb5236714482e2fdfef71b22f86477f54b4c67,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/BenedictssonV_RomeosJulia.xml,tei/BenedictssonV_RomeosJulia.xml,05607d65f99d86a99e37f897e5ba9b7eec97c180,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/BremerF_KonstnarnsFortviflan.xml,tei/BremerF_KonstnarnsFortviflan.xml,3c6f4d010367bb648d8f196de6c10ce5bdf9b176,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/GeijerstamG_LarsAndersOchJanAndersOchDerasBarn.xml,tei/GeijerstamG_LarsAndersOchJanAndersOchDerasBarn.xml,afccea89b0fe133071c78b65b1ce9c97cf903746,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/HedbergF_Rospiggarna.xml,tei/HedbergF_Rospiggarna.xml,92d71635bfd2c5cc256ca7436f3d0ae26be64a4a,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/IndebetouH_IDetGrona.xml,tei/IndebetouH_IDetGrona.xml,e3e0e06d4ce9deda08c63761aa67f7c1a080744f,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/IndebetouH_IFruntimmersveckan.xml,tei/IndebetouH_IFruntimmersveckan.xml,e1aab1db5b7276b2b4ecee474ffcd6e4e300e31f,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/IndebetouH_PaFotvandring.xml,tei/IndebetouH_PaFotvandring.xml,112e47c934be94e5cb32d126c8e64df081e6c216,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/KullgrenL_Karlek.xml,tei/KullgrenL_Karlek.xml,3536b06b6d6bf087c5bc252513f923931cabddc4,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/KuylenstiernaE_NarNyarKom.xml,tei/KuylenstiernaE_NarNyarKom.xml,cc17c55a7e74906a228f174a9c277046fed32a76,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/KuylenstiernaE_NuArDetJulIgen.xml,tei/KuylenstiernaE_NuArDetJulIgen.xml,b63e989b8c0a7751e5b06a81e26acd1f25ccb31b,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/LefflerAC_DenKarleken.xml,tei/LefflerAC_DenKarleken.xml,d28e86866774a761b877c44db6247d07761f3852,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/LefflerAC_Elfvan.xml,tei/LefflerAC_Elfvan.xml,8db58edcd3aeda09af3bdcf6649a4de82845ce12,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/LefflerAC_Familjelycka.xml,tei/LefflerAC_Familjelycka.xml,9454be2ac8f2988afa1ff6389dffa8af8ba2b5eb,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/LefflerAC_HurManGorGodt.xml,tei/LefflerAC_HurManGorGodt.xml,815b92143671dde578e2f55f6337ecb5c14b8898,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/LefflerAC_MosterMalvina.xml,tei/LefflerAC_MosterMalvina.xml,100e55f5b61a677813b869debdedce4428f52d6c,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/LefflerAC_SannaKvinnor.xml,tei/LefflerAC_SannaKvinnor.xml,68fbeb0ed3823dc4f2f9d420c5da3e33e65cc5f3,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/LefflerAC_Skadespelerskan.xml,tei/LefflerAC_Skadespelerskan.xml,ffb646bd999d646bbadf774979bc06cc97353295,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/LefflerAC_UnderToffeln.xml,tei/LefflerAC_UnderToffeln.xml,119ea95d60ddb2a77f09ee41b99b98b19e6ea562,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/LindheW_Modrar.xml,tei/LindheW_Modrar.xml,820e69f319fa1b2463bb5674671f84d28153763c,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/LundbergE_ForlatMig.xml,tei/LundbergE_ForlatMig.xml,d6bf9cdda299b188e8f3d83e4ac6eddd61eb6af9,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/MallingM_FruLeonora.xml,tei/MallingM_FruLeonora.xml,fecacf77861d21bd30733b0a968316ae56ffb5b1,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/MarholmL_Otteringning.xml,tei/MarholmL_Otteringning.xml,138fcbe77c4f86c252076f2eab240fd7b4ed61e2,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/MeyersonG_DenNyaKlassen.xml,tei/MeyersonG_DenNyaKlassen.xml,b184f6c50ad8bd512edae116ad7eab61b56a904e,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/MeyersonG_EttPojkstreck.xml,tei/MeyersonG_EttPojkstreck.xml,ebd2b24e12c51e91abe7983110b8431a00aa2173,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/MolanderH_Varflod.xml,tei/MolanderH_Varflod.xml,aca66792bb6c219378c6a21cb673ad5df3a183aa,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/StrindbergA_AnnoFyrtiatta.xml,tei/StrindbergA_AnnoFyrtiatta.xml,6ec8522f70169800e1b0b12a40da2bfeecb203ea,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/StrindbergA_Bandet.xml,tei/StrindbergA_Bandet.xml,61a0d592b2eb14c01431526a277421188e2557a5,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/StrindbergA_DenStarkare.xml,tei/StrindbergA_DenStarkare.xml,3738611ca8aed33945e7d4276346d2de8d3a3e68,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/StrindbergA_Fadren.xml,tei/StrindbergA_Fadren.xml,528427f2f5691f257a8a490d6ef97748eddc56fb,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/StrindbergA_Fordringsegare.xml,tei/StrindbergA_Fordringsegare.xml,071fc4dd63d244b30ea28e350b487d6af043a5c4,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/StrindbergA_ForstaVarningen.xml,tei/StrindbergA_ForstaVarningen.xml,bdddb25f9cf52506fc7b3b3d678957a521adb9ec,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/StrindbergA_FrokenJulie.xml,tei/StrindbergA_FrokenJulie.xml,4aa99985d3fb5ee89f6eb9b6192c71c2e3c7e5c2,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/StrindbergA_GilletsHemlighet.xml,tei/StrindbergA_GilletsHemlighet.xml,f8c4d940c53ba8d9f54d5f125f09967d20d6a8e7,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/StrindbergA_HerrBengtsHustru.xml,tei/StrindbergA_HerrBengtsHustru.xml,9b2748320cec809d96912fc244695692bcfd4262,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/StrindbergA_Hostslask.xml,tei/StrindbergA_Hostslask.xml,764def5cefee47a6127aa94c9dad94d184dfc7a3,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/StrindbergA_InforDoden.xml,tei/StrindbergA_InforDoden.xml,bc909547e657b11ee122659687e3bf8ddec7a005,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/StrindbergA_Kamraterna.xml,tei/StrindbergA_Kamraterna.xml,acb95a68c1577a2aa1311174457b0ba05681741f,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/StrindbergA_Lycko-PersResa.xml,tei/StrindbergA_Lycko-PersResa.xml,974aa668275dd97bbde3e9993110740211664e87,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/StrindbergA_Marodorer.xml,tei/StrindbergA_Marodorer.xml,46de6d7defbb33fa453f98bbb0393ecd127436c5,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/StrindbergA_MasterOlof.xml,tei/StrindbergA_MasterOlof.xml,f8617c81df715ee8ab7961d4ba86cfe9f3756ad8,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/StrindbergA_Moderskarlek.xml,tei/StrindbergA_Moderskarlek.xml,c865b4456a05e102015d731050ba593be0bd76e7,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/StrindbergA_Paria.xml,tei/StrindbergA_Paria.xml,14aa0aafa8232b48531febf7197bca908d349907,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/StrindbergA_Samum.xml,tei/StrindbergA_Samum.xml,e375b745e388e2357184ac1e1731b5d6046efe6a,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/StrindbergA_TillDamaskus.xml,tei/StrindbergA_TillDamaskus.xml,6b95b84c4978ee6a390c912f530e7de2c139e9b3,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/TopeliusT_ISmaMaffarnasLand.xml,tei/TopeliusT_ISmaMaffarnasLand.xml,06a6b643cb17cc1cce1bac04f164d7323a2323e5,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/TopeliusT_JeppeOchMurra.xml,tei/TopeliusT_JeppeOchMurra.xml,d8ea2c42d22e7902fec1e6c83f72dac214701dca,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/TopeliusZ_Askungen.xml,tei/TopeliusZ_Askungen.xml,d1de12cd4f2311a5ee2ad501ffad6a57395cc114,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/TopeliusZ_JennysFormaningar.xml,tei/TopeliusZ_JennysFormaningar.xml,f3ff3e7d73f14952789cb4b6a1ee8070d3722f31,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/TopeliusZ_Krypskyttarne.xml,tei/TopeliusZ_Krypskyttarne.xml,df2aaa472d36639c60a7c7445b083c12667aefb9,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/TopeliusZ_LuciasZiffror.xml,tei/TopeliusZ_LuciasZiffror.xml,37d1a442f28d38baf84b4d9abbb877d2a6bd39d0,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/TopeliusZ_Perdita.xml,tei/TopeliusZ_Perdita.xml,4ef60c4a979496597418b942445124da9ee12568,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/TopeliusZ_Skogskonungen.xml,tei/TopeliusZ_Skogskonungen.xml,55fee6404ff40e28ae2b584ca38bb046625cb598,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/TopeliusZ_Snurran.xml,tei/TopeliusZ_Snurran.xml,41bc1b016fd6bf6674cddf1ca2f6522713943e66,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/TopeliusZ_StationSylvester.xml,tei/TopeliusZ_StationSylvester.xml,5f49d11cf32eea92fd1cec6030d1386045b1d9ef,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/TopeliusZ_TidernasSpegel.xml,tei/TopeliusZ_TidernasSpegel.xml,91f4dbf9a0ccf3a20648fd9f53b8ec4db1a5ae19,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/WahlenbergA_PaVakt.xml,tei/WahlenbergA_PaVakt.xml,74f76bf6bd37d02892918683fd1e78773ff25e9b,
+tei-without-id,1,af7ade9ed345b1db1f1594e9c1c1814fe899ec35,tei/WahlenbergA_TvaValsprak.xml,tei/WahlenbergA_TvaValsprak.xml,9a8c85a453cef78a8716af3cef0989ae4c594191,
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/agrell-domd.xml,tei/agrell-domd.xml,160bd7134522d526a669d9ad5c10c974bad49d41,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/agrell-domd.xml,tei/agrell-domd.xml,160bd7134522d526a669d9ad5c10c974bad49d41,from tei/AgrellA_Domd.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/agrell-en-hufvudsak.xml,tei/agrell-en-hufvudsak.xml,f3bae95c5e0d732a0b921eb223065826307d997b,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/agrell-en-hufvudsak.xml,tei/agrell-en-hufvudsak.xml,f3bae95c5e0d732a0b921eb223065826307d997b,from tei/AgrellA_EnHufvudsak.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/agrell-en-lektion.xml,tei/agrell-en-lektion.xml,49007e64c6e969ea4d9c70385e36dfc64b61d050,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/agrell-en-lektion.xml,tei/agrell-en-lektion.xml,49007e64c6e969ea4d9c70385e36dfc64b61d050,from tei/AgrellA_EnLektion.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/agrell-ensam.xml,tei/agrell-ensam.xml,92f2586770d3dc66bb005f6f95e49b54f9c1613d,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/agrell-ensam.xml,tei/agrell-ensam.xml,92f2586770d3dc66bb005f6f95e49b54f9c1613d,from tei/AgrellA_Ensam.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/agrell-hvarfor.xml,tei/agrell-hvarfor.xml,09c3aac0eea14c8a401a805e320b91ffaae97a4e,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/agrell-hvarfor.xml,tei/agrell-hvarfor.xml,09c3aac0eea14c8a401a805e320b91ffaae97a4e,from tei/AgrellA_Hvarfor.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/agrell-ingrid-en-dods-karlekssaga.xml,tei/agrell-ingrid-en-dods-karlekssaga.xml,4df1efa333279e8243ea90815b1066eb551d441c,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/agrell-ingrid-en-dods-karlekssaga.xml,tei/agrell-ingrid-en-dods-karlekssaga.xml,4df1efa333279e8243ea90815b1066eb551d441c,from tei/AgrellA_IngridEnDodsKarlekssaga.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/agrell-smastadslif.xml,tei/agrell-smastadslif.xml,eb4e1f62f612cf262e3a8fcf27aa73be8e3239d9,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/agrell-smastadslif.xml,tei/agrell-smastadslif.xml,eb4e1f62f612cf262e3a8fcf27aa73be8e3239d9,from tei/AgrellA_Smastadslif.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/aurelius-farmors-fodelsedag.xml,tei/aurelius-farmors-fodelsedag.xml,33b6f7ef3e907b98159cc86ebd51e398e208c4be,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/aurelius-farmors-fodelsedag.xml,tei/aurelius-farmors-fodelsedag.xml,33b6f7ef3e907b98159cc86ebd51e398e208c4be,from tei/AureliusH_FarmorsFodelsedag.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/barthelson-efterspel.xml,tei/barthelson-efterspel.xml,3ba852de3eb47bf180aef4492d67a9ae30c70c8f,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/barthelson-efterspel.xml,tei/barthelson-efterspel.xml,3ba852de3eb47bf180aef4492d67a9ae30c70c8f,from tei/BarthelsonA_Efterspel.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/benedictsson-final.xml,tei/benedictsson-final.xml,a6d3c12a53c560d410ee3a5c3d415ca935c05027,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/benedictsson-final.xml,tei/benedictsson-final.xml,a6d3c12a53c560d410ee3a5c3d415ca935c05027,from tei/BenedictssonV_Final.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/benedictsson-itelefon.xml,tei/benedictsson-itelefon.xml,0aeb5236714482e2fdfef71b22f86477f54b4c67,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/benedictsson-itelefon.xml,tei/benedictsson-itelefon.xml,0aeb5236714482e2fdfef71b22f86477f54b4c67,from tei/BenedictssonV_ITelefon.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/benedictsson-romeos-julia.xml,tei/benedictsson-romeos-julia.xml,05607d65f99d86a99e37f897e5ba9b7eec97c180,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/benedictsson-romeos-julia.xml,tei/benedictsson-romeos-julia.xml,05607d65f99d86a99e37f897e5ba9b7eec97c180,from tei/BenedictssonV_RomeosJulia.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/bremer-konstnarns-fortviflan.xml,tei/bremer-konstnarns-fortviflan.xml,3c6f4d010367bb648d8f196de6c10ce5bdf9b176,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/bremer-konstnarns-fortviflan.xml,tei/bremer-konstnarns-fortviflan.xml,3c6f4d010367bb648d8f196de6c10ce5bdf9b176,from tei/BremerF_KonstnarnsFortviflan.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/geijerstam-lars-anders-och-jan-anders-och-deras-barn.xml,tei/geijerstam-lars-anders-och-jan-anders-och-deras-barn.xml,afccea89b0fe133071c78b65b1ce9c97cf903746,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/geijerstam-lars-anders-och-jan-anders-och-deras-barn.xml,tei/geijerstam-lars-anders-och-jan-anders-och-deras-barn.xml,afccea89b0fe133071c78b65b1ce9c97cf903746,from tei/GeijerstamG_LarsAndersOchJanAndersOchDerasBarn.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/hedberg-rospiggarna.xml,tei/hedberg-rospiggarna.xml,92d71635bfd2c5cc256ca7436f3d0ae26be64a4a,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/hedberg-rospiggarna.xml,tei/hedberg-rospiggarna.xml,92d71635bfd2c5cc256ca7436f3d0ae26be64a4a,from tei/HedbergF_Rospiggarna.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/indebetou-idet-grona.xml,tei/indebetou-idet-grona.xml,e3e0e06d4ce9deda08c63761aa67f7c1a080744f,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/indebetou-idet-grona.xml,tei/indebetou-idet-grona.xml,e3e0e06d4ce9deda08c63761aa67f7c1a080744f,from tei/IndebetouH_IDetGrona.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/indebetou-ifruntimmersveckan.xml,tei/indebetou-ifruntimmersveckan.xml,e1aab1db5b7276b2b4ecee474ffcd6e4e300e31f,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/indebetou-ifruntimmersveckan.xml,tei/indebetou-ifruntimmersveckan.xml,e1aab1db5b7276b2b4ecee474ffcd6e4e300e31f,from tei/IndebetouH_IFruntimmersveckan.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/indebetou-pa-fotvandring.xml,tei/indebetou-pa-fotvandring.xml,112e47c934be94e5cb32d126c8e64df081e6c216,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/indebetou-pa-fotvandring.xml,tei/indebetou-pa-fotvandring.xml,112e47c934be94e5cb32d126c8e64df081e6c216,from tei/IndebetouH_PaFotvandring.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/kullgren-karlek.xml,tei/kullgren-karlek.xml,3536b06b6d6bf087c5bc252513f923931cabddc4,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/kullgren-karlek.xml,tei/kullgren-karlek.xml,3536b06b6d6bf087c5bc252513f923931cabddc4,from tei/KullgrenL_Karlek.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/kuylenstierna-nar-nyar-kom.xml,tei/kuylenstierna-nar-nyar-kom.xml,cc17c55a7e74906a228f174a9c277046fed32a76,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/kuylenstierna-nar-nyar-kom.xml,tei/kuylenstierna-nar-nyar-kom.xml,cc17c55a7e74906a228f174a9c277046fed32a76,from tei/KuylenstiernaE_NarNyarKom.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/kuylenstierna-nu-ar-det-jul-igen.xml,tei/kuylenstierna-nu-ar-det-jul-igen.xml,b63e989b8c0a7751e5b06a81e26acd1f25ccb31b,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/kuylenstierna-nu-ar-det-jul-igen.xml,tei/kuylenstierna-nu-ar-det-jul-igen.xml,b63e989b8c0a7751e5b06a81e26acd1f25ccb31b,from tei/KuylenstiernaE_NuArDetJulIgen.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/leffler-den-karleken.xml,tei/leffler-den-karleken.xml,d28e86866774a761b877c44db6247d07761f3852,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/leffler-den-karleken.xml,tei/leffler-den-karleken.xml,d28e86866774a761b877c44db6247d07761f3852,from tei/LefflerAC_DenKarleken.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/leffler-elfvan.xml,tei/leffler-elfvan.xml,8db58edcd3aeda09af3bdcf6649a4de82845ce12,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/leffler-elfvan.xml,tei/leffler-elfvan.xml,8db58edcd3aeda09af3bdcf6649a4de82845ce12,from tei/LefflerAC_Elfvan.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/leffler-familjelycka.xml,tei/leffler-familjelycka.xml,9454be2ac8f2988afa1ff6389dffa8af8ba2b5eb,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/leffler-familjelycka.xml,tei/leffler-familjelycka.xml,9454be2ac8f2988afa1ff6389dffa8af8ba2b5eb,from tei/LefflerAC_Familjelycka.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/leffler-hur-man-gor-godt.xml,tei/leffler-hur-man-gor-godt.xml,815b92143671dde578e2f55f6337ecb5c14b8898,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/leffler-hur-man-gor-godt.xml,tei/leffler-hur-man-gor-godt.xml,815b92143671dde578e2f55f6337ecb5c14b8898,from tei/LefflerAC_HurManGorGodt.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/leffler-moster-malvina.xml,tei/leffler-moster-malvina.xml,100e55f5b61a677813b869debdedce4428f52d6c,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/leffler-moster-malvina.xml,tei/leffler-moster-malvina.xml,100e55f5b61a677813b869debdedce4428f52d6c,from tei/LefflerAC_MosterMalvina.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/leffler-sanna-kvinnor.xml,tei/leffler-sanna-kvinnor.xml,68fbeb0ed3823dc4f2f9d420c5da3e33e65cc5f3,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/leffler-sanna-kvinnor.xml,tei/leffler-sanna-kvinnor.xml,68fbeb0ed3823dc4f2f9d420c5da3e33e65cc5f3,from tei/LefflerAC_SannaKvinnor.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/leffler-skadespelerskan.xml,tei/leffler-skadespelerskan.xml,ffb646bd999d646bbadf774979bc06cc97353295,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/leffler-skadespelerskan.xml,tei/leffler-skadespelerskan.xml,ffb646bd999d646bbadf774979bc06cc97353295,from tei/LefflerAC_Skadespelerskan.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/leffler-under-toffeln.xml,tei/leffler-under-toffeln.xml,119ea95d60ddb2a77f09ee41b99b98b19e6ea562,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/leffler-under-toffeln.xml,tei/leffler-under-toffeln.xml,119ea95d60ddb2a77f09ee41b99b98b19e6ea562,from tei/LefflerAC_UnderToffeln.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/lindhe-modrar.xml,tei/lindhe-modrar.xml,820e69f319fa1b2463bb5674671f84d28153763c,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/lindhe-modrar.xml,tei/lindhe-modrar.xml,820e69f319fa1b2463bb5674671f84d28153763c,from tei/LindheW_Modrar.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/lundberg-forlat-mig.xml,tei/lundberg-forlat-mig.xml,d6bf9cdda299b188e8f3d83e4ac6eddd61eb6af9,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/lundberg-forlat-mig.xml,tei/lundberg-forlat-mig.xml,d6bf9cdda299b188e8f3d83e4ac6eddd61eb6af9,from tei/LundbergE_ForlatMig.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/malling-fru-leonora.xml,tei/malling-fru-leonora.xml,fecacf77861d21bd30733b0a968316ae56ffb5b1,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/malling-fru-leonora.xml,tei/malling-fru-leonora.xml,fecacf77861d21bd30733b0a968316ae56ffb5b1,from tei/MallingM_FruLeonora.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/marholm-otteringning.xml,tei/marholm-otteringning.xml,138fcbe77c4f86c252076f2eab240fd7b4ed61e2,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/marholm-otteringning.xml,tei/marholm-otteringning.xml,138fcbe77c4f86c252076f2eab240fd7b4ed61e2,from tei/MarholmL_Otteringning.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/meyerson-den-nya-klassen.xml,tei/meyerson-den-nya-klassen.xml,b184f6c50ad8bd512edae116ad7eab61b56a904e,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/meyerson-den-nya-klassen.xml,tei/meyerson-den-nya-klassen.xml,b184f6c50ad8bd512edae116ad7eab61b56a904e,from tei/MeyersonG_DenNyaKlassen.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/meyerson-ett-pojkstreck.xml,tei/meyerson-ett-pojkstreck.xml,ebd2b24e12c51e91abe7983110b8431a00aa2173,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/meyerson-ett-pojkstreck.xml,tei/meyerson-ett-pojkstreck.xml,ebd2b24e12c51e91abe7983110b8431a00aa2173,from tei/MeyersonG_EttPojkstreck.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/molander-varflod.xml,tei/molander-varflod.xml,aca66792bb6c219378c6a21cb673ad5df3a183aa,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/molander-varflod.xml,tei/molander-varflod.xml,aca66792bb6c219378c6a21cb673ad5df3a183aa,from tei/MolanderH_Varflod.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-anno-fyrtiatta.xml,tei/strindberg-anno-fyrtiatta.xml,6ec8522f70169800e1b0b12a40da2bfeecb203ea,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-anno-fyrtiatta.xml,tei/strindberg-anno-fyrtiatta.xml,6ec8522f70169800e1b0b12a40da2bfeecb203ea,from tei/StrindbergA_AnnoFyrtiatta.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-bandet.xml,tei/strindberg-bandet.xml,61a0d592b2eb14c01431526a277421188e2557a5,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-bandet.xml,tei/strindberg-bandet.xml,61a0d592b2eb14c01431526a277421188e2557a5,from tei/StrindbergA_Bandet.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-den-starkare.xml,tei/strindberg-den-starkare.xml,3738611ca8aed33945e7d4276346d2de8d3a3e68,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-den-starkare.xml,tei/strindberg-den-starkare.xml,3738611ca8aed33945e7d4276346d2de8d3a3e68,from tei/StrindbergA_DenStarkare.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-fadren.xml,tei/strindberg-fadren.xml,528427f2f5691f257a8a490d6ef97748eddc56fb,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-fadren.xml,tei/strindberg-fadren.xml,528427f2f5691f257a8a490d6ef97748eddc56fb,from tei/StrindbergA_Fadren.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-fordringsegare.xml,tei/strindberg-fordringsegare.xml,071fc4dd63d244b30ea28e350b487d6af043a5c4,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-fordringsegare.xml,tei/strindberg-fordringsegare.xml,071fc4dd63d244b30ea28e350b487d6af043a5c4,from tei/StrindbergA_Fordringsegare.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-forsta-varningen.xml,tei/strindberg-forsta-varningen.xml,bdddb25f9cf52506fc7b3b3d678957a521adb9ec,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-forsta-varningen.xml,tei/strindberg-forsta-varningen.xml,bdddb25f9cf52506fc7b3b3d678957a521adb9ec,from tei/StrindbergA_ForstaVarningen.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-froken-julie.xml,tei/strindberg-froken-julie.xml,4aa99985d3fb5ee89f6eb9b6192c71c2e3c7e5c2,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-froken-julie.xml,tei/strindberg-froken-julie.xml,4aa99985d3fb5ee89f6eb9b6192c71c2e3c7e5c2,from tei/StrindbergA_FrokenJulie.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-gillets-hemlighet.xml,tei/strindberg-gillets-hemlighet.xml,f8c4d940c53ba8d9f54d5f125f09967d20d6a8e7,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-gillets-hemlighet.xml,tei/strindberg-gillets-hemlighet.xml,f8c4d940c53ba8d9f54d5f125f09967d20d6a8e7,from tei/StrindbergA_GilletsHemlighet.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-herr-bengts-hustru.xml,tei/strindberg-herr-bengts-hustru.xml,9b2748320cec809d96912fc244695692bcfd4262,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-herr-bengts-hustru.xml,tei/strindberg-herr-bengts-hustru.xml,9b2748320cec809d96912fc244695692bcfd4262,from tei/StrindbergA_HerrBengtsHustru.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-hostslask.xml,tei/strindberg-hostslask.xml,764def5cefee47a6127aa94c9dad94d184dfc7a3,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-hostslask.xml,tei/strindberg-hostslask.xml,764def5cefee47a6127aa94c9dad94d184dfc7a3,from tei/StrindbergA_Hostslask.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-infor-doden.xml,tei/strindberg-infor-doden.xml,bc909547e657b11ee122659687e3bf8ddec7a005,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-infor-doden.xml,tei/strindberg-infor-doden.xml,bc909547e657b11ee122659687e3bf8ddec7a005,from tei/StrindbergA_InforDoden.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-kamraterna.xml,tei/strindberg-kamraterna.xml,acb95a68c1577a2aa1311174457b0ba05681741f,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-kamraterna.xml,tei/strindberg-kamraterna.xml,acb95a68c1577a2aa1311174457b0ba05681741f,from tei/StrindbergA_Kamraterna.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-lycko-pers-resa.xml,tei/strindberg-lycko-pers-resa.xml,974aa668275dd97bbde3e9993110740211664e87,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-lycko-pers-resa.xml,tei/strindberg-lycko-pers-resa.xml,974aa668275dd97bbde3e9993110740211664e87,from tei/StrindbergA_Lycko-PersResa.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-marodorer.xml,tei/strindberg-marodorer.xml,46de6d7defbb33fa453f98bbb0393ecd127436c5,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-marodorer.xml,tei/strindberg-marodorer.xml,46de6d7defbb33fa453f98bbb0393ecd127436c5,from tei/StrindbergA_Marodorer.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-master-olof.xml,tei/strindberg-master-olof.xml,f8617c81df715ee8ab7961d4ba86cfe9f3756ad8,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-master-olof.xml,tei/strindberg-master-olof.xml,f8617c81df715ee8ab7961d4ba86cfe9f3756ad8,from tei/StrindbergA_MasterOlof.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-moderskarlek.xml,tei/strindberg-moderskarlek.xml,c865b4456a05e102015d731050ba593be0bd76e7,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-moderskarlek.xml,tei/strindberg-moderskarlek.xml,c865b4456a05e102015d731050ba593be0bd76e7,from tei/StrindbergA_Moderskarlek.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-paria.xml,tei/strindberg-paria.xml,14aa0aafa8232b48531febf7197bca908d349907,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-paria.xml,tei/strindberg-paria.xml,14aa0aafa8232b48531febf7197bca908d349907,from tei/StrindbergA_Paria.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-samum.xml,tei/strindberg-samum.xml,e375b745e388e2357184ac1e1731b5d6046efe6a,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-samum.xml,tei/strindberg-samum.xml,e375b745e388e2357184ac1e1731b5d6046efe6a,from tei/StrindbergA_Samum.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-till-damaskus.xml,tei/strindberg-till-damaskus.xml,6b95b84c4978ee6a390c912f530e7de2c139e9b3,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/strindberg-till-damaskus.xml,tei/strindberg-till-damaskus.xml,6b95b84c4978ee6a390c912f530e7de2c139e9b3,from tei/StrindbergA_TillDamaskus.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-t-isma-maffarnas-land.xml,tei/topelius-t-isma-maffarnas-land.xml,06a6b643cb17cc1cce1bac04f164d7323a2323e5,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-t-isma-maffarnas-land.xml,tei/topelius-t-isma-maffarnas-land.xml,06a6b643cb17cc1cce1bac04f164d7323a2323e5,from tei/TopeliusT_ISmaMaffarnasLand.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-t-jeppe-och-murra.xml,tei/topelius-t-jeppe-och-murra.xml,d8ea2c42d22e7902fec1e6c83f72dac214701dca,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-t-jeppe-och-murra.xml,tei/topelius-t-jeppe-och-murra.xml,d8ea2c42d22e7902fec1e6c83f72dac214701dca,from tei/TopeliusT_JeppeOchMurra.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-z-askungen.xml,tei/topelius-z-askungen.xml,d1de12cd4f2311a5ee2ad501ffad6a57395cc114,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-z-askungen.xml,tei/topelius-z-askungen.xml,d1de12cd4f2311a5ee2ad501ffad6a57395cc114,from tei/TopeliusZ_Askungen.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-z-jennys-formaningar.xml,tei/topelius-z-jennys-formaningar.xml,f3ff3e7d73f14952789cb4b6a1ee8070d3722f31,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-z-jennys-formaningar.xml,tei/topelius-z-jennys-formaningar.xml,f3ff3e7d73f14952789cb4b6a1ee8070d3722f31,from tei/TopeliusZ_JennysFormaningar.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-z-krypskyttarne.xml,tei/topelius-z-krypskyttarne.xml,df2aaa472d36639c60a7c7445b083c12667aefb9,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-z-krypskyttarne.xml,tei/topelius-z-krypskyttarne.xml,df2aaa472d36639c60a7c7445b083c12667aefb9,from tei/TopeliusZ_Krypskyttarne.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-z-lucias-ziffror.xml,tei/topelius-z-lucias-ziffror.xml,37d1a442f28d38baf84b4d9abbb877d2a6bd39d0,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-z-lucias-ziffror.xml,tei/topelius-z-lucias-ziffror.xml,37d1a442f28d38baf84b4d9abbb877d2a6bd39d0,from tei/TopeliusZ_LuciasZiffror.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-z-perdita.xml,tei/topelius-z-perdita.xml,4ef60c4a979496597418b942445124da9ee12568,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-z-perdita.xml,tei/topelius-z-perdita.xml,4ef60c4a979496597418b942445124da9ee12568,from tei/TopeliusZ_Perdita.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-z-skogskonungen.xml,tei/topelius-z-skogskonungen.xml,55fee6404ff40e28ae2b584ca38bb046625cb598,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-z-skogskonungen.xml,tei/topelius-z-skogskonungen.xml,55fee6404ff40e28ae2b584ca38bb046625cb598,from tei/TopeliusZ_Skogskonungen.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-z-snurran.xml,tei/topelius-z-snurran.xml,41bc1b016fd6bf6674cddf1ca2f6522713943e66,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-z-snurran.xml,tei/topelius-z-snurran.xml,41bc1b016fd6bf6674cddf1ca2f6522713943e66,from tei/TopeliusZ_Snurran.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-z-station-sylvester.xml,tei/topelius-z-station-sylvester.xml,5f49d11cf32eea92fd1cec6030d1386045b1d9ef,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-z-station-sylvester.xml,tei/topelius-z-station-sylvester.xml,5f49d11cf32eea92fd1cec6030d1386045b1d9ef,from tei/TopeliusZ_StationSylvester.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-z-tidernas-spegel.xml,tei/topelius-z-tidernas-spegel.xml,91f4dbf9a0ccf3a20648fd9f53b8ec4db1a5ae19,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/topelius-z-tidernas-spegel.xml,tei/topelius-z-tidernas-spegel.xml,91f4dbf9a0ccf3a20648fd9f53b8ec4db1a5ae19,from tei/TopeliusZ_TidernasSpegel.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/wahlenberg-pa-vakt.xml,tei/wahlenberg-pa-vakt.xml,74f76bf6bd37d02892918683fd1e78773ff25e9b,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/wahlenberg-pa-vakt.xml,tei/wahlenberg-pa-vakt.xml,74f76bf6bd37d02892918683fd1e78773ff25e9b,from tei/WahlenbergA_PaVakt.xml
+tei-without-id,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/wahlenberg-tva-valsprak.xml,tei/wahlenberg-tva-valsprak.xml,9a8c85a453cef78a8716af3cef0989ae4c594191,
+rename-same-blob,3,2597fcc4cf71c723f8bbcc4c934a224320178649,tei/wahlenberg-tva-valsprak.xml,tei/wahlenberg-tva-valsprak.xml,9a8c85a453cef78a8716af3cef0989ae4c594191,from tei/WahlenbergA_TvaValsprak.xml
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/agrell-domd.xml,tei/agrell-domd.xml,3ee4c7c1112449dc77bcae464fff2f166fc351f1,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/agrell-en-hufvudsak.xml,tei/agrell-en-hufvudsak.xml,82104c9488c2d44be27d6b8e57bfbca135d3614f,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/agrell-en-lektion.xml,tei/agrell-en-lektion.xml,dbcea20004f034d86edf3a895f4c31a708e34b51,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/agrell-ensam.xml,tei/agrell-ensam.xml,1ce9864f15bd6be456e7d4b864a10bca9c041d97,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/agrell-hvarfor.xml,tei/agrell-hvarfor.xml,9aa2e221fa4f06d9d121fd1a77c2e864b0d4424f,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/agrell-ingrid-en-dods-karlekssaga.xml,tei/agrell-ingrid-en-dods-karlekssaga.xml,667db562ee42784d5dbe38c26f2dcfbbdb533c35,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/agrell-smastadslif.xml,tei/agrell-smastadslif.xml,51ad03b30777d0c5d4acd08319d6a114ddf2008c,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/aurelius-farmors-fodelsedag.xml,tei/aurelius-farmors-fodelsedag.xml,4afb1dfa69c6d222b9846bcf1c3336b7657b388a,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/barthelson-efterspel.xml,tei/barthelson-efterspel.xml,8360b2a8e863d7ed358ed3dc7c128860adbf9fdc,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/benedictsson-final.xml,tei/benedictsson-final.xml,465a60c2af2dd85725723d1a96dd61d22ddb8766,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/benedictsson-itelefon.xml,tei/benedictsson-itelefon.xml,7be5e109dec370d0303108d50ec76e2a2f7ecab8,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/benedictsson-romeos-julia.xml,tei/benedictsson-romeos-julia.xml,514a39ee7485884dd91314b65a62a082f946deb4,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/bremer-konstnarns-fortviflan.xml,tei/bremer-konstnarns-fortviflan.xml,fdd85fb9c8abbacb0c51b959f7c586e749af5d34,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/geijerstam-lars-anders-och-jan-anders-och-deras-barn.xml,tei/geijerstam-lars-anders-och-jan-anders-och-deras-barn.xml,8361d442b647c7255b99954586d9ccfe98cb82cd,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/hedberg-rospiggarna.xml,tei/hedberg-rospiggarna.xml,94bef5c58079ea5445a37323962e1e249b767288,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/indebetou-idet-grona.xml,tei/indebetou-idet-grona.xml,18fdf3385b17b6ebee47aa1408c32075f72a5ebc,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/indebetou-ifruntimmersveckan.xml,tei/indebetou-ifruntimmersveckan.xml,d6ba710cda845689c842e7d4458b7dfc8989354a,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/indebetou-pa-fotvandring.xml,tei/indebetou-pa-fotvandring.xml,eb63d12ad0c06b4f2efbfbbc806818c3d87f6bea,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/kullgren-karlek.xml,tei/kullgren-karlek.xml,458dbc30710506e55117803d883eb584ce75ff75,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/kuylenstierna-nar-nyar-kom.xml,tei/kuylenstierna-nar-nyar-kom.xml,069e0090b4ebdbf024ca2052a6f5dba858e6a342,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/kuylenstierna-nu-ar-det-jul-igen.xml,tei/kuylenstierna-nu-ar-det-jul-igen.xml,93441fb1fceb761e7d671263650605f06581c05b,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/leffler-den-karleken.xml,tei/leffler-den-karleken.xml,ec5200e749aa130d2696970ccaf1bdac0924970d,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/leffler-elfvan.xml,tei/leffler-elfvan.xml,033b0425443aebf5fd342247917fd8155da310d8,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/leffler-familjelycka.xml,tei/leffler-familjelycka.xml,45c7a91a4be14a6179c7a66aa67a4f0662011296,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/leffler-hur-man-gor-godt.xml,tei/leffler-hur-man-gor-godt.xml,2b322859836cb768554fb562b41baaf50a55ec51,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/leffler-moster-malvina.xml,tei/leffler-moster-malvina.xml,3b0c562a8cda132e357411d68ae7c9cea154ff05,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/leffler-sanna-kvinnor.xml,tei/leffler-sanna-kvinnor.xml,55b98982de466d78e5a1236c8bacdbb237f1d5aa,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/leffler-skadespelerskan.xml,tei/leffler-skadespelerskan.xml,1803089f96dbd7b2c231dd984c46484f924f98d7,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/leffler-under-toffeln.xml,tei/leffler-under-toffeln.xml,689a42046aea47399fc5f1ce7e9405a2005132b8,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/lindhe-modrar.xml,tei/lindhe-modrar.xml,d3b89ea6004de28921a4e4970aa149c2420e2716,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/lundberg-forlat-mig.xml,tei/lundberg-forlat-mig.xml,b46a90ab519089b7e08c973855ada5e48de7d0a4,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/malling-fru-leonora.xml,tei/malling-fru-leonora.xml,3fed29cc94d3929e7923f85fc32ce7e9431a24ca,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/marholm-otteringning.xml,tei/marholm-otteringning.xml,5497beef8670d2879bd11a81f201ddb035fd56ab,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/meyerson-den-nya-klassen.xml,tei/meyerson-den-nya-klassen.xml,7ca16e19651df418cad705c47df03f2960c3fb3f,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/meyerson-ett-pojkstreck.xml,tei/meyerson-ett-pojkstreck.xml,85e2ae1d792741b1f39565f59f19ed4028669bdc,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/molander-varflod.xml,tei/molander-varflod.xml,4dd29c355f411189c4e1f7d9f3716fdbf298f9b9,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/strindberg-anno-fyrtiatta.xml,tei/strindberg-anno-fyrtiatta.xml,cd059e664ea433174130002fe8f9d631d392cb56,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/strindberg-bandet.xml,tei/strindberg-bandet.xml,9b7e670987d661acdff1c1903cbee0a5bb9623be,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/strindberg-den-starkare.xml,tei/strindberg-den-starkare.xml,f056ea1cbcd85703f3009ea74c6f20204b5ec07f,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/strindberg-fadren.xml,tei/strindberg-fadren.xml,05eea1596ecf19741b5288258628bbbb03fa89aa,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/strindberg-fordringsegare.xml,tei/strindberg-fordringsegare.xml,6c726b35345b9ecab415f1b2f07a60f8732e2b7d,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/strindberg-forsta-varningen.xml,tei/strindberg-forsta-varningen.xml,52259c95d2d6c5322f30e4dd52d9df6b920c25bf,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/strindberg-froken-julie.xml,tei/strindberg-froken-julie.xml,9b432860dc93cdc81b7f39ba7192eb3fa7d627dd,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/strindberg-gillets-hemlighet.xml,tei/strindberg-gillets-hemlighet.xml,643f733cd50e19236edb4177fac6129abb1ae9da,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/strindberg-herr-bengts-hustru.xml,tei/strindberg-herr-bengts-hustru.xml,a5fb256c7e7c0710d5df7d1561c03e24f7ecb2e6,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/strindberg-hostslask.xml,tei/strindberg-hostslask.xml,6e2ad7db34c4c45db45ddf22cc4a2b6ad0a8639b,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/strindberg-infor-doden.xml,tei/strindberg-infor-doden.xml,34d0f3f0784b1c2002de11337acacdb6cf7f95fd,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/strindberg-kamraterna.xml,tei/strindberg-kamraterna.xml,030b9ceffeb48fedb5e970b242eddedf531a0862,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/strindberg-lycko-pers-resa.xml,tei/strindberg-lycko-pers-resa.xml,087df5cfc30e0da1f5f42f70bb260b04fba38731,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/strindberg-marodorer.xml,tei/strindberg-marodorer.xml,79156c2f3811d3f1d7131adda160cbb446599581,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/strindberg-master-olof.xml,tei/strindberg-master-olof.xml,59b3ebd7e123f337c7b4275db32aba13b35d1002,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/strindberg-moderskarlek.xml,tei/strindberg-moderskarlek.xml,e23f41deea9dd04c4742d472d4c1a63a1bbbc003,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/strindberg-paria.xml,tei/strindberg-paria.xml,aaf683c6cd2d26defcaf8d912d40d6c341ddd740,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/strindberg-samum.xml,tei/strindberg-samum.xml,c7f9a0ca32e2acc6b03c819375daa8aef09edadb,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/strindberg-till-damaskus.xml,tei/strindberg-till-damaskus.xml,cc15a9518d65a5aa9a446f183e83b47a45b90a99,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/topelius-t-isma-maffarnas-land.xml,tei/topelius-t-isma-maffarnas-land.xml,1166e967a6996353b888795132727cfb89b48172,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/topelius-t-jeppe-och-murra.xml,tei/topelius-t-jeppe-och-murra.xml,e2cfac9926c681c79c87b7ff7fc65f73ea8ba7dd,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/topelius-z-askungen.xml,tei/topelius-z-askungen.xml,b931d6eabd04d2d7285ed21c805f96fd4641b11b,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/topelius-z-jennys-formaningar.xml,tei/topelius-z-jennys-formaningar.xml,cb1b85a0158e6740595068d71e55e8b4c03f3e7b,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/topelius-z-krypskyttarne.xml,tei/topelius-z-krypskyttarne.xml,75f6fc95e23315ef5ea7af1571f66c63a7b91ab4,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/topelius-z-lucias-ziffror.xml,tei/topelius-z-lucias-ziffror.xml,0e2fccd23c86806d95b2eb908b086bf5be43de4f,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/topelius-z-perdita.xml,tei/topelius-z-perdita.xml,0e1d65f6caa7ebdf6f6ce6bb44f9d87ac31c9d17,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/topelius-z-skogskonungen.xml,tei/topelius-z-skogskonungen.xml,73ef50b43274aabcfbebd03a79870a0a723da5ae,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/topelius-z-snurran.xml,tei/topelius-z-snurran.xml,6b9337bcf71c249606d2a96a909368d74d23c02a,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/topelius-z-station-sylvester.xml,tei/topelius-z-station-sylvester.xml,74549720bbec6c29a12f3fe7e5ddb024e2065120,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/topelius-z-tidernas-spegel.xml,tei/topelius-z-tidernas-spegel.xml,d850070589e4b1d0d34f08a7afad3edaefd4c27d,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/wahlenberg-pa-vakt.xml,tei/wahlenberg-pa-vakt.xml,d965be70685bcecd9ed6d73ea9c38065b67713a2,
+tei-without-id,4,d558b171b72976ef94a5d8d3ee5df472d4e14a89,tei/wahlenberg-tva-valsprak.xml,tei/wahlenberg-tva-valsprak.xml,25af04e751f67d1e6cf9e1e8ee1d6ae99b02e74e,
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000001,tei/agrell-domd.xml,96b9e8acfafa208991622c60408e387ba41dc9ce,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000002,tei/agrell-en-hufvudsak.xml,ba4f69a724c4c803d24967dffe11a9ac7ebc81fa,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000003,tei/agrell-en-lektion.xml,5447140ae455d08050159a73809bd52d991283f8,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000004,tei/agrell-ensam.xml,b3d096b6e0ef14d0f7361a0d3eb804d981a4ad60,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000005,tei/agrell-hvarfor.xml,19e214199eaa3dcf1c66bea65fae18e1f9ea3285,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000006,tei/agrell-ingrid-en-dods-karlekssaga.xml,58e4bc2a3fa0ea6a61a6d3df337a02fef46713c9,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000007,tei/agrell-smastadslif.xml,c296b2d365a3cb556a50a1648a46c2d8bd05643a,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000008,tei/aurelius-farmors-fodelsedag.xml,ffdac7a76a00a7858096237f39094252ca5bc4b3,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000009,tei/barthelson-efterspel.xml,f415605b46051c99d726592093302813f4f2f698,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000010,tei/benedictsson-final.xml,6d97c0958ad1e323c03e3e7bcc8b6d6d763d1d0c,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000010,tei/benedictsson-itelefon.xml,f08d510722a339dda22cd12885c7fca330b6886a,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000012,tei/benedictsson-romeos-julia.xml,f36f9242504d2a79606fca6c47814800b7bf2b09,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000013,tei/bremer-konstnarns-fortviflan.xml,396c67d888a1e523004134c8a15d86d3ba9de28d,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000014,tei/geijerstam-lars-anders-och-jan-anders-och-deras-barn.xml,c4cec73757a906340c4568c22a8e43b6332fb817,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000015,tei/hedberg-rospiggarna.xml,2a4f59524ba0d9c553de632aaba2a7fe069874d7,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000016,tei/indebetou-idet-grona.xml,fc663b59b89116353cc9b160e5c195a736832db9,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000017,tei/indebetou-ifruntimmersveckan.xml,96cc32cd91a7c7550a9ad49b24bb7174a1507e25,file had no DraCor ID before
+tei-without-id,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,tei/indebetou-pa-fotvandring.xml,tei/indebetou-pa-fotvandring.xml,f923de8bb7d607fef10f25f1bf37b43c1b6d90a8,
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000018,tei/kullgren-karlek.xml,8b849de8b32dfb9c2d33f82784e44acbc2cedae0,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000019,tei/kuylenstierna-nar-nyar-kom.xml,532b390bd987aa9ecea955fe8fa56deb3479f080,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000020,tei/kuylenstierna-nu-ar-det-jul-igen.xml,5cdc4d6267df390c40bcbb274fc5bc4f0c4de3d4,file had no DraCor ID before
+tei-without-id,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,tei/leffler-den-karleken.xml,tei/leffler-den-karleken.xml,ce5dab7ffffb933922fc9320e1d5281da42c8d70,
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000021,tei/leffler-elfvan.xml,94a27de8e710f1a55e9af9e392f333b4013540a1,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000022,tei/leffler-familjelycka.xml,a48b6717079398407371a167a4ec4cf77c02815e,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000023,tei/leffler-hur-man-gor-godt.xml,840fd7686c7a45777bc02fa374ca4a05d7141801,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000024,tei/leffler-moster-malvina.xml,4e91a320fb1fa4c222ebbbcdab1c9845fa5c776f,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000025,tei/leffler-sanna-kvinnor.xml,eca46e367f471e2ebd3ac70633cd3d0ba88eefea,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000026,tei/leffler-skadespelerskan.xml,36174372b42d549170425d23d95134afcb05342a,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000027,tei/leffler-under-toffeln.xml,ebe3d1288250bb8f204e9626ec37511d364e0de2,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000028,tei/lindhe-modrar.xml,c69e6da3af0aa334b937d90d392ce6092e3d4086,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000029,tei/lundberg-forlat-mig.xml,6467b6912774670ea46dcf290b1c422b9ae7ef42,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000030,tei/malling-fru-leonora.xml,eb402376576fd2e4ce1b2e338536c453817c439f,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000031,tei/marholm-otteringning.xml,e8783d4fa9489441b3bbda6f225d1e66df2efedf,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000032,tei/meyerson-den-nya-klassen.xml,5170ec70a2ec34ae55903458e2c7b50885158b48,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000033,tei/meyerson-ett-pojkstreck.xml,3b4e23a0c7245ba87d997c6ef047a8193b217991,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000034,tei/molander-varflod.xml,78d6b43e8af8e666f27528fe3b9ee9a926d0b933,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000035,tei/strindberg-anno-fyrtiatta.xml,bb3c122cf318f5f5df3859280ea22745b888a0cf,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000036,tei/strindberg-bandet.xml,35975c97b89435ba6f09d90698eec23d7e6e6065,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000037,tei/strindberg-den-starkare.xml,86bd8578c4030eae0fdbabd1cdcf02990909f892,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000038,tei/strindberg-fadren.xml,1fc9414a4601569d7c065edcc8dfe5b68acd3c3f,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000039,tei/strindberg-fordringsegare.xml,d5cdeb50b24702be82860545f46b8744178534f1,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000040,tei/strindberg-forsta-varningen.xml,d5e339ac1d88eeb82af94c7c4ce698326de94715,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000041,tei/strindberg-froken-julie.xml,c70993a40962f81217ad0f7a780cd24ef90ef989,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000042,tei/strindberg-gillets-hemlighet.xml,c419c04d0910f21d1f3d717bc155e86ce6b6af6b,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000043,tei/strindberg-herr-bengts-hustru.xml,5f2d4d4ad47788dfc51b507829b25da32d726ad3,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000044,tei/strindberg-hostslask.xml,334f4182f4e13cde832ef505cbd344f54c8e8f00,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000045,tei/strindberg-infor-doden.xml,f1bd2f43d24eb98ad73336f69d52c32cfcc911f4,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000046,tei/strindberg-kamraterna.xml,5a623969b70f2db73e0b32a0c66ef3d07f8ca6b2,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000047,tei/strindberg-lycko-pers-resa.xml,dbfae70946ca715e6565b250460569d868fbf574,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000048,tei/strindberg-marodorer.xml,92f25eecc4f779a1ca8784a3a92136627981ebbb,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000049,tei/strindberg-master-olof.xml,b53d077083dd76d29e61d678dde94c8ae179cbdc,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000050,tei/strindberg-moderskarlek.xml,c379ea7b81b1a0ac6e27526399f92d988d9f0e5d,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000051,tei/strindberg-paria.xml,3b7461aae88348ed4b6a0440d3895da0d3a02f91,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000052,tei/strindberg-samum.xml,fb184ac2cd1d402ab2c1f3afafaeb1e885aacf42,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000053,tei/strindberg-till-damaskus.xml,4771177f91f6c45bce021ef3300b3c835b64ce6e,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000054,tei/topelius-t-isma-maffarnas-land.xml,a2fc669ff6e21eba5ef992d7f9a82f175a554bb6,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000055,tei/topelius-t-jeppe-och-murra.xml,94903bccf0a187e8ffe284b08410b266263d891a,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000056,tei/topelius-z-askungen.xml,ba19f80e394b6b4c500b78e2214c70c2d0ed7ed3,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000057,tei/topelius-z-jennys-formaningar.xml,4b9755c8557a32aa1248d68eb6904cd4aaeb41b4,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000058,tei/topelius-z-krypskyttarne.xml,fe45b8e9a67fc2e1a3cfda60a7b0cc14e28a09c9,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000059,tei/topelius-z-lucias-ziffror.xml,94c30fe153e2c586606cf52966a317df17b2890f,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000060,tei/topelius-z-perdita.xml,3f1d72c21ffbd891619f835cd45352ed7a054130,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000061,tei/topelius-z-skogskonungen.xml,393e65289142cffa70c55ffb8c7f3aa2590dc284,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000062,tei/topelius-z-snurran.xml,fc84c21aff8fd2f29a2b4b921d07ec8b97d598ff,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000063,tei/topelius-z-station-sylvester.xml,65bcfe80e0a14eea97922f16ba46e04fe432d363,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000064,tei/topelius-z-tidernas-spegel.xml,aced6736089eeb889312bbb91e6880f32faa28d4,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000065,tei/wahlenberg-pa-vakt.xml,3a321d65e0bf15a5840e82d088ff56e5e026e8a5,file had no DraCor ID before
+id-assigned,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000066,tei/wahlenberg-tva-valsprak.xml,946613302e6aae69cc520d2e55d28372c49b9c1d,file had no DraCor ID before
+duplicate-id,5,056ec3fe366f41e2ad8928a705a3cc2dd1c20e08,swe000010,tei/benedictsson-final.xml | tei/benedictsson-itelefon.xml,,2 files valid at the same time
+tei-without-id,6,0cdf0e784847a9768e0f4389ce6012da60ce9919,tei/indebetou-pa-fotvandring.xml,tei/indebetou-pa-fotvandring.xml,c7dafeeab7a5c9c2ed47e88b414f05981fe6abaa,
+tei-without-id,6,0cdf0e784847a9768e0f4389ce6012da60ce9919,tei/leffler-den-karleken.xml,tei/leffler-den-karleken.xml,6d4534790b976641912aaddc7f71cbf35d64b62b,
+tei-without-id,7,1814049025182c9fb4d524efff47198d22f57534,tei/indebetou-pa-fotvandring.xml,tei/indebetou-pa-fotvandring.xml,197fc80776ca94f1a6cd500b53ee478eb45aa39e,
+tei-without-id,7,1814049025182c9fb4d524efff47198d22f57534,tei/leffler-den-karleken.xml,tei/leffler-den-karleken.xml,2f3f0f107759b0373d6bcfe20ec0b7ba218a2394,
+id-assigned,8,4ac40f532aeaa6b7725a75fb020013c4c8976105,swe000067,tei/indebetou-pa-fotvandring.xml,ff966a63fef5b8d06203ef64b702f6f124cca1a3,file had no DraCor ID before
+id-assigned,8,4ac40f532aeaa6b7725a75fb020013c4c8976105,swe000068,tei/leffler-den-karleken.xml,39bd59e76eb969fd7e76c31438b7003bd6302b8b,file had no DraCor ID before
+id-change,23,6635d0770ee062c205fab8216d7adb1f2fb8a541,swe000011,tei/benedictsson-itelefon.xml,9c2ef02bd7be787b1f981d85abf76a4fc952dc29,swe000010 -> swe000011 at same path
+duplicate-id-resolved,23,6635d0770ee062c205fab8216d7adb1f2fb8a541,swe000010,,,

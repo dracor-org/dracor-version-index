@@ -1,0 +1,7892 @@
+{
+  "corpus": "fre",
+  "repository": "https://github.com/dracor-org/fredracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "b7900acea0a6474d972a8e49445ed2a9f10b6911",
+  "api_commit": "dc9c2085a9444a959dcf56a07979b03799907f1b",
+  "api_commit_seq": 162,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 190,
+    "side_commits_merged": 131,
+    "side_commits_unmerged": 6,
+    "intervals": 35526,
+    "tei_ids": 1945,
+    "tei_ids_valid_at_head": 1940,
+    "tei_files_at_head": 1940,
+    "distinct_tei_blobs": 33508,
+    "tei_file_commit_pairs": 304541,
+    "dedup_factor": 9.09,
+    "tei_noid_intervals": 67,
+    "last_seq_with_noid_tei": 70,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "id-assigned": 37,
+      "id-change": 1306,
+      "id-invalid": 10,
+      "id-reappears": 6,
+      "kind-change": 2,
+      "lineage-break": 8,
+      "lineage-gap": 7,
+      "rename-same-blob": 297,
+      "rename-with-change": 621,
+      "tei-without-id": 67
+    }
+  },
+  "id_archaeology": {
+    "prefix": "fre",
+    "texts": 1959,
+    "texts_by_method": {
+      "file": 1959
+    },
+    "intervals_by_method": {
+      "file": 33894,
+      "lineage": 1371
+    },
+    "legacy_table": 0,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 137,
+    "with_base": 137,
+    "delta_rows": 90035,
+    "tei_delta_rows_by_method": {
+      "file": 88417,
+      "lineage": 107
+    }
+  },
+  "state": {
+    "last_commit": "b7900acea0a6474d972a8e49445ed2a9f10b6911",
+    "last_seq": 189,
+    "dups_open": {},
+    "last_seen_id": {
+      "fre000001": [
+        189,
+        "tei/abeille-argelie.xml"
+      ],
+      "fre000003": [
+        189,
+        "tei/abeille-lyncee.xml"
+      ],
+      "fre000004": [
+        189,
+        "tei/adenis-homme-qui-ne-peut-pas-siffler.xml"
+      ],
+      "fre000005": [
+        189,
+        "tei/aigueberre-avare-amoureux.xml"
+      ],
+      "fre000006": [
+        189,
+        "tei/aigueberre-pan-et-doris.xml"
+      ],
+      "fre000007": [
+        189,
+        "tei/aigueberre-polixene.xml"
+      ],
+      "fre000008": [
+        189,
+        "tei/aigueberre-prologue.xml"
+      ],
+      "fre000009": [
+        189,
+        "tei/alain-legrand-epreuve-reciproque.xml"
+      ],
+      "fre000010": [
+        189,
+        "tei/allainval-ecole-des-bourgeois.xml"
+      ],
+      "fre000011": [
+        189,
+        "tei/allainval-hiver.xml"
+      ],
+      "fre000012": [
+        189,
+        "tei/allais-bon-bougre.xml"
+      ],
+      "fre000013": [
+        189,
+        "tei/allais-mecontent.xml"
+      ],
+      "fre000014": [
+        189,
+        "tei/ancelot-arago-papillotes.xml"
+      ],
+      "fre000015": [
+        189,
+        "tei/andrieux-anaximandre.xml"
+      ],
+      "fre000016": [
+        189,
+        "tei/andrieux-moliere-et-ses-amis.xml"
+      ],
+      "fre000017": [
+        189,
+        "tei/anonyme-adam.xml"
+      ],
+      "fre000018": [
+        189,
+        "tei/anonyme-aventures-de-ninette.xml"
+      ],
+      "fre000019": [
+        189,
+        "tei/anonyme-bonnes-gens.xml"
+      ],
+      "fre000020": [
+        189,
+        "tei/anonyme-chapelain-decoiffe.xml"
+      ],
+      "fre000021": [
+        189,
+        "tei/anonyme-chapelain-decoiffe-2.xml"
+      ],
+      "fre000022": [
+        189,
+        "tei/anonyme-club-des-dames.xml"
+      ],
+      "fre000023": [
+        189,
+        "tei/anonyme-deroute-des-precieuses.xml"
+      ],
+      "fre000024": [
+        189,
+        "tei/anonyme-dialogue-rousseau-voltaire.xml"
+      ],
+      "fre000025": [
+        189,
+        "tei/anonyme-jeu-d-esmoree.xml"
+      ],
+      "fre000026": [
+        189,
+        "tei/anonyme-jus-du-pelerin.xml"
+      ],
+      "fre000027": [
+        189,
+        "tei/anonyme-matinee-comedien-francais.xml"
+      ],
+      "fre000028": [
+        189,
+        "tei/anonyme-pardonneur.xml"
+      ],
+      "fre000029": [
+        189,
+        "tei/anonyme-pont-aux-anes.xml"
+      ],
+      "fre000030": [
+        189,
+        "tei/anonyme-portier-du-parnasse.xml"
+      ],
+      "fre000031": [
+        189,
+        "tei/anonyme-prix-d-un-moment.xml"
+      ],
+      "fre000032": [
+        189,
+        "tei/anonyme-reception-argenson.xml"
+      ],
+      "fre000033": [
+        189,
+        "tei/anonyme-resurrection-du-sauveur.xml"
+      ],
+      "fre000034": [
+        189,
+        "tei/anonyme-resurrection-jenin-landore.xml"
+      ],
+      "fre000035": [
+        189,
+        "tei/anonyme-sauvages-civilises.xml"
+      ],
+      "fre000036": [
+        189,
+        "tei/anonyme-serail-de-de-lys.xml"
+      ],
+      "fre000037": [
+        189,
+        "tei/anonyme-sermon-joyeux.xml"
+      ],
+      "fre000038": [
+        189,
+        "tei/anonyme-vende.xml"
+      ],
+      "fre000039": [
+        189,
+        "tei/anonyme-vierges-folles-vierges-sages.xml"
+      ],
+      "fre000040": [
+        189,
+        "tei/anonyme-voila-bien-le-diable.xml"
+      ],
+      "fre000041": [
+        189,
+        "tei/anonyme-zelamire.xml"
+      ],
+      "fre000042": [
+        189,
+        "tei/anseaume-cendrillon.xml"
+      ],
+      "fre000043": [
+        189,
+        "tei/anseaume-chinois.xml"
+      ],
+      "fre000044": [
+        189,
+        "tei/anseaume-ressource-comique.xml"
+      ],
+      "fre000045": [
+        189,
+        "tei/archambault-ce-n-est-pas.xml"
+      ],
+      "fre000046": [
+        189,
+        "tei/archambault-comedie-a-l-impromptu.xml"
+      ],
+      "fre000047": [
+        189,
+        "tei/archambault-etrennes.xml"
+      ],
+      "fre000048": [
+        189,
+        "tei/archambault-hurlubrelu.xml"
+      ],
+      "fre000049": [
+        189,
+        "tei/archambault-janot-battus.xml"
+      ],
+      "fre000050": [
+        189,
+        "tei/archambault-janot-degraisseur.xml"
+      ],
+      "fre000052": [
+        189,
+        "tei/archambault-on-fait-ce-qu-on-peut.xml"
+      ],
+      "fre000053": [
+        189,
+        "tei/arene-naze.xml"
+      ],
+      "fre000054": [
+        189,
+        "tei/aristophane-guepes.xml"
+      ],
+      "fre000055": [
+        189,
+        "tei/armand-cri-nature.xml"
+      ],
+      "fre000056": [
+        189,
+        "tei/arnault-horatius-cocles.xml"
+      ],
+      "fre000057": [
+        189,
+        "tei/arnould-heroine-americaine.xml"
+      ],
+      "fre000058": [
+        189,
+        "tei/artaud-centenaire-moliere.xml"
+      ],
+      "fre000059": [
+        189,
+        "tei/aubignac-pucelle.xml"
+      ],
+      "fre000060": [
+        189,
+        "tei/aubignac-pucelle-prose.xml"
+      ],
+      "fre000061": [
+        189,
+        "tei/aude-ecole-tragique.xml"
+      ],
+      "fre000062": [
+        189,
+        "tei/audiffret-albert-durer.xml"
+      ],
+      "fre000063": [
+        189,
+        "tei/audiffret-comedie-au-chateau.xml"
+      ],
+      "fre000066": [
+        189,
+        "tei/audinot-musicomanie.xml"
+      ],
+      "fre000064": [
+        189,
+        "tei/audiffret-epreuve.xml"
+      ],
+      "fre000065": [
+        189,
+        "tei/audinot-dorothee.xml"
+      ],
+      "fre000067": [
+        189,
+        "tei/aure-dipne.xml"
+      ],
+      "fre000069": [
+        189,
+        "tei/aure-genevieve-70.xml"
+      ],
+      "fre000070": [
+        189,
+        "tei/baculard-coligni.xml"
+      ],
+      "fre000071": [
+        189,
+        "tei/banville-ancien-pierrot.xml"
+      ],
+      "fre000072": [
+        189,
+        "tei/baptiste-du-moutier-mascara-de-foire-saint-germain.xml"
+      ],
+      "fre000073": [
+        189,
+        "tei/barante-dufresny-fees.xml"
+      ],
+      "fre000074": [
+        189,
+        "tei/barante-dufresny-pasquin-marforio.xml"
+      ],
+      "fre000075": [
+        189,
+        "tei/barante-arlequin-misanthrope.xml"
+      ],
+      "fre000077": [
+        189,
+        "tei/barbier-mort-de-cesar.xml"
+      ],
+      "fre000078": [
+        189,
+        "tei/barbier-ombre-de-moliere.xml"
+      ],
+      "fre000079": [
+        189,
+        "tei/baro-celinde.xml"
+      ],
+      "fre000080": [
+        189,
+        "tei/baro-clarimonde.xml"
+      ],
+      "fre000081": [
+        189,
+        "tei/baro-clorise.xml"
+      ],
+      "fre000082": [
+        189,
+        "tei/baro-parthenie.xml"
+      ],
+      "fre000083": [
+        189,
+        "tei/baro-prince-fugitif.xml"
+      ],
+      "fre000084": [
+        189,
+        "tei/baro-saint-eustache.xml"
+      ],
+      "fre000085": [
+        189,
+        "tei/barquebois-rapiniere.xml"
+      ],
+      "fre000086": [
+        189,
+        "tei/barre-radet-candide.xml"
+      ],
+      "fre000087": [
+        189,
+        "tei/barre-radet-desfontaines-marige-de-scarron.xml"
+      ],
+      "fre000088": [
+        189,
+        "tei/bayart-romieu-moliere-au-theatre.xml"
+      ],
+      "fre000089": [
+        189,
+        "tei/beaumarchais-autre-tartuffe.xml"
+      ],
+      "fre000090": [
+        189,
+        "tei/beaumarchais-barbier-de-seville.xml"
+      ],
+      "fre000095": [
+        189,
+        "tei/beaunoir-sculpteur.xml"
+      ],
+      "fre000096": [
+        189,
+        "tei/beaunoir-venus.xml"
+      ],
+      "fre000091": [
+        189,
+        "tei/beaunoir-amour-queteur.xml"
+      ],
+      "fre000092": [
+        189,
+        "tei/beaunoir-cacophonie.xml"
+      ],
+      "fre000093": [
+        189,
+        "tei/beaunoir-libellistes.xml"
+      ],
+      "fre000094": [
+        189,
+        "tei/beaunoir-prince-ramoneur.xml"
+      ],
+      "fre000097": [
+        189,
+        "tei/becque-domino-a-quatre.xml"
+      ],
+      "fre000098": [
+        189,
+        "tei/becque-execution.xml"
+      ],
+      "fre000099": [
+        189,
+        "tei/becque-mere.xml"
+      ],
+      "fre000100": [
+        189,
+        "tei/becque-veuve.xml"
+      ],
+      "fre000101": [
+        189,
+        "tei/benserade-cleopatre.xml"
+      ],
+      "fre000102": [
+        189,
+        "tei/benserade-mort-achille.xml"
+      ],
+      "fre000105": [
+        189,
+        "tei/bernardt-dramaturge-en-plein-labeur.xml"
+      ],
+      "fre000106": [
+        189,
+        "tei/bernardt-ecole-du-piston.xml"
+      ],
+      "fre000107": [
+        189,
+        "tei/bernardt-etrangleuse.xml"
+      ],
+      "fre000108": [
+        189,
+        "tei/bernardt-mystere.xml"
+      ],
+      "fre000103": [
+        189,
+        "tei/bergasse-journee-des-dupes.xml"
+      ],
+      "fre000104": [
+        189,
+        "tei/bernardc-madame-de-vauldenaie.xml"
+      ],
+      "fre000109": [
+        189,
+        "tei/bernardt-narcotique.xml"
+      ],
+      "fre000110": [
+        189,
+        "tei/bernardt-partie-de-bridge.xml"
+      ],
+      "fre000111": [
+        189,
+        "tei/bernardt-pieds-nickeles.xml"
+      ],
+      "fre000112": [
+        189,
+        "tei/bernardt-plaisirs-du-dimanche.xml"
+      ],
+      "fre000114": [
+        189,
+        "tei/bernardt-sacoche.xml"
+      ],
+      "fre000113": [
+        189,
+        "tei/bernardt-pretendant.xml"
+      ],
+      "fre000115": [
+        189,
+        "tei/bernard-brutus.xml"
+      ],
+      "fre000116": [
+        189,
+        "tei/bernard-laodamie.xml"
+      ],
+      "fre000118": [
+        189,
+        "tei/berton-homme-qui-a-tue-la-mort.xml"
+      ],
+      "fre000119": [
+        189,
+        "tei/beys-celine.xml"
+      ],
+      "fre000117": [
+        189,
+        "tei/bertol-graivil-a-la-mer.xml"
+      ],
+      "fre000120": [
+        189,
+        "tei/beze-abraham.xml"
+      ],
+      "fre000121": [
+        189,
+        "tei/biancolelli-riccoboni-romagnesi-comediens-esclaves.xml"
+      ],
+      "fre000122": [
+        189,
+        "tei/biancolelli-ecole-galante.xml"
+      ],
+      "fre000124": [
+        189,
+        "tei/biancollelli-romagnesi-arcagambis.xml"
+      ],
+      "fre000125": [
+        189,
+        "tei/biancollelli-romagnesi-bonne-femme.xml"
+      ],
+      "fre000126": [
+        189,
+        "tei/biancollelli-agnes-de-chaillot.xml"
+      ],
+      "fre000127": [
+        189,
+        "tei/biancollelli-arlequin-gentilhomme.xml"
+      ],
+      "fre000129": [
+        189,
+        "tei/biancollelli-oedipe-travesti.xml"
+      ],
+      "fre000130": [
+        189,
+        "tei/bideau-de-montigny-semiramis.xml"
+      ],
+      "fre000131": [
+        189,
+        "tei/bievre-seducteur.xml"
+      ],
+      "fre000132": [
+        189,
+        "tei/bievre-vercingentorixe.xml"
+      ],
+      "fre000133": [
+        189,
+        "tei/bilhaud-premier-amour.xml"
+      ],
+      "fre000134": [
+        189,
+        "tei/billardon-de-sauvigny-hirza.xml"
+      ],
+      "fre000135": [
+        189,
+        "tei/billardon-de-sauvigny-vashington.xml"
+      ],
+      "fre000136": [
+        189,
+        "tei/billard-pleureur-malgre-lui.xml"
+      ],
+      "fre000137": [
+        189,
+        "tei/bizet-simonot-gilles-tout-seul.xml"
+      ],
+      "fre000138": [
+        189,
+        "tei/bizet-boites.xml"
+      ],
+      "fre000139": [
+        189,
+        "tei/blanc-druides.xml"
+      ],
+      "fre000140": [
+        189,
+        "tei/blanc-supplice-d-un-paysan.xml"
+      ],
+      "fre000141": [
+        189,
+        "tei/blemont-valade-barbier-de-moliere.xml"
+      ],
+      "fre000142": [
+        189,
+        "tei/blemont-moliere-en-bonne-fortune.xml"
+      ],
+      "fre000143": [
+        189,
+        "tei/blemont-petite-rosange.xml"
+      ],
+      "fre000144": [
+        189,
+        "tei/blemont-visite-a-corneille.xml"
+      ],
+      "fre000145": [
+        189,
+        "tei/bohaire-jesus-christ.xml"
+      ],
+      "fre000146": [
+        189,
+        "tei/bohaire-siege-de-paris.xml"
+      ],
+      "fre000147": [
+        189,
+        "tei/boileau-heros-de-roman.xml"
+      ],
+      "fre000148": [
+        189,
+        "tei/boisrobert-amant-ridicule.xml"
+      ],
+      "fre000149": [
+        189,
+        "tei/boisrobert-belle-invisible.xml"
+      ],
+      "fre000150": [
+        189,
+        "tei/boisrobert-cassandre.xml"
+      ],
+      "fre000151": [
+        189,
+        "tei/boisrobert-rivaux-amis.xml"
+      ],
+      "fre000152": [
+        189,
+        "tei/boissy-apologie-du-siecle.xml"
+      ],
+      "fre000153": [
+        189,
+        "tei/boissy-auteur-supersticieux.xml"
+      ],
+      "fre000154": [
+        189,
+        "tei/boissy-babillard.xml"
+      ],
+      "fre000155": [
+        189,
+        "tei/boissy-comte-de-neuilly.xml"
+      ],
+      "fre000156": [
+        189,
+        "tei/boissy-critique-auteur-supersticieux.xml"
+      ],
+      "fre000157": [
+        189,
+        "tei/boissy-dehors-trompeurs.xml"
+      ],
+      "fre000158": [
+        189,
+        "tei/boissy-francais-a-londres.xml"
+      ],
+      "fre000160": [
+        189,
+        "tei/boissy-homme-du-jour.xml"
+      ],
+      "fre000161": [
+        189,
+        "tei/boissy-je-ne-sais-quoi.xml"
+      ],
+      "fre000162": [
+        189,
+        "tei/boissy-medecin-par-occasion.xml"
+      ],
+      "fre000163": [
+        189,
+        "tei/boissy-plagiaire.xml"
+      ],
+      "fre000164": [
+        189,
+        "tei/boissy-rival-favorable.xml"
+      ],
+      "fre000165": [
+        189,
+        "tei/boissy-vie-est-un-songe.xml"
+      ],
+      "fre000166": [
+        189,
+        "tei/boniface-obelixe.xml"
+      ],
+      "fre000167": [
+        189,
+        "tei/bonnetain-apres-le-divorce.xml"
+      ],
+      "fre000168": [
+        189,
+        "tei/bonnetain-ma-poupee.xml"
+      ],
+      "fre000169": [
+        189,
+        "tei/bornier-quinze-janvier.xml"
+      ],
+      "fre000170": [
+        189,
+        "tei/bornier-racine.xml"
+      ],
+      "fre000171": [
+        189,
+        "tei/boucher-champagne-le-coiffeur.xml"
+      ],
+      "fre000172": [
+        189,
+        "tei/bouilly-descartes.xml"
+      ],
+      "fre000159": [
+        189,
+        "tei/boissy-frivolite.xml"
+      ],
+      "fre000173": [
+        189,
+        "tei/boursault-comedie-sans-titre.xml"
+      ],
+      "fre000174": [
+        189,
+        "tei/boursault-deux-freres-gemeaux.xml"
+      ],
+      "fre000175": [
+        189,
+        "tei/boursault-esope.xml"
+      ],
+      "fre000176": [
+        189,
+        "tei/boursault-fete-de-la-seine.xml"
+      ],
+      "fre000177": [
+        189,
+        "tei/boursault-germanicus.xml"
+      ],
+      "fre000178": [
+        189,
+        "tei/boursault-jaloux-endormi.xml"
+      ],
+      "fre000179": [
+        189,
+        "tei/boursault-marie-stuard.xml"
+      ],
+      "fre000180": [
+        189,
+        "tei/boursault-medecin-volant.xml"
+      ],
+      "fre000181": [
+        189,
+        "tei/boursault-mort-vivant.xml"
+      ],
+      "fre000182": [
+        189,
+        "tei/boursault-mots-a-la-mode.xml"
+      ],
+      "fre000183": [
+        189,
+        "tei/boursault-portrait-du-peintre.xml"
+      ],
+      "fre000184": [
+        189,
+        "tei/boursault-satire-des-satires.xml"
+      ],
+      "fre000185": [
+        189,
+        "tei/boyera-caton.xml"
+      ],
+      "fre000186": [
+        189,
+        "tei/boyer-agamemnon.xml"
+      ],
+      "fre000187": [
+        189,
+        "tei/boyer-amours-jupiter-semele.xml"
+      ],
+      "fre000188": [
+        189,
+        "tei/boyer-aristodeme.xml"
+      ],
+      "fre000189": [
+        189,
+        "tei/boyer-artaxerce.xml"
+      ],
+      "fre000190": [
+        189,
+        "tei/boyer-clotilde.xml"
+      ],
+      "fre000191": [
+        189,
+        "tei/boyer-federic.xml"
+      ],
+      "fre000192": [
+        189,
+        "tei/boyer-jeune-marius.xml"
+      ],
+      "fre000193": [
+        189,
+        "tei/boyer-judith.xml"
+      ],
+      "fre000194": [
+        189,
+        "tei/boyer-lisimene.xml"
+      ],
+      "fre000195": [
+        189,
+        "tei/boyer-mort-enfants-brute.xml"
+      ],
+      "fre000196": [
+        189,
+        "tei/boyer-oropaste.xml"
+      ],
+      "fre000197": [
+        189,
+        "tei/boyer-porcie-romaine.xml"
+      ],
+      "fre000198": [
+        189,
+        "tei/boyer-porus.xml"
+      ],
+      "fre000199": [
+        189,
+        "tei/boyer-tiridate.xml"
+      ],
+      "fre000200": [
+        189,
+        "tei/brecourt-ombre-de-moliere.xml"
+      ],
+      "fre000201": [
+        189,
+        "tei/brohan-compter-sans-son-hote.xml"
+      ],
+      "fre000202": [
+        189,
+        "tei/brohan-qui-femme-a-guerre-a.xml"
+      ],
+      "fre000203": [
+        189,
+        "tei/brosse-aveugle-clairvoyant.xml"
+      ],
+      "fre000204": [
+        189,
+        "tei/brosse-turne.xml"
+      ],
+      "fre000205": [
+        189,
+        "tei/brueys-palaprat-avocat-patelin.xml"
+      ],
+      "fre000206": [
+        189,
+        "tei/bruleboeuf-racine-chez-corneille.xml"
+      ],
+      "fre000207": [
+        189,
+        "tei/cadet-gassicourt-souper-de-moliere.xml"
+      ],
+      "fre000208": [
+        189,
+        "tei/cahusac-zoroastre.xml"
+      ],
+      "fre000209": [
+        189,
+        "tei/cailhava-egoisme.xml"
+      ],
+      "fre000210": [
+        189,
+        "tei/cailleau-tragedies-voltaire.xml"
+      ],
+      "fre000211": [
+        189,
+        "tei/campan-deux-educations.xml"
+      ],
+      "fre000212": [
+        189,
+        "tei/campan-ferme-partagee.xml"
+      ],
+      "fre000213": [
+        189,
+        "tei/campistron-achille.xml"
+      ],
+      "fre000214": [
+        189,
+        "tei/campistron-acis-galathee.xml"
+      ],
+      "fre000215": [
+        189,
+        "tei/campistron-adrien.xml"
+      ],
+      "fre000216": [
+        189,
+        "tei/campistron-aetius.xml"
+      ],
+      "fre000217": [
+        189,
+        "tei/campistron-alcibiade.xml"
+      ],
+      "fre000218": [
+        189,
+        "tei/campistron-andronic.xml"
+      ],
+      "fre000219": [
+        189,
+        "tei/campistron-arminiusc.xml"
+      ],
+      "fre000220": [
+        189,
+        "tei/campistron-juba.xml"
+      ],
+      "fre000221": [
+        189,
+        "tei/campistron-phocion.xml"
+      ],
+      "fre000222": [
+        189,
+        "tei/campistron-pompeia.xml"
+      ],
+      "fre000223": [
+        189,
+        "tei/campistron-tachmas.xml"
+      ],
+      "fre000224": [
+        189,
+        "tei/campistron-virginie.xml"
+      ],
+      "fre000225": [
+        189,
+        "tei/carbon-de-flins-mari-directeur.xml"
+      ],
+      "fre000226": [
+        189,
+        "tei/carbon-de-flins-reveil-epimenide.xml"
+      ],
+      "fre000227": [
+        189,
+        "tei/carmontelle-abbe-de-coure-diner.xml"
+      ],
+      "fre000228": [
+        189,
+        "tei/carmontelle-abbe-de-platre.xml"
+      ],
+      "fre000229": [
+        189,
+        "tei/carmontelle-a-bon-chat-bon-rat.xml"
+      ],
+      "fre000230": [
+        189,
+        "tei/carmontelle-almenorade.xml"
+      ],
+      "fre000231": [
+        189,
+        "tei/carmontelle-apres-dinee.xml"
+      ],
+      "fre000232": [
+        189,
+        "tei/carmontelle-a-trompeur-trompeur-et-demi.xml"
+      ],
+      "fre000233": [
+        189,
+        "tei/carmontelle-auteur-avantageux.xml"
+      ],
+      "fre000234": [
+        189,
+        "tei/carmontelle-avocat-chansonnier.xml"
+      ],
+      "fre000235": [
+        189,
+        "tei/carmontelle-avocat-consultant.xml"
+      ],
+      "fre000236": [
+        189,
+        "tei/carmontelle-bal.xml"
+      ],
+      "fre000237": [
+        189,
+        "tei/carmontelle-bons.xml"
+      ],
+      "fre000238": [
+        189,
+        "tei/carmontelle-boudoir.xml"
+      ],
+      "fre000239": [
+        189,
+        "tei/carmontelle-cafe-borgne.xml"
+      ],
+      "fre000240": [
+        189,
+        "tei/carmontelle-chanteur-italien.xml"
+      ],
+      "fre000241": [
+        189,
+        "tei/carmontelle-chapon-au-gro-sel.xml"
+      ],
+      "fre000242": [
+        189,
+        "tei/carmontelle-chasseur-joueurs.xml"
+      ],
+      "fre000243": [
+        189,
+        "tei/carmontelle-condamnez-sans-entendre.xml"
+      ],
+      "fre000244": [
+        189,
+        "tei/carmontelle-desesperes-de-l-opera.xml"
+      ],
+      "fre000245": [
+        189,
+        "tei/carmontelle-deux-amis.xml"
+      ],
+      "fre000246": [
+        189,
+        "tei/carmontelle-deux-anglais.xml"
+      ],
+      "fre000247": [
+        189,
+        "tei/carmontelle-deux-auteurs.xml"
+      ],
+      "fre000248": [
+        189,
+        "tei/carmontelle-deux-chapeaux.xml"
+      ],
+      "fre000249": [
+        189,
+        "tei/carmontelle-diamant.xml"
+      ],
+      "fre000250": [
+        189,
+        "tei/carmontelle-ecrivain.xml"
+      ],
+      "fre000251": [
+        189,
+        "tei/carmontelle-enrage.xml"
+      ],
+      "fre000252": [
+        189,
+        "tei/carmontelle-etranger.xml"
+      ],
+      "fre000254": [
+        189,
+        "tei/carmontelle-faux-indifferents.xml"
+      ],
+      "fre000255": [
+        189,
+        "tei/carmontelle-fous.xml"
+      ],
+      "fre000256": [
+        189,
+        "tei/carmontelle-histoire.xml"
+      ],
+      "fre000257": [
+        189,
+        "tei/carmontelle-important.xml"
+      ],
+      "fre000258": [
+        189,
+        "tei/carmontelle-lievre.xml"
+      ],
+      "fre000259": [
+        189,
+        "tei/carmontelle-maitre-de-ballets.xml"
+      ],
+      "fre000260": [
+        189,
+        "tei/carmontelle-mari-absent.xml"
+      ],
+      "fre000261": [
+        189,
+        "tei/carmontelle-officier-du-gobelet.xml"
+      ],
+      "fre000262": [
+        189,
+        "tei/carmontelle-pari.xml"
+      ],
+      "fre000263": [
+        189,
+        "tei/carmontelle-peintre-en-cul-de-sac.xml"
+      ],
+      "fre000264": [
+        189,
+        "tei/carmontelle-petit-maitre-par-philosophie.xml"
+      ],
+      "fre000265": [
+        189,
+        "tei/carmontelle-petit-poucet.xml"
+      ],
+      "fre000266": [
+        189,
+        "tei/carmontelle-pleureurs-d-homere.xml"
+      ],
+      "fre000267": [
+        189,
+        "tei/carmontelle-portrait.xml"
+      ],
+      "fre000268": [
+        189,
+        "tei/carmontelle-poulet.xml"
+      ],
+      "fre000269": [
+        189,
+        "tei/carmontelle-recommandation.xml"
+      ],
+      "fre000270": [
+        189,
+        "tei/carmontelle-secondes-loges.xml"
+      ],
+      "fre000271": [
+        189,
+        "tei/carmontelle-seigneur-auteur.xml"
+      ],
+      "fre000272": [
+        189,
+        "tei/carmontelle-sortie-de-la-comedie.xml"
+      ],
+      "fre000273": [
+        189,
+        "tei/carmontelle-sourd.xml"
+      ],
+      "fre000274": [
+        189,
+        "tei/carmontelle-statue.xml"
+      ],
+      "fre000275": [
+        189,
+        "tei/carmontelle-suisse-de-porte.xml"
+      ],
+      "fre000276": [
+        189,
+        "tei/carmontelle-suisse-malade.xml"
+      ],
+      "fre000277": [
+        189,
+        "tei/carmontelle-veuve-avare.xml"
+      ],
+      "fre000278": [
+        189,
+        "tei/carmontelle-voyageurs.xml"
+      ],
+      "fre000279": [
+        189,
+        "tei/carriere-doisin-cafe-litteraire.xml"
+      ],
+      "fre000282": [
+        189,
+        "tei/caylus-bordel.xml"
+      ],
+      "fre000283": [
+        189,
+        "tei/ceillier-cousin-edgar.xml"
+      ],
+      "fre000284": [
+        189,
+        "tei/cerou-amant-auteur.xml"
+      ],
+      "fre000285": [
+        189,
+        "tei/chabanon-eudoxie.xml"
+      ],
+      "fre000286": [
+        189,
+        "tei/chabanon-faux-noble.xml"
+      ],
+      "fre000280": [
+        189,
+        "tei/carriere-doisin-journee-de-titus.xml"
+      ],
+      "fre000287": [
+        189,
+        "tei/chabanon-toison-d-or.xml"
+      ],
+      "fre000288": [
+        189,
+        "tei/chamfort-la-jeune-indienne.xml"
+      ],
+      "fre000289": [
+        189,
+        "tei/chamfort-mustapha-zeangir.xml"
+      ],
+      "fre000290": [
+        189,
+        "tei/champmesle-coupe-enchantee.xml"
+      ],
+      "fre000291": [
+        189,
+        "tei/champmesle-fragments-de-moliere.xml"
+      ],
+      "fre000292": [
+        189,
+        "tei/champrepus-ulysse.xml"
+      ],
+      "fre000293": [
+        189,
+        "tei/chappuzeau-armetzar.xml"
+      ],
+      "fre000294": [
+        189,
+        "tei/chauvin-commencement-de-la-fin.xml"
+      ],
+      "fre000295": [
+        189,
+        "tei/chauvin-ruses-et-trucs.xml"
+      ],
+      "fre000296": [
+        189,
+        "tei/chazet-dubois-moliere-chez-ninon.xml"
+      ],
+      "fre000297": [
+        189,
+        "tei/chazet-dupaty-arlequin-journaliste.xml"
+      ],
+      "fre000298": [
+        189,
+        "tei/chazet-gassicourt-finot.xml"
+      ],
+      "fre000299": [
+        189,
+        "tei/chenier-charles-ix.xml"
+      ],
+      "fre000300": [
+        189,
+        "tei/cheron-homme-a-bonnes-fortunes.xml"
+      ],
+      "fre000301": [
+        189,
+        "tei/chevalier-amours-de-calotin.xml"
+      ],
+      "fre000302": [
+        189,
+        "tei/chevalier-barbons-amoureux.xml"
+      ],
+      "fre000303": [
+        189,
+        "tei/chevalier-cartel-de-guillot.xml"
+      ],
+      "fre000305": [
+        189,
+        "tei/chevalier-disgrace-des-domestiques.xml"
+      ],
+      "fre000306": [
+        189,
+        "tei/chevalier-galants-ridicules.xml"
+      ],
+      "fre000307": [
+        189,
+        "tei/chevalier-intrigue-des-carrosses.xml"
+      ],
+      "fre000308": [
+        189,
+        "tei/chevalier-pedagogue-amoureux.xml"
+      ],
+      "fre000309": [
+        189,
+        "tei/chevreau-avocat-dupe.xml"
+      ],
+      "fre000310": [
+        189,
+        "tei/cinq-auteurs-aveugle-de-smyrne.xml"
+      ],
+      "fre000311": [
+        189,
+        "tei/cinq-auteurs-comedie-des-tuileries.xml"
+      ],
+      "fre000312": [
+        189,
+        "tei/claretie-valentin.xml"
+      ],
+      "fre000313": [
+        189,
+        "tei/colardeau-astarbe.xml"
+      ],
+      "fre000314": [
+        189,
+        "tei/colleville-sophie-derville.xml"
+      ],
+      "fre000315": [
+        189,
+        "tei/colle-accidents.xml"
+      ],
+      "fre000316": [
+        189,
+        "tei/colle-alfonse.xml"
+      ],
+      "fre000317": [
+        189,
+        "tei/colle-cocatrix.xml"
+      ],
+      "fre000318": [
+        189,
+        "tei/colle-esperance.xml"
+      ],
+      "fre000319": [
+        189,
+        "tei/colle-ile-sonnante.xml"
+      ],
+      "fre000320": [
+        189,
+        "tei/constant-wallstein.xml"
+      ],
+      "fre000321": [
+        189,
+        "tei/corneillep-agesilas.xml"
+      ],
+      "fre000322": [
+        189,
+        "tei/corneillep-andromede.xml"
+      ],
+      "fre000323": [
+        189,
+        "tei/corneillep-attila.xml"
+      ],
+      "fre000324": [
+        189,
+        "tei/corneillep-cid.xml"
+      ],
+      "fre000325": [
+        189,
+        "tei/corneillep-cid-37.xml"
+      ],
+      "fre000326": [
+        189,
+        "tei/corneillep-cinna.xml"
+      ],
+      "fre000327": [
+        189,
+        "tei/corneillep-cinna-43.xml"
+      ],
+      "fre000328": [
+        189,
+        "tei/corneillep-clitandre.xml"
+      ],
+      "fre000329": [
+        189,
+        "tei/corneillep-don-sanche.xml"
+      ],
+      "fre000330": [
+        189,
+        "tei/corneillep-galerie-du-palais.xml"
+      ],
+      "fre000331": [
+        189,
+        "tei/corneillep-heraclius.xml"
+      ],
+      "fre000332": [
+        189,
+        "tei/corneillep-horace.xml"
+      ],
+      "fre000333": [
+        189,
+        "tei/corneillep-illusion-comique.xml"
+      ],
+      "fre000334": [
+        189,
+        "tei/corneillep-medee.xml"
+      ],
+      "fre000335": [
+        189,
+        "tei/corneillep-medee-39.xml"
+      ],
+      "fre000336": [
+        189,
+        "tei/corneillep-melite.xml"
+      ],
+      "fre000337": [
+        189,
+        "tei/corneillep-melite-33.xml"
+      ],
+      "fre000338": [
+        189,
+        "tei/corneillep-menteur.xml"
+      ],
+      "fre000339": [
+        189,
+        "tei/corneillep-mort-pompee.xml"
+      ],
+      "fre000340": [
+        189,
+        "tei/corneillep-nicomede.xml"
+      ],
+      "fre000341": [
+        189,
+        "tei/corneillep-oedipe.xml"
+      ],
+      "fre000342": [
+        189,
+        "tei/corneillep-othon.xml"
+      ],
+      "fre000343": [
+        189,
+        "tei/corneillep-pertharite.xml"
+      ],
+      "fre000344": [
+        189,
+        "tei/corneillep-place-royale.xml"
+      ],
+      "fre000345": [
+        189,
+        "tei/corneillep-polyeucte.xml"
+      ],
+      "fre000346": [
+        189,
+        "tei/corneillep-pulcherie.xml"
+      ],
+      "fre000347": [
+        189,
+        "tei/corneillep-rodogune.xml"
+      ],
+      "fre000348": [
+        189,
+        "tei/corneillep-sertorius.xml"
+      ],
+      "fre000349": [
+        189,
+        "tei/corneillep-sophonisbe.xml"
+      ],
+      "fre000350": [
+        189,
+        "tei/corneillep-suite-menteur.xml"
+      ],
+      "fre000351": [
+        189,
+        "tei/corneillep-suivante.xml"
+      ],
+      "fre000352": [
+        189,
+        "tei/corneillep-surena.xml"
+      ],
+      "fre000353": [
+        189,
+        "tei/corneillep-theodore.xml"
+      ],
+      "fre000354": [
+        189,
+        "tei/corneillep-tite.xml"
+      ],
+      "fre000356": [
+        189,
+        "tei/corneillep-veuve.xml"
+      ],
+      "fre000355": [
+        189,
+        "tei/corneillep-toison.xml"
+      ],
+      "fre000357": [
+        189,
+        "tei/corneillep-veuve-34.xml"
+      ],
+      "fre000358": [
+        189,
+        "tei/corneillet-amour-a-la-mode.xml"
+      ],
+      "fre000360": [
+        189,
+        "tei/corneillet-ariane.xml"
+      ],
+      "fre000361": [
+        189,
+        "tei/corneillet-berenice.xml"
+      ],
+      "fre000362": [
+        189,
+        "tei/corneillet-berger-extravagant.xml"
+      ],
+      "fre000363": [
+        189,
+        "tei/corneillet-bradamante.xml"
+      ],
+      "fre000364": [
+        189,
+        "tei/corneillet-camma.xml"
+      ],
+      "fre000365": [
+        189,
+        "tei/corneillet-charme-de-la-voix.xml"
+      ],
+      "fre000366": [
+        189,
+        "tei/corneillet-circe.xml"
+      ],
+      "fre000367": [
+        189,
+        "tei/corneillet-comte-d-essex.xml"
+      ],
+      "fre000368": [
+        189,
+        "tei/corneillet-comtesse-orgueil.xml"
+      ],
+      "fre000359": [
+        189,
+        "tei/corneillet-antiochus.xml"
+      ],
+      "fre000369": [
+        189,
+        "tei/corneillet-darius.xml"
+      ],
+      "fre000370": [
+        189,
+        "tei/corneillet-dom-bertran-de-cigarral.xml"
+      ],
+      "fre000371": [
+        189,
+        "tei/corneillet-dom-cesar-d-avalos.xml"
+      ],
+      "fre000372": [
+        189,
+        "tei/corneillet-engagements-du-hasard.xml"
+      ],
+      "fre000373": [
+        189,
+        "tei/corneillet-feint-astrologue.xml"
+      ],
+      "fre000374": [
+        189,
+        "tei/corneillet-festin-pierre.xml"
+      ],
+      "fre000375": [
+        189,
+        "tei/corneillet-galant-double.xml"
+      ],
+      "fre000376": [
+        189,
+        "tei/corneillet-geolier-de-sois-meme.xml"
+      ],
+      "fre000377": [
+        189,
+        "tei/corneillet-illustres-ennemis.xml"
+      ],
+      "fre000378": [
+        189,
+        "tei/corneillet-inconnu.xml"
+      ],
+      "fre000379": [
+        189,
+        "tei/corneillet-laodice.xml"
+      ],
+      "fre000380": [
+        189,
+        "tei/corneillet-maximian.xml"
+      ],
+      "fre000381": [
+        189,
+        "tei/corneillet-medee.xml"
+      ],
+      "fre000382": [
+        189,
+        "tei/corneillet-mort-annibal.xml"
+      ],
+      "fre000383": [
+        189,
+        "tei/corneillet-mort-d-achille.xml"
+      ],
+      "fre000384": [
+        189,
+        "tei/corneillet-mort-empereur-commode.xml"
+      ],
+      "fre000385": [
+        189,
+        "tei/corneillet-persee-demetrius.xml"
+      ],
+      "fre000386": [
+        189,
+        "tei/corneillet-pyrrhus.xml"
+      ],
+      "fre000387": [
+        189,
+        "tei/corneillet-stlicon.xml"
+      ],
+      "fre000388": [
+        189,
+        "tei/corneillet-theodat.xml"
+      ],
+      "fre000389": [
+        189,
+        "tei/corneillet-timocrate.xml"
+      ],
+      "fre000390": [
+        189,
+        "tei/coupigny-barre-piis-desfontaines-hommage-racine.xml"
+      ],
+      "fre000391": [
+        189,
+        "tei/coupigny-arlequin-jaloux.xml"
+      ],
+      "fre000392": [
+        189,
+        "tei/courteline-conversion-d-alceste.xml"
+      ],
+      "fre000393": [
+        189,
+        "tei/courteline-monsieur-badin.xml"
+      ],
+      "fre000394": [
+        189,
+        "tei/courteline-roland.xml"
+      ],
+      "fre000395": [
+        189,
+        "tei/courteline-theodore-cherche-des-alumettes.xml"
+      ],
+      "fre000396": [
+        189,
+        "tei/crebillonf-nuit-et-le-moment.xml"
+      ],
+      "fre000397": [
+        189,
+        "tei/crebillon-atree-thyeste.xml"
+      ],
+      "fre000398": [
+        189,
+        "tei/crebillon-catilina.xml"
+      ],
+      "fre000399": [
+        189,
+        "tei/crebillon-electre.xml"
+      ],
+      "fre000400": [
+        189,
+        "tei/crebillon-idomenee.xml"
+      ],
+      "fre000401": [
+        189,
+        "tei/crebillon-pyrrhus.xml"
+      ],
+      "fre000402": [
+        189,
+        "tei/crebillon-rhadamisthe.xml"
+      ],
+      "fre000403": [
+        189,
+        "tei/crebillon-semiramis.xml"
+      ],
+      "fre000404": [
+        189,
+        "tei/crebillon-triumvirat.xml"
+      ],
+      "fre000405": [
+        189,
+        "tei/crebillon-xerxes.xml"
+      ],
+      "fre000406": [
+        189,
+        "tei/cressonnois-monsieur-qui-ne-veut-pas-fumer.xml"
+      ],
+      "fre000407": [
+        189,
+        "tei/cros-affaire-de-la-rue-beaubourg.xml"
+      ],
+      "fre000408": [
+        189,
+        "tei/cros-autrefois.xml"
+      ],
+      "fre000409": [
+        189,
+        "tei/cros-capitaliste.xml"
+      ],
+      "fre000410": [
+        189,
+        "tei/cros-hareng-saur.xml"
+      ],
+      "fre000411": [
+        189,
+        "tei/cros-maitre-d-armes.xml"
+      ],
+      "fre000412": [
+        189,
+        "tei/cros-obsession.xml"
+      ],
+      "fre000413": [
+        189,
+        "tei/cros-voyage-a-trois-etoiles.xml"
+      ],
+      "fre000414": [
+        189,
+        "tei/cubieres-palmezeaux-bracelets.xml"
+      ],
+      "fre000415": [
+        189,
+        "tei/cubieres-palmezeaux-dialogue.xml"
+      ],
+      "fre000416": [
+        189,
+        "tei/cubieres-palmezeaux-diligence-de-lyon.xml"
+      ],
+      "fre000417": [
+        189,
+        "tei/cubieres-palmezeaux-fete-seculaire-corneille.xml"
+      ],
+      "fre000418": [
+        189,
+        "tei/cubieres-palmezeaux-galathee.xml"
+      ],
+      "fre000419": [
+        189,
+        "tei/cubieres-palmezeaux-lacrymanie.xml"
+      ],
+      "fre000420": [
+        189,
+        "tei/cubieres-palmezeaux-mort-de-moliere-3a.xml"
+      ],
+      "fre000421": [
+        189,
+        "tei/cubieres-palmezeaux-mort-de-moliere-4a.xml"
+      ],
+      "fre000422": [
+        189,
+        "tei/cubieres-palmezeaux-oreste.xml"
+      ],
+      "fre000423": [
+        189,
+        "tei/cyrano-la-mort-d-agrippine.xml"
+      ],
+      "fre000424": [
+        189,
+        "tei/cyrano-pedant-joue.xml"
+      ],
+      "fre000425": [
+        189,
+        "tei/dalibray-soliman.xml"
+      ],
+      "fre000426": [
+        189,
+        "tei/dancourt-agioteurs.xml"
+      ],
+      "fre000427": [
+        189,
+        "tei/dancourt-amants.xml"
+      ],
+      "fre000428": [
+        189,
+        "tei/dancourt-bon-soldat.xml"
+      ],
+      "fre000429": [
+        189,
+        "tei/dancourt-bourgeoises-a-la-mode.xml"
+      ],
+      "fre000430": [
+        189,
+        "tei/dancourt-cephale-procris.xml"
+      ],
+      "fre000431": [
+        189,
+        "tei/dancourt-charivari.xml"
+      ],
+      "fre000432": [
+        189,
+        "tei/dancourt-chevalier-a-la-mode.xml"
+      ],
+      "fre000433": [
+        189,
+        "tei/dancourt-colin-maillard.xml"
+      ],
+      "fre000434": [
+        189,
+        "tei/dancourt-comedie-comediens.xml"
+      ],
+      "fre000435": [
+        189,
+        "tei/dancourt-curieux.xml"
+      ],
+      "fre000436": [
+        189,
+        "tei/dancourt-deroute-pharaon.xml"
+      ],
+      "fre000437": [
+        189,
+        "tei/dancourt-desolation-des-joueuses.xml"
+      ],
+      "fre000438": [
+        189,
+        "tei/dancourt-diable-boiteux.xml"
+      ],
+      "fre000439": [
+        189,
+        "tei/dancourt-diable-boiteux-suite.xml"
+      ],
+      "fre000440": [
+        189,
+        "tei/dancourt-divertissement-de-sceaux.xml"
+      ],
+      "fre000441": [
+        189,
+        "tei/dancourt-eaux-de-bourbon.xml"
+      ],
+      "fre000442": [
+        189,
+        "tei/dancourt-enfants-de-paris.xml"
+      ],
+      "fre000443": [
+        189,
+        "tei/dancourt-ete-des-coquettes.xml"
+      ],
+      "fre000444": [
+        189,
+        "tei/dancourt-fees.xml"
+      ],
+      "fre000445": [
+        189,
+        "tei/dancourt-femme-d-intrigues.xml"
+      ],
+      "fre000446": [
+        189,
+        "tei/dancourt-fete-de-village.xml"
+      ],
+      "fre000447": [
+        189,
+        "tei/dancourt-fetes-nocturnes.xml"
+      ],
+      "fre000448": [
+        189,
+        "tei/dancourt-foire-de-besons.xml"
+      ],
+      "fre000449": [
+        189,
+        "tei/dancourt-foire-saint-germain.xml"
+      ],
+      "fre000450": [
+        189,
+        "tei/dancourt-folle-enchere.xml"
+      ],
+      "fre000451": [
+        189,
+        "tei/dancourt-fonds-perdus.xml"
+      ],
+      "fre000452": [
+        189,
+        "tei/dancourt-galant-jardinier.xml"
+      ],
+      "fre000454": [
+        189,
+        "tei/dancourt-impromptu-de-garnison.xml"
+      ],
+      "fre000455": [
+        189,
+        "tei/dancourt-impromptu-de-livry.xml"
+      ],
+      "fre000456": [
+        189,
+        "tei/dancourt-impromptu-suresnes.xml"
+      ],
+      "fre000457": [
+        189,
+        "tei/dancourt-inconnu.xml"
+      ],
+      "fre000458": [
+        189,
+        "tei/dancourt-loterie.xml"
+      ],
+      "fre000459": [
+        189,
+        "tei/dancourt-madame-artus.xml"
+      ],
+      "fre000460": [
+        189,
+        "tei/dancourt-maison-de-campagne.xml"
+      ],
+      "fre000462": [
+        189,
+        "tei/dancourt-metempsychose.xml"
+      ],
+      "fre000464": [
+        189,
+        "tei/dancourt-opera-de-village.xml"
+      ],
+      "fre000465": [
+        189,
+        "tei/dancourt-operateur-barry.xml"
+      ],
+      "fre000463": [
+        189,
+        "tei/dancourt-moulin-de-javelle.xml"
+      ],
+      "fre000466": [
+        189,
+        "tei/dancourt-parisienne.xml"
+      ],
+      "fre000467": [
+        189,
+        "tei/dancourt-prix-arquebuse.xml"
+      ],
+      "fre000468": [
+        189,
+        "tei/dancourt-renaud-armide.xml"
+      ],
+      "fre000469": [
+        189,
+        "tei/dancourt-retour-des-officiers.xml"
+      ],
+      "fre000470": [
+        189,
+        "tei/dancourt-sancho.xml"
+      ],
+      "fre000471": [
+        189,
+        "tei/dancourt-trahison-punie.xml"
+      ],
+      "fre000472": [
+        189,
+        "tei/dancourt-tuteur.xml"
+      ],
+      "fre000473": [
+        189,
+        "tei/dancourt-vacances.xml"
+      ],
+      "fre000474": [
+        189,
+        "tei/dancourt-vendanges.xml"
+      ],
+      "fre000475": [
+        189,
+        "tei/dancourt-vendanges-de-suresnes.xml"
+      ],
+      "fre000476": [
+        189,
+        "tei/dancourt-vert-galant.xml"
+      ],
+      "fre000477": [
+        189,
+        "tei/de-caux-marius.xml"
+      ],
+      "fre000478": [
+        189,
+        "tei/delavigne-comediens.xml"
+      ],
+      "fre000479": [
+        189,
+        "tei/delavigne-famille-temps-luther.xml"
+      ],
+      "fre000480": [
+        189,
+        "tei/delavigne-vepres-siciliennes.xml"
+      ],
+      "fre000486": [
+        189,
+        "tei/desfontaines-veritable-semiramis.xml"
+      ],
+      "fre000481": [
+        189,
+        "tei/des-essarts-illustre-theatre.xml"
+      ],
+      "fre000482": [
+        189,
+        "tei/desfontaines-dupin-voyage-de-chambord.xml"
+      ],
+      "fre000483": [
+        189,
+        "tei/desfontaines-eurimedon.xml"
+      ],
+      "fre000484": [
+        189,
+        "tei/desfontaines-perside.xml"
+      ],
+      "fre000485": [
+        189,
+        "tei/desfontaines-saint-genest.xml"
+      ],
+      "fre000487": [
+        189,
+        "tei/deshoulieres-genseric.xml"
+      ],
+      "fre000488": [
+        189,
+        "tei/deshoulieres-mort-de-cochon.xml"
+      ],
+      "fre000489": [
+        189,
+        "tei/desjardins-favori.xml"
+      ],
+      "fre000495": [
+        189,
+        "tei/desmarets-visionnaires.xml"
+      ],
+      "fre000496": [
+        189,
+        "tei/desportes-veuve-coquette.xml"
+      ],
+      "fre000497": [
+        189,
+        "tei/diderot-est-il-bon-est-il-mechant.xml"
+      ],
+      "fre000498": [
+        189,
+        "tei/diderot-fils-naturel.xml"
+      ],
+      "fre000499": [
+        189,
+        "tei/diderot-paradoxe-comedien.xml"
+      ],
+      "fre000500": [
+        189,
+        "tei/diderot-pere-de-famille.xml"
+      ],
+      "fre000501": [
+        189,
+        "tei/diderot-piece-prologue.xml"
+      ],
+      "fre000502": [
+        189,
+        "tei/discret-noces-de-vaugirard.xml"
+      ],
+      "fre000503": [
+        189,
+        "tei/donneau-de-vise-corneille-devineresse.xml"
+      ],
+      "fre000504": [
+        189,
+        "tei/donneau-de-vise-amours-du-soleil.xml"
+      ],
+      "fre000505": [
+        189,
+        "tei/donneau-de-vise-cocue-imaginaire.xml"
+      ],
+      "fre000506": [
+        189,
+        "tei/donneau-de-vise-dames-vengees.xml"
+      ],
+      "fre000507": [
+        189,
+        "tei/donneau-de-vise-delie.xml"
+      ],
+      "fre000508": [
+        189,
+        "tei/donneau-de-vise-embarras-de-godard.xml"
+      ],
+      "fre000509": [
+        189,
+        "tei/donneau-de-vise-gentil-homme-guepin.xml"
+      ],
+      "fre000510": [
+        189,
+        "tei/donneau-de-vise-intrigues-de-la-loterie.xml"
+      ],
+      "fre000511": [
+        189,
+        "tei/donneau-de-vise-mere-coquette.xml"
+      ],
+      "fre000512": [
+        189,
+        "tei/donneau-de-vise-vengeance-des-marquis.xml"
+      ],
+      "fre000490": [
+        189,
+        "tei/desjardins-manlius.xml"
+      ],
+      "fre000491": [
+        189,
+        "tei/deslisle-arlequin-sauvage.xml"
+      ],
+      "fre000492": [
+        189,
+        "tei/desmarest-mirame.xml"
+      ],
+      "fre000493": [
+        189,
+        "tei/desmares-merlin-dragon.xml"
+      ],
+      "fre000494": [
+        189,
+        "tei/desmares-roxelane.xml"
+      ],
+      "fre000513": [
+        189,
+        "tei/donneau-de-vise-veuve-a-la-mode.xml"
+      ],
+      "fre000514": [
+        189,
+        "tei/donneau-de-vise-zelinde.xml"
+      ],
+      "fre000515": [
+        189,
+        "tei/dorat-celibataire.xml"
+      ],
+      "fre000516": [
+        189,
+        "tei/dorat-regulus.xml"
+      ],
+      "fre000517": [
+        189,
+        "tei/dorimond-amours-de-trapolin.xml"
+      ],
+      "fre000518": [
+        189,
+        "tei/dorimond-comedie-de-la-comedie.xml"
+      ],
+      "fre000519": [
+        189,
+        "tei/dorimond-ecole-des-cocus.xml"
+      ],
+      "fre000520": [
+        189,
+        "tei/dorimond-femme-industrieuse.xml"
+      ],
+      "fre000522": [
+        189,
+        "tei/dorneval-lesage-amours-de-nanterre.xml"
+      ],
+      "fre000521": [
+        189,
+        "tei/dorneval-fuzelier-lesage-arlequin-roi-des-ogres.xml"
+      ],
+      "fre000523": [
+        189,
+        "tei/dorneval-lesage-couplets-en-proces.xml"
+      ],
+      "fre000524": [
+        189,
+        "tei/dorneval-lesage-opera-comique.xml"
+      ],
+      "fre000525": [
+        189,
+        "tei/dorneval-lesage-reine-de-barostan.xml"
+      ],
+      "fre000526": [
+        189,
+        "tei/dorneval-jugement-de-paris.xml"
+      ],
+      "fre000527": [
+        189,
+        "tei/doruxigne-alzate.xml"
+      ],
+      "fre000528": [
+        189,
+        "tei/dorvo-lamentin.xml"
+      ],
+      "fre000529": [
+        189,
+        "tei/dubosc-balance-d-etat.xml"
+      ],
+      "fre000530": [
+        189,
+        "tei/duche-absalon.xml"
+      ],
+      "fre000531": [
+        189,
+        "tei/dufresny-regnard-augmentation-baguette.xml"
+      ],
+      "fre000532": [
+        189,
+        "tei/dufresny-regnard-baguette-vulcain.xml"
+      ],
+      "fre000533": [
+        189,
+        "tei/dufresny-regnard-chinois.xml"
+      ],
+      "fre000534": [
+        189,
+        "tei/dufresny-regnard-naissance-d-amadis.xml"
+      ],
+      "fre000535": [
+        189,
+        "tei/dufresny-regnard-suite-foire-saint-germain.xml"
+      ],
+      "fre000536": [
+        189,
+        "tei/dufresny-adieux-des-officiers.xml"
+      ],
+      "fre000537": [
+        189,
+        "tei/dufresny-chevalier-joueur.xml"
+      ],
+      "fre000538": [
+        189,
+        "tei/dufresny-coquette-du-village.xml"
+      ],
+      "fre000539": [
+        189,
+        "tei/dufresny-dedit.xml"
+      ],
+      "fre000540": [
+        189,
+        "tei/dufresny-depart-des-comediens.xml"
+      ],
+      "fre000541": [
+        189,
+        "tei/dufresny-double-veuvage.xml"
+      ],
+      "fre000542": [
+        189,
+        "tei/dufresny-esprit-de-contradiction.xml"
+      ],
+      "fre000543": [
+        189,
+        "tei/dufresny-faux-honnete-homme.xml"
+      ],
+      "fre000544": [
+        189,
+        "tei/dufresny-faux-instinct.xml"
+      ],
+      "fre000545": [
+        189,
+        "tei/dufresny-faux-sincere.xml"
+      ],
+      "fre000546": [
+        189,
+        "tei/dufresny-jaloux-honteux.xml"
+      ],
+      "fre000547": [
+        189,
+        "tei/dufresny-joueuse.xml"
+      ],
+      "fre000548": [
+        189,
+        "tei/dufresny-malade-sans-maladie.xml"
+      ],
+      "fre000549": [
+        189,
+        "tei/dufresny-mal-assortis.xml"
+      ],
+      "fre000550": [
+        189,
+        "tei/dufresny-mariage-fait-et-rompu.xml"
+      ],
+      "fre000551": [
+        189,
+        "tei/dufresny-negligent.xml"
+      ],
+      "fre000552": [
+        189,
+        "tei/dufresny-noce-interrompue.xml"
+      ],
+      "fre000554": [
+        189,
+        "tei/dugazon-modere.xml"
+      ],
+      "fre000553": [
+        189,
+        "tei/dufresny-reconciliation-normande.xml"
+      ],
+      "fre000555": [
+        189,
+        "tei/duhomme-chapelle-boileau.xml"
+      ],
+      "fre000556": [
+        189,
+        "tei/dumaniant-belle-esclave.xml"
+      ],
+      "fre000557": [
+        189,
+        "tei/dumaniant-dragon-de-thionville.xml"
+      ],
+      "fre000558": [
+        189,
+        "tei/dumaniant-francais-en-huronie.xml"
+      ],
+      "fre000559": [
+        189,
+        "tei/dumaniant-francais-en-huronie-1787.xml"
+      ],
+      "fre000560": [
+        189,
+        "tei/dumaniant-henri-et-perrine.xml"
+      ],
+      "fre000561": [
+        189,
+        "tei/dumaniant-jodelet.xml"
+      ],
+      "fre000562": [
+        189,
+        "tei/dumas-don-juan.xml"
+      ],
+      "fre000563": [
+        189,
+        "tei/dupaty-luce-salverte-bievre.xml"
+      ],
+      "fre000564": [
+        189,
+        "tei/dupaty-arlequin-tout-seul.xml"
+      ],
+      "fre000565": [
+        189,
+        "tei/du-pont-de-veyle-somnanbule.xml"
+      ],
+      "fre000566": [
+        189,
+        "tei/durant-a-bon-chat-bon-rat.xml"
+      ],
+      "fre000567": [
+        189,
+        "tei/durant-a-laver-la-tete.xml"
+      ],
+      "fre000568": [
+        189,
+        "tei/durant-bonne-renommee.xml"
+      ],
+      "fre000569": [
+        189,
+        "tei/durant-jours-se-suivent.xml"
+      ],
+      "fre000570": [
+        189,
+        "tei/durant-oisivete.xml"
+      ],
+      "fre000571": [
+        189,
+        "tei/durant-on-ne-connait-pas-le-vin.xml"
+      ],
+      "fre000573": [
+        189,
+        "tei/durant-qui-court-deux-lievres.xml"
+      ],
+      "fre000574": [
+        189,
+        "tei/durant-tel-maitre-tel-valet.xml"
+      ],
+      "fre000575": [
+        189,
+        "tei/durant-voyage-de-campagne.xml"
+      ],
+      "fre000576": [
+        189,
+        "tei/du-ryer-alcimedon.xml"
+      ],
+      "fre000577": [
+        189,
+        "tei/du-ryer-alcionee.xml"
+      ],
+      "fre000578": [
+        189,
+        "tei/du-ryer-anaxandre.xml"
+      ],
+      "fre000579": [
+        189,
+        "tei/du-ryer-argenis-poliarque.xml"
+      ],
+      "fre000580": [
+        189,
+        "tei/du-ryer-berenice.xml"
+      ],
+      "fre000581": [
+        189,
+        "tei/du-ryer-clarigene.xml"
+      ],
+      "fre000582": [
+        189,
+        "tei/du-ryer-cleomedon.xml"
+      ],
+      "fre000583": [
+        189,
+        "tei/du-ryer-clitophon.xml"
+      ],
+      "fre000584": [
+        189,
+        "tei/du-ryer-dynamis.xml"
+      ],
+      "fre000585": [
+        189,
+        "tei/du-ryer-esther.xml"
+      ],
+      "fre000586": [
+        189,
+        "tei/du-ryer-lisandre-caliste.xml"
+      ],
+      "fre000587": [
+        189,
+        "tei/du-ryer-lucrece.xml"
+      ],
+      "fre000588": [
+        189,
+        "tei/du-ryer-nitocris.xml"
+      ],
+      "fre000589": [
+        189,
+        "tei/du-ryer-saul.xml"
+      ],
+      "fre000590": [
+        189,
+        "tei/du-ryer-scevole.xml"
+      ],
+      "fre000591": [
+        189,
+        "tei/du-ryer-themistocle.xml"
+      ],
+      "fre000592": [
+        189,
+        "tei/du-ryer-vendanges-de-suresnes.xml"
+      ],
+      "fre000593": [
+        189,
+        "tei/duvauchel-samedi-soir.xml"
+      ],
+      "fre000594": [
+        189,
+        "tei/duvaucuel-chapeau-bleu.xml"
+      ],
+      "fre000595": [
+        189,
+        "tei/duvert-xavier-odeina.xml"
+      ],
+      "fre000596": [
+        189,
+        "tei/duvert-huron.xml"
+      ],
+      "fre000597": [
+        189,
+        "tei/ecker-franc-macon-prisonnier.xml"
+      ],
+      "fre000598": [
+        189,
+        "tei/eschyle-agamemnon.xml"
+      ],
+      "fre000599": [
+        189,
+        "tei/eschyle-eumenides.xml"
+      ],
+      "fre000600": [
+        189,
+        "tei/eschyle-khoephores.xml"
+      ],
+      "fre000601": [
+        189,
+        "tei/eschyle-sept-contre-thebes.xml"
+      ],
+      "fre000602": [
+        189,
+        "tei/euripide-andromaque.xml"
+      ],
+      "fre000603": [
+        189,
+        "tei/euripide-cyclope.xml"
+      ],
+      "fre000606": [
+        189,
+        "tei/euripide-heraclides.xml"
+      ],
+      "fre000607": [
+        189,
+        "tei/euripide-hercule-furieux.xml"
+      ],
+      "fre000608": [
+        189,
+        "tei/euripide-hippolyte.xml"
+      ],
+      "fre000604": [
+        189,
+        "tei/euripide-electre.xml"
+      ],
+      "fre000605": [
+        189,
+        "tei/euripide-helene.xml"
+      ],
+      "fre000609": [
+        189,
+        "tei/fabie-moliere-montespan.xml"
+      ],
+      "fre000610": [
+        189,
+        "tei/fabre-d-eglantine-philinte-de-moliere.xml"
+      ],
+      "fre000611": [
+        189,
+        "tei/fagan-isabelle-arlequin.xml"
+      ],
+      "fre000612": [
+        189,
+        "tei/fagan-momus-a-paris.xml"
+      ],
+      "fre000613": [
+        189,
+        "tei/fagan-pupille.xml"
+      ],
+      "fre000614": [
+        189,
+        "tei/fagan-sylphe-suppose.xml"
+      ],
+      "fre000615": [
+        189,
+        "tei/favart-amant-deguise.xml"
+      ],
+      "fre000616": [
+        189,
+        "tei/favart-parmentier-hipolyte-aricie.xml"
+      ],
+      "fre000617": [
+        189,
+        "tei/favart-acajou.xml"
+      ],
+      "fre000618": [
+        189,
+        "tei/favart-anglais-de-bordeaux.xml"
+      ],
+      "fre000619": [
+        189,
+        "tei/favart-la-fille-mal-gardee.xml"
+      ],
+      "fre000620": [
+        189,
+        "tei/fenelon-alexandre.xml"
+      ],
+      "fre000621": [
+        189,
+        "tei/ferrier-larme-d-auvergnat.xml"
+      ],
+      "fre000622": [
+        189,
+        "tei/feydeau-amour-et-piano.xml"
+      ],
+      "fre000623": [
+        189,
+        "tei/feydeau-antipodes.xml"
+      ],
+      "fre000624": [
+        189,
+        "tei/feydeau-billet-de-mille.xml"
+      ],
+      "fre000625": [
+        189,
+        "tei/feydeau-celebres.xml"
+      ],
+      "fre000626": [
+        189,
+        "tei/feydeau-c-est-une-femme-du-monde.xml"
+      ],
+      "fre000627": [
+        189,
+        "tei/feydeau-colis.xml"
+      ],
+      "fre000628": [
+        189,
+        "tei/feydeau-complainte-du-pauv-prorietaire.xml"
+      ],
+      "fre000629": [
+        189,
+        "tei/feydeau-enfants.xml"
+      ],
+      "fre000630": [
+        189,
+        "tei/feydeau-homme-qui-n-aimait-pas-les-monologues.xml"
+      ],
+      "fre000631": [
+        189,
+        "tei/feydeau-j-ai-mal-aux-dents.xml"
+      ],
+      "fre000632": [
+        189,
+        "tei/feydeau-jure.xml"
+      ],
+      "fre000633": [
+        189,
+        "tei/feydeau-monsieur-qui-est-condamne.xml"
+      ],
+      "fre000634": [
+        189,
+        "tei/feydeau-mouchoir.xml"
+      ],
+      "fre000635": [
+        189,
+        "tei/feydeau-notre-futur.xml"
+      ],
+      "fre000636": [
+        189,
+        "tei/feydeau-patte-en-l-air.xml"
+      ],
+      "fre000637": [
+        189,
+        "tei/feydeau-petite-revoltee.xml"
+      ],
+      "fre000638": [
+        189,
+        "tei/feydeau-petit-menage.xml"
+      ],
+      "fre000639": [
+        189,
+        "tei/feydeau-potache.xml"
+      ],
+      "fre000640": [
+        189,
+        "tei/feydeau-tout-a-brown-sequard.xml"
+      ],
+      "fre000641": [
+        189,
+        "tei/feydeau-trop-vieux.xml"
+      ],
+      "fre000642": [
+        189,
+        "tei/feydeau-un-coup-de-tete.xml"
+      ],
+      "fre000643": [
+        189,
+        "tei/fievre-moliere-a-quebec.xml"
+      ],
+      "fre000644": [
+        189,
+        "tei/fiot-amour-fantasque.xml"
+      ],
+      "fre000645": [
+        189,
+        "tei/florian-bon-menage.xml"
+      ],
+      "fre000646": [
+        189,
+        "tei/florian-bon-pere.xml"
+      ],
+      "fre000647": [
+        189,
+        "tei/florian-deux-billets.xml"
+      ],
+      "fre000648": [
+        189,
+        "tei/florian-hero-leandre.xml"
+      ],
+      "fre000649": [
+        189,
+        "tei/florian-jumeaux-de-bergame.xml"
+      ],
+      "fre000650": [
+        189,
+        "tei/folard-themistocle.xml"
+      ],
+      "fre000651": [
+        189,
+        "tei/fontenelle-endymion.xml"
+      ],
+      "fre000652": [
+        189,
+        "tei/fournier-fille-de-moliere.xml"
+      ],
+      "fre000653": [
+        189,
+        "tei/fournier-racine-a-uzes.xml"
+      ],
+      "fre000654": [
+        189,
+        "tei/fuzelier-legrand-animaux-raisonnables.xml"
+      ],
+      "fre000655": [
+        189,
+        "tei/fuzelier-lesage-tableau-du-mariage.xml"
+      ],
+      "fre000656": [
+        189,
+        "tei/fuzelier-enfer-galant.xml"
+      ],
+      "fre000657": [
+        189,
+        "tei/fuzelier-orphee.xml"
+      ],
+      "fre000658": [
+        189,
+        "tei/fuzelier-scaramouche-pedant.xml"
+      ],
+      "fre000659": [
+        189,
+        "tei/gabriel-laboullaye-josephine.xml"
+      ],
+      "fre000660": [
+        189,
+        "tei/galoppe-amour-pris-aux-cheveux.xml"
+      ],
+      "fre000661": [
+        189,
+        "tei/garniert-adelaide.xml"
+      ],
+      "fre000662": [
+        189,
+        "tei/garniert-belle-mere.xml"
+      ],
+      "fre000663": [
+        189,
+        "tei/garniert-bienfait-recompense.xml"
+      ],
+      "fre000664": [
+        189,
+        "tei/garniert-bon-papa.xml"
+      ],
+      "fre000665": [
+        189,
+        "tei/garniert-bon-pere.xml"
+      ],
+      "fre000666": [
+        189,
+        "tei/garniert-bourse.xml"
+      ],
+      "fre000667": [
+        189,
+        "tei/garniert-brunon.xml"
+      ],
+      "fre000668": [
+        189,
+        "tei/garniert-dedit.xml"
+      ],
+      "fre000669": [
+        189,
+        "tei/garniert-deux-pates.xml"
+      ],
+      "fre000670": [
+        189,
+        "tei/garniert-dissipatrice.xml"
+      ],
+      "fre000671": [
+        189,
+        "tei/garniert-epreuve.xml"
+      ],
+      "fre000672": [
+        189,
+        "tei/garniert-etrennes.xml"
+      ],
+      "fre000673": [
+        189,
+        "tei/garniert-joueuses.xml"
+      ],
+      "fre000674": [
+        189,
+        "tei/garniert-marianne.xml"
+      ],
+      "fre000675": [
+        189,
+        "tei/garniert-passe-dix.xml"
+      ],
+      "fre000676": [
+        189,
+        "tei/garniert-saignee.xml"
+      ],
+      "fre000677": [
+        189,
+        "tei/garniert-soeurs-de-lait.xml"
+      ],
+      "fre000678": [
+        189,
+        "tei/garniert-trois-damis.xml"
+      ],
+      "fre000679": [
+        189,
+        "tei/garniert-vocation-forcee.xml"
+      ],
+      "fre000680": [
+        189,
+        "tei/garnier-bradamante.xml"
+      ],
+      "fre000681": [
+        189,
+        "tei/genest-joseph.xml"
+      ],
+      "fre000682": [
+        189,
+        "tei/genest-penelope.xml"
+      ],
+      "fre000683": [
+        189,
+        "tei/genest-zelonide.xml"
+      ],
+      "fre000684": [
+        189,
+        "tei/genlis-agar.xml"
+      ],
+      "fre000685": [
+        189,
+        "tei/genlis-amant-anonyme.xml"
+      ],
+      "fre000686": [
+        189,
+        "tei/genlis-aveugle-de-spa.xml"
+      ],
+      "fre000687": [
+        189,
+        "tei/genlis-belle-et-la-bete.xml"
+      ],
+      "fre000688": [
+        189,
+        "tei/genlis-bonne-mere.xml"
+      ],
+      "fre000689": [
+        189,
+        "tei/genlis-cloison.xml"
+      ],
+      "fre000690": [
+        189,
+        "tei/genlis-colombe.xml"
+      ],
+      "fre000692": [
+        189,
+        "tei/genlis-enfant-gate.xml"
+      ],
+      "fre000694": [
+        189,
+        "tei/genlis-ile-heureuse.xml"
+      ],
+      "fre000695": [
+        189,
+        "tei/genlis-intrigue-mensonge.xml"
+      ],
+      "fre000696": [
+        189,
+        "tei/genlis-marchande-de-modes.xml"
+      ],
+      "fre000697": [
+        189,
+        "tei/genlis-mere-rivale.xml"
+      ],
+      "fre000698": [
+        189,
+        "tei/genlis-retour-de-tobie.xml"
+      ],
+      "fre000699": [
+        189,
+        "tei/genlis-rosiere.xml"
+      ],
+      "fre000700": [
+        189,
+        "tei/genlis-ruth-noemi.xml"
+      ],
+      "fre000701": [
+        189,
+        "tei/genlis-tendresse-maternelle.xml"
+      ],
+      "fre000702": [
+        189,
+        "tei/genlis-veuve-de-sarepte.xml"
+      ],
+      "fre000703": [
+        189,
+        "tei/genlis-voyageur.xml"
+      ],
+      "fre000704": [
+        189,
+        "tei/giffard-manuscrit.xml"
+      ],
+      "fre000705": [
+        189,
+        "tei/gilbert-amours-de-diane-et-d-endymion.xml"
+      ],
+      "fre000706": [
+        189,
+        "tei/gilbert-rodogune.xml"
+      ],
+      "fre000707": [
+        189,
+        "tei/gilbert-semiramis.xml"
+      ],
+      "fre000708": [
+        189,
+        "tei/gilbert-telephonte.xml"
+      ],
+      "fre000709": [
+        189,
+        "tei/gillet-art-de-regner.xml"
+      ],
+      "fre000710": [
+        189,
+        "tei/gillet-campagnard.xml"
+      ],
+      "fre000711": [
+        189,
+        "tei/gillet-deniaise.xml"
+      ],
+      "fre000712": [
+        189,
+        "tei/gillet-francion.xml"
+      ],
+      "fre000713": [
+        189,
+        "tei/gillot-regnard-marchand-ridicule.xml"
+      ],
+      "fre000714": [
+        189,
+        "tei/giraudoux-impromptu-de-paris.xml"
+      ],
+      "fre000715": [
+        189,
+        "tei/giraudoux-ondine.xml"
+      ],
+      "fre000716": [
+        189,
+        "tei/goetschy-professeur-de-declamation.xml"
+      ],
+      "fre000717": [
+        189,
+        "tei/gosse-auteur-dans-son-menage.xml"
+      ],
+      "fre000718": [
+        189,
+        "tei/gouges-cherubin.xml"
+      ],
+      "fre000719": [
+        189,
+        "tei/gouges-exclavage-des-noirs.xml"
+      ],
+      "fre000720": [
+        189,
+        "tei/gouges-moliere-ninon.xml"
+      ],
+      "fre000721": [
+        189,
+        "tei/goulard-agis.xml"
+      ],
+      "fre000722": [
+        189,
+        "tei/goullinet-trois-aveugles.xml"
+      ],
+      "fre000723": [
+        189,
+        "tei/gourmont-theodat.xml"
+      ],
+      "fre000724": [
+        189,
+        "tei/graffigny-phaza.xml"
+      ],
+      "fre000725": [
+        189,
+        "tei/graffigny-ziman-zenise.xml"
+      ],
+      "fre000726": [
+        189,
+        "tei/grandval-eunuque.xml"
+      ],
+      "fre000729": [
+        189,
+        "tei/gresset-edouard-iii.xml"
+      ],
+      "fre000727": [
+        189,
+        "tei/grandval-luxurieux.xml"
+      ],
+      "fre000728": [
+        189,
+        "tei/grandval-temperament.xml"
+      ],
+      "fre000730": [
+        189,
+        "tei/grevin-cesar.xml"
+      ],
+      "fre000731": [
+        189,
+        "tei/grevin-tresoriere.xml"
+      ],
+      "fre000732": [
+        189,
+        "tei/grosclaude-peche-a-la-ligne.xml"
+      ],
+      "fre000733": [
+        189,
+        "tei/gudin-lothaire.xml"
+      ],
+      "fre000734": [
+        189,
+        "tei/guerin-de-bouscal-dom-quixote.xml"
+      ],
+      "fre000735": [
+        189,
+        "tei/guerin-de-bouscal-dom-quixote-2.xml"
+      ],
+      "fre000736": [
+        189,
+        "tei/guerin-de-bouscal-fils-desavoue.xml"
+      ],
+      "fre000737": [
+        189,
+        "tei/gueudeville-dialogues-de-lahontan-1704.xml"
+      ],
+      "fre000738": [
+        189,
+        "tei/gueullette-amant-cochemard.xml"
+      ],
+      "fre000739": [
+        189,
+        "tei/gueullette-amant-poussif.xml"
+      ],
+      "fre000740": [
+        189,
+        "tei/gueullette-arlequin-pluton.xml"
+      ],
+      "fre000741": [
+        189,
+        "tei/gueullette-caracataca.xml"
+      ],
+      "fre000742": [
+        189,
+        "tei/gueullette-chapeau-de-fortunatus.xml"
+      ],
+      "fre000753": [
+        189,
+        "tei/guimont-de-la-touche-iphigenie.xml"
+      ],
+      "fre000754": [
+        189,
+        "tei/guyot-de-merville-consentement-force.xml"
+      ],
+      "fre000743": [
+        189,
+        "tei/gueullette-chaste-isabelle.xml"
+      ],
+      "fre000744": [
+        189,
+        "tei/gueullette-confiance-des-cocus.xml"
+      ],
+      "fre000745": [
+        189,
+        "tei/gueullette-fausses-envies.xml"
+      ],
+      "fre000746": [
+        189,
+        "tei/gueullette-isabelle-grosse-par-vertu.xml"
+      ],
+      "fre000747": [
+        189,
+        "tei/gueullette-leandre-fiacre.xml"
+      ],
+      "fre000748": [
+        189,
+        "tei/gueullette-leandre-hongre.xml"
+      ],
+      "fre000749": [
+        189,
+        "tei/gueullette-marchand-de-merde.xml"
+      ],
+      "fre000750": [
+        189,
+        "tei/gueullette-parade-1.xml"
+      ],
+      "fre000751": [
+        189,
+        "tei/gueullette-parade-2.xml"
+      ],
+      "fre000752": [
+        189,
+        "tei/guibert-filles-a-marier.xml"
+      ],
+      "fre000755": [
+        189,
+        "tei/hardy-meleagre.xml"
+      ],
+      "fre000757": [
+        189,
+        "tei/harny-petit-maitre-province.xml"
+      ],
+      "fre000756": [
+        189,
+        "tei/haren-agon.xml"
+      ],
+      "fre000758": [
+        189,
+        "tei/harny-sybille.xml"
+      ],
+      "fre000759": [
+        189,
+        "tei/hauteroche-cocher-suppose.xml"
+      ],
+      "fre000760": [
+        189,
+        "tei/henault-marius-a-cirte.xml"
+      ],
+      "fre000761": [
+        189,
+        "tei/henault-temple-des-chimeres.xml"
+      ],
+      "fre000762": [
+        189,
+        "tei/hervilly-docteur-sans-pareil.xml"
+      ],
+      "fre000763": [
+        189,
+        "tei/hervilly-laitiere.xml"
+      ],
+      "fre000764": [
+        189,
+        "tei/hervilly-magister.xml"
+      ],
+      "fre000765": [
+        189,
+        "tei/hervilly-malade-reel.xml"
+      ],
+      "fre000766": [
+        189,
+        "tei/hervilly-moliere-en-prison.xml"
+      ],
+      "fre000767": [
+        189,
+        "tei/hervilly-pere-et-fils.xml"
+      ],
+      "fre000768": [
+        189,
+        "tei/hervilly-silence-dans-les-rangs.xml"
+      ],
+      "fre000769": [
+        189,
+        "tei/hervilly-soupe.xml"
+      ],
+      "fre000770": [
+        189,
+        "tei/hoffman-original.xml"
+      ],
+      "fre000771": [
+        189,
+        "tei/hoffman-phedre.xml"
+      ],
+      "fre000772": [
+        189,
+        "tei/hugo-burgraves.xml"
+      ],
+      "fre000773": [
+        189,
+        "tei/hugo-hernani.xml"
+      ],
+      "fre000774": [
+        189,
+        "tei/hugues-boite-a-musique.xml"
+      ],
+      "fre000775": [
+        189,
+        "tei/hugues-cendrillon.xml"
+      ],
+      "fre000777": [
+        189,
+        "tei/hugues-nuit-moliere.xml"
+      ],
+      "fre000776": [
+        189,
+        "tei/hugues-la-maison-des-dimanches.xml"
+      ],
+      "fre000778": [
+        189,
+        "tei/hugues-tyl.xml"
+      ],
+      "fre000780": [
+        189,
+        "tei/imbert-inauguration.xml"
+      ],
+      "fre000781": [
+        189,
+        "tei/imbert-poinsinet-moliere.xml"
+      ],
+      "fre000782": [
+        189,
+        "tei/jacquelin-philidor-pradon.xml"
+      ],
+      "fre000783": [
+        189,
+        "tei/jaquelin-soliman.xml"
+      ],
+      "fre000784": [
+        189,
+        "tei/jarry-ubu-roi.xml"
+      ],
+      "fre000779": [
+        189,
+        "tei/hus-ingenu.xml"
+      ],
+      "fre000786": [
+        189,
+        "tei/jodelle-cleopatre.xml"
+      ],
+      "fre000787": [
+        189,
+        "tei/jodelle-didon.xml"
+      ],
+      "fre000789": [
+        189,
+        "tei/joliet-moliere.xml"
+      ],
+      "fre000791": [
+        189,
+        "tei/joly-cinq-mars.xml"
+      ],
+      "fre000792": [
+        189,
+        "tei/joly-fouquet-a-la-bastille.xml"
+      ],
+      "fre000793": [
+        189,
+        "tei/joly-moliere.xml"
+      ],
+      "fre000794": [
+        189,
+        "tei/joly-salomon.xml"
+      ],
+      "fre000795": [
+        189,
+        "tei/kolb-soubrette-de-moliere.xml"
+      ],
+      "fre000797": [
+        189,
+        "tei/labiche-jolly-baron-de-fourchevif.xml"
+      ],
+      "fre000798": [
+        189,
+        "tei/labiche-legouve-cigale-chez-les-fourmis.xml"
+      ],
+      "fre000799": [
+        189,
+        "tei/labiche-leroy-brulons-voltaire.xml"
+      ],
+      "fre000796": [
+        189,
+        "tei/labaume-messe-de-gnide.xml"
+      ],
+      "fre000800": [
+        189,
+        "tei/labiche-leroy-il-est-de-la-police.xml"
+      ],
+      "fre000801": [
+        189,
+        "tei/labiche-michel-deux-timides.xml"
+      ],
+      "fre000802": [
+        189,
+        "tei/labiche-coup-de-rasoir.xml"
+      ],
+      "fre000803": [
+        189,
+        "tei/laboullaye-cormon-corneille-rotrou.xml"
+      ],
+      "fre000804": [
+        189,
+        "tei/la-calprenede-bradamante.xml"
+      ],
+      "fre000805": [
+        189,
+        "tei/la-calprenede-clarionte.xml"
+      ],
+      "fre000806": [
+        189,
+        "tei/la-calprenede-comte-d-essex.xml"
+      ],
+      "fre000807": [
+        189,
+        "tei/la-calprenede-edouard.xml"
+      ],
+      "fre000808": [
+        189,
+        "tei/la-calprenede-enfants-d-herode.xml"
+      ],
+      "fre000809": [
+        189,
+        "tei/la-calprenede-hermenegilde.xml"
+      ],
+      "fre000810": [
+        189,
+        "tei/la-calprenede-jeanne.xml"
+      ],
+      "fre000811": [
+        189,
+        "tei/la-calprenede-mort-mitrhidate.xml"
+      ],
+      "fre000812": [
+        189,
+        "tei/la-calprenede-phalante.xml"
+      ],
+      "fre000813": [
+        189,
+        "tei/la-chapelle-zaide.xml"
+      ],
+      "fre000814": [
+        189,
+        "tei/la-croix-guerre-comique.xml"
+      ],
+      "fre000815": [
+        189,
+        "tei/l-affichard-acteurs-deplaces.xml"
+      ],
+      "fre000816": [
+        189,
+        "tei/la-fontaine-achille.xml"
+      ],
+      "fre000817": [
+        189,
+        "tei/la-fontaine-astree.xml"
+      ],
+      "fre000818": [
+        189,
+        "tei/la-fontaine-climene.xml"
+      ],
+      "fre000819": [
+        189,
+        "tei/la-fontaine-daphne.xml"
+      ],
+      "fre000820": [
+        189,
+        "tei/la-fontaine-eunuque.xml"
+      ],
+      "fre000821": [
+        189,
+        "tei/la-fontaine-florentin.xml"
+      ],
+      "fre000822": [
+        189,
+        "tei/la-fontaine-galatee.xml"
+      ],
+      "fre000824": [
+        189,
+        "tei/la-fontaine-rieurs-du-beau-richard.xml"
+      ],
+      "fre000825": [
+        189,
+        "tei/lafont-lesage-querelle-des-theatres.xml"
+      ],
+      "fre000826": [
+        189,
+        "tei/lafont-naufrage.xml"
+      ],
+      "fre000827": [
+        189,
+        "tei/lafont-trois-freres-rivaux.xml"
+      ],
+      "fre000828": [
+        189,
+        "tei/la-forge-joueuse-dupee.xml"
+      ],
+      "fre000829": [
+        189,
+        "tei/laforgue-noce-de-pierrot.xml"
+      ],
+      "fre000830": [
+        189,
+        "tei/laforgue-nuit-de-noces.xml"
+      ],
+      "fre000831": [
+        189,
+        "tei/la-fossem-ecole-de-la-raison.xml"
+      ],
+      "fre000832": [
+        189,
+        "tei/la-fosse-manlius.xml"
+      ],
+      "fre000833": [
+        189,
+        "tei/lagrange-chancel-amasis.xml"
+      ],
+      "fre000834": [
+        189,
+        "tei/lagrange-chancel-meleagre.xml"
+      ],
+      "fre000835": [
+        189,
+        "tei/lagrange-chancel-oreste.xml"
+      ],
+      "fre000836": [
+        189,
+        "tei/la-harpe-comte-de-warwick.xml"
+      ],
+      "fre000837": [
+        189,
+        "tei/la-harpe-melanie.xml"
+      ],
+      "fre000838": [
+        189,
+        "tei/la-harpe-moliere.xml"
+      ],
+      "fre000839": [
+        189,
+        "tei/la-harpe-muses-rivales.xml"
+      ],
+      "fre000840": [
+        189,
+        "tei/la-harpe-philoctete.xml"
+      ],
+      "fre000841": [
+        189,
+        "tei/laignelot-agis.xml"
+      ],
+      "fre000842": [
+        189,
+        "tei/lambert-collaboration.xml"
+      ],
+      "fre000843": [
+        189,
+        "tei/la-motte-amadis.xml"
+      ],
+      "fre000844": [
+        189,
+        "tei/la-motte-canente.xml"
+      ],
+      "fre000845": [
+        189,
+        "tei/la-motte-carnaval-folie.xml"
+      ],
+      "fre000846": [
+        189,
+        "tei/la-motte-ines-de-castro.xml"
+      ],
+      "fre000847": [
+        189,
+        "tei/la-motte-machabees.xml"
+      ],
+      "fre000848": [
+        189,
+        "tei/la-motte-magnifique.xml"
+      ],
+      "fre000849": [
+        189,
+        "tei/la-motte-matrone-d-ephese.xml"
+      ],
+      "fre000850": [
+        189,
+        "tei/la-motte-omphale.xml"
+      ],
+      "fre000851": [
+        189,
+        "tei/la-motte-scanderberg.xml"
+      ],
+      "fre000852": [
+        189,
+        "tei/lantier-impatient.xml"
+      ],
+      "fre000853": [
+        189,
+        "tei/laujon-hero-leandre.xml"
+      ],
+      "fre000854": [
+        189,
+        "tei/launay-francais-chez-les-hurons.xml"
+      ],
+      "fre000855": [
+        189,
+        "tei/lebeau-de-schosne-assemblee.xml"
+      ],
+      "fre000856": [
+        189,
+        "tei/le-boulanger-chalussay-elomire-hypocondre.xml"
+      ],
+      "fre000857": [
+        189,
+        "tei/leclercq-folle.xml"
+      ],
+      "fre000858": [
+        189,
+        "tei/leclerc-iphigenie.xml"
+      ],
+      "fre000859": [
+        189,
+        "tei/le-franc-didon.xml"
+      ],
+      "fre000860": [
+        189,
+        "tei/legouvee-fleur-de-tlemcen.xml"
+      ],
+      "fre000861": [
+        189,
+        "tei/legouve-attilie.xml"
+      ],
+      "fre000862": [
+        189,
+        "tei/legouve-eteocle.xml"
+      ],
+      "fre000863": [
+        189,
+        "tei/legouve-laurence-orzano.xml"
+      ],
+      "fre000864": [
+        189,
+        "tei/legouve-ma-fille-et-mon-bien.xml"
+      ],
+      "fre000865": [
+        189,
+        "tei/legouve-polixene.xml"
+      ],
+      "fre000866": [
+        189,
+        "tei/legrand-cartouche.xml"
+      ],
+      "fre000867": [
+        189,
+        "tei/legrand-famille-extravagante.xml"
+      ],
+      "fre000868": [
+        189,
+        "tei/legrand-nouveaute.xml"
+      ],
+      "fre000869": [
+        189,
+        "tei/legrand-plutus.xml"
+      ],
+      "fre000870": [
+        189,
+        "tei/legrand-usurier-gentilhomme.xml"
+      ],
+      "fre000871": [
+        189,
+        "tei/lemercier-bavardes.xml"
+      ],
+      "fre000872": [
+        189,
+        "tei/lemierre-artaxerce.xml"
+      ],
+      "fre000873": [
+        189,
+        "tei/lemierre-guillaume-tell.xml"
+      ],
+      "fre000874": [
+        189,
+        "tei/lemierre-veuve-malabar.xml"
+      ],
+      "fre000875": [
+        189,
+        "tei/le-noble-cibisme.xml"
+      ],
+      "fre000876": [
+        189,
+        "tei/le-noble-entretien-scarron-moliere.xml"
+      ],
+      "fre000877": [
+        189,
+        "tei/lesage-dorneval-ile-gougou.xml"
+      ],
+      "fre000878": [
+        189,
+        "tei/lesage-arlequin-mahomet.xml"
+      ],
+      "fre000879": [
+        189,
+        "tei/lesage-crispin-rival-de-son-maitre.xml"
+      ],
+      "fre000880": [
+        189,
+        "tei/lesage-mariages-de-canada.xml"
+      ],
+      "fre000881": [
+        189,
+        "tei/lescarbot-neptune.xml"
+      ],
+      "fre000882": [
+        189,
+        "tei/le-senne-reveil-corneille.xml"
+      ],
+      "fre000883": [
+        189,
+        "tei/lesguillon-saint-yves-protege-de-moliere.xml"
+      ],
+      "fre000884": [
+        189,
+        "tei/l-estoile-belle-esclave.xml"
+      ],
+      "fre000885": [
+        189,
+        "tei/l-estoile-intrigue-des-filous.xml"
+      ],
+      "fre000886": [
+        189,
+        "tei/l-estoile-maistre-galimathias.xml"
+      ],
+      "fre000887": [
+        189,
+        "tei/le-tellier-dom-juan.xml"
+      ],
+      "fre000888": [
+        189,
+        "tei/le-vayer-grand-selim.xml"
+      ],
+      "fre000889": [
+        189,
+        "tei/liborliere-cloison.xml"
+      ],
+      "fre000890": [
+        189,
+        "tei/linant-alzaide.xml"
+      ],
+      "fre000891": [
+        189,
+        "tei/liquier-amour-electrique.xml"
+      ],
+      "fre000892": [
+        189,
+        "tei/liquier-mon-futur.xml"
+      ],
+      "fre000893": [
+        189,
+        "tei/longepierre-medee.xml"
+      ],
+      "fre000894": [
+        189,
+        "tei/longhaye-richelieu.xml"
+      ],
+      "fre000895": [
+        189,
+        "tei/longhaye-souperdauteuil.xml"
+      ],
+      "fre000896": [
+        189,
+        "tei/louet-lemarchant-artistes-de-societe.xml"
+      ],
+      "fre000897": [
+        189,
+        "tei/magnon-artaxerxe.xml"
+      ],
+      "fre000898": [
+        189,
+        "tei/magnon-jeanne-de-naples.xml"
+      ],
+      "fre000899": [
+        189,
+        "tei/magnon-josaphat.xml"
+      ],
+      "fre000900": [
+        189,
+        "tei/magnon-mariage-oroondate.xml"
+      ],
+      "fre000901": [
+        189,
+        "tei/magnon-sejanus.xml"
+      ],
+      "fre000902": [
+        189,
+        "tei/magnon-tamerlan.xml"
+      ],
+      "fre000903": [
+        189,
+        "tei/magnon-zenobie.xml"
+      ],
+      "fre000904": [
+        189,
+        "tei/maintenon-conversations.xml"
+      ],
+      "fre000905": [
+        189,
+        "tei/mairet-athenais.xml"
+      ],
+      "fre000906": [
+        189,
+        "tei/mairet-illustre-corsaire.xml"
+      ],
+      "fre000907": [
+        189,
+        "tei/mairet-sophonisbe.xml"
+      ],
+      "fre000908": [
+        189,
+        "tei/malezieu-polichinelle-academie.xml"
+      ],
+      "fre000909": [
+        189,
+        "tei/marchadier-plaisir.xml"
+      ],
+      "fre000910": [
+        189,
+        "tei/marechal-jugement-dernier-des-rois.xml"
+      ],
+      "fre000911": [
+        189,
+        "tei/mareschala-cour-bergere.xml"
+      ],
+      "fre000912": [
+        189,
+        "tei/mareschala-dictateur-romain.xml"
+      ],
+      "fre000913": [
+        189,
+        "tei/mareschala-genereuse-allemande.xml"
+      ],
+      "fre000914": [
+        189,
+        "tei/mareschala-genereuse-allemande-2.xml"
+      ],
+      "fre000915": [
+        189,
+        "tei/mareschala-inconstance-d-hylas.xml"
+      ],
+      "fre000916": [
+        189,
+        "tei/mareschala-jugement.xml"
+      ],
+      "fre000917": [
+        189,
+        "tei/mareschala-mauzolee.xml"
+      ],
+      "fre000918": [
+        189,
+        "tei/mareschala-railleur.xml"
+      ],
+      "fre000919": [
+        189,
+        "tei/mareschala-soeur-valeureuse.xml"
+      ],
+      "fre000920": [
+        189,
+        "tei/mareschala-veritable-capitaine-matamore.xml"
+      ],
+      "fre000921": [
+        189,
+        "tei/marivaux-acteurs-de-bonne-foi.xml"
+      ],
+      "fre000922": [
+        189,
+        "tei/marivaux-annibal.xml"
+      ],
+      "fre000923": [
+        189,
+        "tei/marivaux-arlequin-poli-par-l-amour.xml"
+      ],
+      "fre000924": [
+        189,
+        "tei/marivaux-colonie.xml"
+      ],
+      "fre000925": [
+        189,
+        "tei/marivaux-commere.xml"
+      ],
+      "fre000926": [
+        189,
+        "tei/marivaux-denouement-imprevu.xml"
+      ],
+      "fre000927": [
+        189,
+        "tei/marivaux-dispute.xml"
+      ],
+      "fre000928": [
+        189,
+        "tei/marivaux-double-inconstance.xml"
+      ],
+      "fre000929": [
+        189,
+        "tei/marivaux-ecole-des-meres.xml"
+      ],
+      "fre000930": [
+        189,
+        "tei/marivaux-epreuve.xml"
+      ],
+      "fre000931": [
+        189,
+        "tei/marivaux-fausses-confidences.xml"
+      ],
+      "fre000932": [
+        189,
+        "tei/marivaux-fausse-suivante.xml"
+      ],
+      "fre000933": [
+        189,
+        "tei/marivaux-felicie.xml"
+      ],
+      "fre000934": [
+        189,
+        "tei/marivaux-femme-fidele.xml"
+      ],
+      "fre000935": [
+        189,
+        "tei/marivaux-heritier-de-village.xml"
+      ],
+      "fre000936": [
+        189,
+        "tei/marivaux-heureux-stratageme.xml"
+      ],
+      "fre000937": [
+        189,
+        "tei/marivaux-ile-de-la-raison.xml"
+      ],
+      "fre000938": [
+        189,
+        "tei/marivaux-ile-des-esclaves.xml"
+      ],
+      "fre000939": [
+        189,
+        "tei/marivaux-jeu-de-l-amour-et-du-hasard.xml"
+      ],
+      "fre000940": [
+        189,
+        "tei/marivaux-joie-imprevue.xml"
+      ],
+      "fre000941": [
+        189,
+        "tei/marivaux-legs.xml"
+      ],
+      "fre000942": [
+        189,
+        "tei/marivaux-meprise.xml"
+      ],
+      "fre000943": [
+        189,
+        "tei/marivaux-mere-confidente.xml"
+      ],
+      "fre000952": [
+        189,
+        "tei/marivaux-sinceres.xml"
+      ],
+      "fre000944": [
+        189,
+        "tei/marivaux-pere-prudent.xml"
+      ],
+      "fre000945": [
+        189,
+        "tei/marivaux-petit-maitre-corrige.xml"
+      ],
+      "fre000946": [
+        189,
+        "tei/marivaux-prejuge-vaincu.xml"
+      ],
+      "fre000947": [
+        189,
+        "tei/marivaux-prince-travesti.xml"
+      ],
+      "fre000948": [
+        189,
+        "tei/marivaux-provinciale.xml"
+      ],
+      "fre000949": [
+        189,
+        "tei/marivaux-reunion-des-amours.xml"
+      ],
+      "fre000950": [
+        189,
+        "tei/marivaux-seconde-surprise-de-l-amour.xml"
+      ],
+      "fre000951": [
+        189,
+        "tei/marivaux-serments-indiscrets.xml"
+      ],
+      "fre000953": [
+        189,
+        "tei/marivaux-surprise-de-l-amour.xml"
+      ],
+      "fre000954": [
+        189,
+        "tei/marivaux-triomphe-de-l-amour.xml"
+      ],
+      "fre000955": [
+        189,
+        "tei/marivaux-triomphe-plutus.xml"
+      ],
+      "fre000956": [
+        189,
+        "tei/marmontel-hercule-mourant.xml"
+      ],
+      "fre000957": [
+        189,
+        "tei/marmontel-huron.xml"
+      ],
+      "fre000958": [
+        189,
+        "tei/marolles-avaricieux.xml"
+      ],
+      "fre000960": [
+        189,
+        "tei/mayeur-eleve-de-la-nature.xml"
+      ],
+      "fre000961": [
+        189,
+        "tei/melandri-halle-aux-baisers.xml"
+      ],
+      "fre000959": [
+        189,
+        "tei/mathieu-magicienne-etrangere.xml"
+      ],
+      "fre000962": [
+        189,
+        "tei/mercier-destruction-de-la-ligue.xml"
+      ],
+      "fre000963": [
+        189,
+        "tei/mercier-habitant-guadeloupe.xml"
+      ],
+      "fre000964": [
+        189,
+        "tei/mercier-jenneval.xml"
+      ],
+      "fre000965": [
+        189,
+        "tei/mercier-liberateur.xml"
+      ],
+      "fre000966": [
+        189,
+        "tei/mercier-tombeaux-de-verone.xml"
+      ],
+      "fre000967": [
+        189,
+        "tei/merle-a-bas-moliere.xml"
+      ],
+      "fre000968": [
+        189,
+        "tei/millevoye-dialogue-lucien-boileau.xml"
+      ],
+      "fre000969": [
+        189,
+        "tei/millot-moliere-et-sa-servante.xml"
+      ],
+      "fre000970": [
+        189,
+        "tei/minier-songe-de-moliere.xml"
+      ],
+      "fre000971": [
+        189,
+        "tei/mirbeau-epidemie.xml"
+      ],
+      "fre000972": [
+        189,
+        "tei/mirbeau-litterature.xml"
+      ],
+      "fre000973": [
+        189,
+        "tei/moissy-comedie.xml"
+      ],
+      "fre000974": [
+        189,
+        "tei/moissy-deux-medecines.xml"
+      ],
+      "fre000975": [
+        189,
+        "tei/moissy-duel.xml"
+      ],
+      "fre000976": [
+        189,
+        "tei/moissy-gourmandes.xml"
+      ],
+      "fre000977": [
+        189,
+        "tei/moissy-goute.xml"
+      ],
+      "fre000978": [
+        189,
+        "tei/moissy-habit-sans-galons.xml"
+      ],
+      "fre000979": [
+        189,
+        "tei/moissy-heureux-naturel.xml"
+      ],
+      "fre000980": [
+        189,
+        "tei/moissy-liaisons-dangereuses.xml"
+      ],
+      "fre000981": [
+        189,
+        "tei/moissy-malheur-imprevu.xml"
+      ],
+      "fre000982": [
+        189,
+        "tei/moissy-menuet.xml"
+      ],
+      "fre000983": [
+        189,
+        "tei/moissy-moineaux.xml"
+      ],
+      "fre000984": [
+        189,
+        "tei/moissy-petite-verole.xml"
+      ],
+      "fre000985": [
+        189,
+        "tei/moissy-petit-paysan.xml"
+      ],
+      "fre000986": [
+        189,
+        "tei/moissy-piece-de-vers.xml"
+      ],
+      "fre000987": [
+        189,
+        "tei/moissy-poches.xml"
+      ],
+      "fre000988": [
+        189,
+        "tei/moissy-poupee.xml"
+      ],
+      "fre000989": [
+        189,
+        "tei/moissy-prejuges.xml"
+      ],
+      "fre000990": [
+        189,
+        "tei/moissy-quiproquo.xml"
+      ],
+      "fre000991": [
+        189,
+        "tei/moissy-revenants.xml"
+      ],
+      "fre000992": [
+        189,
+        "tei/moissy-version.xml"
+      ],
+      "fre000993": [
+        189,
+        "tei/moliere-amants-magnifiques.xml"
+      ],
+      "fre000994": [
+        189,
+        "tei/moliere-amour-medecin.xml"
+      ],
+      "fre000995": [
+        189,
+        "tei/moliere-amphitryon.xml"
+      ],
+      "fre000997": [
+        189,
+        "tei/moliere-bourgeois-gentilhomme.xml"
+      ],
+      "fre000996": [
+        189,
+        "tei/moliere-avare.xml"
+      ],
+      "fre000998": [
+        189,
+        "tei/moliere-comtesse-escarbagnas.xml"
+      ],
+      "fre000999": [
+        189,
+        "tei/moliere-critique-ecole-des-femmes.xml"
+      ],
+      "fre001000": [
+        189,
+        "tei/moliere-depit-amoureux.xml"
+      ],
+      "fre001001": [
+        189,
+        "tei/moliere-divertissement-chambord.xml"
+      ],
+      "fre001002": [
+        189,
+        "tei/moliere-dom-garcie-de-navarre.xml"
+      ],
+      "fre001003": [
+        189,
+        "tei/moliere-dom-juan.xml"
+      ],
+      "fre001004": [
+        189,
+        "tei/moliere-ecole-des-femmes.xml"
+      ],
+      "fre001005": [
+        189,
+        "tei/moliere-ecole-des-maris.xml"
+      ],
+      "fre001006": [
+        189,
+        "tei/moliere-etourdi.xml"
+      ],
+      "fre001007": [
+        189,
+        "tei/moliere-facheux.xml"
+      ],
+      "fre001009": [
+        189,
+        "tei/moliere-festin-de-pierre.xml"
+      ],
+      "fre001010": [
+        189,
+        "tei/moliere-fourberies-de-scapin.xml"
+      ],
+      "fre001011": [
+        189,
+        "tei/moliere-george-dandin.xml"
+      ],
+      "fre001012": [
+        189,
+        "tei/moliere-impromptu-versailles.xml"
+      ],
+      "fre001013": [
+        189,
+        "tei/moliere-jalousie-du-barbouille.xml"
+      ],
+      "fre001014": [
+        189,
+        "tei/moliere-malade-imaginaire.xml"
+      ],
+      "fre001015": [
+        189,
+        "tei/moliere-mariage-force.xml"
+      ],
+      "fre001016": [
+        189,
+        "tei/moliere-medecin-malgre-lui.xml"
+      ],
+      "fre001017": [
+        189,
+        "tei/moliere-medecin-volant.xml"
+      ],
+      "fre001018": [
+        189,
+        "tei/moliere-melicerte.xml"
+      ],
+      "fre001019": [
+        189,
+        "tei/moliere-misanthrope.xml"
+      ],
+      "fre001020": [
+        189,
+        "tei/moliere-monsieur-pourceaugnac.xml"
+      ],
+      "fre001021": [
+        189,
+        "tei/moliere-precieuses-ridicules.xml"
+      ],
+      "fre001022": [
+        189,
+        "tei/moliere-princesse-d-elide.xml"
+      ],
+      "fre001023": [
+        189,
+        "tei/moliere-psyche.xml"
+      ],
+      "fre001024": [
+        189,
+        "tei/moliere-sganarelle.xml"
+      ],
+      "fre001025": [
+        189,
+        "tei/moliere-sicilien.xml"
+      ],
+      "fre001026": [
+        189,
+        "tei/moliere-tartuffe.xml"
+      ],
+      "fre001027": [
+        138,
+        "tei/moliere-tartuffe-64.xml"
+      ],
+      "fre001028": [
+        189,
+        "tei/moline-inconnue.xml"
+      ],
+      "fre001029": [
+        189,
+        "tei/moline-legislatrices.xml"
+      ],
+      "fre001030": [
+        189,
+        "tei/monchretien-ecossaise-1604.xml"
+      ],
+      "fre001031": [
+        189,
+        "tei/moncrif-abderites.xml"
+      ],
+      "fre001032": [
+        189,
+        "tei/mongin-promenades-de-paris.xml"
+      ],
+      "fre001033": [
+        189,
+        "tei/monselet-arene-ilote.xml"
+      ],
+      "fre001034": [
+        189,
+        "tei/monselet-bibliotheque.xml"
+      ],
+      "fre001035": [
+        189,
+        "tei/monselet-deux-dumas.xml"
+      ],
+      "fre001036": [
+        189,
+        "tei/monselet-enfer.xml"
+      ],
+      "fre001039": [
+        189,
+        "tei/monselet-pastilles-de-richelieu.xml"
+      ],
+      "fre001037": [
+        189,
+        "tei/monselet-livre-leste.xml"
+      ],
+      "fre001038": [
+        189,
+        "tei/monselet-par-la-poste.xml"
+      ],
+      "fre001040": [
+        189,
+        "tei/monselet-rhumatisme.xml"
+      ],
+      "fre001041": [
+        189,
+        "tei/monselet-voyage-dans-mes-poches.xml"
+      ],
+      "fre001042": [
+        189,
+        "tei/mons-dernier-klephte.xml"
+      ],
+      "fre001043": [
+        189,
+        "tei/montalembert-statue.xml"
+      ],
+      "fre001044": [
+        189,
+        "tei/montchretien-aman.xml"
+      ],
+      "fre001045": [
+        189,
+        "tei/montchretien-carthaginoise.xml"
+      ],
+      "fre001046": [
+        189,
+        "tei/montchretien-david.xml"
+      ],
+      "fre001047": [
+        189,
+        "tei/montchretien-hector.xml"
+      ],
+      "fre001048": [
+        189,
+        "tei/montchretien-lacenes.xml"
+      ],
+      "fre001049": [
+        189,
+        "tei/montfleury-impromptu-conde.xml"
+      ],
+      "fre001050": [
+        189,
+        "tei/montfleury-le-mariage-de-rien.xml"
+      ],
+      "fre001051": [
+        189,
+        "tei/montgaudier-natalie.xml"
+      ],
+      "fre001052": [
+        189,
+        "tei/musset-augier-habit-vert.xml"
+      ],
+      "fre001053": [
+        189,
+        "tei/musset-andre-del-sarto.xml"
+      ],
+      "fre001054": [
+        189,
+        "tei/musset-ane.xml"
+      ],
+      "fre001055": [
+        189,
+        "tei/musset-badine.xml"
+      ],
+      "fre001057": [
+        189,
+        "tei/musset-caprice.xml"
+      ],
+      "fre001058": [
+        189,
+        "tei/musset-caprices.xml"
+      ],
+      "fre001059": [
+        189,
+        "tei/musset-carmosine.xml"
+      ],
+      "fre001060": [
+        189,
+        "tei/musset-il-ne-faut-jurer-de-rien.xml"
+      ],
+      "fre001062": [
+        189,
+        "tei/musset-nuit-venitienne.xml"
+      ],
+      "fre001063": [
+        189,
+        "tei/nadal-antiochus.xml"
+      ],
+      "fre001065": [
+        189,
+        "tei/nadal-esther.xml"
+      ],
+      "fre001066": [
+        189,
+        "tei/nadal-herode.xml"
+      ],
+      "fre001067": [
+        189,
+        "tei/nadal-mariamne.xml"
+      ],
+      "fre001068": [
+        189,
+        "tei/nadal-osarphis-moise.xml"
+      ],
+      "fre001069": [
+        189,
+        "tei/nadal-paradis-terrestre.xml"
+      ],
+      "fre001070": [
+        189,
+        "tei/nadal-saul.xml"
+      ],
+      "fre001071": [
+        189,
+        "tei/nadaud-double-aveu.xml"
+      ],
+      "fre001072": [
+        189,
+        "tei/nadaud-examen.xml"
+      ],
+      "fre001073": [
+        189,
+        "tei/nadaud-oraison-funebre.xml"
+      ],
+      "fre001074": [
+        189,
+        "tei/nadaud-proverbe-manque.xml"
+      ],
+      "fre001075": [
+        189,
+        "tei/nericault-glorieux.xml"
+      ],
+      "fre001076": [
+        189,
+        "tei/nivelle-ecole-des-amis.xml"
+      ],
+      "fre001077": [
+        189,
+        "tei/nivelle-ecole-meres.xml"
+      ],
+      "fre001078": [
+        189,
+        "tei/nivelle-fausse-antipathie.xml"
+      ],
+      "fre001079": [
+        189,
+        "tei/nivelle-gouvernante.xml"
+      ],
+      "fre001080": [
+        189,
+        "tei/nivelle-prejuge-a-la-mode.xml"
+      ],
+      "fre001081": [
+        189,
+        "tei/nizas-sauvage-en-france.xml"
+      ],
+      "fre001082": [
+        189,
+        "tei/normand-claqueurs.xml"
+      ],
+      "fre001083": [
+        189,
+        "tei/normand-tentations-d-antoine.xml"
+      ],
+      "fre001084": [
+        189,
+        "tei/onhet-aux-avants-postes.xml"
+      ],
+      "fre001085": [
+        189,
+        "tei/ormoy-zelmis.xml"
+      ],
+      "fre001086": [
+        189,
+        "tei/ouville-absent-chez-soi.xml"
+      ],
+      "fre001087": [
+        189,
+        "tei/ouville-fausses-verites.xml"
+      ],
+      "fre001088": [
+        189,
+        "tei/ouville-soupcons.xml"
+      ],
+      "fre001089": [
+        189,
+        "tei/ozicourt-belizaire.xml"
+      ],
+      "fre001090": [
+        189,
+        "tei/ozicourt-romeo-juliette.xml"
+      ],
+      "fre001091": [
+        189,
+        "tei/pacaroni-bajazet-premier.xml"
+      ],
+      "fre001092": [
+        189,
+        "tei/pages-moliere-a-pezenas.xml"
+      ],
+      "fre001093": [
+        189,
+        "tei/pain-riou-chouans.xml"
+      ],
+      "fre001094": [
+        189,
+        "tei/pain-appartement-a-louer.xml"
+      ],
+      "fre001095": [
+        189,
+        "tei/palissot-barbier-de-bagdad.xml"
+      ],
+      "fre001096": [
+        189,
+        "tei/palissot-cercle.xml"
+      ],
+      "fre001097": [
+        189,
+        "tei/palissot-critique-tragedie-charles-ix.xml"
+      ],
+      "fre001098": [
+        189,
+        "tei/palissot-ninus.xml"
+      ],
+      "fre001099": [
+        189,
+        "tei/palissot-philosophes.xml"
+      ],
+      "fre001100": [
+        189,
+        "tei/palissot-tuteurs.xml"
+      ],
+      "fre001101": [
+        189,
+        "tei/panard-rien.xml"
+      ],
+      "fre001102": [
+        189,
+        "tei/patrat-heureuse-erreur.xml"
+      ],
+      "fre001103": [
+        189,
+        "tei/patrat-vengeance.xml"
+      ],
+      "fre001104": [
+        189,
+        "tei/pechantre-geta.xml"
+      ],
+      "fre001105": [
+        189,
+        "tei/pellegrin-tibere.xml"
+      ],
+      "fre001106": [
+        189,
+        "tei/pellet-desbarreaux-moliere-a-toulouse.xml"
+      ],
+      "fre001107": [
+        189,
+        "tei/perin-camille-desmoulins.xml"
+      ],
+      "fre001108": [
+        189,
+        "tei/pesselier-esope-au-parnasse.xml"
+      ],
+      "fre001109": [
+        189,
+        "tei/pg-a-la-monaco.xml"
+      ],
+      "fre001110": [
+        189,
+        "tei/pg-amour.xml"
+      ],
+      "fre001111": [
+        189,
+        "tei/pg-carnaval-du-baron.xml"
+      ],
+      "fre001112": [
+        189,
+        "tei/pg-fausse-invite.xml"
+      ],
+      "fre001113": [
+        189,
+        "tei/pg-thesee.xml"
+      ],
+      "fre001114": [
+        189,
+        "tei/pic-aricie.xml"
+      ],
+      "fre001115": [
+        189,
+        "tei/pifteau-moliere-en-voyage.xml"
+      ],
+      "fre001116": [
+        189,
+        "tei/piis-cassandre-astrologue.xml"
+      ],
+      "fre001117": [
+        189,
+        "tei/piron-arlequin-decalion.xml"
+      ],
+      "fre001118": [
+        189,
+        "tei/piron-ecole-peres.xml"
+      ],
+      "fre001119": [
+        189,
+        "tei/piron-fausse-alarme.xml"
+      ],
+      "fre001120": [
+        189,
+        "tei/piron-gustave-wasa.xml"
+      ],
+      "fre001121": [
+        189,
+        "tei/piron-metromanie.xml"
+      ],
+      "fre001123": [
+        189,
+        "tei/piron-vasta.xml"
+      ],
+      "fre001122": [
+        189,
+        "tei/piron-nouvelle-messaline.xml"
+      ],
+      "fre001124": [
+        189,
+        "tei/pirouette-jeune-homme-bleme.xml"
+      ],
+      "fre001125": [
+        189,
+        "tei/pixerecourt-victor.xml"
+      ],
+      "fre001126": [
+        189,
+        "tei/plancher-verre-d-eau.xml"
+      ],
+      "fre001127": [
+        189,
+        "tei/plaute-amphitryon.xml"
+      ],
+      "fre001128": [
+        189,
+        "tei/plaute-aululaire.xml"
+      ],
+      "fre001129": [
+        189,
+        "tei/plaute-casina.xml"
+      ],
+      "fre001130": [
+        189,
+        "tei/poinsinet-ajax.xml"
+      ],
+      "fre001131": [
+        189,
+        "tei/poinsinet-cercle.xml"
+      ],
+      "fre001132": [
+        189,
+        "tei/poinsinet-fra-maconnes.xml"
+      ],
+      "fre001133": [
+        189,
+        "tei/poinsinet-philosophes-de-bois.xml"
+      ],
+      "fre001134": [
+        189,
+        "tei/poisson-actrice-nouvelle.xml"
+      ],
+      "fre001135": [
+        189,
+        "tei/poisson-amour-secret.xml"
+      ],
+      "fre001136": [
+        189,
+        "tei/poisson-boite-de-pandore.xml"
+      ],
+      "fre001137": [
+        189,
+        "tei/poisson-holande-malade.xml"
+      ],
+      "fre001138": [
+        189,
+        "tei/poisson-sot-venge.xml"
+      ],
+      "fre001139": [
+        189,
+        "tei/pompigny-noeud-d-amour.xml"
+      ],
+      "fre001140": [
+        189,
+        "tei/ponsart-moliere-a-vienne.xml"
+      ],
+      "fre001142": [
+        189,
+        "tei/pousset-de-montauban-felicie.xml"
+      ],
+      "fre001143": [
+        189,
+        "tei/pousset-de-montauban-zenobie.xml"
+      ],
+      "fre001144": [
+        189,
+        "tei/pradel-moliere-avignon.xml"
+      ],
+      "fre001145": [
+        189,
+        "tei/pradel-trait-de-moliere.xml"
+      ],
+      "fre001150": [
+        189,
+        "tei/pradon-scipion.xml"
+      ],
+      "fre001151": [
+        189,
+        "tei/pradon-statira.xml"
+      ],
+      "fre001152": [
+        189,
+        "tei/puget-de-la-serre-climene.xml"
+      ],
+      "fre001153": [
+        189,
+        "tei/puget-de-la-serre-martyre-sainte-catherine.xml"
+      ],
+      "fre001154": [
+        189,
+        "tei/puget-de-la-serre-pandoste-i.xml"
+      ],
+      "fre001146": [
+        189,
+        "tei/prade-arsace.xml"
+      ],
+      "fre001147": [
+        189,
+        "tei/pradon-mort-de-bajazet.xml"
+      ],
+      "fre001148": [
+        189,
+        "tei/pradon-phedre.xml"
+      ],
+      "fre001149": [
+        189,
+        "tei/pradon-regulus.xml"
+      ],
+      "fre001155": [
+        189,
+        "tei/puget-de-la-serre-pandoste-ii.xml"
+      ],
+      "fre001156": [
+        189,
+        "tei/puget-de-la-serre-sac-de-carthage.xml"
+      ],
+      "fre001157": [
+        189,
+        "tei/puget-de-la-serre-thesee.xml"
+      ],
+      "fre001158": [
+        189,
+        "tei/puget-de-la-serre-thomas-morus.xml"
+      ],
+      "fre001159": [
+        189,
+        "tei/pure-deroute-des-precieuses.xml"
+      ],
+      "fre001160": [
+        189,
+        "tei/pure-ostorius.xml"
+      ],
+      "fre001161": [
+        189,
+        "tei/quinault-agrippa.xml"
+      ],
+      "fre001162": [
+        189,
+        "tei/quinault-alceste.xml"
+      ],
+      "fre001163": [
+        189,
+        "tei/quinault-amadis.xml"
+      ],
+      "fre001164": [
+        189,
+        "tei/quinault-amalasonte.xml"
+      ],
+      "fre001165": [
+        189,
+        "tei/quinault-armide.xml"
+      ],
+      "fre001166": [
+        189,
+        "tei/quinault-atys.xml"
+      ],
+      "fre001167": [
+        189,
+        "tei/quinault-bellerophon.xml"
+      ],
+      "fre001168": [
+        189,
+        "tei/quinault-cadmus-hermione.xml"
+      ],
+      "fre001169": [
+        189,
+        "tei/quinault-comedie-sans-comedie.xml"
+      ],
+      "fre001170": [
+        189,
+        "tei/quinault-coups-de-l-amour.xml"
+      ],
+      "fre001171": [
+        189,
+        "tei/quinault-docteur-de-verre.xml"
+      ],
+      "fre001172": [
+        189,
+        "tei/quinault-fantome-amoureux.xml"
+      ],
+      "fre001173": [
+        189,
+        "tei/quinault-fetes-amour-bacchus.xml"
+      ],
+      "fre001174": [
+        189,
+        "tei/quinault-genereuse-ingratitude.xml"
+      ],
+      "fre001175": [
+        189,
+        "tei/quinault-grotte.xml"
+      ],
+      "fre001176": [
+        189,
+        "tei/quinault-isis.xml"
+      ],
+      "fre001177": [
+        189,
+        "tei/quinault-mere-coquette.xml"
+      ],
+      "fre001178": [
+        189,
+        "tei/quinault-persee.xml"
+      ],
+      "fre001179": [
+        189,
+        "tei/quinault-proserpine.xml"
+      ],
+      "fre001180": [
+        189,
+        "tei/quinault-roland.xml"
+      ],
+      "fre001181": [
+        189,
+        "tei/quinault-stratonice.xml"
+      ],
+      "fre001182": [
+        189,
+        "tei/quinault-temple-de-la-paix.xml"
+      ],
+      "fre001183": [
+        189,
+        "tei/quinault-thesee.xml"
+      ],
+      "fre001184": [
+        189,
+        "tei/racine-alexandre.xml"
+      ],
+      "fre001185": [
+        189,
+        "tei/racine-alexandre-66.xml"
+      ],
+      "fre001186": [
+        189,
+        "tei/racine-andromaque.xml"
+      ],
+      "fre001187": [
+        189,
+        "tei/racine-andromaque-68.xml"
+      ],
+      "fre001188": [
+        189,
+        "tei/racine-athalie.xml"
+      ],
+      "fre001189": [
+        189,
+        "tei/racine-bajazet.xml"
+      ],
+      "fre001190": [
+        189,
+        "tei/racine-berenice.xml"
+      ],
+      "fre001191": [
+        189,
+        "tei/racine-britannicus.xml"
+      ],
+      "fre001192": [
+        189,
+        "tei/racine-esther.xml"
+      ],
+      "fre001193": [
+        189,
+        "tei/racine-iphigenie.xml"
+      ],
+      "fre001194": [
+        189,
+        "tei/racine-mithridate.xml"
+      ],
+      "fre001195": [
+        189,
+        "tei/racine-phedre.xml"
+      ],
+      "fre001196": [
+        189,
+        "tei/racine-phedre-77.xml"
+      ],
+      "fre001197": [
+        189,
+        "tei/racine-plaideurs.xml"
+      ],
+      "fre001198": [
+        189,
+        "tei/racine-plaideurs-69.xml"
+      ],
+      "fre001199": [
+        189,
+        "tei/racine-thebaide.xml"
+      ],
+      "fre001200": [
+        189,
+        "tei/racine-thebaide-64.xml"
+      ],
+      "fre001201": [
+        189,
+        "tei/rayssiguier-palinice.xml"
+      ],
+      "fre001202": [
+        189,
+        "tei/regnard-arlequin-aux-enfers.xml"
+      ],
+      "fre001203": [
+        189,
+        "tei/regnard-arlequin-bonnes-fortunes.xml"
+      ],
+      "fre001204": [
+        189,
+        "tei/regnard-attendez-sous-l-orme.xml"
+      ],
+      "fre001208": [
+        189,
+        "tei/regnard-democrite.xml"
+      ],
+      "fre001209": [
+        189,
+        "tei/regnard-distrait.xml"
+      ],
+      "fre001210": [
+        189,
+        "tei/regnard-divorce.xml"
+      ],
+      "fre001211": [
+        189,
+        "tei/regnard-filles-errantes.xml"
+      ],
+      "fre001212": [
+        189,
+        "tei/regnard-folies-amoureuses.xml"
+      ],
+      "fre001213": [
+        189,
+        "tei/regnard-homme-bonne-fortune-critique.xml"
+      ],
+      "fre001214": [
+        189,
+        "tei/regnard-joueur.xml"
+      ],
+      "fre001215": [
+        189,
+        "tei/regnard-legataire.xml"
+      ],
+      "fre001216": [
+        189,
+        "tei/regnard-legataire-critique.xml"
+      ],
+      "fre001217": [
+        189,
+        "tei/regnard-menechmes.xml"
+      ],
+      "fre001218": [
+        189,
+        "tei/regnard-retour-imprevu.xml"
+      ],
+      "fre001219": [
+        189,
+        "tei/regnard-sapor.xml"
+      ],
+      "fre001220": [
+        189,
+        "tei/regnard-serenade.xml"
+      ],
+      "fre001221": [
+        189,
+        "tei/regnard-souhaits.xml"
+      ],
+      "fre001222": [
+        189,
+        "tei/regnard-vendanges.xml"
+      ],
+      "fre001223": [
+        189,
+        "tei/renard-maitresse.xml"
+      ],
+      "fre001226": [
+        189,
+        "tei/riccoboni-riccoboni-romagnesi-echo-du-public.xml"
+      ],
+      "fre001227": [
+        189,
+        "tei/riccoboni-romagnesi-compliments.xml"
+      ],
+      "fre001228": [
+        189,
+        "tei/robinet-panegyrique-ecole-des-femmes.xml"
+      ],
+      "fre001229": [
+        189,
+        "tei/rochon-heureusement.xml"
+      ],
+      "fre001230": [
+        189,
+        "tei/roger-auteur-capitation.xml"
+      ],
+      "fre001231": [
+        189,
+        "tei/romagnesi-riccoboni-sauvages.xml"
+      ],
+      "fre001232": [
+        189,
+        "tei/romagnesi-rancune.xml"
+      ],
+      "fre001233": [
+        189,
+        "tei/ronsin-aretaphile.xml"
+      ],
+      "fre001234": [
+        189,
+        "tei/ronsin-ligues-des-fanatiques.xml"
+      ],
+      "fre001235": [
+        189,
+        "tei/rosimond-avocat-savetier.xml"
+      ],
+      "fre001236": [
+        189,
+        "tei/rosimond-festin-de-pierre.xml"
+      ],
+      "fre001237": [
+        189,
+        "tei/rotrou-agesilan.xml"
+      ],
+      "fre001238": [
+        189,
+        "tei/rotrou-amarillis.xml"
+      ],
+      "fre001239": [
+        189,
+        "tei/rotrou-amelie.xml"
+      ],
+      "fre001240": [
+        189,
+        "tei/rotrou-antigone.xml"
+      ],
+      "fre001241": [
+        189,
+        "tei/rotrou-bague-de-l-oubli.xml"
+      ],
+      "fre001242": [
+        189,
+        "tei/rotrou-belisaire.xml"
+      ],
+      "fre001243": [
+        189,
+        "tei/rotrou-belle-alphrede.xml"
+      ],
+      "fre001244": [
+        189,
+        "tei/rotrou-captifs.xml"
+      ],
+      "fre001245": [
+        189,
+        "tei/rotrou-celiane.xml"
+      ],
+      "fre001246": [
+        189,
+        "tei/rotrou-cleagenor.xml"
+      ],
+      "fre001247": [
+        189,
+        "tei/rotrou-cosroes.xml"
+      ],
+      "fre001248": [
+        189,
+        "tei/rotrou-deux-pucelles.xml"
+      ],
+      "fre001249": [
+        189,
+        "tei/rotrou-dom-bernard-de-cabrere.xml"
+      ],
+      "fre001250": [
+        189,
+        "tei/rotrou-hercule-mourant.xml"
+      ],
+      "fre001251": [
+        189,
+        "tei/rotrou-iphigenie.xml"
+      ],
+      "fre001252": [
+        189,
+        "tei/rotrou-saint-genest.xml"
+      ],
+      "fre001253": [
+        189,
+        "tei/rotrou-sosies.xml"
+      ],
+      "fre001254": [
+        189,
+        "tei/rotrou-venceslas.xml"
+      ],
+      "fre001255": [
+        189,
+        "tei/rougemont-discours-de-rentree.xml"
+      ],
+      "fre001256": [
+        189,
+        "tei/rousseaujb-cafe.xml"
+      ],
+      "fre001258": [
+        189,
+        "tei/rousseaujb-jason.xml"
+      ],
+      "fre001259": [
+        189,
+        "tei/rousseaup-mort-de-bucephale.xml"
+      ],
+      "fre001260": [
+        189,
+        "tei/rousseau-devin-du-village.xml"
+      ],
+      "fre001261": [
+        189,
+        "tei/rousseau-engagement-temeraire.xml"
+      ],
+      "fre001262": [
+        189,
+        "tei/rousseau-muses-galantes.xml"
+      ],
+      "fre001263": [
+        189,
+        "tei/rousseau-narcisse.xml"
+      ],
+      "fre001264": [
+        189,
+        "tei/rousseau-prisonniers-de-guerre.xml"
+      ],
+      "fre001265": [
+        189,
+        "tei/roy-compliment-14-mars-1750.xml"
+      ],
+      "fre001266": [
+        189,
+        "tei/roy-compliment-7-avril-1750.xml"
+      ],
+      "fre001267": [
+        189,
+        "tei/sacy-agnes-sorel.xml"
+      ],
+      "fre001268": [
+        189,
+        "tei/sacy-amour-platonique.xml"
+      ],
+      "fre001269": [
+        189,
+        "tei/sacy-bavard.xml"
+      ],
+      "fre001270": [
+        189,
+        "tei/sacy-benefice.xml"
+      ],
+      "fre001271": [
+        189,
+        "tei/sacy-bois-rose.xml"
+      ],
+      "fre001272": [
+        189,
+        "tei/sacy-contentement.xml"
+      ],
+      "fre001273": [
+        189,
+        "tei/sacy-defense.xml"
+      ],
+      "fre001274": [
+        189,
+        "tei/sacy-denys.xml"
+      ],
+      "fre001275": [
+        189,
+        "tei/sacy-fat-de-province.xml"
+      ],
+      "fre001276": [
+        189,
+        "tei/sacy-fausse-paysanne.xml"
+      ],
+      "fre001277": [
+        189,
+        "tei/sacy-gascon-a-paris.xml"
+      ],
+      "fre001278": [
+        189,
+        "tei/sacy-gascon-joue.xml"
+      ],
+      "fre001279": [
+        189,
+        "tei/sacy-harangue.xml"
+      ],
+      "fre001280": [
+        189,
+        "tei/sacy-impromptu.xml"
+      ],
+      "fre001281": [
+        189,
+        "tei/sacy-lois.xml"
+      ],
+      "fre001283": [
+        189,
+        "tei/sacy-meprise.xml"
+      ],
+      "fre001284": [
+        189,
+        "tei/sacy-merlin-percepteur.xml"
+      ],
+      "fre001282": [
+        189,
+        "tei/sacy-medisance.xml"
+      ],
+      "fre001285": [
+        189,
+        "tei/sacy-modestie.xml"
+      ],
+      "fre001286": [
+        189,
+        "tei/sacy-morts-vivants.xml"
+      ],
+      "fre001287": [
+        189,
+        "tei/sacy-mysterieux.xml"
+      ],
+      "fre001288": [
+        189,
+        "tei/sacy-noblesse.xml"
+      ],
+      "fre001289": [
+        189,
+        "tei/sacy-nouvellistes.xml"
+      ],
+      "fre001290": [
+        189,
+        "tei/sacy-quine.xml"
+      ],
+      "fre001291": [
+        189,
+        "tei/sacy-repetition.xml"
+      ],
+      "fre001292": [
+        189,
+        "tei/sacy-retour-distrait.xml"
+      ],
+      "fre001293": [
+        189,
+        "tei/sacy-rivalite.xml"
+      ],
+      "fre001294": [
+        189,
+        "tei/sacy-secretaire.xml"
+      ],
+      "fre001295": [
+        189,
+        "tei/sacy-serpette-magique.xml"
+      ],
+      "fre001296": [
+        189,
+        "tei/sacy-songes.xml"
+      ],
+      "fre001297": [
+        189,
+        "tei/sacy-sympathie.xml"
+      ],
+      "fre001298": [
+        189,
+        "tei/sacy-testament.xml"
+      ],
+      "fre001299": [
+        189,
+        "tei/sacy-trois-ivrognes.xml"
+      ],
+      "fre001300": [
+        189,
+        "tei/sacy-vanite.xml"
+      ],
+      "fre001301": [
+        189,
+        "tei/sacy-vive-la-vie.xml"
+      ],
+      "fre001302": [
+        189,
+        "tei/saint-foix-cabale.xml"
+      ],
+      "fre001303": [
+        189,
+        "tei/saint-foix-colonie.xml"
+      ],
+      "fre001304": [
+        189,
+        "tei/saint-foix-hommes.xml"
+      ],
+      "fre001305": [
+        189,
+        "tei/saint-foix-ile-sauvage.xml"
+      ],
+      "fre001306": [
+        189,
+        "tei/saint-foix-oracle.xml"
+      ],
+      "fre001307": [
+        189,
+        "tei/saint-gilles-dialogue.xml"
+      ],
+      "fre001308": [
+        189,
+        "tei/saint-gilles-feinte-heureuse.xml"
+      ],
+      "fre001309": [
+        189,
+        "tei/saint-gilles-fievre-palmerin.xml"
+      ],
+      "fre001310": [
+        189,
+        "tei/saint-just-petite-maison.xml"
+      ],
+      "fre001311": [
+        189,
+        "tei/saint-roman-dialogue.xml"
+      ],
+      "fre001312": [
+        189,
+        "tei/saint-aignan-martyre-marie-antoinette.xml"
+      ],
+      "fre001313": [
+        189,
+        "tei/saint-aignan-mort-louis-xvi.xml"
+      ],
+      "fre001314": [
+        189,
+        "tei/saint-evremond-comedie-des-academiciens.xml"
+      ],
+      "fre001315": [
+        189,
+        "tei/saint-priest-pot-au-noir-pot-aux-roses.xml"
+      ],
+      "fre001316": [
+        189,
+        "tei/sallebray-belle-egyptienne.xml"
+      ],
+      "fre001317": [
+        189,
+        "tei/sand-aldo-le-rimeur.xml"
+      ],
+      "fre001318": [
+        189,
+        "tei/sand-moliere.xml"
+      ],
+      "fre001319": [
+        189,
+        "tei/sand-roi-attend.xml"
+      ],
+      "fre001320": [
+        189,
+        "tei/saurin-anglomane.xml"
+      ],
+      "fre001321": [
+        189,
+        "tei/saurin-beverlei.xml"
+      ],
+      "fre001322": [
+        189,
+        "tei/saurin-blanche-et-guiscard.xml"
+      ],
+      "fre001323": [
+        189,
+        "tei/saurin-mariage-de-julie.xml"
+      ],
+      "fre001324": [
+        189,
+        "tei/saurin-moeurs-du-temps.xml"
+      ],
+      "fre001325": [
+        189,
+        "tei/saurin-spartacus.xml"
+      ],
+      "fre001326": [
+        189,
+        "tei/scarron-boutades-matamore.xml"
+      ],
+      "fre001327": [
+        189,
+        "tei/scarron-dom-japhet-d-armenie.xml"
+      ],
+      "fre001328": [
+        189,
+        "tei/scarron-ecolier-de-salamanque.xml"
+      ],
+      "fre001329": [
+        189,
+        "tei/scarron-fausse-apparence.xml"
+      ],
+      "fre001330": [
+        189,
+        "tei/scarron-gardien-de-soi-meme.xml"
+      ],
+      "fre000002": [
+        189,
+        "tei/abeille-coriolan.xml"
+      ],
+      "fre000051": [
+        189,
+        "tei/archambault-jocrisse-change.xml"
+      ],
+      "fre000068": [
+        189,
+        "tei/aure-genevieve-69.xml"
+      ],
+      "fre000076": [
+        189,
+        "tei/barbier-faucon.xml"
+      ],
+      "fre000123": [
+        189,
+        "tei/biancolleli-enfants-trouves.xml"
+      ],
+      "fre000128": [
+        189,
+        "tei/biancollelli-foire-galante.xml"
+      ],
+      "fre000253": [
+        189,
+        "tei/carmontelle-faux-empoisonnement.xml"
+      ],
+      "fre000281": [
+        189,
+        "tei/caylus-appareilleuse.xml"
+      ],
+      "fre000304": [
+        189,
+        "tei/chevalier-desolation-des-filous.xml"
+      ],
+      "fre000453": [
+        189,
+        "tei/dancourt-gazette.xml"
+      ],
+      "fre000461": [
+        189,
+        "tei/dancourt-mari-retrouve.xml"
+      ],
+      "fre000572": [
+        189,
+        "tei/durant-pour-un-plaisir-mille-douleurs.xml"
+      ],
+      "fre000691": [
+        189,
+        "tei/genlis-curieuse.xml"
+      ],
+      "fre000693": [
+        189,
+        "tei/genlis-flacons.xml"
+      ],
+      "fre000785": [
+        189,
+        "tei/jeannet-moliere-en-menage.xml"
+      ],
+      "fre000788": [
+        189,
+        "tei/jodelle-eugene.xml"
+      ],
+      "fre000790": [
+        189,
+        "tei/joly-adrienne-lecouvreur.xml"
+      ],
+      "fre000823": [
+        189,
+        "tei/la-fontaine-ragotin.xml"
+      ],
+      "fre001008": [
+        189,
+        "tei/moliere-femmes-savantes.xml"
+      ],
+      "fre001056": [
+        189,
+        "tei/musset-barberine.xml"
+      ],
+      "fre001061": [
+        189,
+        "tei/musset-lorenzaccio.xml"
+      ],
+      "fre001064": [
+        189,
+        "tei/nadal-epouse-du-cantique.xml"
+      ],
+      "fre001141": [
+        189,
+        "tei/poulhariez-taciturne.xml"
+      ],
+      "fre001205": [
+        189,
+        "tei/regnard-bal.xml"
+      ],
+      "fre001206": [
+        189,
+        "tei/regnard-carnaval-de-venise.xml"
+      ],
+      "fre001207": [
+        189,
+        "tei/regnard-coquette.xml"
+      ],
+      "fre001224": [
+        189,
+        "tei/renard-plaisir-de-rompre.xml"
+      ],
+      "fre001225": [
+        189,
+        "tei/restif-jugement-de-paris.xml"
+      ],
+      "fre001257": [
+        189,
+        "tei/rousseaujb-ceinture-magique.xml"
+      ],
+      "fre001331": [
+        189,
+        "tei/scarron-heritier-ridicule.xml"
+      ],
+      "fre001332": [
+        189,
+        "tei/scarron-jodelet.xml"
+      ],
+      "fre001333": [
+        189,
+        "tei/scarron-jodelet-dueliste.xml"
+      ],
+      "fre001334": [
+        189,
+        "tei/scarron-marquis-ridicule.xml"
+      ],
+      "fre001335": [
+        189,
+        "tei/scarron-prince-corsaire.xml"
+      ],
+      "fre001336": [
+        189,
+        "tei/schelandre-tyr-sidon-i.xml"
+      ],
+      "fre001337": [
+        189,
+        "tei/schelandre-tyr-sidon-ii.xml"
+      ],
+      "fre001338": [
+        189,
+        "tei/scribe-conversion.xml"
+      ],
+      "fre001339": [
+        189,
+        "tei/scribe-jeune-docteur.xml"
+      ],
+      "fre001340": [
+        189,
+        "tei/scribe-ministre-sous-louis-xv.xml"
+      ],
+      "fre001341": [
+        189,
+        "tei/scribe-potemkin.xml"
+      ],
+      "fre001342": [
+        189,
+        "tei/scribe-tete-a-tete.xml"
+      ],
+      "fre001343": [
+        189,
+        "tei/scudery-amour-tyran.xml"
+      ],
+      "fre001344": [
+        189,
+        "tei/scudery-arminius.xml"
+      ],
+      "fre001345": [
+        189,
+        "tei/scudery-comedie-des-comediens.xml"
+      ],
+      "fre001346": [
+        189,
+        "tei/scudery-eudoxe.xml"
+      ],
+      "fre001347": [
+        189,
+        "tei/scudery-fils-suppose.xml"
+      ],
+      "fre001348": [
+        189,
+        "tei/scudery-ligdamon-e-lidias.xml"
+      ],
+      "fre001349": [
+        189,
+        "tei/scudery-mort-de-cesar.xml"
+      ],
+      "fre001350": [
+        189,
+        "tei/scudery-orante.xml"
+      ],
+      "fre001351": [
+        189,
+        "tei/scudery-prince-deguise.xml"
+      ],
+      "fre001352": [
+        189,
+        "tei/scudery-vassal-genereux.xml"
+      ],
+      "fre001353": [
+        189,
+        "tei/sedaine-defauts-supposes.xml"
+      ],
+      "fre001354": [
+        189,
+        "tei/sedaine-manteau-ecarlate.xml"
+      ],
+      "fre001355": [
+        189,
+        "tei/sedaine-richard.xml"
+      ],
+      "fre001356": [
+        189,
+        "tei/segur-fou.xml"
+      ],
+      "fre001357": [
+        189,
+        "tei/seneque-agamemnon.xml"
+      ],
+      "fre001358": [
+        189,
+        "tei/seneque-medee.xml"
+      ],
+      "fre001359": [
+        189,
+        "tei/sivry-affaire-d-honneur.xml"
+      ],
+      "fre001360": [
+        189,
+        "tei/sivry-indecision.xml"
+      ],
+      "fre001361": [
+        189,
+        "tei/somaize-precieuses-ridicules.xml"
+      ],
+      "fre001362": [
+        189,
+        "tei/somaize-proces-precieuses.xml"
+      ],
+      "fre001363": [
+        189,
+        "tei/somaize-veritables-precieuses.xml"
+      ],
+      "fre001364": [
+        189,
+        "tei/sommerive-bajazet.xml"
+      ],
+      "fre001365": [
+        189,
+        "tei/sophocle-ajax.xml"
+      ],
+      "fre001366": [
+        189,
+        "tei/sophocle-antigone.xml"
+      ],
+      "fre001367": [
+        189,
+        "tei/sophocle-electre.xml"
+      ],
+      "fre001368": [
+        189,
+        "tei/sophocle-oedipe-a-colone.xml"
+      ],
+      "fre001369": [
+        189,
+        "tei/sophocle-oedipe-roi.xml"
+      ],
+      "fre001370": [
+        189,
+        "tei/sophocle-philoctete.xml"
+      ],
+      "fre001371": [
+        189,
+        "tei/sophocle-trachiniennes.xml"
+      ],
+      "fre001372": [
+        189,
+        "tei/soret-ceciliade.xml"
+      ],
+      "fre001373": [
+        189,
+        "tei/stael-agar.xml"
+      ],
+      "fre001374": [
+        189,
+        "tei/stael-signora-fantastici.xml"
+      ],
+      "fre001375": [
+        189,
+        "tei/subligny-folle-querelle.xml"
+      ],
+      "fre001376": [
+        189,
+        "tei/taconet-ecosseuses.xml"
+      ],
+      "fre001377": [
+        189,
+        "tei/taconet-epoux-par-chicane.xml"
+      ],
+      "fre001378": [
+        189,
+        "tei/taconet-nostradamus.xml"
+      ],
+      "fre001379": [
+        189,
+        "tei/tanevot-adam-et-eve.xml"
+      ],
+      "fre001380": [
+        189,
+        "tei/thibouville-thelamire.xml"
+      ],
+      "fre001381": [
+        189,
+        "tei/trimouillat-a-trois-pas.xml"
+      ],
+      "fre001382": [
+        189,
+        "tei/tristan-mariane.xml"
+      ],
+      "fre001383": [
+        189,
+        "tei/tristan-mort-de-chrispe.xml"
+      ],
+      "fre001384": [
+        189,
+        "tei/tristan-mort-seneque.xml"
+      ],
+      "fre001385": [
+        189,
+        "tei/tristan-osman.xml"
+      ],
+      "fre001386": [
+        189,
+        "tei/tristan-parasite.xml"
+      ],
+      "fre001387": [
+        189,
+        "tei/turnebe-contents.xml"
+      ],
+      "fre001388": [
+        189,
+        "tei/urfe-sylvanire.xml"
+      ],
+      "fre001389": [
+        189,
+        "tei/vade-canadienne.xml"
+      ],
+      "fre001390": [
+        189,
+        "tei/vade-impromptu-du-coeur.xml"
+      ],
+      "fre001391": [
+        189,
+        "tei/vade-poirier.xml"
+      ],
+      "fre001392": [
+        189,
+        "tei/vade-veuve-indecise.xml"
+      ],
+      "fre001393": [
+        189,
+        "tei/vallee-fidele-esclave.xml"
+      ],
+      "fre001394": [
+        189,
+        "tei/vallee-forte-romaine.xml"
+      ],
+      "fre001395": [
+        189,
+        "tei/vander-burch-proces-racine-conciliateur.xml"
+      ],
+      "fre001396": [
+        189,
+        "tei/verconsin-retour-de-bruxelles.xml"
+      ],
+      "fre001397": [
+        189,
+        "tei/verconsin-rideau.xml"
+      ],
+      "fre001398": [
+        189,
+        "tei/vessaire-caquire.xml"
+      ],
+      "fre001399": [
+        189,
+        "tei/viau-pasiphae.xml"
+      ],
+      "fre001400": [
+        189,
+        "tei/viau-pyrame.xml"
+      ],
+      "fre001401": [
+        189,
+        "tei/vierne-moliere-enfant.xml"
+      ],
+      "fre001402": [
+        189,
+        "tei/vige-othello.xml"
+      ],
+      "fre001403": [
+        189,
+        "tei/villard-clown.xml"
+      ],
+      "fre001405": [
+        189,
+        "tei/villiers-critique-du-tartuffe.xml"
+      ],
+      "fre001406": [
+        189,
+        "tei/villiers-festin-de-pierre.xml"
+      ],
+      "fre001404": [
+        189,
+        "tei/villiers-de-l-isle-adam-chapeau-chinois.xml"
+      ],
+      "fre001407": [
+        189,
+        "tei/voisenon-hilas-et-zelis.xml"
+      ],
+      "fre001408": [
+        189,
+        "tei/voltaire-adelaide.xml"
+      ],
+      "fre001409": [
+        189,
+        "tei/voltaire-agathocle.xml"
+      ],
+      "fre001410": [
+        189,
+        "tei/voltaire-alzire.xml"
+      ],
+      "fre001411": [
+        189,
+        "tei/voltaire-baron-d-otrante.xml"
+      ],
+      "fre001412": [
+        189,
+        "tei/voltaire-brutus.xml"
+      ],
+      "fre001413": [
+        189,
+        "tei/voltaire-cafe.xml"
+      ],
+      "fre001414": [
+        189,
+        "tei/voltaire-charlot.xml"
+      ],
+      "fre001415": [
+        189,
+        "tei/voltaire-comte-de-boursoufle.xml"
+      ],
+      "fre001416": [
+        189,
+        "tei/voltaire-depositaire.xml"
+      ],
+      "fre001417": [
+        189,
+        "tei/voltaire-deux-tonneaux.xml"
+      ],
+      "fre001418": [
+        189,
+        "tei/voltaire-droit-du-seigneur.xml"
+      ],
+      "fre001419": [
+        189,
+        "tei/voltaire-duc-d-alencon.xml"
+      ],
+      "fre001420": [
+        189,
+        "tei/voltaire-enfant-prodigue.xml"
+      ],
+      "fre001421": [
+        189,
+        "tei/voltaire-envieux.xml"
+      ],
+      "fre001422": [
+        189,
+        "tei/voltaire-fanatisme.xml"
+      ],
+      "fre001423": [
+        189,
+        "tei/voltaire-femme-qui-a-raison.xml"
+      ],
+      "fre001424": [
+        189,
+        "tei/voltaire-fete-de-bellebat.xml"
+      ],
+      "fre001425": [
+        189,
+        "tei/voltaire-guebres.xml"
+      ],
+      "fre001426": [
+        189,
+        "tei/voltaire-hote-hotesse.xml"
+      ],
+      "fre001427": [
+        189,
+        "tei/voltaire-indiscret.xml"
+      ],
+      "fre001428": [
+        189,
+        "tei/voltaire-irene.xml"
+      ],
+      "fre001429": [
+        189,
+        "tei/voltaire-lois-de-minos.xml"
+      ],
+      "fre001430": [
+        189,
+        "tei/voltaire-mariamne.xml"
+      ],
+      "fre001431": [
+        189,
+        "tei/voltaire-merope.xml"
+      ],
+      "fre001432": [
+        189,
+        "tei/voltaire-mort-de-cesar.xml"
+      ],
+      "fre001433": [
+        189,
+        "tei/voltaire-nanine.xml"
+      ],
+      "fre001434": [
+        189,
+        "tei/voltaire-oedipe-v.xml"
+      ],
+      "fre001435": [
+        189,
+        "tei/voltaire-olympie.xml"
+      ],
+      "fre001436": [
+        189,
+        "tei/voltaire-oreste.xml"
+      ],
+      "fre001437": [
+        189,
+        "tei/voltaire-originaux.xml"
+      ],
+      "fre001438": [
+        189,
+        "tei/voltaire-orphelin-de-la-chine.xml"
+      ],
+      "fre001439": [
+        189,
+        "tei/voltaire-pandore.xml"
+      ],
+      "fre001440": [
+        189,
+        "tei/voltaire-pelopides.xml"
+      ],
+      "fre001441": [
+        189,
+        "tei/voltaire-rome-sauvee.xml"
+      ],
+      "fre001442": [
+        189,
+        "tei/voltaire-samson.xml"
+      ],
+      "fre001443": [
+        189,
+        "tei/voltaire-saul.xml"
+      ],
+      "fre001444": [
+        189,
+        "tei/voltaire-scythes.xml"
+      ],
+      "fre001445": [
+        189,
+        "tei/voltaire-semiramis.xml"
+      ],
+      "fre001446": [
+        189,
+        "tei/voltaire-socrate.xml"
+      ],
+      "fre001447": [
+        189,
+        "tei/voltaire-sophonisbe.xml"
+      ],
+      "fre001448": [
+        189,
+        "tei/voltaire-tancrede.xml"
+      ],
+      "fre001449": [
+        189,
+        "tei/voltaire-tanis-zelide.xml"
+      ],
+      "fre001450": [
+        189,
+        "tei/voltaire-zaire.xml"
+      ],
+      "fre001451": [
+        189,
+        "tei/voltaire-zulime.xml"
+      ],
+      "fre001452": [
+        189,
+        "tei/vondrebeck-alard-forces-de-l-amour.xml"
+      ],
+      "fre001453": [
+        189,
+        "tei/brueys-empiriques.xml"
+      ],
+      "fre001454": [
+        189,
+        "tei/campistron-tiridate.xml"
+      ],
+      "fre001455": [
+        189,
+        "tei/fatouville-arlequin-empereur-dans-la-lune.xml"
+      ],
+      "fre001456": [
+        189,
+        "tei/fatouville-grapinian.xml"
+      ],
+      "fre001457": [
+        189,
+        "tei/la-thuilerie-crispin-bel-esprit.xml"
+      ],
+      "fre001458": [
+        189,
+        "tei/la-thuilerie-hercule.xml"
+      ],
+      "fre001459": [
+        189,
+        "tei/la-thuilerie-soliman.xml"
+      ],
+      "fre001460": [
+        189,
+        "tei/raisin-merlin-gascon.xml"
+      ],
+      "fer001461": [
+        90,
+        "tei/about-risette.xml"
+      ],
+      "fer001462": [
+        90,
+        "tei/anseaume-tableauparlant.xml"
+      ],
+      "fer001463": [
+        90,
+        "tei/becque-corbeaux.xml"
+      ],
+      "fer001464": [
+        90,
+        "tei/becque-enlevement.xml"
+      ],
+      "fer001465": [
+        90,
+        "tei/blemond-moliereauteuil.xml"
+      ],
+      "fer001466": [
+        90,
+        "tei/lemierre-idomenee.xml"
+      ],
+      "fer001467": [
+        90,
+        "tei/radet-raboteau-avareami.xml"
+      ],
+      "fer001468": [
+        90,
+        "tei/rotrou-laurepersecutee.xml"
+      ],
+      "fer001469": [
+        90,
+        "tei/saint-glas-boutsrimes.xml"
+      ],
+      "fer001470": [
+        90,
+        "tei/sand-francoislechampi.xml"
+      ],
+      "fre001471": [
+        189,
+        "tei/bernardt-antoinette.xml"
+      ],
+      "fre001472": [
+        189,
+        "tei/bernardt-garcon-de-dix-huit-ans.xml"
+      ],
+      "fre001473": [
+        189,
+        "tei/bernardt-homme-a-la-maison.xml"
+      ],
+      "fre001474": [
+        189,
+        "tei/bernardt-maison-du-crime.xml"
+      ],
+      "fre001475": [
+        189,
+        "tei/bernardt-operation-magistrale.xml"
+      ],
+      "fre001476": [
+        189,
+        "tei/chapuzeau-geneve-delivree.xml"
+      ],
+      "fre001477": [
+        189,
+        "tei/corneillet-baron-d-albikrac.xml"
+      ],
+      "fre001478": [
+        189,
+        "tei/courteline-allo.xml"
+      ],
+      "fre001479": [
+        189,
+        "tei/courteline-animaux-malades-de-la-faim.xml"
+      ],
+      "fre001480": [
+        189,
+        "tei/courteline-atelier.xml"
+      ],
+      "fre001481": [
+        189,
+        "tei/courteline-ecole-des-mufles.xml"
+      ],
+      "fre001482": [
+        189,
+        "tei/courteline-ferme-ta-malle.xml"
+      ],
+      "fre001483": [
+        189,
+        "tei/courteline-gora.xml"
+      ],
+      "fre001484": [
+        189,
+        "tei/courteline-incendie.xml"
+      ],
+      "fre001485": [
+        189,
+        "tei/courteline-mois-de-prison.xml"
+      ],
+      "fre001486": [
+        189,
+        "tei/courteline-ours.xml"
+      ],
+      "fre001487": [
+        189,
+        "tei/courteline-pantheon-courcelles.xml"
+      ],
+      "fre001488": [
+        189,
+        "tei/courteline-principal-temoin.xml"
+      ],
+      "fre001489": [
+        189,
+        "tei/courteline-prix-d-une-gifle.xml"
+      ],
+      "fre001490": [
+        189,
+        "tei/courteline-quelques-livres.xml"
+      ],
+      "fre001491": [
+        189,
+        "tei/courteline-rue-de-la-pompe.xml"
+      ],
+      "fre001492": [
+        189,
+        "tei/diderot-entretien-d-alembert-diderot.xml"
+      ],
+      "fre001493": [
+        189,
+        "tei/gonnet-angelique.xml"
+      ],
+      "fre001494": [
+        189,
+        "tei/gonnet-clementine.xml"
+      ],
+      "fre001495": [
+        189,
+        "tei/gonnet-eugenie.xml"
+      ],
+      "fre001496": [
+        189,
+        "tei/gonnet-euphemie.xml"
+      ],
+      "fre001497": [
+        189,
+        "tei/gonnet-juliette-ou-la-danseuse.xml"
+      ],
+      "fre001498": [
+        189,
+        "tei/gonnet-lisette.xml"
+      ],
+      "fre001499": [
+        189,
+        "tei/hauteroche-amant-flatte-point.xml"
+      ],
+      "fre001500": [
+        189,
+        "tei/hauteroche-deuil.xml"
+      ],
+      "fre001461": [
+        189,
+        "tei/about-risette.xml"
+      ],
+      "fre001462": [
+        189,
+        "tei/anseaume-tableau-parlant.xml"
+      ],
+      "fre001463": [
+        189,
+        "tei/becque-corbeaux.xml"
+      ],
+      "fre001464": [
+        189,
+        "tei/becque-enlevement.xml"
+      ],
+      "fre001465": [
+        189,
+        "tei/blemont-moliere-auteuil.xml"
+      ],
+      "fre001466": [
+        189,
+        "tei/lemierre-idomenee.xml"
+      ],
+      "fre001467": [
+        189,
+        "tei/radet-raboteau-avare-ami.xml"
+      ],
+      "fre001468": [
+        189,
+        "tei/rotrou-laure-persecutee.xml"
+      ],
+      "fre001469": [
+        189,
+        "tei/saint-glas-bouts-rimes.xml"
+      ],
+      "fre001470": [
+        189,
+        "tei/sand-francois-le-champi.xml"
+      ],
+      "fre001501": [
+        189,
+        "tei/ancelot-auger-une-seduction.xml"
+      ],
+      "fre001504": [
+        189,
+        "tei/anomyme-dialogue-de-la-prude-et-de-la-coquette.xml"
+      ],
+      "fre001502": [
+        189,
+        "tei/anonyme-d-alcippe-et-de-drionice.xml"
+      ],
+      "fre001503": [
+        189,
+        "tei/anonyme-dialogue-des-yeux-et-de-la-bouche.xml"
+      ],
+      "fre001505": [
+        189,
+        "tei/arago-mademoiselle-lange.xml"
+      ],
+      "fre001506": [
+        189,
+        "tei/aubryet-hommage-a-racine.xml"
+      ],
+      "fre001507": [
+        189,
+        "tei/becque-les-honnetes-femmes.xml"
+      ],
+      "fre001511": [
+        189,
+        "tei/beissier-docteur-cornibus.xml"
+      ],
+      "fre001513": [
+        189,
+        "tei/beissier-guignol-en-enfer.xml"
+      ],
+      "fre001512": [
+        189,
+        "tei/beissier-guignol-et-la-cabaretiere.xml"
+      ],
+      "fre001516": [
+        189,
+        "tei/beissier-l-oiseau-bleu.xml"
+      ],
+      "fre001515": [
+        189,
+        "tei/beissier-la-nuit-de-noel.xml"
+      ],
+      "fre001508": [
+        189,
+        "tei/beissier-le-bapteme-d-une-rose.xml"
+      ],
+      "fre001510": [
+        189,
+        "tei/beissier-les-deux-pigeonnes.xml"
+      ],
+      "fre001514": [
+        189,
+        "tei/beissier-ma-soeur-claire.xml"
+      ],
+      "fre001509": [
+        189,
+        "tei/beissier-un-bon-placement.xml"
+      ],
+      "fre001517": [
+        189,
+        "tei/bernardt-le-cambrioleur.xml"
+      ],
+      "fre001518": [
+        189,
+        "tei/bertaut-le-jugement-de-job-et-d-uranie.xml"
+      ],
+      "fre001519": [
+        189,
+        "tei/bilhaud-gustave.xml"
+      ],
+      "fre001520": [
+        189,
+        "tei/carcassonne-compliment.xml"
+      ],
+      "fre001521": [
+        189,
+        "tei/carcassonne-le-dame-en-noir.xml"
+      ],
+      "fre001523": [
+        189,
+        "tei/carcassonne-le-docteur-sourabaya.xml"
+      ],
+      "fre001526": [
+        189,
+        "tei/carcassonne-le-mariage-des-fleurs.xml"
+      ],
+      "fre001527": [
+        189,
+        "tei/carcassonne-le-petit-pretentieux.xml"
+      ],
+      "fre001529": [
+        189,
+        "tei/carcassonne-le-rondeau.xml"
+      ],
+      "fre001522": [
+        189,
+        "tei/carcassonne-les-defauts-de-paul.xml"
+      ],
+      "fre001525": [
+        189,
+        "tei/carcassonne-les-heures.xml"
+      ],
+      "fre001528": [
+        189,
+        "tei/carcassonne-roi-et-reine.xml"
+      ],
+      "fre001530": [
+        189,
+        "tei/carcassonne-rose-et-rosette.xml"
+      ],
+      "fre001524": [
+        189,
+        "tei/carcassonne-un-duel.xml"
+      ],
+      "fre001532": [
+        189,
+        "tei/carmontelle-aveugle-avare.xml"
+      ],
+      "fre001531": [
+        189,
+        "tei/carmontelle-l-auteur-et-l-amateur.xml"
+      ],
+      "fre001535": [
+        189,
+        "tei/carmontelle-la-chanoine-de-reims.xml"
+      ],
+      "fre001537": [
+        189,
+        "tei/carmontelle-la-fripon-orgueilleux.xml"
+      ],
+      "fre001538": [
+        189,
+        "tei/carmontelle-la-permission-de-chasse.xml"
+      ],
+      "fre001540": [
+        189,
+        "tei/carmontelle-la-veste-brodee.xml"
+      ],
+      "fre001533": [
+        189,
+        "tei/carmontelle-le-boiteux.xml"
+      ],
+      "fre001534": [
+        189,
+        "tei/carmontelle-le-bon-mari.xml"
+      ],
+      "fre001539": [
+        189,
+        "tei/carmontelle-le-sot-heritier.xml"
+      ],
+      "fre001536": [
+        189,
+        "tei/carmontelle-les-epoux-malheureux.xml"
+      ],
+      "fre001541": [
+        189,
+        "tei/courteline-gros-chagrins.xml"
+      ],
+      "fre001542": [
+        189,
+        "tei/courteline-la-premiere-lecon.xml"
+      ],
+      "fre001543": [
+        189,
+        "tei/diderot-reve-d-alembert.xml"
+      ],
+      "fre001544": [
+        189,
+        "tei/donnay-eux.xml"
+      ],
+      "fre001545": [
+        189,
+        "tei/giraudoux-cantique-des-cantiques.xml"
+      ],
+      "fre001546": [
+        189,
+        "tei/hervieux-paul-et-pauline.xml"
+      ],
+      "fre001547": [
+        189,
+        "tei/hugo-etre-aime.xml"
+      ],
+      "fre001548": [
+        189,
+        "tei/hugo-les-gueux.xml"
+      ],
+      "fre001550": [
+        189,
+        "tei/hugo-prologue.xml"
+      ],
+      "fre001549": [
+        189,
+        "tei/hugo-sur-la-lisiere-d-un-bois.xml"
+      ],
+      "fre001551": [
+        189,
+        "tei/lagarde-l-hermitte-le-politicomane.xml"
+      ],
+      "fre001552": [
+        189,
+        "tei/lebardin-au-clair-de-la-lune.xml"
+      ],
+      "fre001553": [
+        189,
+        "tei/nittis-au-declin.xml"
+      ],
+      "fre001554": [
+        189,
+        "tei/perrault-dialogue-de-l-amour-et-de-l-amitie.xml"
+      ],
+      "fre001555": [
+        189,
+        "tei/quinault-les-rivales.xml"
+      ],
+      "fre001556": [
+        189,
+        "tei/vade-les-troqueurs.xml"
+      ],
+      "fre001557": [
+        189,
+        "tei/verconsin-adelaide-et-vermouth.xml"
+      ],
+      "fre001558": [
+        189,
+        "tei/voltaire-la-mort-de-caton.xml"
+      ],
+      "fre001559": [
+        189,
+        "tei/zola-madeleine.xml"
+      ],
+      "fre001560": [
+        189,
+        "tei/zola-therese-raquin.xml"
+      ],
+      "fre001562": [
+        189,
+        "tei/adenis-diogene-et-scapin.xml"
+      ],
+      "fre001563": [
+        189,
+        "tei/adenis-gaiete-marseillaise.xml"
+      ],
+      "fre001561": [
+        189,
+        "tei/adenisj-la-double-meprise.xml"
+      ],
+      "fre001564": [
+        189,
+        "tei/aicard-au-clair-de-la-lune.xml"
+      ],
+      "fre001565": [
+        189,
+        "tei/aicard-mascarille.xml"
+      ],
+      "fre001566": [
+        189,
+        "tei/aicard-moliere-a-shakespeare.xml"
+      ],
+      "fre001567": [
+        189,
+        "tei/aicard-pygmalion.xml"
+      ],
+      "fre001568": [
+        189,
+        "tei/aicard-smilis.xml"
+      ],
+      "fre001569": [
+        189,
+        "tei/aignan-polyxene.xml"
+      ],
+      "fre001570": [
+        189,
+        "tei/allais-une-idee-lumineuse.xml"
+      ],
+      "fre001571": [
+        189,
+        "tei/andrieux-la-comedienne.xml"
+      ],
+      "fre001573": [
+        189,
+        "tei/andrieux-le-reve-du-mari.xml"
+      ],
+      "fre001572": [
+        189,
+        "tei/andrieux-les-etourdis.xml"
+      ],
+      "fre001575": [
+        189,
+        "tei/anonyme-dialogue-sur-les-vacances.xml"
+      ],
+      "fre001574": [
+        189,
+        "tei/anonyme-la-complainte-de-la-femme-coupee.xml"
+      ],
+      "fre001577": [
+        189,
+        "tei/anonyme-le-normand-et-le-gascon.xml"
+      ],
+      "fre001576": [
+        189,
+        "tei/anonyme-melisse.xml"
+      ],
+      "fre001578": [
+        189,
+        "tei/anonyme-nouveau-catechisme-poissard.xml"
+      ],
+      "fre001579": [
+        189,
+        "tei/anonyme-ouverture-de-la-seance.xml"
+      ],
+      "fre001580": [
+        189,
+        "tei/anonyme-theatre-de-la-societe-de-la-rue-du-perron.xml"
+      ],
+      "fre001581": [
+        189,
+        "tei/arnault-lucrece.xml"
+      ],
+      "fre001582": [
+        189,
+        "tei/auger-mort-de-caton.xml"
+      ],
+      "fre001583": [
+        189,
+        "tei/banville-les-fourberies-de-nerine.xml"
+      ],
+      "fre001584": [
+        189,
+        "tei/barante-la-fontaine-de-sapience.xml"
+      ],
+      "fre001585": [
+        189,
+        "tei/barre-despres-piis-resnier-l-opera-de-province.xml"
+      ],
+      "fre001586": [
+        189,
+        "tei/barthe-amateur.xml"
+      ],
+      "fre001587": [
+        189,
+        "tei/bary-de-la-curiosite.xml"
+      ],
+      "fre001589": [
+        189,
+        "tei/bary-de-la-guerre.xml"
+      ],
+      "fre001590": [
+        189,
+        "tei/bary-de-la-roture.xml"
+      ],
+      "fre001588": [
+        189,
+        "tei/bary-des-fontaines-et-des-ruisseaux.xml"
+      ],
+      "fre001591": [
+        189,
+        "tei/bary-des-vendanges.xml"
+      ],
+      "fre001592": [
+        189,
+        "tei/beissier-proprietaire-et-locataire.xml"
+      ],
+      "fre001593": [
+        189,
+        "tei/bergeret-l-album.xml"
+      ],
+      "fre001594": [
+        189,
+        "tei/bernardt-daisy.xml"
+      ],
+      "fre001595": [
+        189,
+        "tei/bernardt-deux-pecheurs.xml"
+      ],
+      "fre001597": [
+        189,
+        "tei/bernardt-je-vais-m-en-aller.xml"
+      ],
+      "fre001596": [
+        189,
+        "tei/bernardt-la-petite-femme-de-loth.xml"
+      ],
+      "fre001598": [
+        189,
+        "tei/bernardt-le-radeau-de-la-meduse.xml"
+      ],
+      "fre001599": [
+        189,
+        "tei/bernardt-le-seul-bandit-de-village.xml"
+      ],
+      "fre001603": [
+        189,
+        "tei/berquin-l-incendie.xml"
+      ],
+      "fre001604": [
+        189,
+        "tei/berquin-la-petite-glaneuse.xml"
+      ],
+      "fre001605": [
+        189,
+        "tei/berquin-la-vanite-punie.xml"
+      ],
+      "fre001601": [
+        189,
+        "tei/berquin-le-conge.xml"
+      ],
+      "fre001602": [
+        189,
+        "tei/berquin-le-deserteur.xml"
+      ],
+      "fre001600": [
+        189,
+        "tei/berquin-un-bon-coeur-fait-pardonner.xml"
+      ],
+      "fre001606": [
+        189,
+        "tei/bertin-d-andilly-l-anglais-a-paris.xml"
+      ],
+      "fre001607": [
+        189,
+        "tei/beissier-antigone.xml"
+      ],
+      "fre001611": [
+        141,
+        "tei/bessier-guignol-en-enfer.xml"
+      ],
+      "fre001610": [
+        141,
+        "tei/bessier-guignol-et-la-cabaretiere.xml"
+      ],
+      "fre001608": [
+        138,
+        "tei/bessier-le-bapteme-d-une-rose.xml"
+      ],
+      "fre001609": [
+        141,
+        "tei/bessier-le-docteur-cornibus.xml"
+      ],
+      "fre001613": [
+        189,
+        "tei/beissier-les-noces-de-guignol.xml"
+      ],
+      "fre001612": [
+        189,
+        "tei/beissier-locataire.xml"
+      ],
+      "fre001614": [
+        189,
+        "tei/bodard-de-tezay-arlequin-roi-dans-la-lune.xml"
+      ],
+      "fre001615": [
+        189,
+        "tei/bonhomme-un-amour-parisien.xml"
+      ],
+      "fre001616": [
+        189,
+        "tei/bonin-spencer-rosier-cinquieme.xml"
+      ],
+      "fre001617": [
+        189,
+        "tei/borde-gentilhomme-campagnard.xml"
+      ],
+      "fre001618": [
+        189,
+        "tei/bornier-le-monde-renverse.xml"
+      ],
+      "fre001619": [
+        189,
+        "tei/brecourt-la-noce-de-village.xml"
+      ],
+      "fre001622": [
+        189,
+        "tei/brueys-l-opiniatre.xml"
+      ],
+      "fre001621": [
+        189,
+        "tei/brueys-les-embarras-du-derriere-du-theatre.xml"
+      ],
+      "fre001620": [
+        189,
+        "tei/brueys-palaprat-le-concert-ridicule.xml"
+      ],
+      "fre001623": [
+        189,
+        "tei/busnach-la-claque-la-claque.xml"
+      ],
+      "fre001624": [
+        189,
+        "tei/cahusac-l-algerien.xml"
+      ],
+      "fre001625": [
+        189,
+        "tei/caminade-chatenay-alcidiade.xml"
+      ],
+      "fre001626": [
+        189,
+        "tei/carcassonne-en-chine.xml"
+      ],
+      "fre001630": [
+        189,
+        "tei/carmontelle-l-homme-qui-craint-d-aimer.xml"
+      ],
+      "fre001631": [
+        189,
+        "tei/carmontelle-la-medaille-d-othon.xml"
+      ],
+      "fre001632": [
+        189,
+        "tei/carmontelle-la-rose-rouge.xml"
+      ],
+      "fre001627": [
+        189,
+        "tei/carmontelle-le-bavard.xml"
+      ],
+      "fre001628": [
+        189,
+        "tei/carmontelle-le-chien-de-la-foire.xml"
+      ],
+      "fre001629": [
+        189,
+        "tei/carmontelle-le-distrait.xml"
+      ],
+      "fre001633": [
+        189,
+        "tei/carmontelle-le-veuf.xml"
+      ],
+      "fre001634": [
+        189,
+        "tei/carmontellle-dame-jeanne.xml"
+      ],
+      "fre001636": [
+        189,
+        "tei/carrance-choix-d-un-mari.xml"
+      ],
+      "fre001638": [
+        189,
+        "tei/carrance-l-emeraude.xml"
+      ],
+      "fre001640": [
+        189,
+        "tei/carrance-la-prostituee.xml"
+      ],
+      "fre001635": [
+        189,
+        "tei/carrance-le-camelia.xml"
+      ],
+      "fre001637": [
+        189,
+        "tei/carrance-le-divorce.xml"
+      ],
+      "fre001639": [
+        189,
+        "tei/carrance-maison-a-louer.xml"
+      ],
+      "fre001641": [
+        189,
+        "tei/carrance-vingt-minutes-d-arret.xml"
+      ],
+      "fre001642": [
+        189,
+        "tei/carrion-nizas-dialogue-entre-la-maire-de-rodez-et-un-marguillier.xml"
+      ],
+      "fre001643": [
+        189,
+        "tei/carrion-nizas-pierre-le-grand.xml"
+      ],
+      "fre001644": [
+        189,
+        "tei/chalmeton-a-jean-racine.xml"
+      ],
+      "fre001648": [
+        189,
+        "tei/chalmeton-a-moliere.xml"
+      ],
+      "fre001646": [
+        189,
+        "tei/chalmeton-clermont-ferrand.xml"
+      ],
+      "fre001645": [
+        189,
+        "tei/chalmeton-clermont-royat.xml"
+      ],
+      "fre001647": [
+        189,
+        "tei/chalmeton-la-bourboule.xml"
+      ],
+      "fre001649": [
+        189,
+        "tei/chalmeton-la-mort-c-est-la-vie.xml"
+      ],
+      "fre001650": [
+        189,
+        "tei/chereau-en-express.xml"
+      ],
+      "fre001651": [
+        189,
+        "tei/clemenceau-le-voile-du-bonheur.xml"
+      ],
+      "fre001653": [
+        189,
+        "tei/colle-l-amant-anonyme.xml"
+      ],
+      "fre001652": [
+        189,
+        "tei/collet-l-ile-deserte.xml"
+      ],
+      "fre001654": [
+        189,
+        "tei/courteline-a-huitaine.xml"
+      ],
+      "fre001660": [
+        189,
+        "tei/courteline-chez-l-avocat.xml"
+      ],
+      "fre001661": [
+        189,
+        "tei/courteline-cochon-de-cocher.xml"
+      ],
+      "fre001662": [
+        189,
+        "tei/courteline-grandeur-d-ame.xml"
+      ],
+      "fre001655": [
+        189,
+        "tei/courteline-l-article-330.xml"
+      ],
+      "fre001663": [
+        189,
+        "tei/courteline-l-impoli.xml"
+      ],
+      "fre001664": [
+        189,
+        "tei/courteline-l-invite.xml"
+      ],
+      "fre001671": [
+        189,
+        "tei/courteline-la-presentation.xml"
+      ],
+      "fre001675": [
+        189,
+        "tei/courteline-la-voix-d-anatole.xml"
+      ],
+      "fre001658": [
+        189,
+        "tei/courteline-le-bout-de-l-an.xml"
+      ],
+      "fre001659": [
+        189,
+        "tei/courteline-le-buis.xml"
+      ],
+      "fre001668": [
+        189,
+        "tei/courteline-le-nez-du-general-suif.xml"
+      ],
+      "fre001656": [
+        189,
+        "tei/courteline-les-balances.xml"
+      ],
+      "fre001657": [
+        189,
+        "tei/courteline-les-bienfaits-de-l-education.xml"
+      ],
+      "fre001665": [
+        189,
+        "tei/courteline-mon-petit-frere.xml"
+      ],
+      "fre001666": [
+        189,
+        "tei/courteline-monsieur-fin-de-siecle.xml"
+      ],
+      "fre001667": [
+        189,
+        "tei/courteline-musele.xml"
+      ],
+      "fre001669": [
+        189,
+        "tei/courteline-petin-contre-bougnasse.xml"
+      ],
+      "fre001670": [
+        189,
+        "tei/courteline-premier-en-anglais.xml"
+      ],
+      "fre001672": [
+        189,
+        "tei/courteline-quand-on-plaide-en-divorce.xml"
+      ],
+      "fre001673": [
+        189,
+        "tei/courteline-une-messe.xml"
+      ],
+      "fre001674": [
+        189,
+        "tei/courteline-vieux-menage.xml"
+      ],
+      "fre001676": [
+        189,
+        "tei/croiset-l-air-de-la-mer.xml"
+      ],
+      "fre001677": [
+        189,
+        "tei/croiset-le-chevalier-d-alsace.xml"
+      ],
+      "fre001678": [
+        189,
+        "tei/danchet-camille-reine-des-volsques.xml"
+      ],
+      "fre001679": [
+        189,
+        "tei/deville-pierre-bagnolet-et-claude-bagnolet-son-fils.xml"
+      ],
+      "fre001680": [
+        189,
+        "tei/dorat-la-feinte-par-amour.xml"
+      ],
+      "fre001681": [
+        189,
+        "tei/dorat-les-proneurs.xml"
+      ],
+      "fre001683": [
+        189,
+        "tei/dreyfus-la-gifle.xml"
+      ],
+      "fre001682": [
+        189,
+        "tei/dreyfus-un-crane-sous-une-tempete.xml"
+      ],
+      "fre001684": [
+        189,
+        "tei/dreyfus-un-homme-en-habit-noir.xml"
+      ],
+      "fre001685": [
+        189,
+        "tei/duflot-desarbres-deux-hommes-pour-un-placard.xml"
+      ],
+      "fre001686": [
+        189,
+        "tei/fabre-d-eglantine-augusta.xml"
+      ],
+      "fre001687": [
+        189,
+        "tei/feydeau-le-volontaire.xml"
+      ],
+      "fre001688": [
+        189,
+        "tei/flaubert-le-candidat.xml"
+      ],
+      "fre001689": [
+        189,
+        "tei/gautiert-la-juive-de-constantine.xml"
+      ],
+      "fre001691": [
+        189,
+        "tei/gautiert-pierre-corneille.xml"
+      ],
+      "fre001690": [
+        189,
+        "tei/gautiert-une-larme-du-diable.xml"
+      ],
+      "fre001692": [
+        189,
+        "tei/genlis-cinquieme-dialogue.xml"
+      ],
+      "fre001693": [
+        189,
+        "tei/genlis-premier-dialogue.xml"
+      ],
+      "fre001694": [
+        189,
+        "tei/genlis-quatrieme-dialogue.xml"
+      ],
+      "fre001695": [
+        189,
+        "tei/genlis-second-dialogue.xml"
+      ],
+      "fre001696": [
+        189,
+        "tei/genlis-sixieme-dialogue.xml"
+      ],
+      "fre001697": [
+        189,
+        "tei/genlis-troisieme-dialogue.xml"
+      ],
+      "fre001698": [
+        189,
+        "tei/gensoul-rougemont-arlequin-a-alger.xml"
+      ],
+      "fre001699": [
+        189,
+        "tei/giraudoux-amphitryon-38.xml"
+      ],
+      "fre001700": [
+        189,
+        "tei/giraudoux-l-apollon-de-bellac.xml"
+      ],
+      "fre001701": [
+        189,
+        "tei/giraudoux-la-guerre-de-troie-n-aura-pas-lieu.xml"
+      ],
+      "fre001702": [
+        189,
+        "tei/glatigny-vers-les-saules.xml"
+      ],
+      "fre001703": [
+        189,
+        "tei/graffigny-cenie.xml"
+      ],
+      "fre001704": [
+        189,
+        "tei/grenet-dancourt-paris.xml"
+      ],
+      "fre001705": [
+        189,
+        "tei/heilly-le-neveu-de-la-marquise.xml"
+      ],
+      "fre001706": [
+        189,
+        "tei/hervilly-de-calais-a-douvres.xml"
+      ],
+      "fre001707": [
+        189,
+        "tei/hervilly-la-soupiere.xml"
+      ],
+      "fre001708": [
+        189,
+        "tei/houssaye-la-comedie-a-la-fenetre.xml"
+      ],
+      "fre001709": [
+        189,
+        "tei/jacquelin-rougemont-l-amour-al-anglaise.xml"
+      ],
+      "fre001710": [
+        189,
+        "tei/jouy-gerny-les-bis.xml"
+      ],
+      "fre001712": [
+        189,
+        "tei/jouy-les-bancs-de-la-promenade.xml"
+      ],
+      "fre001711": [
+        189,
+        "tei/jouy-sermet-ah-mince.xml"
+      ],
+      "fre001713": [
+        189,
+        "tei/labiche-l-avocat-d-un-grec.xml"
+      ],
+      "fre001714": [
+        189,
+        "tei/lamy-barbier-janot-le-finaud.xml"
+      ],
+      "fre001715": [
+        189,
+        "tei/landois-silvie.xml"
+      ],
+      "fre001719": [
+        189,
+        "tei/lemercier-la-maladroite.xml"
+      ],
+      "fre001721": [
+        189,
+        "tei/lemercier-la-petite-princesse.xml"
+      ],
+      "fre001720": [
+        189,
+        "tei/lemercier-oh-maman.xml"
+      ],
+      "fre001716": [
+        189,
+        "tei/lemerciere-carnot-malade.xml"
+      ],
+      "fre001717": [
+        189,
+        "tei/lemerciere-l-enfant-la-vieille-et-le-baudet.xml"
+      ],
+      "fre001718": [
+        189,
+        "tei/lemerciere-le-miracle-rate.xml"
+      ],
+      "fre001722": [
+        189,
+        "tei/leroy-moliere-et-les-deux-thalies.xml"
+      ],
+      "fre001723": [
+        189,
+        "tei/maupassant-a-la-feuille-de-rose.xml"
+      ],
+      "fre001724": [
+        189,
+        "tei/maupassant-une-repetition.xml"
+      ],
+      "fre001725": [
+        189,
+        "tei/mirbeau-les-amants.xml"
+      ],
+      "fre001726": [
+        189,
+        "tei/mirbeau-vieux-menage.xml"
+      ],
+      "fre001727": [
+        189,
+        "tei/moinaux-ah-que-les-plaisirs-sont-doux.xml"
+      ],
+      "fre001730": [
+        189,
+        "tei/moinaux-bon-pere-mais-pochard.xml"
+      ],
+      "fre001739": [
+        189,
+        "tei/moinaux-deux-amateurs-de-saucissons.xml"
+      ],
+      "fre001728": [
+        189,
+        "tei/moinaux-l-aveugle-qui-conduit-son-chien.xml"
+      ],
+      "fre001749": [
+        189,
+        "tei/moinaux-l-homme-qui-bat-les-femmes.xml"
+      ],
+      "fre001748": [
+        189,
+        "tei/moinaux-l-homme-qui-joue-sa-culotte.xml"
+      ],
+      "fre001750": [
+        189,
+        "tei/moinaux-l-homme-universel.xml"
+      ],
+      "fre001754": [
+        189,
+        "tei/moinaux-l-oie-aux-marrons.xml"
+      ],
+      "fre001734": [
+        189,
+        "tei/moinaux-la-casquette-affranchie.xml"
+      ],
+      "fre001742": [
+        189,
+        "tei/moinaux-la-fiacre-cuisine.xml"
+      ],
+      "fre001758": [
+        189,
+        "tei/moinaux-la-rognure-d-ongles.xml"
+      ],
+      "fre001759": [
+        189,
+        "tei/moinaux-la-sauce-d-un-lapin.xml"
+      ],
+      "fre001761": [
+        189,
+        "tei/moinaux-la-victime-de-la-defunte.xml"
+      ],
+      "fre001733": [
+        189,
+        "tei/moinaux-le-cafe-de-la-portiere.xml"
+      ],
+      "fre001735": [
+        189,
+        "tei/moinaux-le-catechisme-poissard.xml"
+      ],
+      "fre001737": [
+        189,
+        "tei/moinaux-le-chantage-a-la-clarinette.xml"
+      ],
+      "fre001746": [
+        189,
+        "tei/moinaux-le-grenouille-a-queue.xml"
+      ],
+      "fre001751": [
+        189,
+        "tei/moinaux-le-joyeux-decroteur.xml"
+      ],
+      "fre001752": [
+        189,
+        "tei/moinaux-le-lapin-de-la-portiere.xml"
+      ],
+      "fre001753": [
+        189,
+        "tei/moinaux-le-mendiant-en-voiture.xml"
+      ],
+      "fre001757": [
+        189,
+        "tei/moinaux-le-professeur-de-respiration.xml"
+      ],
+      "fre001760": [
+        189,
+        "tei/moinaux-le-tambour-magistrat.xml"
+      ],
+      "fre001731": [
+        189,
+        "tei/moinaux-les-bottes-de-tourillon.xml"
+      ],
+      "fre001743": [
+        189,
+        "tei/moinaux-les-freres-hareng.xml"
+      ],
+      "fre001747": [
+        189,
+        "tei/moinaux-les-gueuletons-d-une-debitrice.xml"
+      ],
+      "fre001755": [
+        189,
+        "tei/moinaux-oreste-et-pylade.xml"
+      ],
+      "fre001729": [
+        189,
+        "tei/moinaux-un-besoin-imperieux.xml"
+      ],
+      "fre001732": [
+        189,
+        "tei/moinaux-un-brocanteur-sans-le-savoir.xml"
+      ],
+      "fre001736": [
+        189,
+        "tei/moinaux-un-cercle-vicieux.xml"
+      ],
+      "fre001740": [
+        189,
+        "tei/moinaux-un-enfant-derange.xml"
+      ],
+      "fre001744": [
+        189,
+        "tei/moinaux-un-gamin-de-cinquante-huit-ans.xml"
+      ],
+      "fre001738": [
+        189,
+        "tei/moinaux-une-date-nefaste.xml"
+      ],
+      "fre001741": [
+        189,
+        "tei/moinaux-une-fete-de-famille.xml"
+      ],
+      "fre001745": [
+        189,
+        "tei/moinaux-une-gifle-prescrite.xml"
+      ],
+      "fre001756": [
+        189,
+        "tei/moinaux-une-parente-entortillee.xml"
+      ],
+      "fre001762": [
+        189,
+        "tei/monnier-les-deux-gougnottes.xml"
+      ],
+      "fre001763": [
+        189,
+        "tei/monselet-richard-les-trois-gendarmes.xml"
+      ],
+      "fre001764": [
+        189,
+        "tei/montfleury-les-betes-raisonnables.xml"
+      ],
+      "fre001765": [
+        189,
+        "tei/musset-a-quoi-revent-les-jeunes-filles.xml"
+      ],
+      "fre001766": [
+        189,
+        "tei/musset-bettine.xml"
+      ],
+      "fre001769": [
+        189,
+        "tei/musset-fantasio.xml"
+      ],
+      "fre001770": [
+        189,
+        "tei/musset-il-faut-qu-une-porte-soit-ouverte-ou-fermee.xml"
+      ],
+      "fre001768": [
+        189,
+        "tei/musset-la-coupe-et-les-levres.xml"
+      ],
+      "fre001767": [
+        189,
+        "tei/musset-le-chandelier.xml"
+      ],
+      "fre001772": [
+        189,
+        "tei/musset-les-nuits.xml"
+      ],
+      "fre001771": [
+        189,
+        "tei/musset-louison.xml"
+      ],
+      "fre001773": [
+        189,
+        "tei/musset-on-ne-saurait-penser-a-tout.xml"
+      ],
+      "fre001774": [
+        189,
+        "tei/nadaud-le-conte-du-garde.xml"
+      ],
+      "fre001775": [
+        189,
+        "tei/nivelle-amour-pour-amour.xml"
+      ],
+      "fre001776": [
+        189,
+        "tei/normand-les-petits-cadeaux.xml"
+      ],
+      "fre001777": [
+        189,
+        "tei/nougaret-il-n-y-a-plus-d-enfants.xml"
+      ],
+      "fre001778": [
+        189,
+        "tei/palaprat-le-muet.xml"
+      ],
+      "fre001779": [
+        189,
+        "tei/philidor-la-noce-de-village.xml"
+      ],
+      "fre001780": [
+        189,
+        "tei/poisson-le-poete-basque.xml"
+      ],
+      "fre001781": [
+        189,
+        "tei/pvch-amsterdam-hydropique.xml"
+      ],
+      "fre001782": [
+        189,
+        "tei/quinault-astrate.xml"
+      ],
+      "fre001783": [
+        189,
+        "tei/quinault-le-feint-alcibiade.xml"
+      ],
+      "fre001785": [
+        189,
+        "tei/renard-huit-jours-a-la-campagne.xml"
+      ],
+      "fre001784": [
+        189,
+        "tei/renard-la-demande.xml"
+      ],
+      "fre001786": [
+        189,
+        "tei/renard-le-pain-du-menage.xml"
+      ],
+      "fre001787": [
+        189,
+        "tei/rochefort-dupeuty-livry-madame-gregoire.xml"
+      ],
+      "fre001788": [
+        189,
+        "tei/samson-printemps-parisien.xml"
+      ],
+      "fre001789": [
+        189,
+        "tei/saurin-amenophis.xml"
+      ],
+      "fre001790": [
+        189,
+        "tei/scribe-les-dervis.xml"
+      ],
+      "fre001791": [
+        189,
+        "tei/sedaine-le-philosophe-sans-le-savoir.xml"
+      ],
+      "fre001792": [
+        189,
+        "tei/sewrin-la-sorciere.xml"
+      ],
+      "fre001793": [
+        189,
+        "tei/sorel-dialogue-des-yeux-et-de-la-bouche.xml"
+      ],
+      "fre001794": [
+        189,
+        "tei/sorel-la-dispute-du-luth-et-de-la-guitare.xml"
+      ],
+      "fre001795": [
+        189,
+        "tei/sorel-la-ruelle-mal-assortie.xml"
+      ],
+      "fre001796": [
+        189,
+        "tei/vade-le-suffisant.xml"
+      ],
+      "fre001798": [
+        189,
+        "tei/verdie-dialogue-entre-l-illustre-don-mardi-gras.xml"
+      ],
+      "fre001797": [
+        189,
+        "tei/verdie-l-amour-et-le-celibat.xml"
+      ],
+      "fre001799": [
+        189,
+        "tei/verdie-la-mort-de-guillaumet.xml"
+      ],
+      "fre001800": [
+        189,
+        "tei/vige-wilhem-tell.xml"
+      ],
+      "fre001801": [
+        189,
+        "tei/bary-de-l-adresse.xml"
+      ],
+      "fre001802": [
+        189,
+        "tei/bary-de-l-ajustement.xml"
+      ],
+      "fre001817": [
+        189,
+        "tei/bary-de-l-exhortation.xml"
+      ],
+      "fre001807": [
+        189,
+        "tei/bary-de-la-belle-resistance.xml"
+      ],
+      "fre001809": [
+        189,
+        "tei/bary-de-la-belle-taille.xml"
+      ],
+      "fre001811": [
+        189,
+        "tei/bary-de-la-campagne.xml"
+      ],
+      "fre001814": [
+        189,
+        "tei/bary-de-la-contrariete.xml"
+      ],
+      "fre001815": [
+        189,
+        "tei/bary-de-la-discretion.xml"
+      ],
+      "fre001820": [
+        189,
+        "tei/bary-de-la-pudeur.xml"
+      ],
+      "fre001819": [
+        189,
+        "tei/bary-de-libre-abord.xml"
+      ],
+      "fre001804": [
+        189,
+        "tei/bary-des-beaux-cheveux.xml"
+      ],
+      "fre001805": [
+        189,
+        "tei/bary-des-beaux-yeux.xml"
+      ],
+      "fre001808": [
+        189,
+        "tei/bary-des-belles-mains.xml"
+      ],
+      "fre001803": [
+        189,
+        "tei/bary-du-bal.xml"
+      ],
+      "fre001806": [
+        189,
+        "tei/bary-du-bel-esprit.xml"
+      ],
+      "fre001810": [
+        189,
+        "tei/bary-du-bon-office.xml"
+      ],
+      "fre001812": [
+        189,
+        "tei/bary-du-comperage.xml"
+      ],
+      "fre001813": [
+        189,
+        "tei/bary-du-compliment.xml"
+      ],
+      "fre001816": [
+        189,
+        "tei/bary-du-duel.xml"
+      ],
+      "fre001818": [
+        189,
+        "tei/bary-du-festin.xml"
+      ],
+      "fre001821": [
+        189,
+        "tei/adenis-le-nouveau-ne.xml"
+      ],
+      "fre001822": [
+        189,
+        "tei/allary-les-lilas-blancs.xml"
+      ],
+      "fre001823": [
+        189,
+        "tei/balzac-vautrin.xml"
+      ],
+      "fre001825": [
+        189,
+        "tei/banville-feuilleton-d-aristophane.xml"
+      ],
+      "fre001826": [
+        189,
+        "tei/banville-la-perle.xml"
+      ],
+      "fre001824": [
+        189,
+        "tei/banville-le-beau-leandre.xml"
+      ],
+      "fre001827": [
+        189,
+        "tei/barre-radet-desfontaines-colombine-mannequin.xml"
+      ],
+      "fre001828": [
+        189,
+        "tei/barriere-le-bout-d-elan-de-l-amour.xml"
+      ],
+      "fre001829": [
+        189,
+        "tei/barriere-le-jardinier-et-son-seigneur.xml"
+      ],
+      "fre001830": [
+        189,
+        "tei/bary-de-l-art-de-se-faire-aimer.xml"
+      ],
+      "fre001839": [
+        189,
+        "tei/bary-de-l-entrevue-amoureuse.xml"
+      ],
+      "fre001840": [
+        189,
+        "tei/bary-de-l-entrevue-politique.xml"
+      ],
+      "fre001841": [
+        189,
+        "tei/bary-de-l-exil.xml"
+      ],
+      "fre001844": [
+        189,
+        "tei/bary-de-l-inclination-bizarre.xml"
+      ],
+      "fre001845": [
+        189,
+        "tei/bary-de-l-indulgence.xml"
+      ],
+      "fre001834": [
+        189,
+        "tei/bary-de-la-ceremonie.xml"
+      ],
+      "fre001835": [
+        189,
+        "tei/bary-de-la-colere.xml"
+      ],
+      "fre001837": [
+        189,
+        "tei/bary-de-la-danse.xml"
+      ],
+      "fre001838": [
+        189,
+        "tei/bary-de-la-dissimulation.xml"
+      ],
+      "fre001842": [
+        189,
+        "tei/bary-de-la-feintise.xml"
+      ],
+      "fre001847": [
+        189,
+        "tei/bary-de-la-memoire.xml"
+      ],
+      "fre001849": [
+        189,
+        "tei/bary-de-la-raillerie.xml"
+      ],
+      "fre001852": [
+        189,
+        "tei/bary-de-la-simplicite-des-habits.xml"
+      ],
+      "fre001843": [
+        189,
+        "tei/bary-des-fleurs.xml"
+      ],
+      "fre001853": [
+        189,
+        "tei/bary-des-tailles-contestees.xml"
+      ],
+      "fre001831": [
+        189,
+        "tei/bary-du-badinage.xml"
+      ],
+      "fre001832": [
+        189,
+        "tei/bary-du-beau-rendezvous.xml"
+      ],
+      "fre001833": [
+        189,
+        "tei/bary-du-beau-sein.xml"
+      ],
+      "fre001836": [
+        189,
+        "tei/bary-du-cours.xml"
+      ],
+      "fre001846": [
+        189,
+        "tei/bary-du-mauvais-choix.xml"
+      ],
+      "fre001848": [
+        189,
+        "tei/bary-du-proces.xml"
+      ],
+      "fre001850": [
+        189,
+        "tei/bary-du-retour-des-esprits.xml"
+      ],
+      "fre001851": [
+        189,
+        "tei/bary-du-roman.xml"
+      ],
+      "fre001854": [
+        189,
+        "tei/biez-le-premier-billet.xml"
+      ],
+      "fre001855": [
+        189,
+        "tei/bonhomme-anicroche.xml"
+      ],
+      "fre001856": [
+        189,
+        "tei/bonhomme-porte-veine.xml"
+      ],
+      "fre001857": [
+        189,
+        "tei/bouchor-michel-lando.xml"
+      ],
+      "fre001858": [
+        189,
+        "tei/boursault-poisson-la-rissole-et-merlin.xml"
+      ],
+      "fre001859": [
+        189,
+        "tei/bruand-chansons-et-monologues.xml"
+      ],
+      "fre001860": [
+        189,
+        "tei/charles-adolphe-masson-le-tir-au-pistolet.xml"
+      ],
+      "fre001861": [
+        189,
+        "tei/chevreau-coriolan.xml"
+      ],
+      "fre001862": [
+        189,
+        "tei/chevreau-la-lucrece-romaine.xml"
+      ],
+      "fre001863": [
+        189,
+        "tei/clairville-siraudin-moreau-la-societe-du-doigt-dans-l-oeil.xml"
+      ],
+      "fre001864": [
+        189,
+        "tei/colle-scenes-detachees-de-la-guinguette.xml"
+      ],
+      "fre001865": [
+        189,
+        "tei/colle-tanzai-et-neadarne.xml"
+      ],
+      "fre001866": [
+        189,
+        "tei/dalibray-le-torrismon-du-tasse.xml"
+      ],
+      "fre001867": [
+        189,
+        "tei/depret-le-marquis-ernest.xml"
+      ],
+      "fre001868": [
+        189,
+        "tei/desfontaines-belisaire.xml"
+      ],
+      "fre001869": [
+        189,
+        "tei/doigny-du-ponceau-antigone.xml"
+      ],
+      "fre001870": [
+        189,
+        "tei/drault-la-boucle-d-oreille-de-josephine.xml"
+      ],
+      "fre001873": [
+        189,
+        "tei/drault-la-voleuse-du-bon-marche.xml"
+      ],
+      "fre001871": [
+        189,
+        "tei/drault-le-chapeau-de-monsieur-poiret.xml"
+      ],
+      "fre001872": [
+        189,
+        "tei/drault-le-mouchoir-de-chapuzot.xml"
+      ],
+      "fre001874": [
+        189,
+        "tei/durval-agarite.xml"
+      ],
+      "fre001875": [
+        189,
+        "tei/favart-voisenon-la-petite-iphigenie.xml"
+      ],
+      "fre001876": [
+        189,
+        "tei/ferrier-chez-la-cliente.xml"
+      ],
+      "fre001878": [
+        189,
+        "tei/feydeau-gibier-de-potence.xml"
+      ],
+      "fre001879": [
+        189,
+        "tei/feydeau-l-homme-integre.xml"
+      ],
+      "fre001877": [
+        189,
+        "tei/feydeau-un-coup-de-tete-1883.xml"
+      ],
+      "fre001880": [
+        189,
+        "tei/framery-la-colonie.xml"
+      ],
+      "fre001881": [
+        189,
+        "tei/france-la-comedie-de-celui-qui-epousa-une-femme-muette.xml"
+      ],
+      "fre001882": [
+        189,
+        "tei/grenet-dancourt-la-chasse.xml"
+      ],
+      "fre001883": [
+        189,
+        "tei/guerin-de-bouscal-la-mort-de-brute-et-de-porcie.xml"
+      ],
+      "fre001884": [
+        189,
+        "tei/hardy-corine.xml"
+      ],
+      "fre001885": [
+        189,
+        "tei/hardy-dorise.xml"
+      ],
+      "fre001886": [
+        189,
+        "tei/hervilly-les-revanches-de-l-escalier.xml"
+      ],
+      "fre001888": [
+        189,
+        "tei/hugo-l-enroleur-politique.xml"
+      ],
+      "fre001887": [
+        189,
+        "tei/hugo-les-deux-ages.xml"
+      ],
+      "fre001889": [
+        189,
+        "tei/hugo-ruy-blas.xml"
+      ],
+      "fre001890": [
+        189,
+        "tei/la-mesnardiere-alinde.xml"
+      ],
+      "fre001891": [
+        189,
+        "tei/launay-la-lettre-rose.xml"
+      ],
+      "fre001892": [
+        189,
+        "tei/legouve-autour-d-un-berceau.xml"
+      ],
+      "fre001893": [
+        189,
+        "tei/lesage-turcaret.xml"
+      ],
+      "fre001894": [
+        189,
+        "tei/longepierre-la-mort-de-solon.xml"
+      ],
+      "fre001895": [
+        189,
+        "tei/lucas-christophe-colomb.xml"
+      ],
+      "fre001896": [
+        189,
+        "tei/masson-le-proces-du-baiser.xml"
+      ],
+      "fre001897": [
+        189,
+        "tei/monnier-la-grisette-et-l-etudiant.xml"
+      ],
+      "fre001898": [
+        189,
+        "tei/mousset-zut.xml"
+      ],
+      "fre001899": [
+        189,
+        "tei/nerval-une-repetition.xml"
+      ],
+      "fre001900": [
+        189,
+        "tei/palaprat-les-sifflets.xml"
+      ],
+      "fre001901": [
+        189,
+        "tei/panard-critique-a-l-opera-comique.xml"
+      ],
+      "fre001902": [
+        189,
+        "tei/panard-le-magasin-des-modernes.xml"
+      ],
+      "fre001903": [
+        189,
+        "tei/panard-le-reve.xml"
+      ],
+      "fre001904": [
+        189,
+        "tei/pascal-endymion.xml"
+      ],
+      "fre001905": [
+        189,
+        "tei/perrault-l-oublieux.xml"
+      ],
+      "fre001906": [
+        189,
+        "tei/puget-de-la-serre-le-pyrame.xml"
+      ],
+      "fre001907": [
+        189,
+        "tei/quatrelles-la-dame-de-niort.xml"
+      ],
+      "fre001908": [
+        189,
+        "tei/roswitha-abraham.xml"
+      ],
+      "fre001909": [
+        189,
+        "tei/roswitha-callimaque.xml"
+      ],
+      "fre001910": [
+        189,
+        "tei/roswitha-dulcitius.xml"
+      ],
+      "fre001912": [
+        189,
+        "tei/rotrou-crisante.xml"
+      ],
+      "fre001914": [
+        189,
+        "tei/rotrou-don-lope-de-cardone.xml"
+      ],
+      "fre001916": [
+        189,
+        "tei/rotrou-l-heureuse-constance.xml"
+      ],
+      "fre001917": [
+        189,
+        "tei/rotrou-l-hypocondriaque.xml"
+      ],
+      "fre001911": [
+        189,
+        "tei/rotrou-la-celimene.xml"
+      ],
+      "fre001913": [
+        189,
+        "tei/rotrou-la-diane.xml"
+      ],
+      "fre001919": [
+        189,
+        "tei/rotrou-la-soeur.xml"
+      ],
+      "fre001915": [
+        189,
+        "tei/rotrou-le-filandre.xml"
+      ],
+      "fre001918": [
+        189,
+        "tei/rotrou-les-occasions-perdues.xml"
+      ],
+      "fre001921": [
+        189,
+        "tei/sacy-jeanne-de-cosse-brissac.xml"
+      ],
+      "fre001920": [
+        189,
+        "tei/sacy-l-ile-deserte.xml"
+      ],
+      "fre001922": [
+        189,
+        "tei/sacy-le-menteur.xml"
+      ],
+      "fre001923": [
+        189,
+        "tei/sacy-le-revenant.xml"
+      ],
+      "fre001924": [
+        189,
+        "tei/sallebray-l-amante-ennemie.xml"
+      ],
+      "fre001925": [
+        189,
+        "tei/scheler-aiguilleur.xml"
+      ],
+      "fre001926": [
+        189,
+        "tei/sedaine-l-huitre-et-les-plaideurs.xml"
+      ],
+      "fre001927": [
+        189,
+        "tei/troterel-gillette.xml"
+      ],
+      "fre001928": [
+        189,
+        "tei/veronneau-l-impuissance.xml"
+      ],
+      "fre001929": [
+        189,
+        "tei/beissier-chasseurs-et-l-ours.xml"
+      ],
+      "fre001930": [
+        189,
+        "tei/busnach-chateau-yquem.xml"
+      ],
+      "fre001931": [
+        189,
+        "tei/girard-derniere-nuit-de-camille-desmoulins.xml"
+      ],
+      "fre001932": [
+        189,
+        "tei/depret-monsieur-cambrefort.xml"
+      ],
+      "fre001933": [
+        189,
+        "tei/gerny-cyrano-a-la-foire.xml"
+      ],
+      "fre001934": [
+        189,
+        "tei/regnault-marie-stuard.xml"
+      ],
+      "fre001935": [
+        189,
+        "tei/rostand-cyrano.xml"
+      ],
+      "fre001936": [
+        189,
+        "tei/silvestre-sapho.xml"
+      ],
+      "fre001937": [
+        189,
+        "tei/siraudin-delacour-choler-apres-le-bal.xml"
+      ],
+      "fre001939": [
+        189,
+        "tei/siraudin-faction-de-nuit.xml"
+      ],
+      "fre001938": [
+        189,
+        "tei/siraudin-larounat-ami-des-femmes.xml"
+      ],
+      "fre001940": [
+        189,
+        "tei/supersac-la-porte-est-close.xml"
+      ],
+      "fre001941": [
+        189,
+        "tei/taconet-la-mort-du-boeuf-gras.xml"
+      ],
+      "fre001942": [
+        189,
+        "tei/trianon-orfa.xml"
+      ],
+      "fre001943": [
+        189,
+        "tei/valentin-le-soir-de-fiancailles.xml"
+      ],
+      "fre001944": [
+        189,
+        "tei/verconsin-infanterie-et-cavalerie.xml"
+      ],
+      "fre001945": [
+        189,
+        "tei/vigny-quitte-pour-la-peur.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 190,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

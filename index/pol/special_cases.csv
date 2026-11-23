@@ -1,0 +1,63 @@
+case,seq,commit,key,path,blob,detail
+duplicate-id,26,f75a40d25b3451889abfc9959438789de2bad948,pol000003,tei/blizinski-marcowy-kawaler.xml | tei/blizinski-marcowy-kawaler2.xml,,2 files valid at the same time
+duplicate-id-resolved,29,b06302e809b8b2faaebea43287570f5a9009fe25,pol000003,,,
+rename-same-blob,38,2621d41ebd3e5219c406b992c1c5c858c1f2969a,pol000028,tei/anczyc_chlopi-arystokraci.xml,74a7c39d290c5269a75f18473d8654ba309369d4,from tei/anczyc_chИopi-arystokraci.xml
+rename-same-blob,38,2621d41ebd3e5219c406b992c1c5c858c1f2969a,pol000017,tei/balucki_grube-ryby.xml,40c2a8924580b243fcb34577b446d5251a2fdc34,from tei/baИucki_grube-ryby.xml
+rename-same-blob,38,2621d41ebd3e5219c406b992c1c5c858c1f2969a,pol000029,tei/balucki_polowanie-na-meza.xml,45809b501c1901b6455ac1926dc361a52a0439ce,from tei/baИucki_polowanie-na-mй╛a.xml
+rename-same-blob,38,2621d41ebd3e5219c406b992c1c5c858c1f2969a,pol000022,tei/boncza_uszczesliwienie-narodu.xml,d2f6fdb2b67e3c46353da6ef3ce0c85d1e25cc3e,from tei/boфcza_uszczйШliwienie-narodu.xml
+rename-same-blob,38,2621d41ebd3e5219c406b992c1c5c858c1f2969a,pol000020,tei/broniszewski_filut-postrzezony.xml,6fa0f5815273b8ee23cb1a8133ca290a620fe6cc,from tei/broniszewski_filut-postrze╛ony.xml
+rename-same-blob,38,2621d41ebd3e5219c406b992c1c5c858c1f2969a,pol000016,tei/laudyn_zmarnowane-zycie.xml,284048be2fadb8f503b94a9dc846b63152a43b73,from tei/laudyn_zmarnowane-╛ycie.xml
+rename-same-blob,38,2621d41ebd3e5219c406b992c1c5c858c1f2969a,pol000018,tei/perzyzski_aszantka.xml,b8cdea09607053234f0b86df92ec79338b62cbf4,from tei/perzyфski_aszantka.xml
+rename-same-blob,38,2621d41ebd3e5219c406b992c1c5c858c1f2969a,pol000011,tei/siemonski_anarchia-domowa.xml,ed4891d5db5b067bc577c5587be4df82fb57cb1e,from tei/siemoфski_anarchia-domowa.xml
+rename-same-blob,38,2621d41ebd3e5219c406b992c1c5c858c1f2969a,pol000026,tei/siemonski_panna-intrygalska.xml,5e2de2592f480b3a2bcff4ba15273cde73414ccc,from tei/siemoфski_panna-intrygalska.xml
+rename-same-blob,38,2621d41ebd3e5219c406b992c1c5c858c1f2969a,pol000015,tei/swietochowski_ojciec-makary.xml,800f781516b1676051e90027533f5e7ff27d89a2,from tei/Шwiйtochowski_ojciec-makary.xml
+rename-same-blob,38,2621d41ebd3e5219c406b992c1c5c858c1f2969a,pol000030,tei/wieloglowski_kucharki.xml,d1e619033205539961e7dc53bb519ad9eeca56d0,from tei/wielogИowski_kucharki.xml
+malformed-xml,57,5b2d8c680d44e525633b21e8fbda7d7e44bc8628,pol000033,tei/skalmierzanki_ready.xml,b5a8043f8724c31b021a4b82cd1e60d26e8f5f55,TEI file not well-formed; ID taken by regex
+malformed-xml,58,99d5e8cd909ef6181785fe6d23c30cd3a8655aa2,pol000033,tei/skalmierzanki_ready.xml,116a6cca2857ec3f6e9ccfa45aae5da7100ee268,TEI file not well-formed; ID taken by regex
+malformed-xml,71,40103bf8c1483525b21f70f2a7f02ee7b4da140b,pol000037,tei/w-zimowa-noc_ready.xml,427fcfe7a7af75be7389480912342dc2408dddd2,TEI file not well-formed; ID taken by regex
+duplicate-id,71,40103bf8c1483525b21f70f2a7f02ee7b4da140b,pol000025,tei/damy_ready.xml | tei/fredro_damy-i-huzary.xml,,2 files valid at the same time
+duplicate-id,71,40103bf8c1483525b21f70f2a7f02ee7b4da140b,pol000018,tei/aszantka_ready.xml | tei/perzyzski_aszantka.xml,,2 files valid at the same time
+rename-same-blob,87,216dda919589e791817e5fbf2d16a725d956fbb3,pol000045,tei/zabusia_ready.xml,6a4b34d880e26aa8c7536d5be0974e457eec7a40,from tei/żabusia_ready.xml
+duplicate-id-resolved,88,3fe9cdf9b87a9d1ffdb2f8d3ddede61f7242af30,pol000025,,,
+rename-same-blob,89,d40291893cc81e716bbc9840089bc493aa0ba98f,pol000025,tei/fredro_damy-i-huzary.xml,1326b8ed92a9721e949da20f9e5210dc9eeaca6a,from tei/damy_ready.xml
+duplicate-id-resolved,89,d40291893cc81e716bbc9840089bc493aa0ba98f,pol000018,,,
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000028,tei/anczyc-chlopi-arystokraci.xml,d2b4d33a8e7a54b27c28152ea70d57f6666d1a6d,from tei/anczyc_chlopi-arystokraci.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000017,tei/balucki-grube-ryby.xml,84246f88f39a04bc55bfe5e99b4c1a299c06dc04,from tei/balucki_grube-ryby.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000029,tei/balucki-polowanie-na-meza.xml,867872aa6555f06011cc371325ef2d9106a4a36d,from tei/balucki_polowanie-na-meza.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000050,tei/blizinski-damazy.xml,cf905ed172beceabc6d04aa298f9c5fee0435f14,from tei/damazy_ready.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000021,tei/bohomolec-czary.xml,9c2d2014bd6ae43971435384255ec2f6a2f0e791,from tei/bohomolec_czary.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000023,tei/bohomolec-podeyrzliwi.xml,d655c9ae6a91d3f410074f793a49c1a6bfc097dd,from tei/bohomolec_podeyrzliwi.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000022,tei/boncza-tomaszewski-uszczesliwienie-narodu.xml,07d9f7138de915aa56b811b05c52f3f361488424,from tei/boncza_uszczesliwienie-narodu.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000020,tei/broniszewski-filut-postrzezony.xml,fc5ae70abee3991fcdebc65de7f6df1520c461c5,from tei/broniszewski_filut-postrzezony.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000019,tei/czartoryski-kawa.xml,986c6a74c0afc44c643b3a1cfd312173b1dc17d7,from tei/czartoryski_kawa.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000024,tei/dmuszewski-siedem-razy-jeden.xml,7e642c926391d0e9b45a70962033ab7c8666c3fe,from tei/dmuszewski_siedem-razy-jeden.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000031,tei/dobrzanski-kajcio.xml,dcfabfb6712fb8b85878b4e38cfb7145187d5cfb,from tei/dobrzanski_kajcio.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000025,tei/fredro-damy-i-huzary.xml,d0a308cfa0a56887e09717a7d272035326fb0abb,from tei/fredro_damy-i-huzary.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000035,tei/fredro-jowialski.xml,c62ffe7280d05aa52960263be40d56b5687774da,from tei/jowialski_ready.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000046,tei/gawalewicz-dzisiejsi.xml,ce25d13e88064c80dc9dcd84034e3dcf70dd434a,from tei/dzisiejsi_ready.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000047,tei/gawalewicz-guzik.xml,f02b86215abb44ce3426426b9100503834b2143c,from tei/guzik_ready.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000036,tei/janczowicz-terlecki-jestesmy-gotowi.xml,5fde16584fab752f9fcca4f2ba225c4a685b174c,from tei/jestesmy-gotowi_ready.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000033,tei/kaminski-skalmierzanki.xml,5c6a3bdaf1abb4e3add82e761e00fd83873ab169,from tei/skalmierzanki_ready.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000044,tei/kisielewski-karykatury.xml,bd04fb031889f153559059462eb206bc546548be,from tei/karykatury_ready.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000012,tei/korzeniowski-aniela.xml,0f8f8d5edb9792d37d7f4be6f6ea0d5e705fa0c4,from tei/korzeniowski_aniela.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000016,tei/laudyn-chrzanowska-zmarnowane-zycie.xml,5ce23ccfd7aee9a1c43503fdba88fab6c0bf1577,from tei/laudyn_zmarnowane-zycie.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000048,tei/lubowski-pogodzeni.xml,15fcc9946b176d1686280d6408ee569c51213249,from tei/pogodzeni_ready.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000034,tei/mann-sztuka.xml,afe7a97870e9dc90e47cc1be853b967d474dae1e,from tei/sztuka_ready.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000037,tei/markowska-w-zimowa-noc.xml,ce2eef0dd715691b45c4d422a200ee1cfbe35056,from tei/w-zimowa-noc_ready.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000014,tei/narzymski-pozytywni.xml,6ff189e03363fe1e6ed1b8209309a35f8591720a,from tei/narzymski_pozytywni.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000039,tei/neuwert-nowaczynski-cyrce.xml,ca70b1c513dba449b48b8e2c3c31819b1b84406a,from tei/cyrce_ready.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000042,tei/neuwert-nowaczynski-dom-kalek.xml,ed97600e5276e27845b09e0df0b9f4453b6d15d0,from tei/dom-kalek_ready.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000013,tei/oraczewski-zabawy.xml,03a821329021f46432660a88121910344aef2b33,from tei/oraczewski_zabawy.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000040,tei/perzynski-lekkomyslna-siostra.xml,0f13159ee5ac50443ab60a29b3433f6b4fb5c1a4,from tei/lekkomyslna-siostra_ready.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000018,tei/perzyzski-aszantka.xml,af628884dbebd4184551e50047c499c83a5cc542,from tei/perzyzski_aszantka.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000043,tei/przybyszewski-dla-szczescia.xml,13ca6e1e94f2c0a65adfe852863c7c5777f9faef,from tei/dla-szczescia_ready.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000027,tei/rajszel-dymissyowany-kawaler.xml,57d2c10e28ba2908591dc879727a8d47d0753a85,from tei/rajszel_dymissyowany-kawaler.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000041,tei/rittner-w-malym-domku.xml,40496e69f5c5b322e7813cf105af501dc2e496cb,from tei/w-malym-domku_ready.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000038,tei/rostworowski-niespodzianka.xml,3febcd2b55793e597cf8d968527f2dc03230c357,from tei/niespodzianka_ready.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000011,tei/siemonski-anarchia-domowa.xml,3e564f9b4ef7f8e1640e99638cbf77637064124e,from tei/siemonski_anarchia-domowa.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000026,tei/siemonski-panna-intrygalska.xml,5bd25c220490af343168622c336c138c259859e7,from tei/siemonski_panna-intrygalska.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000015,tei/swietochowski-ojciec-makary.xml,4770f33e110251f820434f0df05eaa433affbb61,from tei/swietochowski_ojciec-makary.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000030,tei/wieloglowski-kucharki.xml,f5680d329fc80b27b6b6abed2cccde3d960d1a1d,from tei/wieloglowski_kucharki.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000049,tei/zalewski-przed-slubem.xml,c3178e681ac050d152d2e79311a97352917f2a7c,from tei/przed-slubem_ready.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000032,tei/zalewski-wycieczka.xml,09bd33a9e7b6ea0d224d424a1fba97e4016d605a,from tei/zalewski_wycieczka.xml
+rename-same-blob,101,d0b21471c1ef76141afb1efdd5c32490e092fac0,pol000045,tei/zapolska-zabusia.xml,60570dddb3a08645e62cce0e9404e240a34e4bee,from tei/zabusia_ready.xml

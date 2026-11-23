@@ -1,0 +1,420 @@
+case,seq,commit,key,path,blob,detail
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/alamanni-tragedia-di-antigone.xml,tei/alamanni-tragedia-di-antigone.xml,697ec17109fc77315cf5c5515c11b90eea0d1c26,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/alfieri-agamennone.xml,tei/alfieri-agamennone.xml,cfb2c699ca99e80fbf4cfb4ee11f1bcb57bf2205,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/alfieri-antigone.xml,tei/alfieri-antigone.xml,aa0354a2b605e93771e994480047601e18b0c8f3,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/alfieri-bruto-primo.xml,tei/alfieri-bruto-primo.xml,f47786e45daf00deff311d8fa74b3f74ce755dfe,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/alfieri-bruto-secondo.xml,tei/alfieri-bruto-secondo.xml,34f0b7130da0ace957d3d66f77b03ab8e821ad06,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/alfieri-don-garzia.xml,tei/alfieri-don-garzia.xml,a119c2e9dfe2be530126755e3e6d2667209c1942,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/alfieri-filippo.xml,tei/alfieri-filippo.xml,c75aede7e746166efbf36f0c2aeb13a70d3eae7d,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/alfieri-la-congiura-de-pazzi.xml,tei/alfieri-la-congiura-de-pazzi.xml,89342c42da4b3acbe7984b054ac0f798ed866103,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/alfieri-maria-stuarda.xml,tei/alfieri-maria-stuarda.xml,e1321dd83584f8345357d223f347366168a19824,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/alfieri-merope.xml,tei/alfieri-merope.xml,0e4281b86f361a494ff7900fa4c33c2ef032c296,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/alfieri-mirra.xml,tei/alfieri-mirra.xml,4f80eca2fbb19cb304f1dee0d6682bcd698f9981,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/alfieri-oreste.xml,tei/alfieri-oreste.xml,f3e17530fe40d376d14a7ac19ef2483da80de6b9,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/alfieri-ottavia.xml,tei/alfieri-ottavia.xml,45f4c4237f3c554a81288158e741601829a3b4b1,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/alfieri-polinice.xml,tei/alfieri-polinice.xml,edbfd9c50e5ed73ccce1a1200862870074010b78,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/alfieri-rosmunda.xml,tei/alfieri-rosmunda.xml,a35c6b014159d466e914e202d276f9e9b0841478,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/alfieri-saul.xml,tei/alfieri-saul.xml,4798f3468f24c02ba70314a4f446cd5d393793a5,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/alfieri-sofonisba.xml,tei/alfieri-sofonisba.xml,6b8def1f0a18928f54b1e52b6af71681dd96c1d0,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/alfieri-timoleone.xml,tei/alfieri-timoleone.xml,e6f9442a258b585d2530d71b2502518bb94ed65b,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/alfieri-virginia.xml,tei/alfieri-virginia.xml,26ebb446f9f1e64882cd2937c3114b9bbae3a4d8,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/andreini-lo-schiavetto.xml,tei/andreini-lo-schiavetto.xml,fcbe63ce6883683ab07f5938b591d11c352027e3,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/anonimo-cleopatra-e-marc-antonio.xml,tei/anonimo-cleopatra-e-marc-antonio.xml,f13b1091d6dbe8b7fedd536240bcbac87b2c5c8a,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/anonimo-fabula-de-cefalo-e-procris.xml,tei/anonimo-fabula-de-cefalo-e-procris.xml,e1bca4bec43fbc1840ad99c8a870415c6e3127cd,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/anonimo-la-canterina.xml,tei/anonimo-la-canterina.xml,c3509d8ac5a7d20de458ba34e2de8be004554d3c,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/anonimo-la-festa-di-susanna.xml,tei/anonimo-la-festa-di-susanna.xml,5c465aa2c9af7fff280a69e5eaf833635c3b1a9c,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/anonimo-la-rappresentazione-della-nativita-di-nostro-signore-gesu-cristo.xml,tei/anonimo-la-rappresentazione-della-nativita-di-nostro-signore-gesu-cristo.xml,d7415d2be37999dc6514a67e8dc74b1d8d8589ed,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/anonimo-la-rappresentazione-di-josef-di-jacob-e-de-fratelli.xml,tei/anonimo-la-rappresentazione-di-josef-di-jacob-e-de-fratelli.xml,0effe496582a90d9596d3d10a8e822d7e72b425a,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/anonimo-la-rappresentazione-di-moise-e-faraone-re-d-egitto.xml,tei/anonimo-la-rappresentazione-di-moise-e-faraone-re-d-egitto.xml,3bb950de23cbe0a87dba4e8f2c80210975e7cad2,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/anonimo-la-rappresentazione-di-salamone.xml,tei/anonimo-la-rappresentazione-di-salamone.xml,451762023e70fc8b17ef32e607a2cabb48d3e73e,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/anonimo-la-rappresentazione-di-san-bernardo.xml,tei/anonimo-la-rappresentazione-di-san-bernardo.xml,cf65523a0fa0440288486ad786adee7fb38db153,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/anonimo-la-rappresentazione-di-san-giovanni-battista.xml,tei/anonimo-la-rappresentazione-di-san-giovanni-battista.xml,e363bb4143175249fc390939fdf6737f7464b099,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/anonimo-la-veniexiana.xml,tei/anonimo-la-veniexiana.xml,29730e09829d6022aecfd40512d51dac98b5cf05,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/anonimo-orphei-tragoedia.xml,tei/anonimo-orphei-tragoedia.xml,9436c2ef053f7b16b13a97cbe64a35ffc371a31b,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/anonimo-quando-iddio-fece-il-mondo-e-l-uomo-e-ogni-cosa-creata.xml,tei/anonimo-quando-iddio-fece-il-mondo-e-l-uomo-e-ogni-cosa-creata.xml,2cdbb239e4a0e23758777054013a5f0ce4b47a6d,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/anonimo-representazione-di-febo-e-feton.xml,tei/anonimo-representazione-di-febo-e-feton.xml,c8a32fc88c2ff3f029feeb40b36f024ca6bed4db,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/ariosto-cassaria.xml,tei/ariosto-cassaria.xml,f12c28fda4d23b3930b5dbae7a3e7839aaa94221,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/ariosto-i-studenti.xml,tei/ariosto-i-studenti.xml,9f06a2d1048b6e151dfb939b1570484b21928912,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/ariosto-i-suppositi-red-in-versi.xml,tei/ariosto-i-suppositi-red-in-versi.xml,72a5fca03b0e6168d9539328cdd7f43cddf5d4f1,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/ariosto-i-suppositi.xml,tei/ariosto-i-suppositi.xml,1f6b8ac6d93db6b413d9efe02f9c774520a5b057,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/ariosto-il-negromante.xml,tei/ariosto-il-negromante.xml,dc8ecca241f9445010b9fb16639d63a57922ac9e,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/ariosto-la-cassaria-red-in-versi.xml,tei/ariosto-la-cassaria-red-in-versi.xml,5a0d37a10b3a8c3f71ae2f4c73df29700c730ac0,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/ariosto-la-lena.xml,tei/ariosto-la-lena.xml,97a4cdb11187519c0e3328c271d7fc055644e56c,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/barbieri-l-inavertito.xml,tei/barbieri-l-inavertito.xml,2aed3f1f30c1d223478eb648f1615f3f2a61dd12,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/beccari-il-sacrificio-1555.xml,tei/beccari-il-sacrificio-1555.xml,f51d12b7ceb01ca74bc5e87b0dbaf64871116aa6,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/beccari-il-sacrificio-1587.xml,tei/beccari-il-sacrificio-1587.xml,7b15341f481f33bbb04329f0dfc1ccaa1d82c1ae,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/bellincioni-egloga-ovvero-pasturale.xml,tei/bellincioni-egloga-ovvero-pasturale.xml,3e096502f857c3f3c472b4fc764a2ba679709fb1,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/bellincioni-ripresentazione-di-pavia.xml,tei/bellincioni-ripresentazione-di-pavia.xml,b244049a6c3d33fb86a64146e2b06f029074c471,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/boiardo-timone.xml,tei/boiardo-timone.xml,03b3634fa0edf33a67ebc7160744dfbda21a7cb1,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/cammelli-panfila.xml,tei/cammelli-panfila.xml,be42888919dca2344a5c3af0aa6968a743f61573,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/carmignani-polissena.xml,tei/carmignani-polissena.xml,dd70d1b360557d2a7dbfd56a8ed6f8cebb9d48ce,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/cascina-alfea-reverente.xml,tei/cascina-alfea-reverente.xml,fc4cde2551b87397f5f89ecd1aba6ef8d5d50136,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/cecchini-l-amico-tradito.xml,tei/cecchini-l-amico-tradito.xml,6deff623a5d68b60c72dbac3f4338702643c048b,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/cosci-paola-da-buti.xml,tei/cosci-paola-da-buti.xml,379de9928efab44c44eabec5754310fb2f94ced2,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/da-correggio-fabula-de-cefalo.xml,tei/da-correggio-fabula-de-cefalo.xml,8bd158528ceff797bf83872f593d1077ae065d4c,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/da-ponte-cosi-fan-tutte.xml,tei/da-ponte-cosi-fan-tutte.xml,a508b77e3877090152edda4d9e8dfb979de81133,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/da-ponte-don-giovanni.xml,tei/da-ponte-don-giovanni.xml,8b177d62289bceaca01547068c44f67145c8caeb,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/da-ponte-le-nozze-di-figaro.xml,tei/da-ponte-le-nozze-di-figaro.xml,1344057fc1ac6fd44cb3472f79d5f6de0be7c525,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/dal-carretto-comedia-de-timon-greco.xml,tei/dal-carretto-comedia-de-timon-greco.xml,86fc122fe2fc7c0086ea142e6340ba5d74026cef,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/dal-carretto-noze-de-psiche-e-cupidine.xml,tei/dal-carretto-noze-de-psiche-e-cupidine.xml,0f3bb5ec305b1b7509af0fbf55f0c5788ca3f0b9,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/de-dottori-aristodemo.xml,tei/de-dottori-aristodemo.xml,3ca03de0f5830b32193ce4fe1cf809bba778de06,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/de-medici-rappresentazione-di-san-giovanni-e-paolo.xml,tei/de-medici-rappresentazione-di-san-giovanni-e-paolo.xml,31c0baec023f572368c9fbd9506a1233982293a1,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/della-valle-la-reina-di-scozia.xml,tei/della-valle-la-reina-di-scozia.xml,5afdc6a4bb94100797c4ce21523d7d5b020994f2,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/dolce-marianna.xml,tei/dolce-marianna.xml,4d71a0c8df88276892a011dbcb9e0c3eb1e06d8b,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/epicuro-la-cecaria.xml,tei/epicuro-la-cecaria.xml,69a5424d15adc15c65d3109e6dbe7b8cb1d71a88,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/epicuro-mirzia.xml,tei/epicuro-mirzia.xml,388334b9c298a1de4aab9b5546e6a15b880de6e4,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/fiorillo-la-lucilla-costante.xml,tei/fiorillo-la-lucilla-costante.xml,f831db17ebaf5572d278030675a0ad631f7e9fd1,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/foscolo-ajace.xml,tei/foscolo-ajace.xml,4c868fed204b7e7a83aef41fda170915608e7ad7,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/foscolo-edippo.xml,tei/foscolo-edippo.xml,486c33b442ea472cd4424b324537e4e34662c75c,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/foscolo-ricciarda.xml,tei/foscolo-ricciarda.xml,43588179079cd797e20d811407c7b1bfc081e785,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/foscolo-tieste.xml,tei/foscolo-tieste.xml,83319a6475361861be3cae381ac6759768980358,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/gigli-la-dirindina.xml,tei/gigli-la-dirindina.xml,2726348a95c44af69de635b8faec3a32b04b6925,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/giraldi-cinzio-cleopatra.xml,tei/giraldi-cinzio-cleopatra.xml,476344c51e3aa4b728950494467049d35be08705,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/giraldi-cinzio-egle-editio-princeps.xml,tei/giraldi-cinzio-egle-editio-princeps.xml,97f9a5f3630f5f3121ee3ddfb548a1485138d38b,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/giraldi-cinzio-egle-ms-classe-i-331.xml,tei/giraldi-cinzio-egle-ms-classe-i-331.xml,0910b59c0633bb8208881ff120081a6ad1a3d069,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/giraldi-cinzio-egle.xml,tei/giraldi-cinzio-egle.xml,7b1ef0f54fe46281a94240d78c2676ed406d553c,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/giraldi-cinzio-gli-eudemoni.xml,tei/giraldi-cinzio-gli-eudemoni.xml,ac61469f8f6e17742da468ba3cc25974713f0ada,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/giraldi-cinzio-orbecche.xml,tei/giraldi-cinzio-orbecche.xml,4199fafe93352d0947774950f6ff2b27f7728b9f,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/goldoni-gl-innamorati.xml,tei/goldoni-gl-innamorati.xml,afe073861b68edfabe0922a6e1c11f138c5150d0,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/goldoni-i-rusteghi.xml,tei/goldoni-i-rusteghi.xml,91187416de6af80aae67823bcd8fae15f40e2cdc,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/goldoni-il-campiello.xml,tei/goldoni-il-campiello.xml,0620100138ea71282989f3ed513c5206db86e729,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/goldoni-il-servitore-di-due-padroni.xml,tei/goldoni-il-servitore-di-due-padroni.xml,b8181077aabaef780ecde7fb024d37ecb9bc417e,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/goldoni-il-teatro-comico.xml,tei/goldoni-il-teatro-comico.xml,1d2a82a68a9c34b577276f5d13b7db495bd54156,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/goldoni-il-ventaglio.xml,tei/goldoni-il-ventaglio.xml,79f3bd5f31b857bae58dbf383b16ed716eca9169,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/goldoni-la-bottega-del-caffe.xml,tei/goldoni-la-bottega-del-caffe.xml,ce7f699a152e32937dbbdb0a325ba1843665908b,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/goldoni-la-famiglia-dell-antiquario.xml,tei/goldoni-la-famiglia-dell-antiquario.xml,6bd9a952ab4b6ea4940d501c0f33f833349510db,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/goldoni-la-locandiera.xml,tei/goldoni-la-locandiera.xml,5b28a858a032700f07d0f5b0e842607fe2f1f04e,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/goldoni-la-sposa-persiana.xml,tei/goldoni-la-sposa-persiana.xml,06c743562e961e6b41b4a08dd774d0038cc4455b,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/goldoni-le-baruffe-chiozzotte.xml,tei/goldoni-le-baruffe-chiozzotte.xml,19bcc1376d9b95c6d65f9c555d87b9ca0086c2ff,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/goldoni-le-femmine-puntigliose.xml,tei/goldoni-le-femmine-puntigliose.xml,ed71527e60d75aea81de176e3d5daff01ec6267a,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/goldoni-le-smanie-per-la-villeggiatura.xml,tei/goldoni-le-smanie-per-la-villeggiatura.xml,fe0bb2b9129d709d1742596a7d8f9492ed81bec3,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/goldoni-una-delle-ultime-sere-di-carnovale.xml,tei/goldoni-una-delle-ultime-sere-di-carnovale.xml,6f2a2b8fc098df146ec1d6ef1c0c5c96b8202891,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/guarini-la-idropica.xml,tei/guarini-la-idropica.xml,d08c0f13748c1552a59c5f7ca9efde0254543501,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/guidi-endimione.xml,tei/guidi-endimione.xml,175dee3e75fa31080a5d00b73c44c55c34ca387d,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/leopardi-telesilla.xml,tei/leopardi-telesilla.xml,98f408fd0c3cba79b21e289e60180c9071f8ff2d,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/machiavelli-clizia.xml,tei/machiavelli-clizia.xml,33aaa99dc4b885b8bcb2a4bea6f62481d0c1de60,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/machiavelli-mandragola.xml,tei/machiavelli-mandragola.xml,946e9505da829d335b47320c772c339966400cee,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/maffei-merope.xml,tei/maffei-merope.xml,6f1f0b29bbd1890f403a7e433919e1ed4376488d,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/manzoni-adelchi.xml,tei/manzoni-adelchi.xml,53e9bf786efa3aa6a403300778c5c0d052afac63,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/manzoni-il-conte-di-carmagnola.xml,tei/manzoni-il-conte-di-carmagnola.xml,7b53379c16ee2f36a0b779855b3aa65326657a92,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/marchese-il-crispo.xml,tei/marchese-il-crispo.xml,5790e12cdffdcd0a5d0f8a1faf76fb8bab1c2493,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/marchese-l-ermenegildo.xml,tei/marchese-l-ermenegildo.xml,c0c41a63dfb4f0d269185bc2d6b83ed00408e7cc,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/martelli-tullia.xml,tei/martelli-tullia.xml,bedc4e9a390bf852801d3f4341eee28480264c8d,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-achille-in-sciro.xml,tei/metastasio-achille-in-sciro.xml,ea74883aad698187d467cebf19f702785ba86888,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-adriano-in-siria.xml,tei/metastasio-adriano-in-siria.xml,4c6772ab28fca75046b54b2e5d50d3c1f43dc728,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-alessandro-nell-indie.xml,tei/metastasio-alessandro-nell-indie.xml,b630a0af41ab694377ad9b899cde054453d90323,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-attilio-regolo.xml,tei/metastasio-attilio-regolo.xml,3e22b08ec5ba5bb2998b37c1cd46e1b3ffc7fb4f,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-demetrio.xml,tei/metastasio-demetrio.xml,522374eec19026fe428f192bde4ff8c61daf8cc8,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-demofoonte.xml,tei/metastasio-demofoonte.xml,f43c3464980806d4b6f8c3b955db87ecb03cdc62,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-didone-abbandonata.xml,tei/metastasio-didone-abbandonata.xml,c8d888781a2dfbaff0d7a480b0e4cbefd64eb063,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-ezio.xml,tei/metastasio-ezio.xml,44dfc6be8adfd163b056c90cd996fe4c11d83c72,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-il-re-pastore.xml,tei/metastasio-il-re-pastore.xml,1662de69e259fe70434ac7ba9b4441e0e35d0cde,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-ipermestra.xml,tei/metastasio-ipermestra.xml,fc629ac898ce24a507382d6048741011c921e46a,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-issipile.xml,tei/metastasio-issipile.xml,194640942fec77c1a54697c6714a81fb9b5396ae,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-l-eroe-cinese.xml,tei/metastasio-l-eroe-cinese.xml,ac6b627098ac4329cf9c45f39083ec068c0ea039,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-l-impresario-delle-canarie.xml,tei/metastasio-l-impresario-delle-canarie.xml,4ca82598cd206d8db31b0ad368501f9f169f2d48,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-l-olimpiade.xml,tei/metastasio-l-olimpiade.xml,ba85ad8ce7abba978e4d3704ac6a70037e651d3b,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-nitteti.xml,tei/metastasio-nitteti.xml,a87e451dcff77445db4ba0a5d871e9116b8ba374,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-romolo-ed-ersilia.xml,tei/metastasio-romolo-ed-ersilia.xml,97b8ed757d5442d135c373fdbefccf6b6dff7b8a,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-ruggero-ovvero-l-eroica-gratitudine.xml,tei/metastasio-ruggero-ovvero-l-eroica-gratitudine.xml,ecf227b659c9c64990bcb8487b08886fd27e18ce,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-siroe.xml,tei/metastasio-siroe.xml,61953a6d957c0641b5a60268265b6b85a9d9c75a,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-temistocle.xml,tei/metastasio-temistocle.xml,e641022172023b400513523bc11e4c222335855c,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/metastasio-zenobia.xml,tei/metastasio-zenobia.xml,67e7afb09f2941168e214fad4dee2babfcf67bd0,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/monti-caio-gracco.xml,tei/monti-caio-gracco.xml,bd42dee9271e2bf2afe9a1c0a2071e8368a9affa,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/muzi-la-rappresentazione-del-vitello-sagginato.xml,tei/muzi-la-rappresentazione-del-vitello-sagginato.xml,5f8014d824b010cc786dc08d7d43314727825f35,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/pagano-gli-esuli-tebani.xml,tei/pagano-gli-esuli-tebani.xml,52088719e72a06a41a32f4100eaf785c6ca61e55,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/poliziano-orfeo.xml,tei/poliziano-orfeo.xml,6cd033ad2a0dc6cb0358107a3a674d4a26e088ff,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/rucellai-rosmunda.xml,tei/rucellai-rosmunda.xml,065df0ff62fcdea9ca5db917225e417c6d56f13c,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/salfi-pausania.xml,tei/salfi-pausania.xml,13c4e1fad4fd1de1db30419ba686c088fb452045,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/scala-il-finto-marito.xml,tei/scala-il-finto-marito.xml,0dd83e91a5994dd253339323406062c5c612f1fd,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/speroni-canace.xml,tei/speroni-canace.xml,0a1d5ae3d85af1864c814c8fa7e21e33d897cf06,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/taccone-comedia-di-danae.xml,tei/taccone-comedia-di-danae.xml,648014c0c629e8e4c49232b999f93960da1b4afd,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/tasso-aminta-ms-1197.xml,tei/tasso-aminta-ms-1197.xml,c07c5859b9aac988bed4940ef24a12d1de7ecdeb,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/tasso-aminta-ms-campori-491.xml,tei/tasso-aminta-ms-campori-491.xml,0e45cf4769084a8e0e44643eb9fbfbb9ad45014f,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/tasso-aminta.xml,tei/tasso-aminta.xml,8cd4329c85f309bdc6d53a7944a7b3d9fd685029,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/tasso-galealto.xml,tei/tasso-galealto.xml,cb7ce3d99f132a8f5def26fb0c33a8fb99463a60,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/tasso-intrichi-d-amore.xml,tei/tasso-intrichi-d-amore.xml,d4a0439f61b42ff9355a068c4fbfce597253f4e2,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/tasso-re-torrismondo.xml,tei/tasso-re-torrismondo.xml,33dda73925bb10c7b0dd2cdf15404eef283e72a7,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/torelli-la-merope.xml,tei/torelli-la-merope.xml,e6cd67ed9c333612f97daf50c46063f2051aa1ba,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/trissino-sofonisba.xml,tei/trissino-sofonisba.xml,13b12d55c7bd7df45f3fd4618b644479eb4c3d43,
+tei-without-id,4,712ae471d86688ab62efdc741f2bf3eddb213e52,tei/visconti-pasitea.xml,tei/visconti-pasitea.xml,f4734f61e3e12b3611b971116de16756baa7d3aa,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/alamanni-tragedia-di-antigone.xml,tei/alamanni-tragedia-di-antigone.xml,6fa6dfec8ce00300e18eafb57d2a19b2f986fca1,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/alfieri-agamennone.xml,tei/alfieri-agamennone.xml,29ba9d256058c6025ff84a3ca23f5f200785c0e3,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/alfieri-antigone.xml,tei/alfieri-antigone.xml,24a07b8e77c1ffea2b0f4e4ee1897d91a2da3627,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/alfieri-bruto-primo.xml,tei/alfieri-bruto-primo.xml,352f2f2eff3e2272bbe9f01614bbe16e4948dcfe,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/alfieri-bruto-secondo.xml,tei/alfieri-bruto-secondo.xml,7c1d8ba57df55096e314e7f83ac9f3e4a56a2334,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/alfieri-don-garzia.xml,tei/alfieri-don-garzia.xml,11a860c6019b4ee94d2d9e1fe4946e100c2a7497,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/alfieri-filippo.xml,tei/alfieri-filippo.xml,971becd10dfbd676c9d3d5c155c8b02020706439,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/alfieri-la-congiura-de-pazzi.xml,tei/alfieri-la-congiura-de-pazzi.xml,f265c85eace105a8bc81b7f1e35b061b43bf8e86,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/alfieri-maria-stuarda.xml,tei/alfieri-maria-stuarda.xml,0befc9de847e46c5238e44461f411b5482715916,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/alfieri-merope.xml,tei/alfieri-merope.xml,6bd8e41bfb74d2afb6f291d8d01b8f78400ede75,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/alfieri-mirra.xml,tei/alfieri-mirra.xml,7478988e5fabd8f1952fbfb7c09ebac4a70d1c51,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/alfieri-oreste.xml,tei/alfieri-oreste.xml,f397a38f7adf4f9b683c1d7acabcbd8628a3d6cc,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/alfieri-ottavia.xml,tei/alfieri-ottavia.xml,f13b41710b00a831f4dd0089ea2975ed34f9695a,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/alfieri-polinice.xml,tei/alfieri-polinice.xml,b852530c2b09512be85eef5edd664e6fb884353f,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/alfieri-rosmunda.xml,tei/alfieri-rosmunda.xml,5a1134b6aaecc000c52253a868a4d657da4f5b7e,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/alfieri-saul.xml,tei/alfieri-saul.xml,ee31e4abf1ce00de0b7be35837f592f21b490b06,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/alfieri-sofonisba.xml,tei/alfieri-sofonisba.xml,ed51453cb0a4d4aff88874ce5bb500e11e743670,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/alfieri-timoleone.xml,tei/alfieri-timoleone.xml,90b0fcb3b5dfeffb7632d831990427476a347da2,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/alfieri-virginia.xml,tei/alfieri-virginia.xml,e201d7a036fd6d21471e68d423c72a89001d24e9,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/andreini-lo-schiavetto.xml,tei/andreini-lo-schiavetto.xml,8382fe1b04e285dcefd5c3b170998af51ba84958,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/anonimo-cleopatra-e-marc-antonio.xml,tei/anonimo-cleopatra-e-marc-antonio.xml,e5913f39ed337091f6891c1fa0f05158836647eb,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/anonimo-fabula-de-cefalo-e-procris.xml,tei/anonimo-fabula-de-cefalo-e-procris.xml,40c106124e29102963c29b7f51701718b24fd914,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/anonimo-la-canterina.xml,tei/anonimo-la-canterina.xml,05129f7d298422374a3bc37d7a55f5757281098e,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/anonimo-la-festa-di-susanna.xml,tei/anonimo-la-festa-di-susanna.xml,a592918c5a07c313cfb938025ead688ab94e645a,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/anonimo-la-rappresentazione-della-nativita-di-nostro-signore-gesu-cristo.xml,tei/anonimo-la-rappresentazione-della-nativita-di-nostro-signore-gesu-cristo.xml,f136968a828dea32a415ead801fff8bf1eed0a27,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/anonimo-la-rappresentazione-di-josef-di-jacob-e-de-fratelli.xml,tei/anonimo-la-rappresentazione-di-josef-di-jacob-e-de-fratelli.xml,1e082dee0d098591b3dfa1e38a749a9629d5d10b,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/anonimo-la-rappresentazione-di-moise-e-faraone-re-d-egitto.xml,tei/anonimo-la-rappresentazione-di-moise-e-faraone-re-d-egitto.xml,912075cb3a35a2eb6e5e499e19effa13759519ef,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/anonimo-la-rappresentazione-di-salamone.xml,tei/anonimo-la-rappresentazione-di-salamone.xml,b4fd5c80a3ec4362e3c4c1554546611619e08e83,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/anonimo-la-rappresentazione-di-san-bernardo.xml,tei/anonimo-la-rappresentazione-di-san-bernardo.xml,9ce7421440d4721e89bfe572996ae0f35fe356b3,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/anonimo-la-rappresentazione-di-san-giovanni-battista.xml,tei/anonimo-la-rappresentazione-di-san-giovanni-battista.xml,f8b02d9af50c629f18cd50eaffaf46bbfc93998b,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/anonimo-la-veniexiana.xml,tei/anonimo-la-veniexiana.xml,b70cf67d2dc2c5510490a13a4a9a99460d18b8f3,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/anonimo-orphei-tragoedia.xml,tei/anonimo-orphei-tragoedia.xml,640274d22394686422cb282fbe547ed804fbeb2c,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/anonimo-quando-iddio-fece-il-mondo-e-l-uomo-e-ogni-cosa-creata.xml,tei/anonimo-quando-iddio-fece-il-mondo-e-l-uomo-e-ogni-cosa-creata.xml,2ef70a8b47a225b5c2bacf511569d2b9d307ef8e,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/anonimo-representazione-di-febo-e-feton.xml,tei/anonimo-representazione-di-febo-e-feton.xml,432d7bc4af0760656c77a6295df0967d84505d4f,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/ariosto-cassaria.xml,tei/ariosto-cassaria.xml,17db6e58070dd6e49ebd572a0859d107477c32e5,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/ariosto-i-studenti.xml,tei/ariosto-i-studenti.xml,c9e56a03b0ddec7276665280967cabf89ac4e436,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/ariosto-i-suppositi-red-in-versi.xml,tei/ariosto-i-suppositi-red-in-versi.xml,27c387aae5f346916b709716baec4566cd66191d,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/ariosto-i-suppositi.xml,tei/ariosto-i-suppositi.xml,03baf6f33b3f200c9e7d6c7d29cbdd37b88f3765,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/ariosto-il-negromante.xml,tei/ariosto-il-negromante.xml,ed6710660f7dbbaa8cd09d404d8a6fa701b5aa07,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/ariosto-la-cassaria-red-in-versi.xml,tei/ariosto-la-cassaria-red-in-versi.xml,ed62433adab84edc1af30babdf69506289b8c7bd,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/ariosto-la-lena.xml,tei/ariosto-la-lena.xml,ce052101f52bd7c3382fc3da5a55a374bba819fc,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/barbieri-l-inavertito.xml,tei/barbieri-l-inavertito.xml,81673c53456723030abacabdcb3e8a231bf2806a,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/beccari-il-sacrificio-1555.xml,tei/beccari-il-sacrificio-1555.xml,b907a2aaeaeaa05e0a2c0f9ea810ce9923177d57,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/beccari-il-sacrificio-1587.xml,tei/beccari-il-sacrificio-1587.xml,696a6c909763718f46a3945cfbf02908d756406e,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/bellincioni-egloga-ovvero-pasturale.xml,tei/bellincioni-egloga-ovvero-pasturale.xml,ecc2769238d223204eac957d0acba18b6abb46f0,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/bellincioni-ripresentazione-di-pavia.xml,tei/bellincioni-ripresentazione-di-pavia.xml,f222f5532ab768d3694c4fdd2676349a904d450b,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/boiardo-timone.xml,tei/boiardo-timone.xml,5c9cabae74eee8d3b792b6e0652acf034affa4d2,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/cammelli-panfila.xml,tei/cammelli-panfila.xml,e0e82b0e8eefc67dfcf8c8610174b78415d92a18,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/carmignani-polissena.xml,tei/carmignani-polissena.xml,34fed23e6e5ac0d645a8c5bd56bc823aabb131db,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/cascina-alfea-reverente.xml,tei/cascina-alfea-reverente.xml,9bce686e4fb535f6c41fecd1ba1949c66dc9eb34,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/cecchini-l-amico-tradito.xml,tei/cecchini-l-amico-tradito.xml,5efeb9f0b5ef812d3bc50da446649558172c7661,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/cosci-paola-da-buti.xml,tei/cosci-paola-da-buti.xml,3de4630646198bbee63a974547d9ff703d9d083b,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/da-correggio-fabula-de-cefalo.xml,tei/da-correggio-fabula-de-cefalo.xml,072ce1b8daa665c00b34199e7aee589297434f72,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/da-ponte-cosi-fan-tutte.xml,tei/da-ponte-cosi-fan-tutte.xml,0bf54d960dd86a8ce5a99658f50f7b4020b1a832,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/da-ponte-don-giovanni.xml,tei/da-ponte-don-giovanni.xml,5ff5f666b78437bc2ec0bf6c8f14a62d4b775859,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/da-ponte-le-nozze-di-figaro.xml,tei/da-ponte-le-nozze-di-figaro.xml,9cb01358d9253ea0321cf756673ef25a042e3395,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/dal-carretto-comedia-de-timon-greco.xml,tei/dal-carretto-comedia-de-timon-greco.xml,0061f13bf39cde7fd9b1eb3d65e4feb52d7c99a2,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/dal-carretto-noze-de-psiche-e-cupidine.xml,tei/dal-carretto-noze-de-psiche-e-cupidine.xml,9b2f43a37f9d3b10ae8dc2afee713370b717af07,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/de-dottori-aristodemo.xml,tei/de-dottori-aristodemo.xml,50f14a26fff00a17fbf9a59f4ca05840042a15e8,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/de-medici-rappresentazione-di-san-giovanni-e-paolo.xml,tei/de-medici-rappresentazione-di-san-giovanni-e-paolo.xml,156d83b18cbc430bf6386430f9c84167828433e3,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/della-valle-la-reina-di-scozia.xml,tei/della-valle-la-reina-di-scozia.xml,d70f701ae80cbaa2ddb5646406c4657481d8db84,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/dolce-marianna.xml,tei/dolce-marianna.xml,5cc35859754b48c9f83f08b1307967f94fd52f9b,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/epicuro-la-cecaria.xml,tei/epicuro-la-cecaria.xml,b77f6fa9d3f889a79138deceb27bad3e97c9ea0e,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/epicuro-mirzia.xml,tei/epicuro-mirzia.xml,0e8ff4106081c6cb4b6590c0c39c6b7b011d5cc4,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/fiorillo-la-lucilla-costante.xml,tei/fiorillo-la-lucilla-costante.xml,eccd522bfaa350212275720070695352efabfb24,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/foscolo-ajace.xml,tei/foscolo-ajace.xml,07ff75f661ebda15e8765440dbb84bb8ea030d78,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/foscolo-edippo.xml,tei/foscolo-edippo.xml,c346801827427a31ad12c2a8674f0f6a520f2651,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/foscolo-ricciarda.xml,tei/foscolo-ricciarda.xml,91e2aff5ee19988bda4ca51fee0089ff436bb61a,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/foscolo-tieste.xml,tei/foscolo-tieste.xml,201a4be9ea28fe85796f6bd9b8697d1f78e1937a,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/gigli-la-dirindina.xml,tei/gigli-la-dirindina.xml,248b42866c9ca1856fc3054ddf9a7ba87443ca46,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/giraldi-cinzio-cleopatra.xml,tei/giraldi-cinzio-cleopatra.xml,55f2317c1e340bf8b191e01e83ad7a9012c890d6,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/giraldi-cinzio-egle-editio-princeps.xml,tei/giraldi-cinzio-egle-editio-princeps.xml,360b2a57f31868403647ffec433ad3a10b0c08f6,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/giraldi-cinzio-egle-ms-classe-i-331.xml,tei/giraldi-cinzio-egle-ms-classe-i-331.xml,5fc695f715dfa031a7fade6318f6c6485a5f51ce,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/giraldi-cinzio-egle.xml,tei/giraldi-cinzio-egle.xml,72afd63d62fcfe038e21a0d6c055862573777c3f,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/giraldi-cinzio-gli-eudemoni.xml,tei/giraldi-cinzio-gli-eudemoni.xml,acacc72129dcbf48802eb13d1cdcbf4dbbb7e26d,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/giraldi-cinzio-orbecche.xml,tei/giraldi-cinzio-orbecche.xml,ae840aeec26cd8190abbfea06d93e65b7b41c24e,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/goldoni-gl-innamorati.xml,tei/goldoni-gl-innamorati.xml,609e4a9e1754f2a8ab25df3b32ad7306ec61a202,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/goldoni-i-rusteghi.xml,tei/goldoni-i-rusteghi.xml,5bb971d0681a4767d08d65d04535cda5ab3dec43,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/goldoni-il-campiello.xml,tei/goldoni-il-campiello.xml,262fb3fe323ae784c72ee59ba3f7b795b51bae07,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/goldoni-il-servitore-di-due-padroni.xml,tei/goldoni-il-servitore-di-due-padroni.xml,8d86d424e59cac2cdf07818c0b6c097edd9e32e4,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/goldoni-il-teatro-comico.xml,tei/goldoni-il-teatro-comico.xml,d23b8492d08f4cf5b1e3e587f7191f974107226b,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/goldoni-il-ventaglio.xml,tei/goldoni-il-ventaglio.xml,ec8f7eaa42d95e494b5a1efa7c08a480ff459e12,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/goldoni-la-bottega-del-caffe.xml,tei/goldoni-la-bottega-del-caffe.xml,37961985010605f02dbe67653a16510692e7cb72,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/goldoni-la-famiglia-dell-antiquario.xml,tei/goldoni-la-famiglia-dell-antiquario.xml,c8a75deb6de703b3a59448cf94b65d9d246a6973,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/goldoni-la-locandiera.xml,tei/goldoni-la-locandiera.xml,d0f4baeda211ad3e546c4753335ca97cf879834d,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/goldoni-la-sposa-persiana.xml,tei/goldoni-la-sposa-persiana.xml,8d324dbef1923fe7db51c55d181d7028ea989ea5,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/goldoni-le-baruffe-chiozzotte.xml,tei/goldoni-le-baruffe-chiozzotte.xml,1ad0f232f97b9de698875be2d20a50c35c2cbb31,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/goldoni-le-femmine-puntigliose.xml,tei/goldoni-le-femmine-puntigliose.xml,a4a113e7427a2844a2748ad3b79002a7f98d5ea5,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/goldoni-le-smanie-per-la-villeggiatura.xml,tei/goldoni-le-smanie-per-la-villeggiatura.xml,416cfdb8499046287cc67b04da2c6d9d0ec599a9,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/goldoni-una-delle-ultime-sere-di-carnovale.xml,tei/goldoni-una-delle-ultime-sere-di-carnovale.xml,ce4c6e1a8a883f8c7791f7cb7c0bd5421301531e,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/guarini-la-idropica.xml,tei/guarini-la-idropica.xml,7bd41a7af8f6f990faac3bf1515ec61c0bb8375e,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/guidi-endimione.xml,tei/guidi-endimione.xml,003e86f80950cfd8dd3919ef4eff01ae3c9c922f,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/leopardi-telesilla.xml,tei/leopardi-telesilla.xml,e5fac7cdaa051c0872140b1aad92030032e8c77d,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/machiavelli-clizia.xml,tei/machiavelli-clizia.xml,40ef94bb07d45803b5537ce074d3589c229048bf,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/machiavelli-mandragola.xml,tei/machiavelli-mandragola.xml,42d5832c8b6ce49b1cb8410b6b95ad12898de532,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/maffei-merope.xml,tei/maffei-merope.xml,e39287606fb7ff88587215a30164dc714aed692d,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/manzoni-adelchi.xml,tei/manzoni-adelchi.xml,eef421234f61548da699a08b56685dd9bc82e6d7,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/manzoni-il-conte-di-carmagnola.xml,tei/manzoni-il-conte-di-carmagnola.xml,c10b212b3d2afdf1f1d3bb9d874caa150b81c6a9,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/marchese-il-crispo.xml,tei/marchese-il-crispo.xml,3ad2479645351bdb9f34fecb81462356d23a3dc1,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/marchese-l-ermenegildo.xml,tei/marchese-l-ermenegildo.xml,e7865427e0c4e828206d5742d8a4b1d41ea5f6e3,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/martelli-tullia.xml,tei/martelli-tullia.xml,ff6b9b214471e5a609c8c01813ab469e5c4fce48,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-achille-in-sciro.xml,tei/metastasio-achille-in-sciro.xml,b0b530755dec7e8fe6ed2c9d13bb216f8dba52a5,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-adriano-in-siria.xml,tei/metastasio-adriano-in-siria.xml,f96f6cacecf7654fc4429b15dee6ed177fcbbb67,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-alessandro-nell-indie.xml,tei/metastasio-alessandro-nell-indie.xml,b7f30e4a06a7a6faa4833c40b0cb15d5906086c6,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-attilio-regolo.xml,tei/metastasio-attilio-regolo.xml,d3c2ac732adf5bc3c07d1a55fd013802e714b6f6,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-demetrio.xml,tei/metastasio-demetrio.xml,fcbedfd6226025a2276c7b6b550e9352bb841257,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-demofoonte.xml,tei/metastasio-demofoonte.xml,7efd85261217f3b683a22fd0221ffb185e4609b9,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-didone-abbandonata.xml,tei/metastasio-didone-abbandonata.xml,e8194d8a6d5a9639a6fb265ba2a2c7b62767e188,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-ezio.xml,tei/metastasio-ezio.xml,09db50fffe5ea40079da8a83ae77672353083bcb,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-il-re-pastore.xml,tei/metastasio-il-re-pastore.xml,8e06cb89055c705fa6e0c1199394789a9d60d54a,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-ipermestra.xml,tei/metastasio-ipermestra.xml,55553b341af0449291e03b59447d7b89fdb42c67,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-issipile.xml,tei/metastasio-issipile.xml,6df1444f91491af74bf74b3d943f9dcf43ec895f,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-l-eroe-cinese.xml,tei/metastasio-l-eroe-cinese.xml,cfa89cac9e2f433f35e31b88eedec23ea30213ef,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-l-impresario-delle-canarie.xml,tei/metastasio-l-impresario-delle-canarie.xml,26282f45e53aa718fdcb501a55f1d39a7960bc0c,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-l-olimpiade.xml,tei/metastasio-l-olimpiade.xml,578af004f3af855c5393b730989a76050f61bc14,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-nitteti.xml,tei/metastasio-nitteti.xml,4ccc4e8f291b3861045d587a5d714aff5dcf968e,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-romolo-ed-ersilia.xml,tei/metastasio-romolo-ed-ersilia.xml,27e40df5a57170e788992c7df4a57bdb5ddce6c6,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-ruggero-ovvero-l-eroica-gratitudine.xml,tei/metastasio-ruggero-ovvero-l-eroica-gratitudine.xml,8ee14ca50e67b520b032a5b7b28a9ed2222b9d6c,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-siroe.xml,tei/metastasio-siroe.xml,37d829ee7abd913448793db90346a4af3c17fa61,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-temistocle.xml,tei/metastasio-temistocle.xml,4ac4d3bac9ac948edbdcde532aef71822746434d,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/metastasio-zenobia.xml,tei/metastasio-zenobia.xml,e4b2fdba259a4daa95d086c813440ce853b72c6e,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/monti-caio-gracco.xml,tei/monti-caio-gracco.xml,9bd192d01dcb1cdd655955bf34234e7ec40b0875,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/muzi-la-rappresentazione-del-vitello-sagginato.xml,tei/muzi-la-rappresentazione-del-vitello-sagginato.xml,93cfc5527f67bab3cfd14418267326bfb56626de,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/pagano-gli-esuli-tebani.xml,tei/pagano-gli-esuli-tebani.xml,f6beae34326a03f96b6cb020ceeebaccb08042ca,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/poliziano-orfeo.xml,tei/poliziano-orfeo.xml,5a9d5e17d51a5aa6e2051b877851f6a1ef3199f6,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/rucellai-rosmunda.xml,tei/rucellai-rosmunda.xml,83c516af345a9e759e95c63d741bfad3ceee0a1f,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/salfi-pausania.xml,tei/salfi-pausania.xml,25de1029099560cb39a46bd90faabb998a56e3a6,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/scala-il-finto-marito.xml,tei/scala-il-finto-marito.xml,ec80fb9009d8ea8be8fb87a634dbb3798f8a2cbf,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/speroni-canace.xml,tei/speroni-canace.xml,350207cbf70fdbcb2b4dc939020751a05a832c9a,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/taccone-comedia-di-danae.xml,tei/taccone-comedia-di-danae.xml,24aeded8f1aa5ab4d59c52c3874c1ba094e7f837,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/tasso-aminta-ms-1197.xml,tei/tasso-aminta-ms-1197.xml,e16d05634bae03afe047f33dbdbd19e85c697b2b,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/tasso-aminta-ms-campori-491.xml,tei/tasso-aminta-ms-campori-491.xml,3193dca8a79bc407e2746d9aaad0cc1c95a32403,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/tasso-aminta.xml,tei/tasso-aminta.xml,36d11dcc55d68c629e7b59468266eaa0351b7a35,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/tasso-galealto.xml,tei/tasso-galealto.xml,107ef7e7daa6000c706979ec30ff96eb2983a2c0,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/tasso-intrichi-d-amore.xml,tei/tasso-intrichi-d-amore.xml,fc7da4f2f9893fc7a2ecec45b7273217ceb7502b,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/tasso-re-torrismondo.xml,tei/tasso-re-torrismondo.xml,8af923fcbc21bdbb10427d31d2d85dd1825be54c,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/torelli-la-merope.xml,tei/torelli-la-merope.xml,8c07c3a6436f97ebcc4db6e56f79075cdedd9e7d,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/trissino-sofonisba.xml,tei/trissino-sofonisba.xml,7ace00d1f62032e9cd6c2d6ace9848e7da5691e3,
+tei-without-id,6,478be41afc48dda296ca80bd76d35f1a5f6230aa,tei/visconti-pasitea.xml,tei/visconti-pasitea.xml,933e861847a7db464dfbd5efb45b6924a4ab9dce,
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000001,tei/alamanni-tragedia-di-antigone.xml,3f5c889fe1098c670a749c663e4b51c9d0a4a378,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000002,tei/alfieri-agamennone.xml,96b894a082dd02ee77750872eef4a706008df47a,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000003,tei/alfieri-antigone.xml,92580f04e482acec517d0c2289f92ca0d9e9d776,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000004,tei/alfieri-bruto-primo.xml,552a59d4ab60abb62cfe458f935a39af7357302f,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000005,tei/alfieri-bruto-secondo.xml,8d6f202ed6106e20d3211aeeccfffeaf4fa6512e,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000006,tei/alfieri-don-garzia.xml,5ef39ecadb55c4b6972b95b2e14ad19d71b48007,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000007,tei/alfieri-filippo.xml,d6ee1a251cb7ea2fc3c6cca86034e1f7bf4870e7,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000008,tei/alfieri-la-congiura-de-pazzi.xml,42fca55f98231070d8eef20439fef029180c43e1,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000009,tei/alfieri-maria-stuarda.xml,4ca9ff9961e8d46ef8dd997db554dd5d58772b6d,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000010,tei/alfieri-merope.xml,ed46299c0f411c519463774d968d26f98b413dc1,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000011,tei/alfieri-mirra.xml,c16b19c22bad4e26060a7b9a4b0551f1c83ee62d,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000012,tei/alfieri-oreste.xml,8abe50a7204a29706c868cb61ecd6cff3b3bf7cb,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000013,tei/alfieri-ottavia.xml,a06d3c149d47fb5e568e53c470b3fc2dfee755a7,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000014,tei/alfieri-polinice.xml,7b3b3fabd9e00879f761bf1fede9cbcdcea7a742,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000015,tei/alfieri-rosmunda.xml,7ee0bc71041f3cedf1790f96eb7ed911f0b77fb5,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000016,tei/alfieri-saul.xml,b6b97cb6aae4be2aab2ce058407780bd7f5e53a8,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000017,tei/alfieri-sofonisba.xml,54a012592ef3ef748aab8e15187a4d92d61222d2,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000018,tei/alfieri-timoleone.xml,5a5d9f241c6fc04526056a8b66f427e37624ea3b,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000019,tei/alfieri-virginia.xml,4723ed0dc825260948a1afacaf2744b77c757370,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000020,tei/andreini-lo-schiavetto.xml,59a2c10a6f4b647bfde5c8282d65afb173edb321,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000021,tei/anonimo-cleopatra-e-marc-antonio.xml,34a572ee2ca7d3664d91fdba8e6c0c2a6493899b,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000022,tei/anonimo-fabula-de-cefalo-e-procris.xml,3f865398e1adfa98c1d40cb599546612e77635df,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000023,tei/anonimo-la-canterina.xml,72ec49258b52a7edecc1b9565f45c0e6e1a772b0,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000024,tei/anonimo-la-festa-di-susanna.xml,b4f7b016bf441e33ee881fde43e75c059ff53774,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000025,tei/anonimo-la-rappresentazione-della-nativita-di-nostro-signore-gesu-cristo.xml,4b97907386244a0fee4e80210daca16c56b5c2ce,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000026,tei/anonimo-la-rappresentazione-di-josef-di-jacob-e-de-fratelli.xml,08c679a073b7235ad96a9244faa304eda3cf785a,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000027,tei/anonimo-la-rappresentazione-di-moise-e-faraone-re-d-egitto.xml,62b77d8d643da8dbda83d7aec67afc3bde856c04,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000028,tei/anonimo-la-rappresentazione-di-salamone.xml,74abc08c2ac6e1c6e773b3cefb5dcd57a40b580d,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000029,tei/anonimo-la-rappresentazione-di-san-bernardo.xml,06c3067664ca4c9ba8c881aa4a57c746aa7ebdfc,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000030,tei/anonimo-la-rappresentazione-di-san-giovanni-battista.xml,68b6204b7f07230b41ca0ec75af2b4c675c7fab1,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000031,tei/anonimo-la-veniexiana.xml,76936c1df321869a715afd592514dc7f7b915f84,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000032,tei/anonimo-orphei-tragoedia.xml,c12c9ad15db2dd70fcafa69e47d7de39cb1b18b4,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000033,tei/anonimo-quando-iddio-fece-il-mondo-e-l-uomo-e-ogni-cosa-creata.xml,6561df4576e90caf999a0e8f445cde633ca9162c,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000034,tei/anonimo-representazione-di-febo-e-feton.xml,67d874427f6b78b106bb91e3b339267b95c639f3,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000035,tei/ariosto-cassaria.xml,cc4b4d4ebf57a23f486de7c72d10c301206b59c0,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000036,tei/ariosto-i-studenti.xml,94d92940df89355a3976cb949f820482b7ba3d73,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000037,tei/ariosto-i-suppositi-red-in-versi.xml,ec85038159cd58031e548b6f7172924791c7f0b5,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000038,tei/ariosto-i-suppositi.xml,c4d1fb34905c8885a8090c1cad0abeffe933d885,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000039,tei/ariosto-il-negromante.xml,d8ed4339445eae7ab7f4b8e11311ec858ebcd1d9,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000040,tei/ariosto-la-cassaria-red-in-versi.xml,9ae852ab5afb04ecbb96bcd36ae16db86e1e96b5,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000041,tei/ariosto-la-lena.xml,2e37181ce677149c58688a4394ca16dd0515b4c3,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000042,tei/barbieri-l-inavertito.xml,fd84eaf33fdbb6aa5354cc76a409fc25e5a4d3d2,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000043,tei/beccari-il-sacrificio-1555.xml,8303924728adec28a79d45fad91bb04713d0b150,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000044,tei/beccari-il-sacrificio-1587.xml,c69d10f40a1631fbdafac010b3b6305b1f267f5e,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000045,tei/bellincioni-egloga-ovvero-pasturale.xml,c57f27f39996d839031d23f537142708d868ef0d,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000046,tei/bellincioni-ripresentazione-di-pavia.xml,b2bc01c8e10aa2f7bb4f873d560c69f9d61c8e40,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000047,tei/boiardo-timone.xml,54ae3a0cd53f6dee3a49f1c9d41b56b7fe3693e1,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000048,tei/cammelli-panfila.xml,813eee87d0881c2bf167e7827a8278ceaff8fe97,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000049,tei/carmignani-polissena.xml,38be02043d080592bd525632aaee34f43e74dafa,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000050,tei/cascina-alfea-reverente.xml,bbf4589db82e41d310c82dcc657c2d70ef142da7,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000051,tei/cecchini-l-amico-tradito.xml,48f05708993096e53fca520a16bd68e53f1a2824,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000052,tei/cosci-paola-da-buti.xml,adbf2484f3a4fc22a73813679090e201f851f3c3,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000053,tei/da-correggio-fabula-de-cefalo.xml,5ade842732027e7be496d3a385269aa63eb0d06c,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000054,tei/da-ponte-cosi-fan-tutte.xml,f8241705abe022defd737edfc780e40126e50c03,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000055,tei/da-ponte-don-giovanni.xml,86ae49f9130e956f329c1fcf138f3abb22258752,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000056,tei/da-ponte-le-nozze-di-figaro.xml,113638b48e1cb8c9f142ec04fe7ba1214f01aecc,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000057,tei/dal-carretto-comedia-de-timon-greco.xml,1a6ab830bfba820f6920e15cc7c65c991a29f9c7,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000058,tei/dal-carretto-noze-de-psiche-e-cupidine.xml,d7c02bb1b45e82ee4c2674858535644df6301df1,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000059,tei/de-dottori-aristodemo.xml,7ffac728efcb0941a329e2944c42b0979b9259fd,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000060,tei/de-medici-rappresentazione-di-san-giovanni-e-paolo.xml,e7c8b6b27f5b48de34ffb1549f7c5370a954ae6d,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000061,tei/della-valle-la-reina-di-scozia.xml,164513dedc89442a46f6254fc6c0a76645496bf8,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000062,tei/dolce-marianna.xml,3b16353fe1c0c4cf3da1f76ce2c021011e545230,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000063,tei/epicuro-la-cecaria.xml,75de8b760f0c5c4c6d177e2379d4030e354b6ade,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000064,tei/epicuro-mirzia.xml,7098f182e6f8b21b07496ef48f5d7e09266e2985,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000065,tei/fiorillo-la-lucilla-costante.xml,d01ea3504bf00e07ee94d78bc4afdd033006b53e,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000066,tei/foscolo-ajace.xml,8ec888e92fd4a0428dbb585b3ebebaa981d2a1b1,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000067,tei/foscolo-edippo.xml,d813eddee36623bc3a4804df69525c9f7c378d6e,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000068,tei/foscolo-ricciarda.xml,2fc1804e7d1b48b890a977783f53641305ad436e,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000069,tei/foscolo-tieste.xml,2fa73c22a027ec6e64332f9bd84498b00e40f532,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000070,tei/gigli-la-dirindina.xml,6e8809cb20a7ee9f465030ffa90a46284c092a29,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000071,tei/giraldi-cinzio-cleopatra.xml,b4c6cef98ac5ec7b48e9c7503d923aca32d08319,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000072,tei/giraldi-cinzio-egle-editio-princeps.xml,49c1bf656cb8389ba8e3a16cf3e1510917ae12c7,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000073,tei/giraldi-cinzio-egle-ms-classe-i-331.xml,2da213c9affe8f58c023335602e2fccb415490bf,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000074,tei/giraldi-cinzio-egle.xml,15e27b37f481cdba762e11a63f036d69e6944154,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000075,tei/giraldi-cinzio-gli-eudemoni.xml,45e4c045378477f38f304abea9944e947a77aa1b,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000076,tei/giraldi-cinzio-orbecche.xml,fd4119141fb32b681252ed31e3fdc19e417a5bc4,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000077,tei/goldoni-gl-innamorati.xml,dd60ea407f046b42d43c13d4e1747e9bc10f0b7b,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000078,tei/goldoni-i-rusteghi.xml,8534226d93610dc097fffaf279b928883a4b507a,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000079,tei/goldoni-il-campiello.xml,c56db0b6e872790d37ffc14bf5c8c3c6eb7175e8,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000080,tei/goldoni-il-servitore-di-due-padroni.xml,fafecc87f13407b1827aa04ce9c9d9dfb58502a4,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000081,tei/goldoni-il-teatro-comico.xml,02c6a0ef34041a87415479cde623be3cb3f113b1,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000082,tei/goldoni-il-ventaglio.xml,d24e7bacd513b4ad328449984898d6d426a9b088,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000083,tei/goldoni-la-bottega-del-caffe.xml,40d64c5ba1c7237aeac3201cd1ae201234ee97dd,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000084,tei/goldoni-la-famiglia-dell-antiquario.xml,cc32575d9a2a8b8ac5a21f1c00176c68cb8c30bd,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000085,tei/goldoni-la-locandiera.xml,545903e767528713a68702cfae124517bdce526b,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000086,tei/goldoni-la-sposa-persiana.xml,2305a0eadcdece4395c240421ffefcb5a5fc5ce2,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000087,tei/goldoni-le-baruffe-chiozzotte.xml,fe71163501bb712686eb62c9e8a5a54d517f422f,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000088,tei/goldoni-le-femmine-puntigliose.xml,9212364d7afda411cd78d0db140b3267431a3b07,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000089,tei/goldoni-le-smanie-per-la-villeggiatura.xml,12827d35328bf02eaccbde7ec2df0fbe2237f3d7,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000090,tei/goldoni-una-delle-ultime-sere-di-carnovale.xml,fe925b12d753564ed9cf9eb14a9feeae8867ce96,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000091,tei/guarini-la-idropica.xml,0082b72417ba63426602849d24b355c4c37ee30b,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000092,tei/guidi-endimione.xml,d4ceeaa760c6c6bd84f814a5c06177127d6e76d2,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000093,tei/leopardi-telesilla.xml,79c7b94125e4b5a95e42cc79889f84a0911b8806,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000094,tei/machiavelli-clizia.xml,a0556fab8c2a619f2f3d775cd356b06c4f24e082,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000095,tei/machiavelli-mandragola.xml,91d314801da6237670a6b453191f02c5e872d9aa,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000096,tei/maffei-merope.xml,7741576a456a9dc715371118f30102bfc2b64247,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000097,tei/manzoni-adelchi.xml,2ffa175542a7598ea02c2ae8815922f0df4d6bbd,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000098,tei/manzoni-il-conte-di-carmagnola.xml,89aee26296c769585f2bda155d43fe4ab88bade9,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000099,tei/marchese-il-crispo.xml,8005830d7cc5c4140c842e2e1202047b926bab76,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000100,tei/marchese-l-ermenegildo.xml,b9e067eb48361e86d856fae7c51cad95bc6ea34f,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000101,tei/martelli-tullia.xml,970db9964d4f0ee92ae2ff9c94436622a718faa9,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000102,tei/metastasio-achille-in-sciro.xml,d9b1c2d246f30ece541af200387f8dd9806eda3d,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000103,tei/metastasio-adriano-in-siria.xml,3e36dfdf68fc6a51f2973b216f66aab2dc427907,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000104,tei/metastasio-alessandro-nell-indie.xml,15ee06b3f84f4654273b2c595975c19dd91cfd56,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000105,tei/metastasio-attilio-regolo.xml,fbc6479d786c8a4a462cae56cb0383279e6a0371,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000106,tei/metastasio-demetrio.xml,e52f1c35747b83082b82947ebf38bfc7f760a1f7,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000107,tei/metastasio-demofoonte.xml,1d1a25c48e742ba3b493b39c9bea112c232174c4,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000108,tei/metastasio-didone-abbandonata.xml,b172c5abb9ab2c4b77055a878521f2455015bed2,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000109,tei/metastasio-ezio.xml,fb98160a5f148f1a47d292ceeaaf0f89c58d9da3,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000110,tei/metastasio-il-re-pastore.xml,bb60a858f75d82882587e2debd59072e8a824ed3,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000111,tei/metastasio-ipermestra.xml,0bb40766ddca3e044f0489c314d1676efb9945ca,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000112,tei/metastasio-issipile.xml,ef17f962f63e7318a095491877fb8726886ad25f,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000113,tei/metastasio-l-eroe-cinese.xml,0ee9a52593b30bc160683a3e691ed1f5d9a52181,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000114,tei/metastasio-l-impresario-delle-canarie.xml,23774abfd76c27457a45d34c9fbd5c03ebfbf7f2,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000115,tei/metastasio-l-olimpiade.xml,574a9009b2bbe3c3c25f01027a71cf1279e6fabb,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000116,tei/metastasio-nitteti.xml,d5e82f5954cc11a713fdd301b7fa727968413b59,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000117,tei/metastasio-romolo-ed-ersilia.xml,b765a74aacc94dfea0bc36907f61bb6727957087,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000118,tei/metastasio-ruggero-ovvero-l-eroica-gratitudine.xml,2670c822565985d414663ce8eac035c82311304c,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000119,tei/metastasio-siroe.xml,76f998344c0c93b301f5d5541370b6fec10042ee,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000120,tei/metastasio-temistocle.xml,1112039dd8e47601a792787145e31bb2554f6dbd,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000121,tei/metastasio-zenobia.xml,d1567f8f5dcbc5c66efa260d94d78173f1e474c9,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000122,tei/monti-caio-gracco.xml,efc785d2d74ee1b16b05c5e32710de4550b09391,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000123,tei/muzi-la-rappresentazione-del-vitello-sagginato.xml,df792be28d2e8667026eb8268f8c2478c9124db4,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000124,tei/pagano-gli-esuli-tebani.xml,982ca999a23f9d4b7aa19a4f9610be3f4e53118f,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000125,tei/poliziano-orfeo.xml,eeb74cd6860e930c088a5be7e6a49aeb86be7768,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000126,tei/rucellai-rosmunda.xml,2524e0af74870856e54f6da9a22ad9912aee00c4,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000127,tei/salfi-pausania.xml,6c309f2b6ff100ba9b903c462d4f4ae58eb7751c,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000128,tei/scala-il-finto-marito.xml,c91ae956134def0a8da359b613c2cc47f85cd2a6,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000129,tei/speroni-canace.xml,f0947c8c0aa61e5e1066ec3c2d1ee6d8977e0b83,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000130,tei/taccone-comedia-di-danae.xml,137bdff4418c071da80ed465451d1f5acbf4a110,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000131,tei/tasso-aminta-ms-1197.xml,cd1f56b26c4526057e2fa3a6bdedaa5eee05646f,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000132,tei/tasso-aminta-ms-campori-491.xml,5522e88f06150bc184b81640bb00777b9bede8ee,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000133,tei/tasso-aminta.xml,92b2986c351aeee1f9ef406a3f90e7530ee33749,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000134,tei/tasso-galealto.xml,7068a651c525b076b9a3eab794f0c793b2e5bd47,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000135,tei/tasso-intrichi-d-amore.xml,301801b2b699aac4e4fadd32c725c9ad64885f30,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000136,tei/tasso-re-torrismondo.xml,2b0bfb502583874260607704d8ae249b10d3c952,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000137,tei/torelli-la-merope.xml,f018a01c4d64b385565fa3bb7bba37617a890671,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000138,tei/trissino-sofonisba.xml,b4bf93219d60108d06a5685ff45c004ca233396b,file had no DraCor ID before
+id-assigned,7,fd6f018404c32bcda4b9351281e33bc56d6e58f9,ita000139,tei/visconti-pasitea.xml,3116b22cc8da04cdaa252d80afcfd94cf3b55477,file had no DraCor ID before
+malformed-xml,22,c0736e9440d22e236d1d4c5f3a3574a664d6f35b,ita000108,tei/metastasio-didone-abbandonata.xml,93a8aa0db2d2e0f7f07146782d9fccd0df9a766e,TEI file not well-formed; ID taken by regex
+malformed-xml,28,473f1755ea10b60408b3c10c3e7d792922cd69e6,ita000094,tei/machiavelli-clizia.xml,aa1f0d4fe813a9e02acaf88265bae7d2ab14b8a1,TEI file not well-formed; ID taken by regex

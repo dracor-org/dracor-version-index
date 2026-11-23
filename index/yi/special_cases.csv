@@ -1,0 +1,55 @@
+case,seq,commit,key,path,blob,detail
+tei-without-id,1,04f6e36c0d68e0bfa88bba0e5342176282c9e8a5,tei/dybbuk_a.xml,tei/dybbuk_a.xml,6c634d71c9bbcbc9566f7fcb9cba24102bbc83e8,
+id-assigned,3,d1ffebbd43af8e91c24b42f6bb7b6b04e7840162,yid000001,tei/dybbuk_a.xml,1739c9c9bbdfa7df651fe9cb993fe2678b493a17,file had no DraCor ID before
+id-change,25,607cd8e002408af6c0d2c19cd3cdafff4d11374a,yid0000001,tei/sample.xml,e9f1f2bedda69c7c5b4fe7d2bc2240471d15bf50,u0000026 -> yid0000001 at same path
+tei-without-id,29,3447429a87f6872340365a9c2244950ad0c429d7,tei/Dybbuk-fullXMLforDracor.xml,tei/Dybbuk-fullXMLforDracor.xml,3af39fbc2fcec81cdc2ef2d113a66e76d702c77b,
+tei-without-id,29,3447429a87f6872340365a9c2244950ad0c429d7,tei/Dybbuk4Dracor.xml,tei/Dybbuk4Dracor.xml,010d6fbba3cbeaa8522322a00601c40875748d32,
+tei-without-id,29,3447429a87f6872340365a9c2244950ad0c429d7,tei/MishkeMashke3forDracor.xml,tei/MishkeMashke3forDracor.xml,172c5ef168eae1ecaf34a645444885a9cb6519b2,
+tei-without-id,30,801fc0c356444ea5f0c80a322aeda182c9c21400,tei/Mischke_TEI.xml,tei/Mischke_TEI.xml,ae446611896d584117557a3d0cf5dfe10abfb83a,
+tei-without-id,31,068d5013c83588f86017c1a274a14a19028a620d,tei/Der-Man-Untern-Tisch.xml,tei/Der-Man-Untern-Tisch.xml,a5ba1627e1e638bfaf05afa64ce300f95b87176f,
+tei-without-id,33,793d14523e917eba56c7799cf4f3ab42fce925d1,tei/Dybbuk4Dracor.xml,tei/Dybbuk4Dracor.xml,9e6820f37ffd25500e1f1338cfc45fd8cd875cec,
+tei-without-id,34,3815539289b5f209b0769e993c349f196ea52920,tei/Der-Man-Untern-Tisch.xml,tei/Der-Man-Untern-Tisch.xml,ba097d2453482d08811fb56400bc040ddcf9124d,
+tei-without-id,36,14d8e5a94864eaef83fc2d5393c1fa20a4682239,tei/MishkeMashke4Dracor.xml,tei/MishkeMashke4Dracor.xml,9ec2318df3b53e7776524b4bb4c5da7dd19758d3,
+tei-without-id,37,091a4d8b3759adbb1151d1e4365970fb8d2d02d6,tei/lateiner-mishke-un-moshke.xml,tei/lateiner-mishke-un-moshke.xml,9ec2318df3b53e7776524b4bb4c5da7dd19758d3,
+rename-same-blob,37,091a4d8b3759adbb1151d1e4365970fb8d2d02d6,tei/lateiner-mishke-un-moshke.xml,tei/lateiner-mishke-un-moshke.xml,9ec2318df3b53e7776524b4bb4c5da7dd19758d3,from tei/MishkeMashke4Dracor.xml
+id-assigned,38,b7755dc671fe173f878c6fda32b37089d1e99374,yi000002,tei/lateiner-mishke-un-moshke.xml,fb7c188ded1c36a1ea3f059d1b2b3d7301ab2d1d,file had no DraCor ID before
+tei-without-id,38,b7755dc671fe173f878c6fda32b37089d1e99374,tei/mishke_mashke (2).xml,tei/mishke_mashke (2).xml,b4024968db107ec481f4d30f7f71fb6fd3286934,
+rename-similar,38,b7755dc671fe173f878c6fda32b37089d1e99374,yi000003,tei/lateiner-der-man-untern-tish.xml,26f4580c0ed761bfd16092a4fe1d257f0b5ae8f9,"from tei/Der-Man-Untern-Tisch.xml (blob ba097d2453, git similarity 96%)"
+rename-with-change,49,c5ea5a720877eba650407ab26d9f939430dc0e22,yi000002,tei/engshaft.xml,003518f0af02f66c70cf6972bcbeeef72cff4f1b,from tei/lateiner-mishke-un-moshke.xml (blob 7b2b546fd3)
+id-change,49,c5ea5a720877eba650407ab26d9f939430dc0e22,yi000001,tei/lateiner-der-man-untern-tish.xml,bbdbcd3b339b12a5f441b3b09f8c5798cd533e23,yi000003 -> yi000001 at same path
+tei-without-id,49,c5ea5a720877eba650407ab26d9f939430dc0e22,tei/unready/Dybbuk-fullXMLforDracor.xml,tei/unready/Dybbuk-fullXMLforDracor.xml,3af39fbc2fcec81cdc2ef2d113a66e76d702c77b,
+rename-same-blob,49,c5ea5a720877eba650407ab26d9f939430dc0e22,tei/unready/Dybbuk-fullXMLforDracor.xml,tei/unready/Dybbuk-fullXMLforDracor.xml,3af39fbc2fcec81cdc2ef2d113a66e76d702c77b,from tei/Dybbuk-fullXMLforDracor.xml
+tei-without-id,49,c5ea5a720877eba650407ab26d9f939430dc0e22,tei/unready/Dybbuk4Dracor.xml,tei/unready/Dybbuk4Dracor.xml,9e6820f37ffd25500e1f1338cfc45fd8cd875cec,
+rename-same-blob,49,c5ea5a720877eba650407ab26d9f939430dc0e22,tei/unready/Dybbuk4Dracor.xml,tei/unready/Dybbuk4Dracor.xml,9e6820f37ffd25500e1f1338cfc45fd8cd875cec,from tei/Dybbuk4Dracor.xml
+tei-without-id,49,c5ea5a720877eba650407ab26d9f939430dc0e22,tei/unready/MishkeMashke3forDracor.xml,tei/unready/MishkeMashke3forDracor.xml,172c5ef168eae1ecaf34a645444885a9cb6519b2,
+rename-same-blob,49,c5ea5a720877eba650407ab26d9f939430dc0e22,tei/unready/MishkeMashke3forDracor.xml,tei/unready/MishkeMashke3forDracor.xml,172c5ef168eae1ecaf34a645444885a9cb6519b2,from tei/MishkeMashke3forDracor.xml
+rename-same-blob,49,c5ea5a720877eba650407ab26d9f939430dc0e22,yi000002,tei/unready/lateiner-mishke-un-moshke.xml,7b2b546fd3ad3d95920ebc37a4511ebc1fe3c766,from tei/lateiner-mishke-un-moshke.xml
+rename-same-blob,49,c5ea5a720877eba650407ab26d9f939430dc0e22,yid0000001,tei/unready/sample.xml,2656c30857d92522a8165d2440e26a6b4ec0dffa,from tei/sample.xml
+duplicate-id,49,c5ea5a720877eba650407ab26d9f939430dc0e22,yi000002,tei/engshaft.xml | tei/unready/lateiner-mishke-un-moshke.xml,,2 files valid at the same time
+rename-with-change,51,8699482b3882e81c2b21773150491beda3a0d544,yi000002,tei/rose-engshaft.xml,c55da127c503fab775b791034f03f4eb0ecbf7c0,from tei/engshaft.xml (blob 1b1df08826)
+duplicate-id,51,8699482b3882e81c2b21773150491beda3a0d544,yi000002,tei/rose-engshaft.xml | tei/unready/lateiner-mishke-un-moshke.xml,,2 files valid at the same time
+duplicate-id-resolved,52,49e97ce53adf7985571b674927a2db310b4aa00e,yi000002,,,
+tei-without-id,56,1eeeb6b242e1c51aafcc76db09a8ed90fbea0107,tei/lateiner-yudale-der-blinder.xml,tei/lateiner-yudale-der-blinder.xml,2709ce4844fb7d8c70e09af28e0ae412a8fb7f93,
+id-assigned,57,936deeab057acb9a6687e010421a0723c24b32c4,yi000003,tei/lateiner-yudale-der-blinder.xml,909637cb1842be50e3d39172a86cb4783a4e17e6,file had no DraCor ID before
+duplicate-id,86,0aae6328b850ac66268190f6b96ed90c4b27cc5b,yi000004,tei/sholem-aleichem-dos-groyse-gevins.xml | tei/sholem-aleichem-tsezeyt-un-tseshpreyt.xml,,2 files valid at the same time
+id-change,88,8095ea71a601f69e2cf7f6843185d4bacb4316bd,yi000005,tei/sholem-aleichem-dos-groyse-gevins.xml,86cd1a29c1c0284f60c3b873c039b342cb0e6719,yi000004 -> yi000005 at same path
+duplicate-id-resolved,88,8095ea71a601f69e2cf7f6843185d4bacb4316bd,yi000004,,,
+duplicate-id,89,a58bcc66dc86519a7038933a4a66d09d41dafd9d,yi000005,tei/sholem-aleichem-a-dokter.xml | tei/sholem-aleichem-dos-groyse-gevins.xml,,2 files valid at the same time
+id-change,90,021d2d297aa5bf9efdfdf247d8352bf642d2e0ca,yi000006,tei/sholem-aleichem-a-dokter.xml,54c00f4965589212d95848dcec07e131556c29cd,yi000005 -> yi000006 at same path
+duplicate-id-resolved,90,021d2d297aa5bf9efdfdf247d8352bf642d2e0ca,yi000005,,,
+malformed-xml,114,0271f5bb29cc7fc62a6fb07ae3bcc77c349a0bdb,yi000008,tei/der_get.xml,0cff97edda989fcc43440b4a318092830c8ac148,TEI file not well-formed; ID taken by regex
+id-invalid,2,be788815afc27028b11fd4012a69315411e3f787,u0000026,tei/sample.xml,15165aa5465d94e17b2455fa88a9997530316fcf,'u0000026' is not a yi… DraCor ID; treated as no ID
+id-invalid,3,d1ffebbd43af8e91c24b42f6bb7b6b04e7840162,yid000001,tei/dybbuk_a.xml,1739c9c9bbdfa7df651fe9cb993fe2678b493a17,'yid000001' is not a yi… DraCor ID; treated as no ID
+id-invalid,25,607cd8e002408af6c0d2c19cd3cdafff4d11374a,yid0000001,tei/sample.xml,e9f1f2bedda69c7c5b4fe7d2bc2240471d15bf50,'yid0000001' is not a yi… DraCor ID; treated as no ID
+id-invalid,29,3447429a87f6872340365a9c2244950ad0c429d7,Mish,tei/MishkeMashke3forDracor.xml,172c5ef168eae1ecaf34a645444885a9cb6519b2,'Mish' is not a yi… DraCor ID; treated as no ID
+id-invalid,49,c5ea5a720877eba650407ab26d9f939430dc0e22,Mish,tei/unready/MishkeMashke3forDracor.xml,172c5ef168eae1ecaf34a645444885a9cb6519b2,'Mish' is not a yi… DraCor ID; treated as no ID
+id-invalid,49,c5ea5a720877eba650407ab26d9f939430dc0e22,yid0000001,tei/unready/sample.xml,2656c30857d92522a8165d2440e26a6b4ec0dffa,'yid0000001' is not a yi… DraCor ID; treated as no ID
+id-invalid,56,1eeeb6b242e1c51aafcc76db09a8ed90fbea0107,tochange,tei/lateiner-yudale-der-blinder.xml,2709ce4844fb7d8c70e09af28e0ae412a8fb7f93,'tochange' is not a yi… DraCor ID; treated as no ID
+lineage-ambiguous,49,c5ea5a720877eba650407ab26d9f939430dc0e22,yi000002,tei/lateiner-mishke-un-moshke.xml,7b2b546fd3ad3d95920ebc37a4511ebc1fe3c766,continues as tei/engshaft.xml | tei/unready/lateiner-mishke-un-moshke.xml; links dropped
+id-unresolved,1,04f6e36c0d68e0bfa88bba0e5342176282c9e8a5,tei/dybbuk_a.xml,tei/dybbuk_a.xml,6c0aa33844766b0bb3d8482c2b6afd448ca1a66e,title 'dybbuk' / author; no candidate; valid seq 1-26
+id-unresolved,2,be788815afc27028b11fd4012a69315411e3f787,tei/unready/sample.xml,tei/unready/sample.xml,2656c30857d92522a8165d2440e26a6b4ec0dffa,title 'dybbuk' / anonymous; no candidate; valid seq 2-51
+id-unresolved,29,3447429a87f6872340365a9c2244950ad0c429d7,tei/unready/Dybbuk-fullXMLforDracor.xml,tei/unready/Dybbuk-fullXMLforDracor.xml,3af39fbc2fcec81cdc2ef2d113a66e76d702c77b,title '1898' / -; no candidate; valid seq 29-51
+id-unresolved,29,3447429a87f6872340365a9c2244950ad0c429d7,tei/unready/Dybbuk4Dracor.xml,tei/unready/Dybbuk4Dracor.xml,9e6820f37ffd25500e1f1338cfc45fd8cd875cec,title 'the dybbuk synoptic edition' / -; no candidate; valid seq 29-51
+id-unresolved,29,3447429a87f6872340365a9c2244950ad0c429d7,tei/unready/MishkeMashke3forDracor.xml,tei/unready/MishkeMashke3forDracor.xml,172c5ef168eae1ecaf34a645444885a9cb6519b2,title 'מישקע מאשקע' / -; no candidate; valid seq 29-51
+id-from-title,30,801fc0c356444ea5f0c80a322aeda182c9c21400,yi000002,tei/Mischke_TEI.xml,ae446611896d584117557a3d0cf5dfe10abfb83a,title: 'מישקע און מאשקע' / לאטיינער; paths tei/Mischke_TEI.xml
+id-unresolved,38,b7755dc671fe173f878c6fda32b37089d1e99374,tei/mishke_mashke (2).xml,tei/mishke_mashke (2).xml,b4024968db107ec481f4d30f7f71fb6fd3286934,title 'מישקע מאשקע' / לאטיינער; no candidate; valid seq 38-38

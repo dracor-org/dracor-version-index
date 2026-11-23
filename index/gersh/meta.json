@@ -1,0 +1,214 @@
+{
+  "corpus": "gersh",
+  "repository": "https://github.com/dracor-org/gershdracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "c81b223c769a9dc6a946a315fc2075f75c068ea6",
+  "api_commit": "bf7f0a8a4efd27f9779ff159871bbcf0895ab90c",
+  "api_commit_seq": 45,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 64,
+    "side_commits_merged": 18,
+    "side_commits_unmerged": 0,
+    "intervals": 780,
+    "tei_ids": 38,
+    "tei_ids_valid_at_head": 38,
+    "tei_files_at_head": 38,
+    "distinct_tei_blobs": 743,
+    "tei_file_commit_pairs": 2432,
+    "dedup_factor": 3.27,
+    "tei_noid_intervals": 0,
+    "last_seq_with_noid_tei": null,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "id-change": 2
+    }
+  },
+  "id_archaeology": {
+    "prefix": "gersh",
+    "texts": 38,
+    "texts_by_method": {
+      "file": 38
+    },
+    "intervals_by_method": {
+      "file": 726,
+      "lineage": 17
+    },
+    "legacy_table": 0,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 18,
+    "with_base": 18,
+    "delta_rows": 92,
+    "tei_delta_rows_by_method": {
+      "file": 76
+    }
+  },
+  "state": {
+    "last_commit": "c81b223c769a9dc6a946a315fc2075f75c068ea6",
+    "last_seq": 63,
+    "dups_open": {},
+    "last_seen_id": {
+      "gersh000001": [
+        63,
+        "tei/antonius-und-cleopatra.xml"
+      ],
+      "gersh000002": [
+        63,
+        "tei/coriolanus.xml"
+      ],
+      "gersh000003": [
+        63,
+        "tei/cymbeline.xml"
+      ],
+      "gersh000004": [
+        63,
+        "tei/das-wintermaerchen.xml"
+      ],
+      "gersh000005": [
+        63,
+        "tei/der-kaufmann-von-venedig.xml"
+      ],
+      "gersh000006": [
+        63,
+        "tei/der-sturm.xml"
+      ],
+      "gersh000007": [
+        63,
+        "tei/der-widerspenstigen-zaehmung.xml"
+      ],
+      "gersh000008": [
+        63,
+        "tei/wie-es-euch-gefaellt.xml"
+      ],
+      "gersh000009": [
+        63,
+        "tei/die-beiden-veroneser.xml"
+      ],
+      "gersh000010": [
+        63,
+        "tei/die-komoedie-der-irrungen.xml"
+      ],
+      "gersh000011": [
+        63,
+        "tei/die-lustigen-weiber-von-windsor.xml"
+      ],
+      "gersh000012": [
+        63,
+        "tei/ein-sommernachtstraum.xml"
+      ],
+      "gersh000013": [
+        63,
+        "tei/ende-gut-alles-gut.xml"
+      ],
+      "gersh000014": [
+        63,
+        "tei/hamlet-prinz-von-daenemark.xml"
+      ],
+      "gersh000015": [
+        63,
+        "tei/julius-caesar.xml"
+      ],
+      "gersh000016": [
+        63,
+        "tei/koenig-heinrich-4-teil-1.xml"
+      ],
+      "gersh000017": [
+        63,
+        "tei/koenig-heinrich-4-teil-2.xml"
+      ],
+      "gersh000018": [
+        63,
+        "tei/koenig-heinrich-5.xml"
+      ],
+      "gersh000019": [
+        63,
+        "tei/koenig-heinrich-6-teil-1.xml"
+      ],
+      "gersh000020": [
+        63,
+        "tei/koenig-heinrich-6-teil-2.xml"
+      ],
+      "gersh000021": [
+        63,
+        "tei/koenig-heinrich-6-teil-3.xml"
+      ],
+      "gersh000022": [
+        63,
+        "tei/koenig-heinrich-8.xml"
+      ],
+      "gersh000023": [
+        63,
+        "tei/koenig-johann.xml"
+      ],
+      "gersh000024": [
+        63,
+        "tei/koenig-lear.xml"
+      ],
+      "gersh000025": [
+        63,
+        "tei/koenig-richard-2.xml"
+      ],
+      "gersh000026": [
+        63,
+        "tei/koenig-richard-3.xml"
+      ],
+      "gersh000027": [
+        63,
+        "tei/liebes-leid-und-lust.xml"
+      ],
+      "gersh000028": [
+        63,
+        "tei/macbeth.xml"
+      ],
+      "gersh000029": [
+        63,
+        "tei/mass-fuer-mass.xml"
+      ],
+      "gersh000030": [
+        63,
+        "tei/othello.xml"
+      ],
+      "gersh000031": [
+        63,
+        "tei/perikles-fuerst-von-tyrus.xml"
+      ],
+      "gersh000032": [
+        63,
+        "tei/romeo-und-julia.xml"
+      ],
+      "gersh000033": [
+        63,
+        "tei/timon-von-athen.xml"
+      ],
+      "gersh000034": [
+        63,
+        "tei/titus-andronicus.xml"
+      ],
+      "gersh000035": [
+        63,
+        "tei/troilus-und-cressida.xml"
+      ],
+      "gersh000036": [
+        63,
+        "tei/viel-laermen-um-nichts.xml"
+      ],
+      "gersh000037": [
+        63,
+        "tei/was-ihr-wollt.xml"
+      ],
+      "gersh000038": [
+        63,
+        "tei/die-beiden-edlen-vettern.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 64,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

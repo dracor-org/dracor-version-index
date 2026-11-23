@@ -1,0 +1,125 @@
+{
+  "corpus": "yi",
+  "repository": "https://github.com/dracor-org/yidracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "ab42fa672527e1df20ff649317de95bd2b95c9aa",
+  "api_commit": "3c3147118f6c38c5880c5594c43f147008d889b5",
+  "api_commit_seq": 112,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 124,
+    "side_commits_merged": 61,
+    "side_commits_unmerged": 1,
+    "intervals": 172,
+    "tei_ids": 8,
+    "tei_ids_valid_at_head": 8,
+    "tei_files_at_head": 8,
+    "distinct_tei_blobs": 127,
+    "tei_file_commit_pairs": 583,
+    "dedup_factor": 4.59,
+    "tei_noid_intervals": 15,
+    "last_seq_with_noid_tei": 56,
+    "tei_unresolved_intervals": 35,
+    "special_cases": {
+      "duplicate-id": 4,
+      "duplicate-id-resolved": 3,
+      "id-assigned": 3,
+      "id-change": 4,
+      "id-from-title": 1,
+      "id-invalid": 7,
+      "id-unresolved": 6,
+      "lineage-ambiguous": 1,
+      "malformed-xml": 1,
+      "rename-same-blob": 6,
+      "rename-similar": 1,
+      "rename-with-change": 2,
+      "tei-without-id": 15
+    }
+  },
+  "id_archaeology": {
+    "prefix": "yi",
+    "texts": 17,
+    "texts_by_method": {
+      "unresolved": 6,
+      "title": 1,
+      "file": 10
+    },
+    "intervals_by_method": {
+      "unresolved": 35,
+      "title": 1,
+      "lineage": 12,
+      "file": 85
+    },
+    "legacy_table": 0,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 62,
+    "with_base": 62,
+    "delta_rows": 136,
+    "tei_delta_rows_by_method": {
+      "unresolved": 6,
+      "title": 15,
+      "lineage": 2,
+      "file": 90
+    }
+  },
+  "state": {
+    "last_commit": "ab42fa672527e1df20ff649317de95bd2b95c9aa",
+    "last_seq": 123,
+    "dups_open": {},
+    "last_seen_id": {
+      "u0000026": [
+        24,
+        "tei/sample.xml"
+      ],
+      "yid000001": [
+        26,
+        "tei/dybbuk_a.xml"
+      ],
+      "yid0000001": [
+        51,
+        "tei/unready/sample.xml"
+      ],
+      "yi000003": [
+        123,
+        "tei/lateiner-yudale-der-blinder.xml"
+      ],
+      "yi000002": [
+        123,
+        "tei/rose-engshaft.xml"
+      ],
+      "yi000001": [
+        123,
+        "tei/lateiner-der-man-untern-tish.xml"
+      ],
+      "yi000004": [
+        123,
+        "tei/sholem-aleichem-tsezeyt-un-tseshpreyt.xml"
+      ],
+      "yi000005": [
+        123,
+        "tei/sholem-aleichem-dos-groyse-gevins.xml"
+      ],
+      "yi000006": [
+        123,
+        "tei/sholem-aleichem-a-dokter.xml"
+      ],
+      "yi000007": [
+        123,
+        "tei/sholem-aleichem-mentshn.xml"
+      ],
+      "yi000008": [
+        123,
+        "tei/der_get.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 124,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

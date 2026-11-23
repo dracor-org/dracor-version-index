@@ -1,0 +1,897 @@
+{
+  "corpus": "cal",
+  "repository": "https://github.com/dracor-org/caldracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "ce0a1cde7bbc0821e6a922f576a13cdd8dba65dd",
+  "api_commit": "10e64dbceaac65e75db9c7343c09339eee77c617",
+  "api_commit_seq": 338,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 348,
+    "side_commits_merged": 138,
+    "side_commits_unmerged": 0,
+    "intervals": 3480,
+    "tei_ids": 207,
+    "tei_ids_valid_at_head": 205,
+    "tei_files_at_head": 205,
+    "distinct_tei_blobs": 3401,
+    "tei_file_commit_pairs": 59768,
+    "dedup_factor": 17.57,
+    "tei_noid_intervals": 295,
+    "last_seq_with_noid_tei": 260,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "id-assigned": 110,
+      "id-reappears": 7,
+      "legacy-id-ambiguous": 6,
+      "lineage-gap": 7,
+      "malformed-xml": 16,
+      "rename-same-blob": 2,
+      "tei-without-id": 295
+    }
+  },
+  "id_archaeology": {
+    "prefix": "cal",
+    "texts": 207,
+    "texts_by_method": {
+      "file": 207
+    },
+    "intervals_by_method": {
+      "legacy:quadramaX": 265,
+      "file": 3109,
+      "lineage": 30
+    },
+    "legacy_table": 124,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 138,
+    "with_base": 138,
+    "delta_rows": 7060,
+    "tei_delta_rows_by_method": {
+      "file": 6919
+    }
+  },
+  "state": {
+    "last_commit": "ce0a1cde7bbc0821e6a922f576a13cdd8dba65dd",
+    "last_seq": 347,
+    "dups_open": {},
+    "last_seen_id": {
+      "cal000001": [
+        347,
+        "tei/a-dios-por-razon-de-estado.xml"
+      ],
+      "cal000002": [
+        347,
+        "tei/a-maria-el-corazon.xml"
+      ],
+      "cal000003": [
+        347,
+        "tei/afectos-de-odio-y-amor.xml"
+      ],
+      "cal000004": [
+        347,
+        "tei/amor-honor-y-poder.xml"
+      ],
+      "cal000005": [
+        347,
+        "tei/andromeda-y-perseo.xml"
+      ],
+      "cal000006": [
+        347,
+        "tei/casa-con-dos-puertas-mala-es-de-guardar.xml"
+      ],
+      "cal000007": [
+        347,
+        "tei/el-ano-santo-de-roma.xml"
+      ],
+      "cal000008": [
+        347,
+        "tei/el-cordero-de-isaias.xml"
+      ],
+      "cal000009": [
+        347,
+        "tei/el-diablo-mudo-primera-version.xml"
+      ],
+      "cal000010": [
+        347,
+        "tei/el-diablo-mudo-segunda-version.xml"
+      ],
+      "cal000011": [
+        238,
+        "tei/el-divino-jason.xml"
+      ],
+      "cal000012": [
+        347,
+        "tei/el-divino-orfeo.xml"
+      ],
+      "cal000013": [
+        347,
+        "tei/el-faetonte.xml"
+      ],
+      "cal000014": [
+        347,
+        "tei/el-galan-fantasma.xml"
+      ],
+      "cal000015": [
+        347,
+        "tei/el-gran-teatro-del-mundo.xml"
+      ],
+      "cal000016": [
+        347,
+        "tei/el-indulto-general.xml"
+      ],
+      "cal000017": [
+        347,
+        "tei/el-jardin-de-falerina.xml"
+      ],
+      "cal000018": [
+        347,
+        "tei/el-medico-de-su-honra.xml"
+      ],
+      "cal000019": [
+        347,
+        "tei/el-monstruo-de-los-jardines.xml"
+      ],
+      "cal000020": [
+        347,
+        "tei/el-nuevo-hospicio-de-pobres.xml"
+      ],
+      "cal000021": [
+        347,
+        "tei/el-santo-rey-don-fernando-primera-parte.xml"
+      ],
+      "cal000022": [
+        347,
+        "tei/el-socorro-general.xml"
+      ],
+      "cal000023": [
+        347,
+        "tei/el-veneno-y-la-triaca.xml"
+      ],
+      "cal000024": [
+        347,
+        "tei/la-aurora-en-copacabana.xml"
+      ],
+      "cal000025": [
+        347,
+        "tei/la-dama-duende.xml"
+      ],
+      "cal000026": [
+        347,
+        "tei/la-devocion-de-la-cruz.xml"
+      ],
+      "cal000027": [
+        347,
+        "tei/la-devocion-de-la-misa.xml"
+      ],
+      "cal000028": [
+        347,
+        "tei/la-fiera-el-rayo-y-la-piedra.xml"
+      ],
+      "cal000029": [
+        347,
+        "tei/la-hidalga-del-valle.xml"
+      ],
+      "cal000030": [
+        347,
+        "tei/la-humildad-coronada-de-las-plantas.xml"
+      ],
+      "cal000031": [
+        347,
+        "tei/la-inmunidad-del-sagrado.xml"
+      ],
+      "cal000032": [
+        347,
+        "tei/la-nave-del-mercader.xml"
+      ],
+      "cal000033": [
+        347,
+        "tei/la-piel-de-gedeon.xml"
+      ],
+      "cal000034": [
+        347,
+        "tei/la-primer-flor-del-carmelo.xml"
+      ],
+      "cal000035": [
+        347,
+        "tei/la-protestacion-de-la-fe.xml"
+      ],
+      "cal000036": [
+        347,
+        "tei/la-segunda-esposa.xml"
+      ],
+      "cal000037": [
+        347,
+        "tei/la-vida-es-sueno.xml"
+      ],
+      "cal000038": [
+        256,
+        "tei/la-vina-del-senor.xml"
+      ],
+      "cal000039": [
+        347,
+        "tei/las-ordenes-militares.xml"
+      ],
+      "cal000040": [
+        347,
+        "tei/las-visiones-de-la-muerte.xml"
+      ],
+      "cal000041": [
+        347,
+        "tei/loa-a-el-ano-santo-de-roma.xml"
+      ],
+      "cal000042": [
+        347,
+        "tei/loa-a-el-divino-orfeo.xml"
+      ],
+      "cal000043": [
+        347,
+        "tei/loa-a-fieras-afemina-amor.xml"
+      ],
+      "cal000044": [
+        347,
+        "tei/loa-en-metafora-de-la-piadosa-hermandad-del-refugio.xml"
+      ],
+      "cal000045": [
+        347,
+        "tei/loa-para-el-gran-teatro-del-mundo.xml"
+      ],
+      "cal000046": [
+        347,
+        "tei/loa-para-la-humildad-coronada-de-las-plantas.xml"
+      ],
+      "cal000047": [
+        347,
+        "tei/loa-para-psiquis-y-cupido.xml"
+      ],
+      "cal000048": [
+        347,
+        "tei/los-encantos-de-la-culpa.xml"
+      ],
+      "cal000049": [
+        347,
+        "tei/no-hay-instante-sin-milagro.xml"
+      ],
+      "cal000050": [
+        347,
+        "tei/primero-y-segundo-isaac.xml"
+      ],
+      "cal000051": [
+        347,
+        "tei/psiquis-y-cupido-que-escribio-para-esta-villa-de-madrid.xml"
+      ],
+      "cal000052": [
+        347,
+        "tei/quien-hallara-mujer-fuerte.xml"
+      ],
+      "cal000053": [
+        347,
+        "tei/suenos-hay-que-verdad-son.xml"
+      ],
+      "cal000054": [
+        347,
+        "tei/triunfar-muriendo.xml"
+      ],
+      "cal000055": [
+        347,
+        "tei/a-secreto-agravio-secreta-venganza.xml"
+      ],
+      "cal000056": [
+        347,
+        "tei/agradecer-y-no-amar.xml"
+      ],
+      "cal000057": [
+        347,
+        "tei/amado-y-aborrecido.xml"
+      ],
+      "cal000058": [
+        347,
+        "tei/amar-despues-de-la-muerte.xml"
+      ],
+      "cal000059": [
+        347,
+        "tei/amigo-amante-y-leal.xml"
+      ],
+      "cal000060": [
+        347,
+        "tei/antes-que-todo-es-mi-dama.xml"
+      ],
+      "cal000061": [
+        347,
+        "tei/apolo-y-climene.xml"
+      ],
+      "cal000062": [
+        347,
+        "tei/argenis-y-poliarco.xml"
+      ],
+      "cal000063": [
+        347,
+        "tei/auristela-y-lisidante.xml"
+      ],
+      "cal000064": [
+        347,
+        "tei/basta-callar.xml"
+      ],
+      "cal000065": [
+        347,
+        "tei/bien-vengas-mal-si-vienes-solo.xml"
+      ],
+      "cal000066": [
+        347,
+        "tei/cada-uno-para-si.xml"
+      ],
+      "cal000067": [
+        347,
+        "tei/cefalo-y-pocris.xml"
+      ],
+      "cal000068": [
+        347,
+        "tei/celos-aun-del-aire-matan.xml"
+      ],
+      "cal000069": [
+        347,
+        "tei/con-quien-vengo-vengo.xml"
+      ],
+      "cal000070": [
+        347,
+        "tei/cual-es-mayor-perfeccion-hermosura-o-discrecion.xml"
+      ],
+      "cal000071": [
+        347,
+        "tei/dar-tiempo-al-tiempo.xml"
+      ],
+      "cal000072": [
+        347,
+        "tei/darlo-todo-y-no-dar-nada.xml"
+      ],
+      "cal000073": [
+        347,
+        "tei/de-una-causa-dos-efectos.xml"
+      ],
+      "cal000074": [
+        347,
+        "tei/dicha-y-desdicha-del-nombre.xml"
+      ],
+      "cal000075": [
+        347,
+        "tei/duelos-de-amor-y-lealtad.xml"
+      ],
+      "cal000076": [
+        347,
+        "tei/eco-y-narciso.xml"
+      ],
+      "cal000077": [
+        347,
+        "tei/el-acaso-y-el-error.xml"
+      ],
+      "cal000078": [
+        347,
+        "tei/el-agua-mansa.xml"
+      ],
+      "cal000079": [
+        347,
+        "tei/el-alcaide-de-si-mismo.xml"
+      ],
+      "cal000080": [
+        347,
+        "tei/el-alcalde-de-zalamea.xml"
+      ],
+      "cal000081": [
+        347,
+        "tei/el-astrologo-fingido.xml"
+      ],
+      "cal000082": [
+        347,
+        "tei/el-castillo-de-lindabridis.xml"
+      ],
+      "cal000083": [
+        347,
+        "tei/el-conde-lucanor.xml"
+      ],
+      "cal000084": [
+        347,
+        "tei/el-encanto-sin-encanto.xml"
+      ],
+      "cal000085": [
+        347,
+        "tei/el-escondido-y-la-tapada.xml"
+      ],
+      "cal000086": [
+        347,
+        "tei/el-golfo-de-las-sirenas.xml"
+      ],
+      "cal000087": [
+        347,
+        "tei/el-gran-principe-de-fez.xml"
+      ],
+      "cal000088": [
+        347,
+        "tei/el-hombre-pobre-todo-es-trazas.xml"
+      ],
+      "cal000089": [
+        347,
+        "tei/el-jose-de-las-mujeres.xml"
+      ],
+      "cal000090": [
+        347,
+        "tei/el-laurel-de-apolo.xml"
+      ],
+      "cal000091": [
+        347,
+        "tei/el-maestro-de-danzar.xml"
+      ],
+      "cal000092": [
+        347,
+        "tei/el-magico-prodigioso.xml"
+      ],
+      "cal000093": [
+        347,
+        "tei/el-mayor-encanto-amor.xml"
+      ],
+      "cal000094": [
+        347,
+        "tei/el-mayor-monstruo-del-mundo.xml"
+      ],
+      "cal000095": [
+        347,
+        "tei/el-mayor-monstruo-los-celos.xml"
+      ],
+      "cal000096": [
+        347,
+        "tei/el-pintor-de-su-deshonra.xml"
+      ],
+      "cal000097": [
+        347,
+        "tei/el-postrer-duelo-de-espana.xml"
+      ],
+      "cal000098": [
+        347,
+        "tei/el-principe-constante.xml"
+      ],
+      "cal000099": [
+        347,
+        "tei/el-purgatorio-de-san-patricio.xml"
+      ],
+      "cal000100": [
+        347,
+        "tei/el-secreto-a-voces.xml"
+      ],
+      "cal000101": [
+        347,
+        "tei/el-segundo-scipion.xml"
+      ],
+      "cal000102": [
+        347,
+        "tei/el-sitio-de-breda.xml"
+      ],
+      "cal000103": [
+        347,
+        "tei/en-la-vida-todo-es-verdad-y-todo-mentira.xml"
+      ],
+      "cal000104": [
+        347,
+        "tei/fieras-afemina-amor.xml"
+      ],
+      "cal000105": [
+        347,
+        "tei/fineza-contra-fineza.xml"
+      ],
+      "cal000106": [
+        347,
+        "tei/fortunas-de-andromeda-y-perseo.xml"
+      ],
+      "cal000107": [
+        347,
+        "tei/fuego-de-dios-en-el-querer-bien.xml"
+      ],
+      "cal000108": [
+        347,
+        "tei/gustos-y-disgustos-son-no-mas-que-imaginacion.xml"
+      ],
+      "cal000109": [
+        347,
+        "tei/hado-y-divisa-de-leonido-y-marfisa.xml"
+      ],
+      "cal000110": [
+        347,
+        "tei/judas-macabeo.xml"
+      ],
+      "cal000111": [
+        347,
+        "tei/la-banda-y-la-flor.xml"
+      ],
+      "cal000112": [
+        347,
+        "tei/la-cisma-de-ingalaterra.xml"
+      ],
+      "cal000113": [
+        347,
+        "tei/la-desdicha-de-la-voz.xml"
+      ],
+      "cal000114": [
+        347,
+        "tei/la-estatua-de-prometeo.xml"
+      ],
+      "cal000115": [
+        347,
+        "tei/la-exaltacion-de-la-cruz.xml"
+      ],
+      "cal000116": [
+        347,
+        "tei/la-gran-cenobia.xml"
+      ],
+      "cal000117": [
+        347,
+        "tei/la-hija-del-aire-i.xml"
+      ],
+      "cal000118": [
+        347,
+        "tei/la-hija-del-aire-ii.xml"
+      ],
+      "cal000119": [
+        347,
+        "tei/la-nina-de-gomez-arias.xml"
+      ],
+      "cal000120": [
+        347,
+        "tei/la-puente-de-mantible.xml"
+      ],
+      "cal000121": [
+        347,
+        "tei/la-purpura-de-la-rosa.xml"
+      ],
+      "cal000122": [
+        347,
+        "tei/la-senora-y-la-criada.xml"
+      ],
+      "cal000123": [
+        347,
+        "tei/la-sibila-del-oriente.xml"
+      ],
+      "cal000124": [
+        347,
+        "tei/lances-de-amor-y-fortuna.xml"
+      ],
+      "cal000125": [
+        347,
+        "tei/las-armas-de-la-hermosura.xml"
+      ],
+      "cal000126": [
+        347,
+        "tei/las-cadenas-del-demonio.xml"
+      ],
+      "cal000127": [
+        347,
+        "tei/las-manos-blancas-no-ofenden.xml"
+      ],
+      "cal000128": [
+        347,
+        "tei/las-tres-justicias-en-una.xml"
+      ],
+      "cal000129": [
+        347,
+        "tei/los-cabellos-de-absalon.xml"
+      ],
+      "cal000130": [
+        347,
+        "tei/los-dos-amantes-del-cielo.xml"
+      ],
+      "cal000131": [
+        347,
+        "tei/los-empenos-de-un-acaso.xml"
+      ],
+      "cal000132": [
+        347,
+        "tei/los-hijos-de-la-fortuna-teagenes-y-cariclea.xml"
+      ],
+      "cal000133": [
+        347,
+        "tei/los-tres-afectos-de-amor-piedad-desmayo-y-valor.xml"
+      ],
+      "cal000134": [
+        347,
+        "tei/los-tres-mayores-prodigios.xml"
+      ],
+      "cal000135": [
+        347,
+        "tei/luis-perez-el-gallego.xml"
+      ],
+      "cal000136": [
+        347,
+        "tei/manana-sera-otro-dia.xml"
+      ],
+      "cal000137": [
+        347,
+        "tei/mananas-de-abril-y-mayo.xml"
+      ],
+      "cal000138": [
+        347,
+        "tei/mejor-esta-que-estaba.xml"
+      ],
+      "cal000139": [
+        347,
+        "tei/mujer-llora-y-venceras.xml"
+      ],
+      "cal000140": [
+        347,
+        "tei/nadie-fie-su-secreto.xml"
+      ],
+      "cal000141": [
+        347,
+        "tei/ni-amor-se-libra-de-amor.xml"
+      ],
+      "cal000142": [
+        347,
+        "tei/no-hay-burlas-con-el-amor.xml"
+      ],
+      "cal000143": [
+        347,
+        "tei/no-hay-cosa-como-callar.xml"
+      ],
+      "cal000144": [
+        347,
+        "tei/no-siempre-lo-peor-es-cierto.xml"
+      ],
+      "cal000145": [
+        347,
+        "tei/origen-perdida-y-restauracion-de-la-virgen-del-sagrario.xml"
+      ],
+      "cal000146": [
+        347,
+        "tei/para-vencer-a-amor-querer-vencerle.xml"
+      ],
+      "cal000147": [
+        347,
+        "tei/peor-esta-que-estaba.xml"
+      ],
+      "cal000148": [
+        347,
+        "tei/primero-soy-yo.xml"
+      ],
+      "cal000149": [
+        347,
+        "tei/saber-del-mal-y-el-bien.xml"
+      ],
+      "cal000150": [
+        347,
+        "tei/tambien-hay-duelo-en-las-damas.xml"
+      ],
+      "cal000151": [
+        347,
+        "tei/un-castigo-en-tres-venganzas.xml"
+      ],
+      "cal000152": [
+        347,
+        "tei/amar-y-ser-amado-y-divina-filotea.xml"
+      ],
+      "cal000153": [
+        347,
+        "tei/el-ano-santo-de-madrid.xml"
+      ],
+      "cal000154": [
+        347,
+        "tei/el-arbol-de-mejor-fruto.xml"
+      ],
+      "cal000155": [
+        347,
+        "tei/el-arca-de-dios-cautiva.xml"
+      ],
+      "cal000156": [
+        347,
+        "tei/el-convite-general.xml"
+      ],
+      "cal000157": [
+        347,
+        "tei/el-cubo-de-la-almudena.xml"
+      ],
+      "cal000158": [
+        347,
+        "tei/el-dia-mayor-de-los-dias.xml"
+      ],
+      "cal000159": [
+        347,
+        "tei/el-divino-cazador.xml"
+      ],
+      "cal000160": [
+        347,
+        "tei/el-divino-jason-attributed.xml"
+      ],
+      "cal000161": [
+        347,
+        "tei/el-divino-orfeo-1634.xml"
+      ],
+      "cal000162": [
+        347,
+        "tei/el-gran-duque-de-gandia.xml"
+      ],
+      "cal000163": [
+        347,
+        "tei/el-gran-mercado-del-mundo.xml"
+      ],
+      "cal000164": [
+        347,
+        "tei/el-laberinto-del-mundo.xml"
+      ],
+      "cal000165": [
+        347,
+        "tei/el-lirio-y-la-azucena.xml"
+      ],
+      "cal000166": [
+        347,
+        "tei/el-maestrazgo-del-tuson.xml"
+      ],
+      "cal000167": [
+        347,
+        "tei/el-nuevo-palacio-del-retiro.xml"
+      ],
+      "cal000168": [
+        347,
+        "tei/el-orden-de-melquisedec.xml"
+      ],
+      "cal000169": [
+        347,
+        "tei/el-pastor-fido.xml"
+      ],
+      "cal000170": [
+        347,
+        "tei/el-pleito-matrimonial-del-cuerpo-y-el-alma.xml"
+      ],
+      "cal000171": [
+        347,
+        "tei/el-primer-refugio-del-hombre-loa.xml"
+      ],
+      "cal000172": [
+        347,
+        "tei/el-primer-refugio-del-hombre-y-probatica-piscina.xml"
+      ],
+      "cal000173": [
+        347,
+        "tei/el-sacro-pernaso.xml"
+      ],
+      "cal000174": [
+        347,
+        "tei/el-santo-rey-fernando-segunda-parte.xml"
+      ],
+      "cal000175": [
+        347,
+        "tei/el-segundo-blason-del-austria.xml"
+      ],
+      "cal000176": [
+        347,
+        "tei/el-tesoro-escondido.xml"
+      ],
+      "cal000177": [
+        347,
+        "tei/el-valle-de-la-zarzuela.xml"
+      ],
+      "cal000178": [
+        347,
+        "tei/el-verdadero-dios-pan.xml"
+      ],
+      "cal000179": [
+        347,
+        "tei/el-viatico-cordero.xml"
+      ],
+      "cal000180": [
+        347,
+        "tei/la-cena-del-rey-baltasar-auto.xml"
+      ],
+      "cal000181": [
+        347,
+        "tei/la-cura-y-la-enfermedad.xml"
+      ],
+      "cal000182": [
+        347,
+        "tei/la-iglesia-sitiada.xml"
+      ],
+      "cal000183": [
+        347,
+        "tei/la-lepra-de-constantino.xml"
+      ],
+      "cal000184": [
+        347,
+        "tei/la-redencion-de-cautivos.xml"
+      ],
+      "cal000185": [
+        347,
+        "tei/la-semilla-y-la-cizana.xml"
+      ],
+      "cal000186": [
+        347,
+        "tei/la-serpiente-de-metal.xml"
+      ],
+      "cal000187": [
+        347,
+        "tei/la-siembra-del-senor.xml"
+      ],
+      "cal000188": [
+        347,
+        "tei/la-torre-de-babilonia.xml"
+      ],
+      "cal000189": [
+        347,
+        "tei/la-universal-redencion.xml"
+      ],
+      "cal000190": [
+        347,
+        "tei/la-vacante-general.xml"
+      ],
+      "cal000191": [
+        347,
+        "tei/la-vida-es-sueno-primera-version-auto.xml"
+      ],
+      "cal000192": [
+        347,
+        "tei/la-vida-es-sueno-segunda-version-auto.xml"
+      ],
+      "cal000193": [
+        347,
+        "tei/la-vina-del-senor-1996.xml"
+      ],
+      "cal000194": [
+        347,
+        "tei/las-espigas-de-ruth.xml"
+      ],
+      "cal000195": [
+        347,
+        "tei/llamados-y-escogidos.xml"
+      ],
+      "cal000196": [
+        347,
+        "tei/lo-que-va-del-hombre-a-dios.xml"
+      ],
+      "cal000197": [
+        347,
+        "tei/los-alimentos-del-hombre-auto.xml"
+      ],
+      "cal000198": [
+        347,
+        "tei/los-misterios-de-la-misa.xml"
+      ],
+      "cal000199": [
+        347,
+        "tei/mistica-y-real-babilonia.xml"
+      ],
+      "cal000200": [
+        347,
+        "tei/no-hay-mas-fortuna-que-dios.xml"
+      ],
+      "cal000201": [
+        347,
+        "tei/psiquis-y-cupido-toledo.xml"
+      ],
+      "cal000202": [
+        347,
+        "tei/tu-projimo-como-a-ti.xml"
+      ],
+      "cal000203": [
+        347,
+        "tei/como-se-comunican-dos-estrellas-contrarias.xml"
+      ],
+      "cal000204": [
+        347,
+        "tei/el-jardin-de-falerina-auto.xml"
+      ],
+      "cal000205": [
+        347,
+        "tei/el-pintor-de-su-deshonra-auto.xml"
+      ],
+      "cal000206": [
+        347,
+        "tei/el-primer-blason-del-austria-auto.xml"
+      ],
+      "cal000207": [
+        347,
+        "tei/la-selva-confusa.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 348,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

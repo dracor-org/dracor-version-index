@@ -1,0 +1,9 @@
+repos/
+.venv/
+__pycache__/
+
+# local working files, not part of the published repository
+CLAUDE.md
+versions-index.md
+*.log
+summary.tsv

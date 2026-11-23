@@ -1,0 +1,192 @@
+case,seq,commit,key,path,blob,detail
+tei-without-id,3,050c54999c73fa7d4f823a4c64dca7d587f1182d,tei/madach-a-civilizator.xml,tei/madach-a-civilizator.xml,71cba580da7601de0c75b28454d25fefa9e61cf3,
+tei-without-id,3,050c54999c73fa7d4f823a4c64dca7d587f1182d,tei/madach-az-ember-tragediaja.xml,tei/madach-az-ember-tragediaja.xml,a245b4fd89ee836e1f115c41b7b506ac24e61fd2,
+tei-without-id,3,050c54999c73fa7d4f823a4c64dca7d587f1182d,tei/moricz-uri-muri.xml,tei/moricz-uri-muri.xml,c7ffe520ef5eeea90a29f98e77ec98580f9e6da7,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/balassi-szep-magyar-komedia.xml,tei/balassi-szep-magyar-komedia.xml,1c6c952d31d24b66bc71d79884a6df62e36c6257,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/balazs-hazateres.xml,tei/balazs-hazateres.xml,8221d592e5f7634d9abf2ce9ea219f1c86f165da,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/balazs-mozart.xml,tei/balazs-mozart.xml,a890e0cd0f28cc6271e37b4521e4b0391ef970f2,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/bornemisza-tragoedia-magyar-nyelven-az-sophocles-electrajabol.xml,tei/bornemisza-tragoedia-magyar-nyelven-az-sophocles-electrajabol.xml,21eaacbf79d82fd7946e29b593a0f9f603d5e838,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/brody-a-tanitono.xml,tei/brody-a-tanitono.xml,b601348455fe45c55ed3071966958a3884f54078,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/csath-a-janika.xml,tei/csath-a-janika.xml,5ec27be6c818dc0065ec07ba0156b823dd379950,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/csath-hamvazoszerda.xml,tei/csath-hamvazoszerda.xml,8a3a233300268cadc2d10605c1a53a5a368f3ab4,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/csiky-a-nagymama.xml,tei/csiky-a-nagymama.xml,047a735d770408dc6a0b5ac58485255ca40a20cf,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/csiky-a-proletarok.xml,tei/csiky-a-proletarok.xml,87958b4fa0d0e940b3a68c7b683709c312ffd455,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/csiky-a-vasember.xml,tei/csiky-a-vasember.xml,98b144e84e0f886feab84ec7de54c9197f756e92,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/csiky-buborekok.xml,tei/csiky-buborekok.xml,76f9fab85b0473c58db404eed041075bc5639935,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/csokonai-a-mela-tempefoi.xml,tei/csokonai-a-mela-tempefoi.xml,35161bebdfb1ca3782a9dc609c03fc1802b29831,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/csokonai-ozvegy-karnyone.xml,tei/csokonai-ozvegy-karnyone.xml,465ef0e5812e582317cb3f2e70ca43ca90dbd614,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/czako-kalmar-es-tengeresz.xml,tei/czako-kalmar-es-tengeresz.xml,fe63ebe208c9f2c7954155378c6ff1cffe78638f,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/gardonyi-a-bor.xml,tei/gardonyi-a-bor.xml,d68d54801865971d3ce1d029628951e03e93a5c0,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/hevesi-csaszar-es-komedias.xml,tei/hevesi-csaszar-es-komedias.xml,d9d4936c29a9828c26ab133226725ed762ddd40f,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/hugo-bankar-es-baro.xml,tei/hugo-bankar-es-baro.xml,930568f2a3224e7d5eea7118e8faa32850640dc3,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/hunyady-nyari-zapor.xml,tei/hunyady-nyari-zapor.xml,e095b7ad38d3ea0b8ba73b1a11e228beb6c2bf5d,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/jokai-levente.xml,tei/jokai-levente.xml,ff690c1d147696f07bcfb9ed134ae65d0e15f8c5,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/katona-bank-ban.xml,tei/katona-bank-ban.xml,ae8a6301120f41e17af8de663ddc693efe5e4cba,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/kisfaludy-a-kerok.xml,tei/kisfaludy-a-kerok.xml,f3537716811a6c9af48151316b69448d98a1c4aa,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/madach-a-civilizator.xml,tei/madach-a-civilizator.xml,8631398f0f5e355fcc9e0e7fab05772778c33e15,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/madach-az-ember-tragediaja.xml,tei/madach-az-ember-tragediaja.xml,f21c8c8afe50694b946d56965f195aee63c242c6,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/madach-civilizator.xml,tei/madach-civilizator.xml,4507a61333070dbd1ba4cdf1f9b5fbb1a0ae5222,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/madach-csak-vegnapjai.xml,tei/madach-csak-vegnapjai.xml,9e6dd93412236ecb451feb888016cf55bdb8f33f,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/madach-ferfi-es-no.xml,tei/madach-ferfi-es-no.xml,d7e1383ef5911aefa805aef2d1956527e98123dc,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/madach-mozes.xml,tei/madach-mozes.xml,b3aedc0dd0863259d4916b535210c67dd03bc106,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/moricz-legy-jo-mindhalalig.xml,tei/moricz-legy-jo-mindhalalig.xml,e4f3545b6bf591cdfa6efd5354714519493f1b11,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/moricz-uri-muri.xml,tei/moricz-uri-muri.xml,9f9869799dd20b6bfee04e9cddb59aed9738f223,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/nagy-tisztujitas.xml,tei/nagy-tisztujitas.xml,cfa1366d6aeaaf4b94711aad57d4841380b65811,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/pekar-matyas-es-beatrix.xml,tei/pekar-matyas-es-beatrix.xml,e7f247308bc37df141c2d88b9aaafb68d2914fd9,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/petofi-tigris-es-hiena.xml,tei/petofi-tigris-es-hiena.xml,d04104bf46877fe5102d02af1b3eec8e42e50cd2,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/szakonyi-adashiba.xml,tei/szakonyi-adashiba.xml,07299f45be7c720c2c459a9269f866cb459c3b98,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/szigligeti-a-lelenc.xml,tei/szigligeti-a-lelenc.xml,6ddd8563db88ff6ec93da849dc0277b565de2361,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/szigligeti-liliomfi.xml,tei/szigligeti-liliomfi.xml,3d92d5279e1d4059d1fce0d19dc5929a2e5f1633,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/teleki-kegyenc.xml,tei/teleki-kegyenc.xml,e925ceb43d45d434f6f7a8bfe58019a3c5cb0e66,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/toth-a-falu-rossza.xml,tei/toth-a-falu-rossza.xml,14284a5b4cd7f9d00dfa4fc70b400d82994efb4a,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/vorosmarty-a-fatyol-titkai.xml,tei/vorosmarty-a-fatyol-titkai.xml,ff8ddcd5b035cb6be3b43d88ab5e7504ea5490c1,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/vorosmarty-csongor-es-tunde.xml,tei/vorosmarty-csongor-es-tunde.xml,8a5a01ed9676e3d7abc84b3102638c90eb65942c,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/vorosmarty-kincskeresok.xml,tei/vorosmarty-kincskeresok.xml,e50645f167be33d0942bc8f4f72ff7114c6b92ff,
+tei-without-id,4,254c621d7275e1a2ed81b36deaa7eafa8beefc8c,tei/vorosmarty-vernasz.xml,tei/vorosmarty-vernasz.xml,fa572030d2e01167fd41b9860baa8f30abc171b6,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/balassi-szep-magyar-komedia.xml,tei/balassi-szep-magyar-komedia.xml,95d1090d7388e5a09fcdb6e9ce685d8be3e20249,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/balazs-hazateres.xml,tei/balazs-hazateres.xml,36d7a4a351eeb50ad90fae2be9bc1f1a43ef7f53,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/balazs-mozart.xml,tei/balazs-mozart.xml,a4fd514defe2775aafda7c720b991812fd4abb71,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/bornemisza-tragoedia-magyar-nyelven-az-sophocles-electrajabol.xml,tei/bornemisza-tragoedia-magyar-nyelven-az-sophocles-electrajabol.xml,5b373cb8c7ef34cea1e7365dc514732cca0895b4,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/brody-a-tanitono.xml,tei/brody-a-tanitono.xml,dc7a598b7b3ebe828de5e9e3c5699ba3cbcdedc9,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/csath-a-janika.xml,tei/csath-a-janika.xml,7376bba65a55daa3527229759ef7281df5eb18e4,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/csath-hamvazoszerda.xml,tei/csath-hamvazoszerda.xml,580e04d7dba50881f7ced2b495d6ee6d6952ad28,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/csiky-a-nagymama.xml,tei/csiky-a-nagymama.xml,a9ca9509722acdd665748646a91f0f5e137f4416,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/csiky-a-proletarok.xml,tei/csiky-a-proletarok.xml,519a30c510e9491324028de429275d8a64f2bd5f,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/csiky-a-vasember.xml,tei/csiky-a-vasember.xml,7c527139c325eaf972525fa17408cdc4b0f9f593,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/csiky-buborekok.xml,tei/csiky-buborekok.xml,1a566a791799eef4056f7d7de5dcc2ef1f9a650d,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/csokonai-a-mela-tempefoi.xml,tei/csokonai-a-mela-tempefoi.xml,51cca1e92025e6d584f4f1a30fa80e8577afe27d,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/csokonai-ozvegy-karnyone.xml,tei/csokonai-ozvegy-karnyone.xml,4a3420953f0659989f81d6a3974adc17c6ffac87,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/czako-kalmar-es-tengeresz.xml,tei/czako-kalmar-es-tengeresz.xml,1d0d986f8ba36d8388dd0183fa78fecba89cab51,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/gardonyi-a-bor.xml,tei/gardonyi-a-bor.xml,3a8233b63a9748b2fcd9566e8341f4c258bd73e7,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/hevesi-csaszar-es-komedias.xml,tei/hevesi-csaszar-es-komedias.xml,f9b3c553220265c5f9dc90f9c369584a8ee9073b,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/hugo-bankar-es-baro.xml,tei/hugo-bankar-es-baro.xml,0b42e6b31e4f74eeb39c8970b0fabe66475fd8fd,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/hunyady-nyari-zapor.xml,tei/hunyady-nyari-zapor.xml,a012af9e7a4259a03257f5ac6e4544344f02f2b7,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/jokai-levente.xml,tei/jokai-levente.xml,82ec8cb249d653ec4be1fed468095c3ced275538,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/katona-bank-ban.xml,tei/katona-bank-ban.xml,e97095ffe089a391bb00d23010e7814aab2a6d2c,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/kisfaludy-a-kerok.xml,tei/kisfaludy-a-kerok.xml,d1dc09d050630bc15ab4c800e5e6ceaeea0828f9,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/madach-a-civilizator.xml,tei/madach-a-civilizator.xml,65fc3a68ad772bf6b04570167c3ee84d949d56b8,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/madach-az-ember-tragediaja.xml,tei/madach-az-ember-tragediaja.xml,6a050050b897f71692e4e7288b0b97b12d9031e9,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/madach-civilizator.xml,tei/madach-civilizator.xml,de83bae0115c0b7d529715d788fa026178f2814e,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/madach-csak-vegnapjai.xml,tei/madach-csak-vegnapjai.xml,48d79546be1216700811c3b822edea53cd558bab,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/madach-ferfi-es-no.xml,tei/madach-ferfi-es-no.xml,720790381b5f70571fb9c8af5dc044d24b02154f,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/madach-mozes.xml,tei/madach-mozes.xml,af51b9d17f80754b90581bdc93d857a70bfd135c,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/moricz-legy-jo-mindhalalig.xml,tei/moricz-legy-jo-mindhalalig.xml,2a4e0619c41e6c62907d9e7ecd380320204fd278,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/moricz-uri-muri.xml,tei/moricz-uri-muri.xml,2ae62e775674ad1ee790b20873d901b54e8585a3,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/nagy-tisztujitas.xml,tei/nagy-tisztujitas.xml,c77f2f7c64a036ac8332e3e3ec750102777ef3dc,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/pekar-matyas-es-beatrix.xml,tei/pekar-matyas-es-beatrix.xml,5931eaac45681ba37336cc12d2553c9e90c27923,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/petofi-tigris-es-hiena.xml,tei/petofi-tigris-es-hiena.xml,713e9116667487f235bf83257e3050429a2bdfcd,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/szakonyi-adashiba.xml,tei/szakonyi-adashiba.xml,e4cc1e7d40f4f66f98f27bf1f1ad93db477e89ff,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/szigligeti-a-lelenc.xml,tei/szigligeti-a-lelenc.xml,81ed394f5671ca7d07f8662fc1d6f2c9abd6e2f3,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/szigligeti-liliomfi.xml,tei/szigligeti-liliomfi.xml,e99ec3599a22d59dc0dccc4b21ca209f30d28644,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/teleki-kegyenc.xml,tei/teleki-kegyenc.xml,42aa00d4d243b5c517f8f6ae31528fbc7aa9eff1,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/toth-a-falu-rossza.xml,tei/toth-a-falu-rossza.xml,f909736d0d708b4b07e50896917879f1d3aa859d,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/vorosmarty-a-fatyol-titkai.xml,tei/vorosmarty-a-fatyol-titkai.xml,9d1f8439ee857bd7303d133999a0a69b7fdedc4d,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/vorosmarty-csongor-es-tunde.xml,tei/vorosmarty-csongor-es-tunde.xml,99ff6b6967118dff4c3c668fe69213fb6332a1d2,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/vorosmarty-kincskeresok.xml,tei/vorosmarty-kincskeresok.xml,fd863a954ed54c88afb1c0b58e79dd3c6a65db6d,
+tei-without-id,5,0a7cef1f44a45dab64c34cfda33330c4674e37ce,tei/vorosmarty-vernasz.xml,tei/vorosmarty-vernasz.xml,4f6b305c5f23f088d887c7e9ffb4294ccad325c2,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/balassi-szep-magyar-komedia.xml,tei/balassi-szep-magyar-komedia.xml,dd877d882b7d21dbabf2914a696bd3a3bca94e71,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/balazs-hazateres.xml,tei/balazs-hazateres.xml,90d9d9b3085acbdafb8ee20e14c1a38fa692215b,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/balazs-mozart.xml,tei/balazs-mozart.xml,71945cda8747b9d3a63df5b5481608f681c79514,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/bornemisza-tragoedia-magyar-nyelven-az-sophocles-electrajabol.xml,tei/bornemisza-tragoedia-magyar-nyelven-az-sophocles-electrajabol.xml,7caf10b4f8fbcf36454c450f099cc66acd5f3a31,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/brody-a-tanitono.xml,tei/brody-a-tanitono.xml,bf4d7a80d3219455f79ad425583e3cdde227e768,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/csath-a-janika.xml,tei/csath-a-janika.xml,99155d82df2372256b536a6ade1ad5012a4d7c09,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/csath-hamvazoszerda.xml,tei/csath-hamvazoszerda.xml,60e62dbe22dae25a755d4396a22be31698ab37ef,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/csiky-a-nagymama.xml,tei/csiky-a-nagymama.xml,61428ff642c04b9036882a462ef27da766552fbe,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/csiky-a-proletarok.xml,tei/csiky-a-proletarok.xml,3e4fd26ecd7034a1e8f870d8a5fd6d822e122611,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/csiky-a-vasember.xml,tei/csiky-a-vasember.xml,0e268d948eb37c9306f176bcaefb6c6e39378ad4,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/csiky-buborekok.xml,tei/csiky-buborekok.xml,5b714d7e608e7fffe0a0f61defc19a41f2abce68,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/csokonai-a-mela-tempefoi.xml,tei/csokonai-a-mela-tempefoi.xml,428e1641bea2ff22df29f23897fe058767c8fbe4,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/csokonai-ozvegy-karnyone.xml,tei/csokonai-ozvegy-karnyone.xml,9e231578e2883805c7b7ead16405342e2b1c1be6,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/czako-kalmar-es-tengeresz.xml,tei/czako-kalmar-es-tengeresz.xml,6512e75ec41c6a1433b0b28524cdc535727e9c5a,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/gardonyi-a-bor.xml,tei/gardonyi-a-bor.xml,ef8a4fa2d14cdb764de5640cbda4907728730245,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/hevesi-csaszar-es-komedias.xml,tei/hevesi-csaszar-es-komedias.xml,045163a31a1a77aaa9fbaf208cfc462d0a1b7dd6,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/hugo-bankar-es-baro.xml,tei/hugo-bankar-es-baro.xml,979fa74129da237960ba8557d1c4a5adad0227e6,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/hunyady-nyari-zapor.xml,tei/hunyady-nyari-zapor.xml,59444bc62db4bab0da909795db008fbd7f6d25bf,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/jokai-levente.xml,tei/jokai-levente.xml,21b5f381dd9213133ddcfdb27e3515383777ac49,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/katona-bank-ban.xml,tei/katona-bank-ban.xml,421d391045f9cec25140964e152f0e75f24f874e,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/kisfaludy-a-kerok.xml,tei/kisfaludy-a-kerok.xml,2026b3610af6c3cb2062d3ab6f4e3ddde6a3de62,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/madach-a-civilizator.xml,tei/madach-a-civilizator.xml,eec97c30f43305f7c087a40c17684f4b2538440e,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/madach-az-ember-tragediaja.xml,tei/madach-az-ember-tragediaja.xml,a2805c88c5c091b7a9461767e82355d4e6beac85,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/madach-civilizator.xml,tei/madach-civilizator.xml,4e65321d0a9c9d17468e46eb8e71b47a544d61d9,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/madach-csak-vegnapjai.xml,tei/madach-csak-vegnapjai.xml,82d1da9464b7a30223136efeb43db98dfd17f9d2,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/madach-ferfi-es-no.xml,tei/madach-ferfi-es-no.xml,cf0ee63276f4ad5d9c7078534cb4a9ccf063549e,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/madach-mozes.xml,tei/madach-mozes.xml,cc996b04ca70e731265edbd223706151244577f5,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/moricz-legy-jo-mindhalalig.xml,tei/moricz-legy-jo-mindhalalig.xml,cb237d8fb18493c0ea0e9e3bdbde10350a489134,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/moricz-uri-muri.xml,tei/moricz-uri-muri.xml,9d2b5708f663aacab332b6aa1cf13ebd76cc9bdc,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/nagy-tisztujitas.xml,tei/nagy-tisztujitas.xml,2c03e64b2a193d97409de2ac89612b064c147643,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/pekar-matyas-es-beatrix.xml,tei/pekar-matyas-es-beatrix.xml,35ff017c190304114ffd6bf97b96a8ce6fc31954,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/petofi-tigris-es-hiena.xml,tei/petofi-tigris-es-hiena.xml,db6c250705197da28c415503f26120cea74a9d44,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/szakonyi-adashiba.xml,tei/szakonyi-adashiba.xml,5f8bc1a2a613d9f7c99a72bd65ef861f29a679ab,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/szigligeti-a-lelenc.xml,tei/szigligeti-a-lelenc.xml,9d46e6f5a0b351e75426af7f32fae8bba2a186e5,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/szigligeti-liliomfi.xml,tei/szigligeti-liliomfi.xml,76ffcb781ab9ebb79909ec2ddfacfd95b5b854c0,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/teleki-kegyenc.xml,tei/teleki-kegyenc.xml,37f732cb88cbe5e9cf0ec869d34be7b7ed93be57,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/toth-a-falu-rossza.xml,tei/toth-a-falu-rossza.xml,7fb08031fa0b2ae7341c6a68c397b19f35bb63d0,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/vorosmarty-a-fatyol-titkai.xml,tei/vorosmarty-a-fatyol-titkai.xml,d1e416e6bcec44b0fc095d1189b3d80f91b913e7,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/vorosmarty-csongor-es-tunde.xml,tei/vorosmarty-csongor-es-tunde.xml,fa9ec4f9bae308ed0bfd0e4041680efda3cb0b64,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/vorosmarty-kincskeresok.xml,tei/vorosmarty-kincskeresok.xml,05e1e8d3cc02241cc3e207dd052f0a0785aa16db,
+tei-without-id,6,b48fee7a819faf27dad662c2ba5dddefcf0570a8,tei/vorosmarty-vernasz.xml,tei/vorosmarty-vernasz.xml,14fc57c98d6ca65d665725c29c69bc257b625836,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/balassi-szep-magyar-komedia.xml,tei/balassi-szep-magyar-komedia.xml,008dbf6c0f6559018e083cdfca46eaf10ea35ef8,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/balazs-hazateres.xml,tei/balazs-hazateres.xml,4795ffa4378b8307bdf45d44894943bbea88c4e2,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/balazs-mozart.xml,tei/balazs-mozart.xml,67f924eec4f7826172db0b4f616f6467c79c7462,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/brody-a-tanitono.xml,tei/brody-a-tanitono.xml,b6b98ae001819878b9370c355ed386f31cb14eb3,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/csokonai-a-mela-tempefoi.xml,tei/csokonai-a-mela-tempefoi.xml,a200142fde39bc2c697ab33c76fbcf80b4080eb8,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/csokonai-ozvegy-karnyone.xml,tei/csokonai-ozvegy-karnyone.xml,f0dab7b55b23530e787d9553eb16b76737099221,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/gardonyi-a-bor.xml,tei/gardonyi-a-bor.xml,f690ba4c50f3c3bd9a4560e012dc155a6bc34f88,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/hugo-bankar-es-baro.xml,tei/hugo-bankar-es-baro.xml,82f1e28e6db21175754404d9f9f1b6e1d9445516,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/hunyady-nyari-zapor.xml,tei/hunyady-nyari-zapor.xml,563902099bbda3c17ed76b98e3f47d13de4c9598,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/madach-a-civilizator.xml,tei/madach-a-civilizator.xml,3625bdc035ec0b9beec4828545fa595928b6a7df,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/madach-az-ember-tragediaja.xml,tei/madach-az-ember-tragediaja.xml,398174d546363987b84fa361350f5daa67b2a8aa,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/madach-civilizator.xml,tei/madach-civilizator.xml,fb8aa6ea168645c61a303b242fbffd957d38eb19,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/madach-csak-vegnapjai.xml,tei/madach-csak-vegnapjai.xml,467d545080d6c28fc4373198bac600051f832bda,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/moricz-legy-jo-mindhalalig.xml,tei/moricz-legy-jo-mindhalalig.xml,04ea1f41dde4f6d91372146ef3029730f2284191,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/moricz-uri-muri.xml,tei/moricz-uri-muri.xml,9b685cf1ae13f18c87026b56efb6823cea2d0885,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/szigligeti-liliomfi.xml,tei/szigligeti-liliomfi.xml,c1993307f8f4e1713349003e9cf190a275b13827,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/teleki-kegyenc.xml,tei/teleki-kegyenc.xml,80a95dd4771f89e7ccea5f31835727d47d18c137,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/toth-a-falu-rossza.xml,tei/toth-a-falu-rossza.xml,78ecde7f03406bd8b1aedf0d5ca9970230a7d6df,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/vorosmarty-a-fatyol-titkai.xml,tei/vorosmarty-a-fatyol-titkai.xml,0d947d21d853b7e877649c1fc77733e42e54881c,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/vorosmarty-csongor-es-tunde.xml,tei/vorosmarty-csongor-es-tunde.xml,7849b505e49b3ad2349024ba5462d8ca488b904a,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/vorosmarty-kincskeresok.xml,tei/vorosmarty-kincskeresok.xml,20500b00be96153b9858c18d94c4100da4ae9cfa,
+tei-without-id,7,ff93ce795727812d894055a758710c8d527c6426,tei/vorosmarty-vernasz.xml,tei/vorosmarty-vernasz.xml,456686d5c11c1d21c7847ffcc0eebd412cccafb9,
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000001,tei/balassi-szep-magyar-komedia.xml,b7434bbd7957ebd39deb256bd105aa96becef68e,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000002,tei/balazs-hazateres.xml,466edd809705d4d95d2db019ef1fc5bc9ce1b3ee,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000003,tei/balazs-mozart.xml,3267082b78b118765eab7e978558549cb588d2b6,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000004,tei/bornemisza-tragoedia-magyar-nyelven-az-sophocles-electrajabol.xml,2b829a319cd6dc6edd967de28b7fe279234a9645,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000005,tei/brody-a-tanitono.xml,fcb378f5293e753b9f0e5a87a1210f9572ee5035,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000006,tei/csath-a-janika.xml,64c06a3479209bda5ccdeb2946b26358305ceb38,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000007,tei/csath-hamvazoszerda.xml,68927a8b8805c1e3ad52fc328ff4f1124febf831,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000008,tei/csiky-a-nagymama.xml,0da8bd055a3cc14d05b756e5a4ac263a23cafc6d,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000009,tei/csiky-a-proletarok.xml,e8e42526ced9639faca32d36041088f11d433c6c,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000010,tei/csiky-a-vasember.xml,87433090fdbf4fd61180034108b700365fce30ad,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000011,tei/csiky-buborekok.xml,090af8cfd07339f65b5a4362524636c0e3255c6f,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000012,tei/csokonai-a-mela-tempefoi.xml,180e7dec012213abd4ba2a22cd9b6fce85a74aea,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000013,tei/csokonai-ozvegy-karnyone.xml,44c68283377e3fabbb4f8e57736702f40e795bc8,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000014,tei/czako-kalmar-es-tengeresz.xml,b5af2aeea135f06c71f2e5191093bb212e11b268,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000015,tei/gardonyi-a-bor.xml,e1cde6e79c4be0e913b546dba2720e93ba95e0ef,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000016,tei/hevesi-csaszar-es-komedias.xml,97cd7580e04f83c6904f6980567114a1318ecc5e,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000017,tei/hugo-bankar-es-baro.xml,6b2414212010573385cec552c97a3ad864cdb8dc,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000018,tei/hunyady-nyari-zapor.xml,b4c6137f264f476738301582354ee14d90037612,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000019,tei/jokai-levente.xml,67dd9be85070246f0865ae2300ab9d8e54d1314d,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000020,tei/katona-bank-ban.xml,2f77400ed77779e009b24ece493d6800886364b8,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000021,tei/kisfaludy-a-kerok.xml,dafca70b143ff951b196e7f9bf77ea1f9d5d6463,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000022,tei/madach-a-civilizator.xml,d26080ff41f01afdb1a4592fd5e77aae3c77a183,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000023,tei/madach-az-ember-tragediaja.xml,3bd0900b0fbe359bb89f36857e6ee4150963c220,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000024,tei/madach-civilizator.xml,3e8e9fcece43bbebcf71bb8e861163e65278413c,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000025,tei/madach-csak-vegnapjai.xml,87a7528a72659e4a9bb52382c70cb6e3ff1b9842,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000026,tei/madach-ferfi-es-no.xml,26ae007e7500f68cfe69583bf529df7ab9ab81f1,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000027,tei/madach-mozes.xml,222d55f63dc7e44817c9d48640ae1d4a6a0b5b76,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000028,tei/moricz-legy-jo-mindhalalig.xml,c6d7b7a0d2f9209c256d1a2839fa2c0e8e664b75,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000029,tei/moricz-uri-muri.xml,2f58a91f0bc0e9581bc0b2e32870597378448a6d,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000030,tei/nagy-tisztujitas.xml,6b36c937b17041f1cdc36b884dd7891205db8e42,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000031,tei/pekar-matyas-es-beatrix.xml,cabe2fa6b29d88faa55cb6bbd98798751e32199e,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000032,tei/petofi-tigris-es-hiena.xml,d4b7dbeef2e742ca511f22cf5f7233837dcdc028,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000033,tei/szakonyi-adashiba.xml,53bb1eb16852b65d88306d5e981b03a9a8e4aea3,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000034,tei/szigligeti-a-lelenc.xml,32206cb35fc4a204e696520386ffb94aca9f7e3d,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000035,tei/szigligeti-liliomfi.xml,549a05d036fa40a5ddda446058edb3de65b6e2e0,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000036,tei/teleki-kegyenc.xml,860b664682c14e439a8a6085d689749075c7f04f,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000037,tei/toth-a-falu-rossza.xml,dfcd030324315342d9eee034e5d7831aa6690b80,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000038,tei/vorosmarty-a-fatyol-titkai.xml,ad2fc18c9426738fb271ac2e4cdebb7b54ce01dc,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000039,tei/vorosmarty-csongor-es-tunde.xml,1f85eaacb5fb34ef57cbbf55f8425a29b91bd58a,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000040,tei/vorosmarty-kincskeresok.xml,fae159e55999e7c7eacb756d45839a27bc564584,file had no DraCor ID before
+id-assigned,8,9f6939c137eb7c2bfc46d08cacec6daf53083653,hun000041,tei/vorosmarty-vernasz.xml,56d89310fcda18ddfdc308b6f2736668a772b9b6,file had no DraCor ID before
+gitlink,35,d44f3ec59f437f3061194a7be340feb62eff46cd,ELTE-drama-corpus,ELTE-drama-corpus,e0c03e185a861919c5fb14dd73b7c40994f9f6b8,submodule entry
+gitlink,37,751601ac86a856f0ddcb1df855447df0343dc986,ELTE-drama-corpus,ELTE-drama-corpus,812c44bc1f91731c3124922cff3b46ef44bf472d,submodule entry

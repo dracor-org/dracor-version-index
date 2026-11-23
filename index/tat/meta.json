@@ -1,0 +1,73 @@
+{
+  "corpus": "tat",
+  "repository": "https://github.com/dracor-org/tatdracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "bc833a3978e6fbbc480d9c8689969a0110129c19",
+  "api_commit": "1864184786d5d78ea7b406269549d947206ac666",
+  "api_commit_seq": 27,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 37,
+    "side_commits_merged": 16,
+    "side_commits_unmerged": 0,
+    "intervals": 53,
+    "tei_ids": 3,
+    "tei_ids_valid_at_head": 3,
+    "tei_files_at_head": 3,
+    "distinct_tei_blobs": 31,
+    "tei_file_commit_pairs": 103,
+    "dedup_factor": 3.32,
+    "tei_noid_intervals": 0,
+    "last_seq_with_noid_tei": null,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "malformed-xml": 1
+    }
+  },
+  "id_archaeology": {
+    "prefix": "tat",
+    "texts": 3,
+    "texts_by_method": {
+      "file": 3
+    },
+    "intervals_by_method": {
+      "file": 31
+    },
+    "legacy_table": 0,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 16,
+    "with_base": 16,
+    "delta_rows": 22,
+    "tei_delta_rows_by_method": {
+      "file": 9
+    }
+  },
+  "state": {
+    "last_commit": "bc833a3978e6fbbc480d9c8689969a0110129c19",
+    "last_seq": 36,
+    "dups_open": {},
+    "last_seen_id": {
+      "tat000001": [
+        36,
+        "tei/qamal-berenche-teatr.xml"
+      ],
+      "tat000002": [
+        36,
+        "tei/qamal-kaynish.xml"
+      ],
+      "tat000003": [
+        36,
+        "tei/qamal-beznen-shehernen-serlere.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 37,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

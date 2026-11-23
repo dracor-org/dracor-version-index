@@ -1,0 +1,4 @@
+key,path,from_seq,to_seq,id_in_file,id_method
+tat000001,tei/qamal-berenche-teatr.xml,1,,tat000001,file
+tat000002,tei/qamal-kaynish.xml,2,,tat000002,file
+tat000003,tei/qamal-beznen-shehernen-serlere.xml,5,,tat000003,file

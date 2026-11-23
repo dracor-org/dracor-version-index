@@ -1,0 +1,164 @@
+{
+  "corpus": "span",
+  "repository": "https://github.com/dracor-org/spandracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "bc0bd6f58c0e09c21456d053d8965730b107c3fa",
+  "api_commit": "43fea2ec859eedf40e0082dea64d3b61838e838b",
+  "api_commit_seq": 34,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 47,
+    "side_commits_merged": 18,
+    "side_commits_unmerged": 0,
+    "intervals": 456,
+    "tei_ids": 25,
+    "tei_ids_valid_at_head": 25,
+    "tei_files_at_head": 25,
+    "distinct_tei_blobs": 405,
+    "tei_file_commit_pairs": 1150,
+    "dedup_factor": 2.84,
+    "tei_noid_intervals": 70,
+    "last_seq_with_noid_tei": 7,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "gitlink": 1,
+      "id-assigned": 25,
+      "tei-without-id": 70
+    }
+  },
+  "id_archaeology": {
+    "prefix": "span",
+    "texts": 25,
+    "texts_by_method": {
+      "file": 25
+    },
+    "intervals_by_method": {
+      "lineage": 70,
+      "file": 335
+    },
+    "legacy_table": 0,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 18,
+    "with_base": 18,
+    "delta_rows": 148,
+    "tei_delta_rows_by_method": {
+      "file": 125
+    }
+  },
+  "state": {
+    "last_commit": "bc0bd6f58c0e09c21456d053d8965730b107c3fa",
+    "last_seq": 46,
+    "dups_open": {},
+    "last_seen_id": {
+      "span000018": [
+        46,
+        "tei/clarin-teresa.xml"
+      ],
+      "span000001": [
+        46,
+        "tei/dicenta-juan-jose.xml"
+      ],
+      "span000003": [
+        46,
+        "tei/echegaray-arrastrarse.xml"
+      ],
+      "span000002": [
+        46,
+        "tei/echegaray-mancha.xml"
+      ],
+      "span000005": [
+        46,
+        "tei/galdos-casandra.xml"
+      ],
+      "span000006": [
+        46,
+        "tei/galdos-electra.xml"
+      ],
+      "span000004": [
+        46,
+        "tei/galdos-perfecta.xml"
+      ],
+      "span000042": [
+        46,
+        "tei/lorca-bernarda.xml"
+      ],
+      "span000041": [
+        46,
+        "tei/lorca-bodas.xml"
+      ],
+      "span000007": [
+        46,
+        "tei/lorca-rosita.xml"
+      ],
+      "span000008": [
+        46,
+        "tei/lorca-yerma.xml"
+      ],
+      "span000040": [
+        46,
+        "tei/lorca-zapatera.xml"
+      ],
+      "span000032": [
+        46,
+        "tei/munoz-conferencia.xml"
+      ],
+      "span000053": [
+        46,
+        "tei/munoz-ortiz.xml"
+      ],
+      "span000030": [
+        46,
+        "tei/munoz-pergaminos.xml"
+      ],
+      "span000031": [
+        46,
+        "tei/munoz-refugio.xml"
+      ],
+      "span000056": [
+        46,
+        "tei/unamuno-esfinge.xml"
+      ],
+      "span000012": [
+        46,
+        "tei/unamuno-fedra.xml"
+      ],
+      "span000027": [
+        46,
+        "tei/valera-asclepigenia.xml"
+      ],
+      "span000028": [
+        46,
+        "tei/valera-atahualpa.xml"
+      ],
+      "span000043": [
+        46,
+        "tei/valle-aguila.xml"
+      ],
+      "span000045": [
+        46,
+        "tei/valle-cara.xml"
+      ],
+      "span000013": [
+        46,
+        "tei/valle-divinas-palabras.xml"
+      ],
+      "span000014": [
+        46,
+        "tei/valle-luces.xml"
+      ],
+      "span000044": [
+        46,
+        "tei/valle-romance.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 47,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "corpus": "u",
+  "repository": "https://github.com/dracor-org/udracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "2f67579dbf57dbcc0c9b6c201026dfc3a54323d4",
+  "api_commit": "2f67579dbf57dbcc0c9b6c201026dfc3a54323d4",
+  "api_commit_seq": 99,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 100,
+    "side_commits_merged": 147,
+    "side_commits_unmerged": 0,
+    "intervals": 909,
+    "tei_ids": 49,
+    "tei_ids_valid_at_head": 49,
+    "tei_files_at_head": 49,
+    "distinct_tei_blobs": 810,
+    "tei_file_commit_pairs": 4154,
+    "dedup_factor": 5.13,
+    "tei_noid_intervals": 4,
+    "last_seq_with_noid_tei": 45,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "id-assigned": 3,
+      "id-change": 34,
+      "id-invalid": 1,
+      "rename-same-blob": 69,
+      "rename-with-change": 5,
+      "tei-without-id": 4
+    }
+  },
+  "id_archaeology": {
+    "prefix": "u",
+    "texts": 49,
+    "texts_by_method": {
+      "file": 49
+    },
+    "intervals_by_method": {
+      "lineage": 98,
+      "file": 781
+    },
+    "legacy_table": 0,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 147,
+    "with_base": 147,
+    "delta_rows": 1081,
+    "tei_delta_rows_by_method": {
+      "lineage": 518,
+      "title": 84,
+      "file": 406,
+      "unresolved": 11
+    }
+  },
+  "state": {
+    "last_commit": "2f67579dbf57dbcc0c9b6c201026dfc3a54323d4",
+    "last_seq": 99,
+    "dups_open": {},
+    "last_seen_id": {
+      "u0000016": [
+        43,
+        "tei/kropivnitskij-daj-sertsju-volju-zavede-u-nevolju.xml"
+      ],
+      "u000001": [
+        99,
+        "tei/ukrainka-advokat-martian.xml"
+      ],
+      "u000003": [
+        99,
+        "tei/ukrainka-aisha-ta-mokhammed.xml"
+      ],
+      "u000004": [
+        99,
+        "tei/ukrainka-boiarynia.xml"
+      ],
+      "u0000015": [
+        43,
+        "tei/lesya-ukrainka-iphigenia-vtavrydi.xml"
+      ],
+      "u000002": [
+        99,
+        "tei/ukrainka-yohanna-zhinka-khusova.xml"
+      ],
+      "u000006": [
+        99,
+        "tei/ukrainka-kaminnyi-hospodar.xml"
+      ],
+      "u000005": [
+        99,
+        "tei/ukrainka-kassandra.xml"
+      ],
+      "u0000013": [
+        43,
+        "tei/lesya-ukrainka-lt-blue-rose.xml"
+      ],
+      "u0000011": [
+        43,
+        "tei/lesya-ukrainka-oderzhyma.xml"
+      ],
+      "u000008": [
+        99,
+        "tei/ukrainka-orhiia.xml"
+      ],
+      "u000009": [
+        99,
+        "tei/ukrainka-tryptykh-2-orfeieve-chudo.xml"
+      ],
+      "u000019": [
+        99,
+        "tei/ukrainka-osinnia-kazka.xml"
+      ],
+      "u0000017": [
+        43,
+        "tei/lesya-ukrainka-proscannja.xml"
+      ],
+      "u000007": [
+        99,
+        "tei/ukrainka-rufin-i-pristsilla.xml"
+      ],
+      "u0000010": [
+        43,
+        "tei/lesya-ukrainka-tri-xvylyny.xml"
+      ],
+      "u0000018": [
+        43,
+        "tei/lesya-ukrainka-upoloni.xml"
+      ],
+      "u0000012": [
+        43,
+        "tei/lesya-ukrainka-upusci.xml"
+      ],
+      "u0000014": [
+        43,
+        "tei/lesya-ukrainka-vdomu-roboty.xml"
+      ],
+      "u0000020": [
+        43,
+        "tei/kotljarevskij-moskal-charivnik.xml"
+      ],
+      "u0000025": [
+        43,
+        "tei/franko-sud-svjatogo-nikolaja.xml"
+      ],
+      "u0000023": [
+        43,
+        "tei/gogol-janovskij-prostak-abo-hitrist-zhinki-perehitrena-moskalem.xml"
+      ],
+      "u0000022": [
+        43,
+        "tei/kvitka-osnovjanenko-svatannja-na-goncharivci.xml"
+      ],
+      "u0000021": [
+        43,
+        "tei/shevchenko-nazar-stodolja.xml"
+      ],
+      "u0000024": [
+        43,
+        "tei/topolja-chari.xml"
+      ],
+      "u0000026": [
+        43,
+        "tei/kulish-97.xml"
+      ],
+      "u0000029": [
+        43,
+        "tei/franko-budka-ch-27.xml"
+      ],
+      "u0000028": [
+        43,
+        "tei/franko-majster-chyrnjak.xml"
+      ],
+      "u0000027": [
+        43,
+        "tei/franko-poslidnij-krejtsar.xml"
+      ],
+      "u0000030": [
+        43,
+        "tei/franko-rjabyna.xml"
+      ],
+      "u0000032": [
+        43,
+        "tei/franko-slavoj-i-khrudosh.xml"
+      ],
+      "u0000031": [
+        43,
+        "tei/franko-try-knjazi-na-odyn-prestol.xml"
+      ],
+      "u0000033": [
+        43,
+        "tei/kropyvnytskyy-marko-lukych-hlytay-abo-zh-pavuk.xml"
+      ],
+      "u0000034": [
+        43,
+        "tei/kvitka-osnovianenko-hryhoriy-fedorovych-shelmenko-dens.xml"
+      ],
+      "u0000035": [
+        43,
+        "tei/dmitrenko-kum-miroshnik-abo-satana-u-bochci.xml"
+      ],
+      "u0000037": [
+        43,
+        "tei/kropivnitskij-dvi-simyi.xml"
+      ],
+      "u0000036": [
+        43,
+        "tei/kropivnitskij-suprotyvni-techiyi.xml"
+      ],
+      "u0000039": [
+        43,
+        "tei/starytsky-chornomortsi.xml"
+      ],
+      "u0000038": [
+        43,
+        "tei/starytsky-jak-kovbasa-ta-charka-to-mynetsja-j-svarka.xml"
+      ],
+      "u0000040": [
+        43,
+        "tei/starytsky-utoplena-abo-rusalchyna-nich.xml"
+      ],
+      "u0000041": [
+        43,
+        "tei/kocherha-marko-v-pekli.xml"
+      ],
+      "u0000042": [
+        43,
+        "tei/kropivnitskij-zerno-i-polova.xml"
+      ],
+      "u0000043": [
+        43,
+        "tei/starytsky-rizdvjana-nich.xml"
+      ],
+      "u0000044": [
+        43,
+        "tei/starytsky-sorochynskyj-jarmarok.xml"
+      ],
+      "u000045": [
+        99,
+        "tei/ukrainka-na-ruinakh.xml"
+      ],
+      "u000035": [
+        99,
+        "tei/dmytrenko-kum-miroshnyk-abo-satana-u-bochtsi.xml"
+      ],
+      "u000029": [
+        99,
+        "tei/franko-budka-ch-27.xml"
+      ],
+      "u000028": [
+        99,
+        "tei/franko-maister-chyrniak.xml"
+      ],
+      "u000027": [
+        99,
+        "tei/franko-poslidnii-kreitsar.xml"
+      ],
+      "u000030": [
+        99,
+        "tei/franko-riabyna-1886.xml"
+      ],
+      "u000032": [
+        99,
+        "tei/franko-slavoi-i-khrudosh.xml"
+      ],
+      "u000025": [
+        99,
+        "tei/franko-sud-sviatoho-nykolaia.xml"
+      ],
+      "u000031": [
+        99,
+        "tei/franko-try-kniazi-na-odyn-prestol.xml"
+      ],
+      "u000023": [
+        99,
+        "tei/hohol-yanovskyi-prostak-abo-khytrist-zhinky-perekhytrena-moskalem.xml"
+      ],
+      "u000041": [
+        99,
+        "tei/kocherha-marko-v-pekli.xml"
+      ],
+      "u000020": [
+        99,
+        "tei/kotliarevskyi-moskal-charivnyk.xml"
+      ],
+      "u000016": [
+        99,
+        "tei/kropyvnytskyi-dai-sertsiu-voliu-zavede-u-nevoliu.xml"
+      ],
+      "u000037": [
+        99,
+        "tei/kropyvnytskyi-dvi-simi.xml"
+      ],
+      "u000036": [
+        99,
+        "tei/kropyvnytskyi-suprotyvni-techii.xml"
+      ],
+      "u000042": [
+        99,
+        "tei/kropyvnytskyi-zerno-i-polova.xml"
+      ],
+      "u000033": [
+        99,
+        "tei/kropyvnytskyi-hlytai-abo-zh-pavuk.xml"
+      ],
+      "u000026": [
+        99,
+        "tei/kulish-97.xml"
+      ],
+      "u000034": [
+        99,
+        "tei/kvitka-osnovianenko-shelmenko-denshchyk.xml"
+      ],
+      "u000022": [
+        99,
+        "tei/kvitka-osnovianenko-svatannia-na-honcharivtsi.xml"
+      ],
+      "u000015": [
+        99,
+        "tei/ukrainka-ifiheniia-v-tavridi.xml"
+      ],
+      "u000013": [
+        99,
+        "tei/ukrainka-blakytna-troianda.xml"
+      ],
+      "u000011": [
+        99,
+        "tei/ukrainka-oderzhyma.xml"
+      ],
+      "u000017": [
+        99,
+        "tei/ukrainka-proshchannia.xml"
+      ],
+      "u000010": [
+        99,
+        "tei/ukrainka-try-khvylyny.xml"
+      ],
+      "u000018": [
+        99,
+        "tei/ukrainka-u-poloni.xml"
+      ],
+      "u000012": [
+        99,
+        "tei/ukrainka-u-pushchi.xml"
+      ],
+      "u000014": [
+        99,
+        "tei/ukrainka-v-domu-roboty-v-kraini-nevoli.xml"
+      ],
+      "u000021": [
+        99,
+        "tei/shevchenko-nazar-stodolia.xml"
+      ],
+      "u000039": [
+        99,
+        "tei/starytskyi-chornomortsi.xml"
+      ],
+      "u000038": [
+        99,
+        "tei/starytskyi-yak-kovbasa-ta-charka-to-mynetsia-y-svarka.xml"
+      ],
+      "u000043": [
+        99,
+        "tei/starytskyi-rizdviana-nich.xml"
+      ],
+      "u000044": [
+        99,
+        "tei/starytskyi-sorochynskyi-yarmarok.xml"
+      ],
+      "u000040": [
+        99,
+        "tei/starytskyi-utoplena-abo-rusalchyna-nich.xml"
+      ],
+      "u000024": [
+        99,
+        "tei/topolia-chary.xml"
+      ],
+      "u000046": [
+        99,
+        "tei/karpenko-karyi-beztalanna.xml"
+      ],
+      "u000047": [
+        99,
+        "tei/franko-viit-zalameiskyi.xml"
+      ],
+      "u000048": [
+        99,
+        "tei/ukrainka-lisova-pisnia.xml"
+      ],
+      "u000049": [
+        99,
+        "tei/kulish-myna-mazailo.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 100,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

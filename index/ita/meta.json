@@ -1,0 +1,693 @@
+{
+  "corpus": "ita",
+  "repository": "https://github.com/dracor-org/itadracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "2347dab9a1f993fccf61a0d6d0ff67e986768eba",
+  "api_commit": "b7a6804bacc54405347e9c07b343a8ea8e9875aa",
+  "api_commit_seq": 65,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 83,
+    "side_commits_merged": 78,
+    "side_commits_unmerged": 0,
+    "intervals": 3210,
+    "tei_ids": 157,
+    "tei_ids_valid_at_head": 157,
+    "tei_files_at_head": 157,
+    "distinct_tei_blobs": 2903,
+    "tei_file_commit_pairs": 11503,
+    "dedup_factor": 3.96,
+    "tei_noid_intervals": 278,
+    "last_seq_with_noid_tei": 6,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "id-assigned": 139,
+      "malformed-xml": 2,
+      "tei-without-id": 278
+    }
+  },
+  "id_archaeology": {
+    "prefix": "ita",
+    "texts": 157,
+    "texts_by_method": {
+      "file": 157
+    },
+    "intervals_by_method": {
+      "lineage": 278,
+      "file": 2625
+    },
+    "legacy_table": 0,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 78,
+    "with_base": 78,
+    "delta_rows": 4301,
+    "tei_delta_rows_by_method": {
+      "lineage": 2002,
+      "file": 2286
+    }
+  },
+  "state": {
+    "last_commit": "2347dab9a1f993fccf61a0d6d0ff67e986768eba",
+    "last_seq": 82,
+    "dups_open": {},
+    "last_seen_id": {
+      "ita000001": [
+        82,
+        "tei/alamanni-tragedia-di-antigone.xml"
+      ],
+      "ita000002": [
+        82,
+        "tei/alfieri-agamennone.xml"
+      ],
+      "ita000003": [
+        82,
+        "tei/alfieri-antigone.xml"
+      ],
+      "ita000004": [
+        82,
+        "tei/alfieri-bruto-primo.xml"
+      ],
+      "ita000005": [
+        82,
+        "tei/alfieri-bruto-secondo.xml"
+      ],
+      "ita000006": [
+        82,
+        "tei/alfieri-don-garzia.xml"
+      ],
+      "ita000007": [
+        82,
+        "tei/alfieri-filippo.xml"
+      ],
+      "ita000008": [
+        82,
+        "tei/alfieri-la-congiura-de-pazzi.xml"
+      ],
+      "ita000009": [
+        82,
+        "tei/alfieri-maria-stuarda.xml"
+      ],
+      "ita000010": [
+        82,
+        "tei/alfieri-merope.xml"
+      ],
+      "ita000011": [
+        82,
+        "tei/alfieri-mirra.xml"
+      ],
+      "ita000012": [
+        82,
+        "tei/alfieri-oreste.xml"
+      ],
+      "ita000013": [
+        82,
+        "tei/alfieri-ottavia.xml"
+      ],
+      "ita000014": [
+        82,
+        "tei/alfieri-polinice.xml"
+      ],
+      "ita000015": [
+        82,
+        "tei/alfieri-rosmunda.xml"
+      ],
+      "ita000016": [
+        82,
+        "tei/alfieri-saul.xml"
+      ],
+      "ita000017": [
+        82,
+        "tei/alfieri-sofonisba.xml"
+      ],
+      "ita000018": [
+        82,
+        "tei/alfieri-timoleone.xml"
+      ],
+      "ita000019": [
+        82,
+        "tei/alfieri-virginia.xml"
+      ],
+      "ita000020": [
+        82,
+        "tei/andreini-lo-schiavetto.xml"
+      ],
+      "ita000021": [
+        82,
+        "tei/anonimo-cleopatra-e-marc-antonio.xml"
+      ],
+      "ita000022": [
+        82,
+        "tei/anonimo-fabula-de-cefalo-e-procris.xml"
+      ],
+      "ita000023": [
+        82,
+        "tei/anonimo-la-canterina.xml"
+      ],
+      "ita000024": [
+        82,
+        "tei/anonimo-la-festa-di-susanna.xml"
+      ],
+      "ita000025": [
+        82,
+        "tei/anonimo-la-rappresentazione-della-nativita-di-nostro-signore-gesu-cristo.xml"
+      ],
+      "ita000026": [
+        82,
+        "tei/anonimo-la-rappresentazione-di-josef-di-jacob-e-de-fratelli.xml"
+      ],
+      "ita000027": [
+        82,
+        "tei/anonimo-la-rappresentazione-di-moise-e-faraone-re-d-egitto.xml"
+      ],
+      "ita000028": [
+        82,
+        "tei/anonimo-la-rappresentazione-di-salamone.xml"
+      ],
+      "ita000029": [
+        82,
+        "tei/anonimo-la-rappresentazione-di-san-bernardo.xml"
+      ],
+      "ita000030": [
+        82,
+        "tei/anonimo-la-rappresentazione-di-san-giovanni-battista.xml"
+      ],
+      "ita000031": [
+        82,
+        "tei/anonimo-la-veniexiana.xml"
+      ],
+      "ita000032": [
+        82,
+        "tei/anonimo-orphei-tragoedia.xml"
+      ],
+      "ita000033": [
+        82,
+        "tei/anonimo-quando-iddio-fece-il-mondo-e-l-uomo-e-ogni-cosa-creata.xml"
+      ],
+      "ita000034": [
+        82,
+        "tei/anonimo-representazione-di-febo-e-feton.xml"
+      ],
+      "ita000035": [
+        82,
+        "tei/ariosto-cassaria.xml"
+      ],
+      "ita000036": [
+        82,
+        "tei/ariosto-i-studenti.xml"
+      ],
+      "ita000037": [
+        82,
+        "tei/ariosto-i-suppositi-red-in-versi.xml"
+      ],
+      "ita000038": [
+        82,
+        "tei/ariosto-i-suppositi.xml"
+      ],
+      "ita000039": [
+        82,
+        "tei/ariosto-il-negromante.xml"
+      ],
+      "ita000040": [
+        82,
+        "tei/ariosto-la-cassaria-red-in-versi.xml"
+      ],
+      "ita000041": [
+        82,
+        "tei/ariosto-la-lena.xml"
+      ],
+      "ita000042": [
+        82,
+        "tei/barbieri-l-inavertito.xml"
+      ],
+      "ita000043": [
+        82,
+        "tei/beccari-il-sacrificio-1555.xml"
+      ],
+      "ita000044": [
+        82,
+        "tei/beccari-il-sacrificio-1587.xml"
+      ],
+      "ita000045": [
+        82,
+        "tei/bellincioni-egloga-ovvero-pasturale.xml"
+      ],
+      "ita000046": [
+        82,
+        "tei/bellincioni-ripresentazione-di-pavia.xml"
+      ],
+      "ita000047": [
+        82,
+        "tei/boiardo-timone.xml"
+      ],
+      "ita000048": [
+        82,
+        "tei/cammelli-panfila.xml"
+      ],
+      "ita000049": [
+        82,
+        "tei/carmignani-polissena.xml"
+      ],
+      "ita000050": [
+        82,
+        "tei/cascina-alfea-reverente.xml"
+      ],
+      "ita000051": [
+        82,
+        "tei/cecchini-l-amico-tradito.xml"
+      ],
+      "ita000052": [
+        82,
+        "tei/cosci-paola-da-buti.xml"
+      ],
+      "ita000053": [
+        82,
+        "tei/da-correggio-fabula-de-cefalo.xml"
+      ],
+      "ita000054": [
+        82,
+        "tei/da-ponte-cosi-fan-tutte.xml"
+      ],
+      "ita000055": [
+        82,
+        "tei/da-ponte-don-giovanni.xml"
+      ],
+      "ita000056": [
+        82,
+        "tei/da-ponte-le-nozze-di-figaro.xml"
+      ],
+      "ita000057": [
+        82,
+        "tei/dal-carretto-comedia-de-timon-greco.xml"
+      ],
+      "ita000058": [
+        82,
+        "tei/dal-carretto-noze-de-psiche-e-cupidine.xml"
+      ],
+      "ita000059": [
+        82,
+        "tei/de-dottori-aristodemo.xml"
+      ],
+      "ita000060": [
+        82,
+        "tei/de-medici-rappresentazione-di-san-giovanni-e-paolo.xml"
+      ],
+      "ita000061": [
+        82,
+        "tei/della-valle-la-reina-di-scozia.xml"
+      ],
+      "ita000062": [
+        82,
+        "tei/dolce-marianna.xml"
+      ],
+      "ita000063": [
+        82,
+        "tei/epicuro-la-cecaria.xml"
+      ],
+      "ita000064": [
+        82,
+        "tei/epicuro-mirzia.xml"
+      ],
+      "ita000065": [
+        82,
+        "tei/fiorillo-la-lucilla-costante.xml"
+      ],
+      "ita000066": [
+        82,
+        "tei/foscolo-ajace.xml"
+      ],
+      "ita000067": [
+        82,
+        "tei/foscolo-edippo.xml"
+      ],
+      "ita000068": [
+        82,
+        "tei/foscolo-ricciarda.xml"
+      ],
+      "ita000069": [
+        82,
+        "tei/foscolo-tieste.xml"
+      ],
+      "ita000070": [
+        82,
+        "tei/gigli-la-dirindina.xml"
+      ],
+      "ita000071": [
+        82,
+        "tei/giraldi-cinzio-cleopatra.xml"
+      ],
+      "ita000072": [
+        82,
+        "tei/giraldi-cinzio-egle-editio-princeps.xml"
+      ],
+      "ita000073": [
+        82,
+        "tei/giraldi-cinzio-egle-ms-classe-i-331.xml"
+      ],
+      "ita000074": [
+        82,
+        "tei/giraldi-cinzio-egle.xml"
+      ],
+      "ita000075": [
+        82,
+        "tei/giraldi-cinzio-gli-eudemoni.xml"
+      ],
+      "ita000076": [
+        82,
+        "tei/giraldi-cinzio-orbecche.xml"
+      ],
+      "ita000077": [
+        82,
+        "tei/goldoni-gl-innamorati.xml"
+      ],
+      "ita000078": [
+        82,
+        "tei/goldoni-i-rusteghi.xml"
+      ],
+      "ita000079": [
+        82,
+        "tei/goldoni-il-campiello.xml"
+      ],
+      "ita000080": [
+        82,
+        "tei/goldoni-il-servitore-di-due-padroni.xml"
+      ],
+      "ita000081": [
+        82,
+        "tei/goldoni-il-teatro-comico.xml"
+      ],
+      "ita000082": [
+        82,
+        "tei/goldoni-il-ventaglio.xml"
+      ],
+      "ita000083": [
+        82,
+        "tei/goldoni-la-bottega-del-caffe.xml"
+      ],
+      "ita000084": [
+        82,
+        "tei/goldoni-la-famiglia-dell-antiquario.xml"
+      ],
+      "ita000085": [
+        82,
+        "tei/goldoni-la-locandiera.xml"
+      ],
+      "ita000086": [
+        82,
+        "tei/goldoni-la-sposa-persiana.xml"
+      ],
+      "ita000087": [
+        82,
+        "tei/goldoni-le-baruffe-chiozzotte.xml"
+      ],
+      "ita000088": [
+        82,
+        "tei/goldoni-le-femmine-puntigliose.xml"
+      ],
+      "ita000089": [
+        82,
+        "tei/goldoni-le-smanie-per-la-villeggiatura.xml"
+      ],
+      "ita000090": [
+        82,
+        "tei/goldoni-una-delle-ultime-sere-di-carnovale.xml"
+      ],
+      "ita000091": [
+        82,
+        "tei/guarini-la-idropica.xml"
+      ],
+      "ita000092": [
+        82,
+        "tei/guidi-endimione.xml"
+      ],
+      "ita000093": [
+        82,
+        "tei/leopardi-telesilla.xml"
+      ],
+      "ita000094": [
+        82,
+        "tei/machiavelli-clizia.xml"
+      ],
+      "ita000095": [
+        82,
+        "tei/machiavelli-mandragola.xml"
+      ],
+      "ita000096": [
+        82,
+        "tei/maffei-merope.xml"
+      ],
+      "ita000097": [
+        82,
+        "tei/manzoni-adelchi.xml"
+      ],
+      "ita000098": [
+        82,
+        "tei/manzoni-il-conte-di-carmagnola.xml"
+      ],
+      "ita000099": [
+        82,
+        "tei/marchese-il-crispo.xml"
+      ],
+      "ita000100": [
+        82,
+        "tei/marchese-l-ermenegildo.xml"
+      ],
+      "ita000101": [
+        82,
+        "tei/martelli-tullia.xml"
+      ],
+      "ita000102": [
+        82,
+        "tei/metastasio-achille-in-sciro.xml"
+      ],
+      "ita000103": [
+        82,
+        "tei/metastasio-adriano-in-siria.xml"
+      ],
+      "ita000104": [
+        82,
+        "tei/metastasio-alessandro-nell-indie.xml"
+      ],
+      "ita000105": [
+        82,
+        "tei/metastasio-attilio-regolo.xml"
+      ],
+      "ita000106": [
+        82,
+        "tei/metastasio-demetrio.xml"
+      ],
+      "ita000107": [
+        82,
+        "tei/metastasio-demofoonte.xml"
+      ],
+      "ita000108": [
+        82,
+        "tei/metastasio-didone-abbandonata.xml"
+      ],
+      "ita000109": [
+        82,
+        "tei/metastasio-ezio.xml"
+      ],
+      "ita000110": [
+        82,
+        "tei/metastasio-il-re-pastore.xml"
+      ],
+      "ita000111": [
+        82,
+        "tei/metastasio-ipermestra.xml"
+      ],
+      "ita000112": [
+        82,
+        "tei/metastasio-issipile.xml"
+      ],
+      "ita000113": [
+        82,
+        "tei/metastasio-l-eroe-cinese.xml"
+      ],
+      "ita000114": [
+        82,
+        "tei/metastasio-l-impresario-delle-canarie.xml"
+      ],
+      "ita000115": [
+        82,
+        "tei/metastasio-l-olimpiade.xml"
+      ],
+      "ita000116": [
+        82,
+        "tei/metastasio-nitteti.xml"
+      ],
+      "ita000117": [
+        82,
+        "tei/metastasio-romolo-ed-ersilia.xml"
+      ],
+      "ita000118": [
+        82,
+        "tei/metastasio-ruggero-ovvero-l-eroica-gratitudine.xml"
+      ],
+      "ita000119": [
+        82,
+        "tei/metastasio-siroe.xml"
+      ],
+      "ita000120": [
+        82,
+        "tei/metastasio-temistocle.xml"
+      ],
+      "ita000121": [
+        82,
+        "tei/metastasio-zenobia.xml"
+      ],
+      "ita000122": [
+        82,
+        "tei/monti-caio-gracco.xml"
+      ],
+      "ita000123": [
+        82,
+        "tei/muzi-la-rappresentazione-del-vitello-sagginato.xml"
+      ],
+      "ita000124": [
+        82,
+        "tei/pagano-gli-esuli-tebani.xml"
+      ],
+      "ita000125": [
+        82,
+        "tei/poliziano-orfeo.xml"
+      ],
+      "ita000126": [
+        82,
+        "tei/rucellai-rosmunda.xml"
+      ],
+      "ita000127": [
+        82,
+        "tei/salfi-pausania.xml"
+      ],
+      "ita000128": [
+        82,
+        "tei/scala-il-finto-marito.xml"
+      ],
+      "ita000129": [
+        82,
+        "tei/speroni-canace.xml"
+      ],
+      "ita000130": [
+        82,
+        "tei/taccone-comedia-di-danae.xml"
+      ],
+      "ita000131": [
+        82,
+        "tei/tasso-aminta-ms-1197.xml"
+      ],
+      "ita000132": [
+        82,
+        "tei/tasso-aminta-ms-campori-491.xml"
+      ],
+      "ita000133": [
+        82,
+        "tei/tasso-aminta.xml"
+      ],
+      "ita000134": [
+        82,
+        "tei/tasso-galealto.xml"
+      ],
+      "ita000135": [
+        82,
+        "tei/tasso-intrichi-d-amore.xml"
+      ],
+      "ita000136": [
+        82,
+        "tei/tasso-re-torrismondo.xml"
+      ],
+      "ita000137": [
+        82,
+        "tei/torelli-la-merope.xml"
+      ],
+      "ita000138": [
+        82,
+        "tei/trissino-sofonisba.xml"
+      ],
+      "ita000139": [
+        82,
+        "tei/visconti-pasitea.xml"
+      ],
+      "ita000140": [
+        82,
+        "tei/amenta-somiglianza.xml"
+      ],
+      "ita000150": [
+        82,
+        "tei/bartolommei-amore-opera-a-caso.xml"
+      ],
+      "ita000151": [
+        82,
+        "tei/bonicelli-pantalone-bullo.xml"
+      ],
+      "ita000152": [
+        82,
+        "tei/bregolini-pausania.xml"
+      ],
+      "ita000153": [
+        82,
+        "tei/cicognini-mustafa.xml"
+      ],
+      "ita000154": [
+        82,
+        "tei/decio-acripanda.xml"
+      ],
+      "ita000155": [
+        82,
+        "tei/della-porta-carbonaria.xml"
+      ],
+      "ita000141": [
+        82,
+        "tei/gigli-i-litiganti.xml"
+      ],
+      "ita000142": [
+        82,
+        "tei/gigli-un-pazzo-guarisce-l-altro.xml"
+      ],
+      "ita000143": [
+        82,
+        "tei/giusti-irene.xml"
+      ],
+      "ita000144": [
+        82,
+        "tei/graziani-cromuele.xml"
+      ],
+      "ita000145": [
+        82,
+        "tei/memmolo-susanna.xml"
+      ],
+      "ita000146": [
+        82,
+        "tei/nolfi-romilda.xml"
+      ],
+      "ita000147": [
+        82,
+        "tei/oransi-rosina.xml"
+      ],
+      "ita000148": [
+        82,
+        "tei/riccoboni-tito-manlio.xml"
+      ],
+      "ita000149": [
+        82,
+        "tei/salviati-granchio.xml"
+      ],
+      "ita000156": [
+        82,
+        "tei/testi-isola-alcina.xml"
+      ],
+      "ita000157": [
+        82,
+        "tei/tortoletti-gionata.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 83,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "corpus": "am",
+  "repository": "https://github.com/dracor-org/amdracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "a97bedc31787ddc7de556b5d981afb52ebba332a",
+  "api_commit": "57fdc6baa024b17168572452a2bac55070f73f13",
+  "api_commit_seq": 26,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 36,
+    "side_commits_merged": 18,
+    "side_commits_unmerged": 0,
+    "intervals": 396,
+    "tei_ids": 40,
+    "tei_ids_valid_at_head": 40,
+    "tei_files_at_head": 40,
+    "distinct_tei_blobs": 371,
+    "tei_file_commit_pairs": 1240,
+    "dedup_factor": 3.34,
+    "tei_noid_intervals": 0,
+    "last_seq_with_noid_tei": null,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "id-change": 40
+    }
+  },
+  "id_archaeology": {
+    "prefix": "am",
+    "texts": 40,
+    "texts_by_method": {
+      "file": 40
+    },
+    "intervals_by_method": {
+      "lineage": 79,
+      "file": 292
+    },
+    "legacy_table": 0,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 18,
+    "with_base": 18,
+    "delta_rows": 212,
+    "tei_delta_rows_by_method": {
+      "lineage": 79,
+      "file": 120
+    }
+  },
+  "state": {
+    "last_commit": "a97bedc31787ddc7de556b5d981afb52ebba332a",
+    "last_seq": 35,
+    "dups_open": {},
+    "last_seen_id": {
+      "am658": [
+        6,
+        "tei/alcott-bianca.xml"
+      ],
+      "am659": [
+        6,
+        "tei/alcott-captive-of-castile.xml"
+      ],
+      "am654": [
+        6,
+        "tei/aldrich-mercedes.xml"
+      ],
+      "am642": [
+        6,
+        "tei/anonym-catharine-brown-the-converted-cherokee.xml"
+      ],
+      "am646": [
+        6,
+        "tei/anonym-the-battle-of-brooklyn.xml"
+      ],
+      "am643": [
+        6,
+        "tei/anonym-the-blockheads.xml"
+      ],
+      "am530": [
+        6,
+        "tei/barker-the-indian-princess.xml"
+      ],
+      "am515": [
+        6,
+        "tei/belasco-the-return-of-peter-grimm.xml"
+      ],
+      "am503": [
+        6,
+        "tei/boker-francesca-da-rimini.xml"
+      ],
+      "am504": [
+        6,
+        "tei/boker-glaucus.xml"
+      ],
+      "am475": [
+        6,
+        "tei/boucicault-old-heads-and-young-hearts.xml"
+      ],
+      "am477": [
+        6,
+        "tei/boucicault-the-octoroon.xml"
+      ],
+      "am466": [
+        6,
+        "tei/brackenridge-the-battle-of-bunkers-hill.xml"
+      ],
+      "am380": [
+        6,
+        "tei/crothers-the-rector.xml"
+      ],
+      "am320": [
+        6,
+        "tei/de-mille-the-charity-ball.xml"
+      ],
+      "am304": [
+        6,
+        "tei/dunlap-andre.xml"
+      ],
+      "am300": [
+        6,
+        "tei/dunlap-darbys-return.xml"
+      ],
+      "am264": [
+        6,
+        "tei/fitch-the-climbers.xml"
+      ],
+      "am236": [
+        6,
+        "tei/fuller-the-story-spinner.xml"
+      ],
+      "am234": [
+        6,
+        "tei/gale-a-kings-daughter.xml"
+      ],
+      "am231": [
+        6,
+        "tei/gale-the-clinging-vine.xml"
+      ],
+      "am219": [
+        6,
+        "tei/godfrey-the-prince-of-parthia.xml"
+      ],
+      "am123": [
+        6,
+        "tei/james-daisy-miller.xml"
+      ],
+      "am77": [
+        6,
+        "tei/lazarus-dance-to-death.xml"
+      ],
+      "am62": [
+        6,
+        "tei/longfellow-the-golden-legend.xml"
+      ],
+      "am44": [
+        6,
+        "tei/mackaye-jeanne-darc.xml"
+      ],
+      "am30": [
+        6,
+        "tei/markoe-the-patriot-chief.xml"
+      ],
+      "am968": [
+        6,
+        "tei/moody-the-faith-healer.xml"
+      ],
+      "am944": [
+        6,
+        "tei/noah-she-would-be-a-soldier.xml"
+      ],
+      "am923": [
+        6,
+        "tei/payne-the-second.xml"
+      ],
+      "am879": [
+        6,
+        "tei/putnam-tragedy-of-errors.xml"
+      ],
+      "am860": [
+        6,
+        "tei/sanford-the-advertising-girls.xml"
+      ],
+      "am806": [
+        6,
+        "tei/smith-the-fortune-hunter.xml"
+      ],
+      "am810": [
+        6,
+        "tei/smith-the-triumph-at-plattsburg.xml"
+      ],
+      "am749": [
+        6,
+        "tei/sutherland-a-bit-of-instruction.xml"
+      ],
+      "am743": [
+        6,
+        "tei/sutherland-in-far-bohemia.xml"
+      ],
+      "am716": [
+        6,
+        "tei/tyler-the-contrast.xml"
+      ],
+      "am709": [
+        6,
+        "tei/warren-the-group.xml"
+      ],
+      "am706": [
+        6,
+        "tei/warren-the-ladies-of-castile.xml"
+      ],
+      "am681": [
+        6,
+        "tei/wilson-a-case-of-suspension.xml"
+      ],
+      "am000658": [
+        35,
+        "tei/alcott-bianca.xml"
+      ],
+      "am000659": [
+        35,
+        "tei/alcott-captive-of-castile.xml"
+      ],
+      "am000654": [
+        35,
+        "tei/aldrich-mercedes.xml"
+      ],
+      "am000642": [
+        35,
+        "tei/anonym-catharine-brown-the-converted-cherokee.xml"
+      ],
+      "am000646": [
+        35,
+        "tei/anonym-the-battle-of-brooklyn.xml"
+      ],
+      "am000643": [
+        35,
+        "tei/anonym-the-blockheads.xml"
+      ],
+      "am000530": [
+        35,
+        "tei/barker-the-indian-princess.xml"
+      ],
+      "am000515": [
+        35,
+        "tei/belasco-the-return-of-peter-grimm.xml"
+      ],
+      "am000503": [
+        35,
+        "tei/boker-francesca-da-rimini.xml"
+      ],
+      "am000504": [
+        35,
+        "tei/boker-glaucus.xml"
+      ],
+      "am000475": [
+        35,
+        "tei/boucicault-old-heads-and-young-hearts.xml"
+      ],
+      "am000477": [
+        35,
+        "tei/boucicault-the-octoroon.xml"
+      ],
+      "am000466": [
+        35,
+        "tei/brackenridge-the-battle-of-bunkers-hill.xml"
+      ],
+      "am000380": [
+        35,
+        "tei/crothers-the-rector.xml"
+      ],
+      "am000320": [
+        35,
+        "tei/de-mille-the-charity-ball.xml"
+      ],
+      "am000304": [
+        35,
+        "tei/dunlap-andre.xml"
+      ],
+      "am000300": [
+        35,
+        "tei/dunlap-darbys-return.xml"
+      ],
+      "am000264": [
+        35,
+        "tei/fitch-the-climbers.xml"
+      ],
+      "am000236": [
+        35,
+        "tei/fuller-the-story-spinner.xml"
+      ],
+      "am000234": [
+        35,
+        "tei/gale-a-kings-daughter.xml"
+      ],
+      "am000231": [
+        35,
+        "tei/gale-the-clinging-vine.xml"
+      ],
+      "am000219": [
+        35,
+        "tei/godfrey-the-prince-of-parthia.xml"
+      ],
+      "am000123": [
+        35,
+        "tei/james-daisy-miller.xml"
+      ],
+      "am000077": [
+        35,
+        "tei/lazarus-dance-to-death.xml"
+      ],
+      "am000062": [
+        35,
+        "tei/longfellow-the-golden-legend.xml"
+      ],
+      "am000044": [
+        35,
+        "tei/mackaye-jeanne-darc.xml"
+      ],
+      "am000030": [
+        35,
+        "tei/markoe-the-patriot-chief.xml"
+      ],
+      "am000968": [
+        35,
+        "tei/moody-the-faith-healer.xml"
+      ],
+      "am000944": [
+        35,
+        "tei/noah-she-would-be-a-soldier.xml"
+      ],
+      "am000923": [
+        35,
+        "tei/payne-the-second.xml"
+      ],
+      "am000879": [
+        35,
+        "tei/putnam-tragedy-of-errors.xml"
+      ],
+      "am000860": [
+        35,
+        "tei/sanford-the-advertising-girls.xml"
+      ],
+      "am000806": [
+        35,
+        "tei/smith-the-fortune-hunter.xml"
+      ],
+      "am000810": [
+        35,
+        "tei/smith-the-triumph-at-plattsburg.xml"
+      ],
+      "am000749": [
+        35,
+        "tei/sutherland-a-bit-of-instruction.xml"
+      ],
+      "am000743": [
+        35,
+        "tei/sutherland-in-far-bohemia.xml"
+      ],
+      "am000716": [
+        35,
+        "tei/tyler-the-contrast.xml"
+      ],
+      "am000709": [
+        35,
+        "tei/warren-the-group.xml"
+      ],
+      "am000706": [
+        35,
+        "tei/warren-the-ladies-of-castile.xml"
+      ],
+      "am000681": [
+        35,
+        "tei/wilson-a-case-of-suspension.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 36,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

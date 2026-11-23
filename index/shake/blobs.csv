@@ -1,0 +1,698 @@
+blob,tei,malformed,xmlid,idno,legacy_type,legacy_value,title,authors
+00059478ee5fa0e544d8cdc8ff08c6608a3993d0,true,false,,shake000006,,,much ado about nothing,shakespeare
+007e2600bbcb144bb5946ff917213b52c8967cb5,true,false,,,,,the taming of the shrew,shakespeare
+0092aabd05a1283082484620a13092662f970b2c,true,false,,shake000036,,,cymbeline,shakespeare
+010778ef6b73d9acab57a47357d083711dc7c8a4,true,false,,shake000033,,,king lear,shakespeare
+011ede5e9fda6859ed0cda3878488c39801b634d,true,false,shake000028,,,,romeo and juliet,shakespeare
+0144d3c996dcaf43978ec5fb3b4778c915b5046e,true,false,shake000008,,,,a midsummer night s dream,shakespeare
+01984b1c632f496dd201839df7c0a36c659d0bc1,true,false,,,,,all s well that ends well,shakespeare
+01d2d02b109b1f08546d6bebbd1b3e80dfef28ac,true,false,shake000037,,,,pericles,shakespeare
+020330371a394552d06c0a6911bde31c2234a8d1,true,false,,,,,as you like it,shakespeare
+0264fc3189973febb02286f37d9fe61911913c70,true,false,,,,,othello,shakespeare
+02746309db2b13fe1fa75a2fbfdc671f1c31d6c7,true,false,,,,,henry v,shakespeare
+031f116285e8aa72822f304738e2c18eecf5f1cb,true,false,,,,,measure for measure,shakespeare
+0331f078b8beb8ba064e6968c7e0880ae266b76c,true,false,,shake000030,,,julius caesar,shakespeare
+036f6fc16fb5caa235eca32f7857bf1c5fb4c21a,true,false,,,,,much ado about nothing,shakespeare
+0374a52c106261d4203cc3f8d750ff0b8c3a5223,true,false,shake000017,,,,henry iv part i,shakespeare
+045f73e377b4953e56dd345ac995f3400ac525db,true,false,,shake000003,,,the merry wives of windsor,shakespeare
+048836781a7be8f4d398de8d7477359166495891,true,false,,,,,henry vi part 2,shakespeare
+04ddd98b2929bc96c60c1e1858b73c60af79beec,true,false,shake000031,,,,macbeth,shakespeare
+051b034113f8988ccd1457b38098606e67094546,true,false,,shake000026,,,coriolanus,shakespeare
+054e232a4c8bbee19763c312ac510656d8f22f84,true,false,,,,,henry vi part 1,shakespeare
+055758cb9334259c2cedda4371dfb89aa65d2d9a,true,false,,,,,henry iv part ii,shakespeare
+05837074889fd0e652a60d71200d9c605e7c416c,true,false,,shake000021,,,henry vi part 2,shakespeare
+05e45412cf007767a03444ca157df20e4933c520,true,false,,shake000016,,,richard ii,shakespeare
+05ebba38680b001cfac4c0d46659a9cad7faf312,true,false,,,,,two gentlemen of verona,shakespeare
+0660fb444ec13e89e8924e73714aedfd4dd58d2f,true,false,,shake000002,,,two gentlemen of verona,shakespeare
+0675f65c578f4021051ecc162d2b9cce57639fd1,true,false,,,,,measure for measure,shakespeare
+06ea9495cbb529f8961365a00132232b5681c2fd,true,false,shake000020,,,,henry vi part 1,shakespeare
+07044ea084350b45c3d75669bc8492102f426101,true,false,,shake000026,,,coriolanus,shakespeare
+07be5fabf1848bde9b8d93a8991fb75293d3e262,true,false,,shake000003,,,the merry wives of windsor,shakespeare
+07d56e76edcae8bf3257ecefffbe3311b2e248e5,true,false,,,,,henry iv part i,shakespeare
+08cf3ee2ba458fcd90ec58dca2a184874eb0a4b1,true,false,,shake000009,,,the merchant of venice,shakespeare
+094181b5a1d29f312806a9e33347b20a24a8a731,true,false,,shake000026,,,coriolanus,shakespeare
+098402622d4e14f63ff5abb71fec5ee099fd0330,true,false,,shake000022,,,henry vi part 3,shakespeare
+0a264a22dada7d0e7f46b6a5968794b1cacba643,true,false,,shake000035,,,antony and cleopatra,shakespeare
+0ab7ae30a1b6d89d463e9242a15162206978123f,true,false,shake000022,,,,henry vi part 3,shakespeare
+0bc4c2915218c017752ca1ddf6bc9d7c3856fd15,false,false,,,,,,
+0c17fde71f129110c5bbfa37d27355a6438e6a58,true,false,,,,,love s labor s lost,shakespeare
+0c7ba7e4c44d22acc4a2b718e0a3281b4c60c6c6,true,false,,shake000029,,,timon of athens,shakespeare
+0d466c4d1862a1698f05c5216e8879ff32c4b909,true,false,,,,,richard ii,shakespeare
+0d8185b7094a702f43334e50149c8831217a42e2,true,false,,shake000002,,,two gentlemen of verona,shakespeare
+0da5ead130eb35e801885f422fe15210632d397e,true,false,shake000016,,,,richard ii,shakespeare
+0db1f4cf4b8b6b7cfbd882c3da504deb1f5b91ea,true,false,,,,,much ado about nothing,shakespeare
+0dc9531a493dd9a4662e894ef2f855603401087e,true,false,,,,,the merry wives of windsor,shakespeare
+0e9e9e7915b395225577c047aebf9b01a64e766c,true,false,,,,,pericles,shakespeare
+0ecde0c0163cb5710c79c56a454b8c9db5597eb6,true,false,,shake000015,,,king john,shakespeare
+0f583f6afc32905fbd8b026b9e86d1c18c8a9b70,true,false,,shake000008,,,a midsummer night s dream,shakespeare
+0f733fee92aa18f47d7e13f68e478f19530e49d6,true,false,,,,,the winter s tale,shakespeare
+0f73ba608cdd9c78a1c1c2294d62008a367963d8,true,false,shake000006,,,,much ado about nothing,shakespeare
+0fae806b5e8a1591798dfba00c18673b3fed9ada,true,false,,,,,hamlet,shakespeare
+10028fa53c25bc43803c40737e4a8102fe88bb20,true,false,,,,,romeo and juliet,shakespeare
+10a0215792e6753f03d1f85e8668ec7f62ada11b,true,false,shake000016,,,,richard ii,shakespeare
+1101cf0528a0770e8dcb25af6febf9a31218c474,true,false,,,,,macbeth,shakespeare
+11e8e1ab211801458f1f07428fe1bf280a0c7829,true,false,,shake000035,,,antony and cleopatra,shakespeare
+126c4eb4a0e265fd32492d3e7bd948ca3379e945,true,false,,,,,timon of athens,shakespeare
+129168802e9b00a7f1646d32d2e24f5850246b7f,true,false,,,,,the tempest,shakespeare
+12f1ad71880533c62200bc1fc9a3cb39e17a2a72,true,false,,shake000028,,,romeo and juliet,shakespeare
+130435a7d5a64ebf9b3ae543c41cb99a25ba8362,true,false,shake000024,,,,henry viii,shakespeare
+133fc130c8fcbc032325a0b7bdc004a8f201b44b,true,false,,shake000003,,,the merry wives of windsor,shakespeare
+13a65842929d8ae688fe66f9dca305218ce1b680,true,false,,,,,henry viii,shakespeare
+13adf0bb2715a9f668a03101f940855ba5999e44,true,false,,shake000021,,,henry vi part 2,shakespeare
+14e1d4a0c356f2b4c4246981268108f796bb562f,true,false,shake000014,,,,the winter s tale,shakespeare
+1575112adde589504a9e137fbc533326f8e34c7b,true,false,,shake000034,,,othello,shakespeare
+163aa8c6c631d7e0039846fb832ec9834d5146be,true,false,shake000026,,,,coriolanus,shakespeare
+16447dbcf3842323e74f2aca62023f1b309221f8,true,false,,shake000033,,,king lear,shakespeare
+1711ddcd2325536155c2de58afdb32adc464fc64,true,false,,,,,much ado about nothing,shakespeare
+172be8217d161671655836c30b7b46997af05496,true,false,,shake000037,,,pericles,shakespeare
+1756780974b91d52897e1e4be6a0a5166fbe6e98,true,false,,shake000029,,,timon of athens,shakespeare
+17608bea74bd8d40ff05841338d4a317b1bc3c64,true,false,,shake000017,,,henry iv part i,shakespeare
+17895b8782d97c483085cf44a27ca2b46d104176,true,false,,shake000029,,,timon of athens,shakespeare
+17a0422b77afbfaa090befd1db6398db1ef99191,true,false,,shake000017,,,henry iv part i,shakespeare
+17b327bfa001cfc81f36c9296680620ce744f0d4,true,false,shake000028,,,,romeo and juliet,shakespeare
+194aab64d4eb24f3d4522b907e3c8cd70ef92302,true,false,shake000025,,,,troilus and cressida,shakespeare
+1961ad005e433c1f9fc8db6005d867ca83edeab8,true,false,,,,,othello,shakespeare
+199546ffc1e6af7fcd66eee273eac27f23021fe8,true,false,,shake000006,,,much ado about nothing,shakespeare
+19a91b4fa93b321281f189d5e1701fc2a1b9a642,true,false,,,,,pericles,shakespeare
+1a5b88c670b112b72b6e1223bc8d9f9ea67fb8f9,true,false,,shake000011,,,the taming of the shrew,shakespeare
+1ac64224c139e0f9f34188c8119395672a4550c1,true,false,,shake000012,,,all s well that ends well,shakespeare
+1b927b4d6465af2d409f50c1eb3bbb7dd6db5ce6,true,false,,shake000003,,,the merry wives of windsor,shakespeare
+1ba75697876d1caf05ef0060fe5e19d748bccc28,true,false,,shake000023,,,richard iii,shakespeare
+1bdd9367a2cea1ddf712f8462c3d6da1b46039d8,true,false,shake000005,,,,the comedy of errors,shakespeare
+1c96bf9d755e29c00f7471c0c9c51feba8d4e02d,true,false,shake000002,,,,two gentlemen of verona,shakespeare
+1cf60186ecb6a8a6895d41ed517e242bf4a1d354,true,false,,shake000030,,,julius caesar,shakespeare
+1d212123e0890ba2e251efc9fc2dab90b7325905,true,false,shake000004,,,,measure for measure,shakespeare
+1e2d9a2c082a297e416dc8001c9f823e12801fdd,true,false,,,,,timon of athens,shakespeare
+1ed49d845f8f2feaef7e249d41815c55fc145eaa,true,false,,shake000015,,,king john,shakespeare
+1f98369fdda97274adf9257a1af7ecf39569856f,true,false,,shake000012,,,all s well that ends well,shakespeare
+1fb82979a35486339a406929a79de11914938399,true,false,,shake000014,,,the winter s tale,shakespeare
+20753f7a2d7235d5a95ae87a57195725666bb34c,true,false,,shake000002,,,two gentlemen of verona,shakespeare
+210e95cf71e5e61bb5285c62669353d7d9978a4c,true,false,,shake000014,,,the winter s tale,shakespeare
+2125e351921b835347fd36900a07581f842d3582,true,false,shake000031,,,,macbeth,shakespeare
+2149b015e2efb1a7151cdbe60ea0c2c76a5b7463,true,false,,shake000004,,,measure for measure,shakespeare
+22251235a31014ec06f0d404328a79aa090d6364,true,false,shake000007,,,,love s labor s lost,shakespeare
+22a45466b4676d867a5d8bda5f8c220d448ed3f5,true,false,,shake000029,,,timon of athens,shakespeare
+22c6b29c35cf73772d31f713d70033579a53f986,true,false,,shake000005,,,the comedy of errors,shakespeare
+235040abf7add10c4f42ece3041ffd3a335afa9d,true,false,shake000007,,,,love s labor s lost,shakespeare
+23cca93fc0ae177e3cacf123a0fa4125b6a2ba5e,true,false,shake000032,,,,hamlet,shakespeare
+2405c5799df12d376c441258c81752fcf3815949,true,false,shake000016,,,,richard ii,shakespeare
+24336b890d7dab8061934b64edbe8e8dfe40418b,true,false,,shake000034,,,othello,shakespeare
+257c6c2d73cb15d69d37fea44d845c3f45389b3e,true,false,,shake000007,,,love s labor s lost,shakespeare
+26611f17a35f284b2ea6492d400647d5a088e14d,true,false,,shake000023,,,richard iii,shakespeare
+267bc550e6ad2f8ace82989914d983eec0241abd,true,false,,shake000032,,,hamlet,shakespeare
+267eb12926d70d95c5bf9bd70a309e9f4c270be3,true,false,,,,,measure for measure,shakespeare
+26833c04ed2dc4aa2855bb58e31230efa3103e5c,true,false,,,,,henry iv part i,shakespeare
+272200f1f4c59024ece013695283bb808afbe596,true,false,,,,,timon of athens,shakespeare
+273551122db86d5c3334492717b7503735062c34,true,false,,shake000002,,,two gentlemen of verona,shakespeare
+276e986145b829c7cd6ed4a64b106c1d40aa3bc2,true,false,,shake000006,,,much ado about nothing,shakespeare
+27b2c3440004baac38649f44c1be8b04aa7d3dde,true,false,,,,,antony and cleopatra,shakespeare
+28b29cc94ddc49784a9df6ada5e3dfd35fbdc3c1,true,false,,shake000019,,,henry v,shakespeare
+28f995fc4ff4de469ece38eb129e2ac3ad035a79,true,false,,,,,henry iv part i,shakespeare
+29c3e46cb37276dbf33139e50001fdf896e23221,true,false,,,,,as you like it,shakespeare
+2a364607ff1f1488e01eda195688153293da9ef6,true,false,,,,,a midsummer night s dream,shakespeare
+2bbc0001f981e84284cdf796840c39e1011675c6,true,false,,shake000008,,,a midsummer night s dream,shakespeare
+2bcf71dec0bc9c51ce5e15f2667323b93bce46f0,true,false,,,,,henry vi part 3,shakespeare
+2c51e19a8e4e6f011c1a8709953084a663afc394,true,false,,shake000001,,,the tempest,shakespeare
+2d56f80a715a35ca4a3705c55fbf65bd2e4572a0,true,false,shake000025,,,,troilus and cressida,shakespeare
+2d99de5d0149c2f3db5cd479eaebcd0a5553f24d,true,false,,,,,king lear,shakespeare
+2e2a7be39261dbf28333d4c1ab408f522eb594b4,true,false,,,,,pericles,shakespeare
+2e452c8e52cd577e2894673cf0c9c3821d6a1ce9,true,false,shake000025,,,,troilus and cressida,shakespeare
+2e84a22fc3a1a31ed3fbcc2e4b7399303c29cb23,true,false,,shake000009,,,the merchant of venice,shakespeare
+2e8a4b4c22540250a2760640abb19f9fdabd3e4d,true,false,,shake000025,,,troilus and cressida,shakespeare
+2ec6dcd69c30d108c882c168558707e1d453c830,true,false,,shake000014,,,the winter s tale,shakespeare
+2f13418f36eedd7f1ac86d7981535af5c5b6ff73,true,false,,,,,as you like it,shakespeare
+2f368e25407f0834afc70aeb01a72322892565fc,true,false,shake000036,,,,cymbeline,shakespeare
+2fc91f4b8eec47e482741f305d6e28a55b6c7fe8,true,false,,,,,romeo and juliet,shakespeare
+2fe0c0412a44ea7047ea013ae5a9f058bd9fd681,true,false,,shake000015,,,king john,shakespeare
+309239e0fa65ebdd3d780bdcb5a54714aaadd62b,true,false,,shake000031,,,macbeth,shakespeare
+30e2b3a03d4ea07876f37354041d96e7277837ea,true,false,,shake000009,,,the merchant of venice,shakespeare
+31473a191807a23af0e4ccf1091d046a05aa1312,true,false,,,,,two gentlemen of verona,shakespeare
+31b9ef09d5db8ec665dc65e4148e9d44df23f68e,true,false,,shake000027,,,titus andronicus,shakespeare
+31ba0fa15b6bce0b3b744cc3b375e0937d85d05a,true,false,,shake000036,,,cymbeline,shakespeare
+31ba702ccd8f1d859f024fac7a414fd1a2b7d9a5,true,false,,shake000027,,,titus andronicus,shakespeare
+3279f23c771624cc19f40f466151e85fd782c291,true,false,,,,,henry vi part 2,shakespeare
+32804c6a1948843622a51461c397bc6b4a114988,true,false,,shake000022,,,henry vi part 3,shakespeare
+3284ba83fcf157030ffea4569b362d530c784ff3,true,false,,shake000029,,,timon of athens,shakespeare
+328fd651428f9a8b24a294c3c7960985d0de3ca5,true,false,,shake000012,,,all s well that ends well,shakespeare
+336efcf3e4102e7c6c0eeb6a66b2f4eabe40823e,true,false,,shake000008,,,a midsummer night s dream,shakespeare
+33a25a5060d3e307a8cbb433e4c0dee1feec0f18,true,false,,,,,julius caesar,shakespeare
+33ad2d87a92162bb93edd6a405912712ea3c22b5,true,false,shake000011,,,,the taming of the shrew,shakespeare
+33c4f64435fbbf6ac3d06d6bb9ee9bc1e2919837,true,false,shake000034,,,,othello,shakespeare
+342075fceb04229be7d03050b1f0c8332528c583,true,false,shake000009,,,,the merchant of venice,shakespeare
+34a59bfaa202fc7ee6a37b0a4d878273f6268465,true,false,shake000010,,,,as you like it,shakespeare
+34aa36b00a3fdd12897b8148d968b43d08090fdb,true,false,,shake000029,,,timon of athens,shakespeare
+358e24a3ae5b44a720c5d15cfdcdfba8f4a3cd9f,true,false,shake000036,,,,cymbeline,shakespeare
+365a291f8dcd6797b2408e979fbe597654d53a09,true,false,,shake000023,,,richard iii,shakespeare
+36e556d904661c1d1d729b4b0f628130332500dc,true,false,,shake000025,,,troilus and cressida,shakespeare
+37637e324a3a8443507dda0cfbaafb508602a955,true,false,,,,,the taming of the shrew,shakespeare
+379c49ffb1bdf514318ae56329db4a82a91d0c97,true,false,shake000017,,,,henry iv part i,shakespeare
+380b440728836ead9b48efcbd81b574877aafae1,true,false,,shake000001,,,the tempest,shakespeare
+38aa536c595b47b9e58d9f82410aa80119be141a,true,false,,,,,pericles,shakespeare
+38ae811d1d932d752da94e384c26876592332dec,true,false,,shake000020,,,henry vi part 1,shakespeare
+3974acd0b58037d34ae0d2e7e25050304e3ef271,true,false,,shake000024,,,henry viii,shakespeare
+39e18b6dd97b55812f8920fb1290f001cb4b64a2,true,false,,,,,cymbeline,shakespeare
+3ad3798f448a9df0106852ad1cec749fc478fe2a,true,false,,,,,the merry wives of windsor,shakespeare
+3b56e4157ad73f31de03c95fca3a4d99cf3811db,true,false,,shake000020,,,henry vi part 1,shakespeare
+3b77ad4b9c267c2624f9c277730d3260b6a26016,true,false,shake000024,,,,henry viii,shakespeare
+3bb3b79f779c235dbd3b643106759615f8d890e5,true,false,shake000022,,,,henry vi part 3,shakespeare
+3bf8b6f9698d26a06a941b96dceaddb483d56959,true,false,shake000021,,,,henry vi part 2,shakespeare
+3bfb295313f18609b3a7b63c53b9b015160bcdbf,true,false,,shake000026,,,coriolanus,shakespeare
+3c489621a9fe59d98eb0507f259d2ed9eeff9c94,true,false,,,,,the merry wives of windsor,shakespeare
+3c8a2baa7754662f34e6de4ee5eaa0319e68a377,true,false,,shake000032,,,hamlet,shakespeare
+3cb5567e9b5cc3d2109fb2e544a3416499bca8a6,true,false,,shake000009,,,the merchant of venice,shakespeare
+3d278f87a57e0d6362eeeca1f933810b826a7fc3,true,false,,,,,henry vi part 2,shakespeare
+3dc215d31501556c449f0f1e76177f0eef2eda2c,true,false,,shake000032,,,hamlet,shakespeare
+3e29239b61c89c61bb91308da5f51f31fb84d8ec,true,false,,shake000030,,,julius caesar,shakespeare
+3ed406f10b716d0aba1bef903460e30306726254,true,false,shake000034,,,,othello,shakespeare
+3f3391af55bf4c61a2a405f507f48b09dc3fbb81,true,false,,,,,love s labor s lost,shakespeare
+3f8bf7c737e3132a05814f34c8dd2d0745a30b8e,true,false,shake000011,,,,the taming of the shrew,shakespeare
+3fbb89125ddce7cc3266d7e3739fe0d2758c9295,true,false,,,,,twelfth night,shakespeare
+3ffa059e34ef327ba5cf20e3d88d81be2c7a997f,true,false,,,,,the tempest,shakespeare
+40839e6f28bcb9b66a2633c394692fd15fb9f765,true,false,,shake000013,,,twelfth night,shakespeare
+40fcd69cca9ed00694c38a53bea9a0f342087397,true,false,shake000002,,,,two gentlemen of verona,shakespeare
+41800d90953a1b3853380ae45969c88e4d340121,true,false,shake000030,,,,julius caesar,shakespeare
+418f345d9b9bef41e8f596f0b5f4a06191fa5ce1,true,false,shake000008,,,,a midsummer night s dream,shakespeare
+41abdbcc66516fc7eb8a89578b86db277db92ee8,true,false,,shake000022,,,henry vi part 3,shakespeare
+423cdcf151b56e579decb7d2e744f5294dd66698,true,false,,,,,antony and cleopatra,shakespeare
+4281f0cdd2fb2629a56a0a51b84cc13de4d6d9c8,true,false,,shake000020,,,henry vi part 1,shakespeare
+42a2c198073f17236a53f6e4f3fd120511d1b050,true,false,shake000006,,,,much ado about nothing,shakespeare
+42cc314d0b8be6dea1a7837200882f2bda577373,true,false,,shake000002,,,two gentlemen of verona,shakespeare
+42f9b5158b209724ad34b17a9a92f5d17ed07d7c,true,false,shake000023,,,,richard iii,shakespeare
+4393e17d94adc00c445bc518239a90907d4fad29,true,false,,shake000032,,,hamlet,shakespeare
+442d842aa3b4ca56beae642151b30e6f56e4f4e2,true,false,,shake000013,,,twelfth night,shakespeare
+444237e71fbe0ae3acc47a0ff8128d200af3ba8e,true,false,shake000023,,,,richard iii,shakespeare
+44bc7e92a3bc5f041fa9c36d6e4b5ef6bff07fe4,true,false,shake000037,,,,pericles,shakespeare
+456019021307d04c48a3445c2056ef490103edcf,true,false,,,,,cymbeline,shakespeare
+45c03baaaaa33205e8e65b8eb997859021a6d8d9,true,false,,shake000031,,,macbeth,shakespeare
+46c6574396eb7aaefb15192c48b6555373c4d8c7,true,false,,shake000015,,,king john,shakespeare
+471089104e350b4537aa4638f23766e6bfc65a1a,true,false,,shake000031,,,macbeth,shakespeare
+475310dac8a08b30c2600aadd252380cb60304d4,true,false,shake000030,,,,julius caesar,shakespeare
+4793198e1cb84141dc2a54a86a910888c90abf50,true,false,,,,,richard ii,shakespeare
+4874858ad3986d45a7543b0892f2e9f1f74f2deb,true,false,,,,,a midsummer night s dream,shakespeare
+497ffc604ec0958efcd3bf0af7d38ad6a972115e,true,false,,,,,henry vi part 2,shakespeare
+498d384c4e7b8a2e62038b371b9578d8954ef888,true,false,,shake000025,,,troilus and cressida,shakespeare
+49b85420a064cfb0fb3ccec12cb552026914b91f,true,false,,,,,the taming of the shrew,shakespeare
+49bdfb616cd8c158327f3273c0cb92beb5441634,true,false,shake000001,,,,the tempest,shakespeare
+4a76a62fd494ec6f38c64a0400f626857692a063,true,false,,shake000007,,,love s labor s lost,shakespeare
+4b692f824120204a3fe25ccffcc828469c50c524,true,false,,shake000019,,,henry v,shakespeare
+4b93037ff72f605d602a67c6829ec859e181304f,true,false,,shake000022,,,henry vi part 3,shakespeare
+4bb4e327dd11630f71e0faa32a4a0798bfa77356,true,false,,shake000003,,,the merry wives of windsor,shakespeare
+4c762a7201dbff1e01e4587bc9091633cedb8a7a,true,false,shake000035,,,,antony and cleopatra,shakespeare
+4ca7d5ddefe70643e3880cc1c43ae440fc513551,true,false,,shake000035,,,antony and cleopatra,shakespeare
+4d2e9b70e521ca38c9a44c5e58196da2c999e72b,true,false,shake000036,,,,cymbeline,shakespeare
+4da1e25057eca21d23171ab4ffeb78ab97c45816,true,false,,,,,cymbeline,shakespeare
+4df814fdc278d41f7885c8292254c385c2b14b00,true,false,,shake000033,,,king lear,shakespeare
+4e1d7edfe1ec38f9cafcc2a1fd85b3f01a2725b1,true,false,,,,,the comedy of errors,shakespeare
+4e8b7255dced769e3db6268cf526e4af2e5743e1,true,false,,,,,henry vi part 3,shakespeare
+4e968c8f49a2b9bec34196ba80a6c5a93b0d3deb,true,false,,shake000020,,,henry vi part 1,shakespeare
+4eb064ef210f50436be24d1ad6b46142d8a836bd,true,false,shake000002,,,,two gentlemen of verona,shakespeare
+4eb1b81c6f0732ac65d3b9521e4b9eef0c866bca,true,false,,,,,henry viii,shakespeare
+4f91fc3a1398361976add7f587d88712e8f50113,true,false,,shake000014,,,the winter s tale,shakespeare
+4fe30cdf05ac6c4809ce4f76f876e5168dc55f33,true,false,,shake000016,,,richard ii,shakespeare
+50bf2ce3699cbbe9ac6d14765908ae408ffa9885,true,false,,,,,king john,shakespeare
+5135378013355c0fbb1ffb5d73eeb4639e919077,true,false,,shake000014,,,the winter s tale,shakespeare
+51498da177cca93863a987652fa2c3116178b909,true,false,shake000001,,,,the tempest,shakespeare
+5232f2e63dfca53409aa86b8860f634d6d744f45,true,false,,,,,romeo and juliet,shakespeare
+525ca8f316a6a376c8d13864e5164db9e6b97a41,true,false,,,,,king john,shakespeare
+52d19284617d12f49bad291e6e298fb5b2b65c0f,true,false,shake000033,,,,king lear,shakespeare
+53596b21358150f99199ae7adecc0bf35e10ae8d,true,false,,shake000021,,,henry vi part 2,shakespeare
+53873a976cf64ae7305e9c770369e2f104935ead,true,false,shake000030,,,,julius caesar,shakespeare
+53ad2cddc415cc607d3e3d8ccefafe2579253498,true,false,,,,,twelfth night,shakespeare
+5405b691975fe4445b8425b65e5fa559c4527145,true,false,,shake000010,,,as you like it,shakespeare
+543def57d410af9cd1c5d304191145eac872f0ab,true,false,shake000004,,,,measure for measure,shakespeare
+544117d6c9c401449d51f4a84c486368419bac7a,true,false,,shake000004,,,measure for measure,shakespeare
+5525b27f1c5fdc5f59501a26ce249556a0d3ebf3,true,false,shake000026,,,,coriolanus,shakespeare
+55348df9bae15e29aaa4505eff6525f4e45b2826,true,false,,shake000036,,,cymbeline,shakespeare
+5539486c943ca2488f3f81033f80b1a3fcfc2ed1,true,false,,shake000009,,,the merchant of venice,shakespeare
+559bc4fdb0ae511021bf1f2a129b894035283106,true,false,shake000022,,,,henry vi part 3,shakespeare
+55a9b2d1f4fc56cd7e68edfd53d5f376853d7ba0,true,false,,,,,richard ii,shakespeare
+560ef1c3de2ae651dadb983252d1a17570d11277,true,false,,shake000028,,,romeo and juliet,shakespeare
+569accd9223f7dce476670b5ea2194b6f84dd633,true,false,shake000009,,,,the merchant of venice,shakespeare
+56b6ea73e2f5845dcdd6e8f93dfbd028d05ffbcc,true,false,shake000014,,,,the winter s tale,shakespeare
+57225965f00e45c65857290100222497bc8c666b,true,false,,shake000012,,,all s well that ends well,shakespeare
+57923f3e2efc16369fb448c4fce6331cb1cb4d50,true,false,,,,,henry vi part 3,shakespeare
+591e9da9f59416b8d534af3673fe49adc1605710,true,false,,shake000012,,,all s well that ends well,shakespeare
+5951cb559c76b2b83686ea371bac81086a243bd0,true,false,,shake000008,,,a midsummer night s dream,shakespeare
+59884f81f0fad262967af7cf9add616fcca72d20,true,false,,shake000002,,,two gentlemen of verona,shakespeare
+59b75dd81f95a5a436e2f7362766ed76353ff360,true,false,shake000018,,,,henry iv part ii,shakespeare
+59d3f9051a7dd33ed246f90513de06b4674679e0,true,false,,shake000017,,,henry iv part i,shakespeare
+5a26b19860542944650fa9485a905c6cca5aea1a,true,false,,shake000036,,,cymbeline,shakespeare
+5a981ce9f8fec2530e3114885b59fdc588bb5653,true,false,shake000022,,,,henry vi part 3,shakespeare
+5b18089616363e15b38e2a40a31072300c9fa6cf,true,false,shake000032,,,,hamlet,shakespeare
+5b1b0054b2ed69dacf0b97ea9586a573ccb3ac8e,true,false,,shake000020,,,henry vi part 1,shakespeare
+5b30c2ddac3fb2c2d239a7aa323567d679c2ab23,true,false,,,,,the merchant of venice,shakespeare
+5b7726baf7270c0ff405d724aa3770be0c79da9b,true,false,,,,,the merchant of venice,shakespeare
+5c4997592c798085dfbfdf9e322dc6e71f917fe0,true,false,,shake000010,,,as you like it,shakespeare
+5c6b67e7a3fc05d7350ed50aa655a420d28884cc,true,false,,shake000026,,,coriolanus,shakespeare
+5caa15a5d2f9dd99020d94a7d5a97684a1bb5c49,true,false,shake000031,,,,macbeth,shakespeare
+5dd7d7aca5b2cf6b515c35bdb225a7a1d7e339f3,true,false,,shake000007,,,love s labor s lost,shakespeare
+5ddea10e3d7897220991ff61865adc458dfb7781,true,false,shake000003,,,,the merry wives of windsor,shakespeare
+5e117130d900f7571c3aaba7b92a6ef95170527a,true,false,shake000035,,,,antony and cleopatra,shakespeare
+5e3985f50bf9ab536bac5d415e6e17b2fbf9488e,true,false,,,,,a midsummer night s dream,shakespeare
+5ea5aef01e2dc908858805b428851bb3718b1e5b,true,false,,shake000013,,,twelfth night,shakespeare
+5ea771da037338f385903bc02fe7bf5edf58b00a,true,false,shake000029,,,,timon of athens,shakespeare
+5f06132af9d6d599af13f31efffb1f203eeeb3e1,true,false,,shake000025,,,troilus and cressida,shakespeare
+5f1ed700ab437ee6c5fa442700dc9d639ca410ff,true,false,,,,,coriolanus,shakespeare
+5f4619615cbc983797c85979e12a5c901ffeb538,true,false,,,,,measure for measure,shakespeare
+5f9b081d2e867af8a66d465f97acd98966566ba7,true,false,,,,,the merchant of venice,shakespeare
+603b655f6eed1bb81451a36eeb64c39656979acb,true,false,shake000021,,,,henry vi part 2,shakespeare
+6060c405c2ad0807033c7b4105a786fc8f490e1b,true,false,,shake000010,,,as you like it,shakespeare
+60bb8a154f7a20de628b2e97571fa898c7b07d5e,true,false,shake000006,,,,much ado about nothing,shakespeare
+616e698a2dac509849f0fcc6ddade77660ce343c,true,false,shake000012,,,,all s well that ends well,shakespeare
+617f9083c6c833205d59d42d12e48b115434beb6,true,false,,,,,the merchant of venice,shakespeare
+61c776090a8403162a97e82bbb6a9c0c4a483a67,true,false,,,,,richard iii,shakespeare
+62050a12c0d176f9705d6206d81ce16aef7093ad,true,false,,shake000027,,,titus andronicus,shakespeare
+6234e2b508c2534b94f262b4341af86ef86ebd3a,true,false,,,,,antony and cleopatra,shakespeare
+6235e5002c8a8bd3949ca5dbbb38ef4dbc9203d5,true,false,shake000015,,,,king john,shakespeare
+62a8d94bc033fa3b45e2e2658fb3410ed2095529,true,false,shake000034,,,,othello,shakespeare
+631524944a4de06a7386f3f770baf4b6c502a4e8,true,false,,,,,all s well that ends well,shakespeare
+6329f16197499e5f277f4cbf679399a7c2319b64,true,false,shake000019,,,,henry v,shakespeare
+6351cf2ee2c0401565f1b295ca6a40c0c41d76c5,true,false,,shake000010,,,as you like it,shakespeare
+638a9b13c211e84d4b802e22e34483fd7d3cd046,true,false,,,,,titus andronicus,shakespeare
+63f3d47edcf1b39e8de0c854e6960a17e37a067b,true,false,,shake000033,,,king lear,shakespeare
+64a5b1febb894b5e189ce4c042954f63cd43c9ad,true,false,,,,,hamlet,shakespeare
+64af29814d6c42bc7bf4ed363effd0794767c909,true,false,shake000004,,,,measure for measure,shakespeare
+64ba43cb89d9f7e50292fa6f23858edc0eb97d63,true,false,,shake000021,,,henry vi part 2,shakespeare
+64de82c21010cb41f9fade06607076e216f9edbd,true,false,shake000018,,,,henry iv part ii,shakespeare
+65b2cccc65082be248b8f8f3dde8070b6bb2e57a,true,false,,shake000022,,,henry vi part 3,shakespeare
+65b3fa3b19d831a198822473490b9a5f282e68f4,true,false,,,,,coriolanus,shakespeare
+65ec0a2967bcf179633894c44df5f6c829eb5af6,true,false,,,,,henry viii,shakespeare
+66201bc6d97b09882951f5192c1c1d02a4d08095,true,false,,shake000002,,,two gentlemen of verona,shakespeare
+66dd7e870e27e5bc5daae0e74271a7c9fa2e5e16,true,false,shake000027,,,,titus andronicus,shakespeare
+66fce2aa84bfd0959934ffabafbf72b0723e7df8,true,false,shake000007,,,,love s labor s lost,shakespeare
+681c5ff157c33fd8a77711ddb88b0c02bedc6759,true,false,,shake000032,,,hamlet,shakespeare
+68900ad5e4965cbcb3db2371ed1a494002f849a9,true,false,,shake000024,,,henry viii,shakespeare
+696d7b3a8b707e6ebe3685e2a02f7715354ef387,true,false,shake000037,,,,pericles,shakespeare
+699ffb6efefa7b614dee0a24067f22e82a83946f,true,false,shake000009,,,,the merchant of venice,shakespeare
+69d05d1a2ed035d8fd43336fbbc1bd93da8396a2,true,false,,shake000034,,,othello,shakespeare
+6a4c1ead618025292a819caf8eb3701102eb94e7,true,false,,,,,macbeth,shakespeare
+6b481bcfa73e07aeb3ecbe0d0731392a842f5134,true,false,,shake000018,,,henry iv part ii,shakespeare
+6b7952757515f48b515a06558cfb45376f7b84ab,true,false,,,,,hamlet,shakespeare
+6b80e5a3dfa392aec15c0bae270b61d796984b23,true,false,,shake000031,,,macbeth,shakespeare
+6c37ad3967cb3e29f9bf541509943e1c231c1885,true,false,,shake000036,,,cymbeline,shakespeare
+6d00ab62347f2890bb87f69df8a2aab7bf7292fe,true,false,,,,,henry iv part i,shakespeare
+6d1d92229b9a3d44825a314398de731fdee6c8bc,true,false,shake000033,,,,king lear,shakespeare
+6d2489b45b9e14e77624c6926b91faa18b62a8eb,true,false,,shake000024,,,henry viii,shakespeare
+6d525592d933b9b65d8d169d730027063a30a8fb,true,false,shake000005,,,,the comedy of errors,shakespeare
+6d864493df813aea5177868a09665f170e86fbdd,true,false,,shake000029,,,timon of athens,shakespeare
+6daebff833a6a7aafef676779847373e55c96088,true,false,shake000001,,,,the tempest,shakespeare
+6dc5ad189d63a907d985e13ab086eb6cbf2905a8,true,false,,shake000006,,,much ado about nothing,shakespeare
+6ddcfbe3fcf686fb4c6f6f3b99b0b7679d89b644,true,false,,shake000001,,,the tempest,shakespeare
+6e5807540ebaa68fadc58e656b5aa51a2aec40e1,true,false,shake000024,,,,henry viii,shakespeare
+6e5f090c99928c3c701219cdfbaa413a02b02199,true,false,,shake000013,,,twelfth night,shakespeare
+6e8027f7017f5184c5763aadbbc95ae6dcbe05b8,true,false,,shake000010,,,as you like it,shakespeare
+6eff21fb63a84730502a4ddb12c89d222d4e63a1,true,false,,,,,pericles,shakespeare
+6f6d8f63df6f643e38ee542f0b6bfa91aa1e4f5a,true,false,shake000027,,,,titus andronicus,shakespeare
+6fc372c043b1b942cf58aef8572680db060859a3,true,false,,,,,titus andronicus,shakespeare
+706accd838c96a4e817ba5e79277a3e0b7dcb414,true,false,shake000032,,,,hamlet,shakespeare
+7098af154f2b548446dbb7cdc8073bcd0afd7a6d,true,false,,shake000020,,,henry vi part 1,shakespeare
+709afc7b5413413dbdb1ac957bc65a35f71f1e9a,true,false,,shake000005,,,the comedy of errors,shakespeare
+71437dbc94144835ebd225d73036d1b66d257fbb,true,false,,shake000016,,,richard ii,shakespeare
+71641698574818b0194a327feb1d55dda61d6461,true,false,,shake000007,,,love s labor s lost,shakespeare
+71990f9a1f750e2d9dbe64d4b499b16dfd01e8a1,true,false,,,,,hamlet,shakespeare
+71a91240a73a7a8c43bf4c4824fab7496c34f45a,true,false,shake000030,,,,julius caesar,shakespeare
+720fb6d23f0aaea2f5e1effeb2b47f8a82b6ad94,true,false,shake000030,,,,julius caesar,shakespeare
+725cfe5f5b8689fbd20862de032dbf686d420a21,true,false,,shake000034,,,othello,shakespeare
+72b046f892cc0ed3357a6afdbda40d7bf2aaf1cc,true,false,,,,,the winter s tale,shakespeare
+73aae83b3cc0c1da7ba414a8a13796cbda419df0,true,false,,shake000021,,,henry vi part 2,shakespeare
+74324b6a391b163fe11819edbe0b74f8dbabd6ac,true,false,,shake000018,,,henry iv part ii,shakespeare
+74d993bf0f0863391c0cf71ce425fb4d19257dea,true,false,,shake000005,,,the comedy of errors,shakespeare
+75a333e97306dfb45aa58773d6d061400e5bb61b,true,false,,,,,king john,shakespeare
+76fc164ba81ac8a8bf6839642124d2d832b12c15,true,false,,shake000006,,,much ado about nothing,shakespeare
+774d0e3da62a36a370d90f986a706d2d53106108,true,false,,,,,all s well that ends well,shakespeare
+77c309a3f5b880a70abfcc6a9007edc408943748,true,false,,,,,romeo and juliet,shakespeare
+78e7a2a03493ff3e2b32b3694c88f9c22802114d,true,false,shake000033,,,,king lear,shakespeare
+790e7ba0661604432369cd032b2cac0b67986655,true,false,shake000026,,,,coriolanus,shakespeare
+79905f7a86bc2a20d38a05ade8220c36042a1fef,true,false,,shake000005,,,the comedy of errors,shakespeare
+79c14494cfa8d20c9cca81d6d76fb5c878a9a6c7,true,false,,shake000017,,,henry iv part i,shakespeare
+79f92cba69515353033fd3062aa254bf5f48b69d,true,false,shake000003,,,,the merry wives of windsor,shakespeare
+7ac8e45a8263af6a84dab47489b1c57704c53634,true,false,,,,,the merry wives of windsor,shakespeare
+7ae2ce634011b20a6c9c067169d73538c5256ec5,true,false,,,,,king john,shakespeare
+7b3ace7f3b6e9f843ee230e642de59681a5dc37d,true,false,,,,,hamlet,shakespeare
+7cb3929e257f1dd53a17442229b66d1dc5e7b7ab,true,false,,,,,troilus and cressida,shakespeare
+7d39372c51a07fd320f06878ee24ff94f71dd6ea,true,false,,,,,henry v,shakespeare
+7d5391d596b427903834958a0dff5f3bc1b3d19c,true,false,,,,,love s labor s lost,shakespeare
+7d6683fec16bc0fdaccdf7d06d5085f6a2d37f25,true,false,,shake000016,,,richard ii,shakespeare
+7db8ff0eb4df0aa41a6481cd5fcaeb465e435af0,true,false,shake000019,,,,henry v,shakespeare
+7dcda9c06a2fcce43d117cedf0d9346175384803,true,false,,shake000024,,,henry viii,shakespeare
+7e6ff0b503f54d843b26a073d02bf31c5b0db2c3,true,false,,shake000023,,,richard iii,shakespeare
+7e77b2f765afa277d06eda9d702395c385cc4af9,true,false,,,,,much ado about nothing,shakespeare
+7f240a933938425b3816d1d833ec93cdebf2bbc2,true,false,,,,,antony and cleopatra,shakespeare
+7f7bfbbafea7b155241fd3fd3ba8cf2ea18f2f22,true,false,,,,,twelfth night,shakespeare
+7f965224d99817b6dba59af1fef92ac4d2e26f7e,true,false,,,,,the winter s tale,shakespeare
+802c205422a58cf6aaed675e856853481e04d3ae,true,false,,shake000016,,,richard ii,shakespeare
+80528d3fa2d36edb98c8452b040a50b6cb7245b0,true,false,shake000021,,,,henry vi part 2,shakespeare
+808ff7347d236bac6097b92a6e0fef1c36d92e26,true,false,,,,,measure for measure,shakespeare
+812c9af5845bac0f4f02d7318926babfed8242e3,true,false,,shake000018,,,henry iv part ii,shakespeare
+822b2e0e9aa83798120971bc6f581003f4a651e1,true,false,,shake000030,,,julius caesar,shakespeare
+826fda9fa4e95831ea23f8b54d730161f7658473,true,false,shake000023,,,,richard iii,shakespeare
+8375cf63d7e4c8603ca9eed44edd9ba1737df533,true,false,,shake000015,,,king john,shakespeare
+83a781d239dfbf317db76ed4465b358783b262b3,true,false,,shake000030,,,julius caesar,shakespeare
+85527fa72b9ba93bb2b27d727d8e068aa3c32440,true,false,,shake000005,,,the comedy of errors,shakespeare
+85f92359be4dca4b5a6bc9f77e46b9d82dcbc29e,true,false,shake000012,,,,all s well that ends well,shakespeare
+861a635474bb0cf24201c35864d7b185e0c7053e,true,false,,shake000037,,,pericles,shakespeare
+87440d118643455de9096df0b4ee8b895a42e7b8,true,false,,,,,hamlet,shakespeare
+8769125919781e7e70354927329ba33d70aa6e87,true,false,,shake000020,,,henry vi part 1,shakespeare
+884899c309f627077f53edea00520a418e6d7a28,true,false,,shake000028,,,romeo and juliet,shakespeare
+88c663e4d349fa21801df81209618ec5854e1a36,true,false,,,,,the taming of the shrew,shakespeare
+89726ef4b56dcd907a601abb7b684f6fc90ea8c4,true,false,,,,,the winter s tale,shakespeare
+89891bbd911b72ce26e122557af9b643bf737e57,true,false,,,,,julius caesar,shakespeare
+89c894ba870dbbc2ec41bbdac2dd67e07723f88f,true,false,shake000015,,,,king john,shakespeare
+8a1a8dea8343586cb169a316a154d3e5ffe1d805,true,false,,,,,antony and cleopatra,shakespeare
+8a67600aeead4e017ccb57bb6daa23a1ffbb6d99,true,false,,shake000007,,,love s labor s lost,shakespeare
+8a6c5842a62d553fc523c83afcb58a1128d87ce5,true,false,,,,,henry vi part 1,shakespeare
+8af3130a81cf880746d3eb798746b92399e7555f,true,false,,shake000017,,,henry iv part i,shakespeare
+8afb9987db13a3b2a88e89d450f48428aafebf28,true,false,,shake000008,,,a midsummer night s dream,shakespeare
+8bdabf7697d29c5a1868dd3d51032a45ab3b0750,true,false,shake000020,,,,henry vi part 1,shakespeare
+8c0356eb6a449a410f3e74a34178235ed45e592e,true,false,shake000024,,,,henry viii,shakespeare
+8c2f315d9449acd1b368cf90a8dc365380e2cffb,true,false,,,,,henry vi part 1,shakespeare
+8c5360ceff4ef172b0d212cd9a8114ba2ec80bd8,true,false,,shake000011,,,the taming of the shrew,shakespeare
+8c66360d5974c1fa5cfcf4489107e83513089e6c,true,false,,shake000004,,,measure for measure,shakespeare
+8caa78a31306387e195416ec36f056eeb54ad62b,true,false,,shake000026,,,coriolanus,shakespeare
+8cbb37cc8d86784a88dc0af9d83307c049e786ce,true,false,,,,,richard iii,shakespeare
+8d1132f46e467d8975fb41e325e699ff5b3ad2fe,true,false,shake000032,,,,hamlet,shakespeare
+8d45a72c5afb91752c23dbbc4810200040a6ff17,true,false,shake000013,,,,twelfth night,shakespeare
+8d6940b59cff73f7b9dfb5ef4cb424677b0fd126,true,false,shake000015,,,,king john,shakespeare
+8d99c62fd49ff16a80252d735ea7dba1ca851619,true,false,,shake000035,,,antony and cleopatra,shakespeare
+8ff7af26fd3c2f0975ca762006836b2f444a02aa,true,false,,,,,henry vi part 2,shakespeare
+90316bfe3dd478234a1c0b8f7a26714c5c190250,true,false,shake000013,,,,twelfth night,shakespeare
+9071f46d69e16aaefe12d584e49a6d8ff7286190,true,false,,shake000017,,,henry iv part i,shakespeare
+90b9ca3c3c56220ee9ad3c0a8c1bdbe0815a1855,true,false,,,,,the comedy of errors,shakespeare
+90f43dea3f6dce85a3ad13bb1c9354593c0002cd,true,false,,,,,a midsummer night s dream,shakespeare
+9125c8baa1365d249645b49a6405b0867b95b843,true,false,,,,,othello,shakespeare
+916fcdc39ff938563fbf1889f5036cbc219b1530,true,false,,,,,julius caesar,shakespeare
+91b9eb0a2e7a067192a7ee84cdf817066bf5abb0,true,false,,shake000031,,,macbeth,shakespeare
+91c789e2275aa1d770a6db9ca8d1336b706dd1eb,true,false,,shake000016,,,richard ii,shakespeare
+91c9261ab7cd8eca8c5b036a02990e05c2459f0b,true,false,,,,,macbeth,shakespeare
+9224ee9070611e921f14172eb1bae299b4650a52,true,false,shake000008,,,,a midsummer night s dream,shakespeare
+943f926c45e5a91a9683300965704caf27701f21,true,false,shake000028,,,,romeo and juliet,shakespeare
+948c87a430680f6a0f0225b37dbfba8fcbe454d9,true,false,,,,,richard iii,shakespeare
+94de91913d3a5e40ef9ec2f7c90d6305c5793d5d,true,false,,shake000007,,,love s labor s lost,shakespeare
+95562702b089434df4b431de1eb5a55cb63ce768,true,false,,shake000011,,,the taming of the shrew,shakespeare
+967c9ca69c4467fe790af47bbfa36dae101fb9e4,true,false,,shake000034,,,othello,shakespeare
+968919b5c3c55ca283ea195624affbdf9aab9efb,true,false,,shake000037,,,pericles,shakespeare
+96aad3b8b4825ee70c59c0d7d0eecb472b8acd02,true,false,,,,,two gentlemen of verona,shakespeare
+9723cc7f5b90cfb98e59dcf8ee2f72baa3152afa,true,false,,shake000001,,,the tempest,shakespeare
+9726b72f842a10a2588c81f4a317cbc473af8a99,true,false,shake000034,,,,othello,shakespeare
+977acfcb9ab373c98d2a1f9c3d869d8025891a18,true,false,,,,,a midsummer night s dream,shakespeare
+97a7ffa00120018c74a09324e80147fa4f74fa9a,true,false,shake000009,,,,the merchant of venice,shakespeare
+97b7380579bbe1e8a3cc7a3ff02e7c68f1bebc5b,true,false,,shake000031,,,macbeth,shakespeare
+989f5d0b7ecd9ec8532fe69a6aa1cd0abcebc953,true,false,shake000017,,,,henry iv part i,shakespeare
+989fa823bf7a44d08ce101d2f986e08eb382eaa8,true,false,,shake000001,,,the tempest,shakespeare
+99365b190965ebe98b423091f8efad5440bb4ba6,true,false,,,,,titus andronicus,shakespeare
+994d6aa12d7cba0209d42efe2cc5914494b42b13,true,false,,shake000018,,,henry iv part ii,shakespeare
+9951bee90c18d348dbac30ecbf7cac0648e1200c,true,false,,shake000010,,,as you like it,shakespeare
+99b5a788078104256991b23ff0ccfde74fe55d68,true,false,shake000029,,,,timon of athens,shakespeare
+99bdf4f88c6169f807b0b084c4f8665ab18e66f6,true,false,,shake000024,,,henry viii,shakespeare
+9a09f2a4a9a43a3f97de4f6c5a05fecf9ef935ef,true,false,shake000001,,,,the tempest,shakespeare
+9a775f9194a2e4b9ae317fac43180f6abe4e6254,true,false,,shake000019,,,henry v,shakespeare
+9a7fcad2da9ef465d563a327756e6feecdc8d8a4,true,false,,shake000003,,,the merry wives of windsor,shakespeare
+9a883c7c3480bee5799cd91c892109815e5a7ed9,true,false,,shake000005,,,the comedy of errors,shakespeare
+9a8f5ef5a27e62887820abf01826bacaeec683af,true,false,,,,,richard ii,shakespeare
+9b0240579d6fe8b0fb5122e0aeae12a12354b162,true,false,,shake000022,,,henry vi part 3,shakespeare
+9b3182b9f0c89174b3bd2402f03aab289afbbe10,true,false,,shake000002,,,two gentlemen of verona,shakespeare
+9c42a48508713aa9b1a66c022e2433ca31f4bf31,true,false,,shake000024,,,henry viii,shakespeare
+9d2aee3dd75cfdfd5b16fcf0e6ad2a51978677de,true,false,,shake000028,,,romeo and juliet,shakespeare
+9d30c4dc930a9ff8992b784e637ba4adbe81b5b4,true,false,shake000037,,,,pericles,shakespeare
+9e2636139ce1e0c5d9d3ffd431cc488604532d56,true,false,,,,,henry iv part i,shakespeare
+9e45a4b4bbddb1d556289ab9443fe424dd4b31a8,true,false,,shake000028,,,romeo and juliet,shakespeare
+9ef817ad74fa4c8ca309260eece55e28a65b52e7,true,false,,shake000005,,,the comedy of errors,shakespeare
+9f472b93c1efd0ee2ef675b42c71c47c1d75cac2,true,false,,shake000025,,,troilus and cressida,shakespeare
+9f4b4aa7664fdcd4505a6a84242636cc69f5cbe9,true,false,shake000026,,,,coriolanus,shakespeare
+9f741dde489446a2ef9f5d8eb5e5ece9c5da407b,true,false,,,,,henry vi part 3,shakespeare
+a002f567def8b67c7d2a9124f4d495c1ff713167,true,false,,shake000019,,,henry v,shakespeare
+a067aea43637ed8aeeb968c9a9d5851389a05c41,true,false,,shake000003,,,the merry wives of windsor,shakespeare
+a06a14c322084836015cd13bf1a49155dfe213d2,true,false,,shake000019,,,henry v,shakespeare
+a09cc662e22e7e81e6bb0175ed99fe2bfe753012,true,false,,,,,king lear,shakespeare
+a0c21f063dde8570aabd717fd8b3ece0c0bb1d6b,true,false,,,,,love s labor s lost,shakespeare
+a140a3b5b26ffac57ba77cdbb2d2c33e069394d0,true,false,,,,,love s labor s lost,shakespeare
+a16816d70838a907e68db4bd8f3207e44d60b6a3,true,false,,shake000011,,,the taming of the shrew,shakespeare
+a1bb1267a334283e6f3a7c9b51f1d9f1e5643a8a,true,false,shake000007,,,,love s labor s lost,shakespeare
+a1c311c1ad67307a8a603c8d87534ec9da6a24d3,true,false,shake000027,,,,titus andronicus,shakespeare
+a1f9881059df3b4058882acfd9c2f40387aeb484,true,false,,shake000034,,,othello,shakespeare
+a2741bea5e2e0b6f0b0b37f4983586a2c4cc9b64,true,false,,,,,titus andronicus,shakespeare
+a32a4ce3b4437e3cfe0bf23d878196cf89445b05,true,false,,shake000004,,,measure for measure,shakespeare
+a35903868306797f811e1ec293e951d72d6456f7,true,false,,,,,henry viii,shakespeare
+a361788f55fdf2d7bceba9b886510128b51edd50,true,false,,,,,richard iii,shakespeare
+a39192fff27f000047c0be83840ea9ea47b90fb8,true,false,,shake000019,,,henry v,shakespeare
+a3bfdb88a23737160da61b1ce0e4a6af936d914f,true,false,shake000005,,,,the comedy of errors,shakespeare
+a3e72edc43cf173e370079f98429c2ca6ef92981,true,false,,shake000016,,,richard ii,shakespeare
+a416a71de15ba50ab90b07f7b8fb700a702cd5e8,true,false,,shake000032,,,hamlet,shakespeare
+a5de8b55ec7ac0c4166d24046346d30864d70ad6,true,false,,shake000011,,,the taming of the shrew,shakespeare
+a61dff1345ba8e2731232778fdfc601869b6174d,true,false,,shake000004,,,measure for measure,shakespeare
+a707e0b90c305c9067c6358c58e57a5808530a47,true,false,,shake000023,,,richard iii,shakespeare
+a7820373e1a5ea51b23263fc210a6b315bac634d,true,false,shake000007,,,,love s labor s lost,shakespeare
+a7c0124e3c4d287710ce6931d3ab992996065bf8,true,false,shake000020,,,,henry vi part 1,shakespeare
+a7f0b4a55501ba8f93205eb7550847912e45c1cc,true,false,shake000035,,,,antony and cleopatra,shakespeare
+a847fef0aeb9f53853da02477e5868ed7b54957f,true,false,,,,,henry v,shakespeare
+a84ba1c7183042264f2093b83371e2dc810b69a6,true,false,,,,,king lear,shakespeare
+a88ce69c0b87fa216563cb1e9648540ce947cda3,true,false,,shake000027,,,titus andronicus,shakespeare
+a899f5773a30d80d1f18658514ab992f8d0e43d3,true,false,,shake000018,,,henry iv part ii,shakespeare
+a8b5085643d79390d7d1c77aa70f60e5c471b9da,true,false,,shake000008,,,a midsummer night s dream,shakespeare
+a9398e570a9fe0a7008ddb8b1a5ab9ae50c78916,true,false,shake000026,,,,coriolanus,shakespeare
+a9f1d0d866c2f4e1bb7416a17ec46f1eee86fd44,true,false,,shake000014,,,the winter s tale,shakespeare
+aa399aa2bc005ee568f29a45cfca263198e81b95,true,false,shake000002,,,,two gentlemen of verona,shakespeare
+aab51f6f8eb8fe56ff5ae60aef284594096152a7,true,false,,,,,julius caesar,shakespeare
+aad05245608fee554cef79876c183474c3573d02,true,false,,shake000015,,,king john,shakespeare
+aba57b7da1cf1c5defa35ddf7f661ab0d3b8d2d2,true,false,,,,,the merchant of venice,shakespeare
+aca4e2d2edf6d0c87967abda3eb7f109b6dde747,true,false,,,,,cymbeline,shakespeare
+ace26bed6ea6c428e6618e635c1b71a5d658a96e,true,false,,shake000033,,,king lear,shakespeare
+ace71cfbea49ed0ffdb79b7073b52c392d627ac7,true,false,,,,,the merry wives of windsor,shakespeare
+ad0be95ca9b88446c93c3f9b38e024d0de49f008,true,false,,,,,henry iv part ii,shakespeare
+addb765cc4434ff0191b108d2d16e3afec775ee0,true,false,,shake000009,,,the merchant of venice,shakespeare
+ae801d2515dd43c97e1e4ba969fcd14cea085327,true,false,shake000020,,,,henry vi part 1,shakespeare
+ae81282aead271f24cc32230619b7766ca82e4f6,true,false,shake000004,,,,measure for measure,shakespeare
+aea8c31419a217649efc3c160d92bf3aafff4a99,true,false,,shake000022,,,henry vi part 3,shakespeare
+aebc97fd316bc63b9836b196f96da4e023fe4553,true,false,,shake000014,,,the winter s tale,shakespeare
+af3c7337feace0bc213f8cb0a72b2ca4f6d13571,true,false,shake000021,,,,henry vi part 2,shakespeare
+af5b4664aa4352a5227a3215253c642909b8ddbd,true,false,,shake000011,,,the taming of the shrew,shakespeare
+af6343d0053269a9249dd0f42af000bf005180ef,true,false,,,,,henry iv part ii,shakespeare
+afaf8c7f5ebdbfe190e975633f3d62a1556657be,true,false,,shake000007,,,love s labor s lost,shakespeare
+b0529451eb2ce27f37f109df06f5b79006c15140,true,false,,shake000025,,,troilus and cressida,shakespeare
+b07606b44dc2519adcfcadd0cb83ce3f99a48059,true,false,shake000017,,,,henry iv part i,shakespeare
+b07d4354344835611db72bc268ff200a7629e979,true,false,,,,,the comedy of errors,shakespeare
+b096b395aab0001ca9770893d62dce78f2a1a576,true,false,,,,,king john,shakespeare
+b0f3dabd589497fef9cf843d38be6366a692dffb,true,false,,shake000027,,,titus andronicus,shakespeare
+b1626b8c44ab1dd0fb3f92da638be5d6b1021813,true,false,,,,,troilus and cressida,shakespeare
+b23b8ffd20d2556e57fe7e45f9c623e3624620b9,true,false,shake000029,,,,timon of athens,shakespeare
+b25676f0c4a5d90c6ae2a8663ddf167abb03a3aa,true,false,,shake000001,,,the tempest,shakespeare
+b2ccf9fc90c39ad9bc34e00b263e77f9be67a239,true,false,,,,,troilus and cressida,shakespeare
+b321d66c013f290ae7313c0223ceb88294df24ce,true,false,,,,,coriolanus,shakespeare
+b38bc9a6d3582c3a2bc24631002d6cc8b96a5c56,true,false,,,,,henry iv part ii,shakespeare
+b3d3a4bd79ca74e6c6168a8a6929d6fee7c11216,true,false,,shake000015,,,king john,shakespeare
+b3eab97d3182f67cc9bd2a99da9a0a89fd300e1a,true,false,,shake000037,,,pericles,shakespeare
+b41e441a4b03cb8502c27a33a8d83a7024663475,true,false,shake000037,,,,pericles,shakespeare
+b51eb4420230651d8ef15dd2c507c8ae564d8ef9,true,false,,shake000005,,,the comedy of errors,shakespeare
+b5a3d95da9d8b97824ae8a590c98d38f55b558ba,true,false,,shake000030,,,julius caesar,shakespeare
+b5b7e0a4923d884dbb235d76a8b2c2c822270840,true,false,,,,,all s well that ends well,shakespeare
+b6cf8382d39cce29eb65a80fa2f8b0edb62003de,true,false,,shake000035,,,antony and cleopatra,shakespeare
+b775cb263c26fd71f8a16d94fd4fe3478a213373,true,false,,shake000019,,,henry v,shakespeare
+b79034c19394c6c754ed9f09fe8e29f9aed60dad,true,false,shake000011,,,,the taming of the shrew,shakespeare
+b79697ee175e7e8ddf458f8b0e01d24528cc87bf,true,false,,shake000035,,,antony and cleopatra,shakespeare
+b79fa1195cbfc54bf6636744f6f67c963b9fee75,true,false,,,,,romeo and juliet,shakespeare
+b81e5ff05eee3cc9dcbc1e6c40fcad9724c3eb99,true,false,,,,,love s labor s lost,shakespeare
+b861a53c9a4fa5a1165604ac8eff03618dcdf7b5,true,false,,shake000006,,,much ado about nothing,shakespeare
+b86b1a45be803503972a2135402cd980e03336b8,true,false,shake000029,,,,timon of athens,shakespeare
+b8db518cd6f39827bba211df511159b7e6ecc79e,true,false,,shake000022,,,henry vi part 3,shakespeare
+b9285835e7adf6efa4368b1850d84af6763902a8,true,false,,shake000017,,,henry iv part i,shakespeare
+b99ad2ade9cb826fc532a638977dcf89eef1332a,true,false,shake000014,,,,the winter s tale,shakespeare
+ba46e7955620ec6ee4f96445dda5a053383b6841,true,false,,,,,timon of athens,shakespeare
+bb002eaf6a71970477f45e1a53d27ed1da188a6d,true,false,shake000027,,,,titus andronicus,shakespeare
+bb0aa3dfbf46e1cce919dcac9ca4d3a7bf1ab662,true,false,shake000023,,,,richard iii,shakespeare
+bb0fb44f7b4a82994a10de9bbde1860863998ebb,true,false,,,,,cymbeline,shakespeare
+bb2b04a802bf19e9dbc6904e9056226d92534394,true,false,,,,,the comedy of errors,shakespeare
+bb8a4e634c80a92832ad5cc24b2be54138b68dad,true,false,,shake000004,,,measure for measure,shakespeare
+bbcb800bed6a6e09cf42ea229078cc02ded77b5c,true,false,,shake000028,,,romeo and juliet,shakespeare
+bbd2e765274ae266c66e5f833574cdc75c27d315,true,false,,shake000028,,,romeo and juliet,shakespeare
+bc0fe6523d15cc3de56b08db33f067bc9dce5cba,true,false,,shake000011,,,the taming of the shrew,shakespeare
+bcf3dacc6ee49c304fc85e5556e0e0a68bcc372a,true,false,shake000022,,,,henry vi part 3,shakespeare
+bd7519d056c7dbc77c93fd476526407394a6c351,true,false,shake000018,,,,henry iv part ii,shakespeare
+bd785c20fc29d2e36a70757143d58c079ab6a957,true,false,,shake000012,,,all s well that ends well,shakespeare
+bdd47cc0137e02e71c35b51bc9f515680c0bb28d,true,false,,shake000036,,,cymbeline,shakespeare
+be3828ec6b05f30b90dd585a4235e65fdc8d513b,true,false,,shake000004,,,measure for measure,shakespeare
+be4136032a0c28dae63d76358feff10fcaa77fc1,true,false,,,,,the tempest,shakespeare
+be6da9e5b1e19b0a6045d54466d214a1b51ce2ba,true,false,,shake000016,,,richard ii,shakespeare
+be7cc4de853811aaeb7803448f6a1ad85fed6b23,true,false,,,,,henry v,shakespeare
+beb2126aafdcf819ea17649c8d622ea04fbc095d,true,false,,,,,henry viii,shakespeare
+beeb40a56566143c102109be252f431d86ccddc7,true,false,,,,,the tempest,shakespeare
+bf1808078e8fd4610fbcd73bbe40f180310cc52f,true,false,,shake000019,,,henry v,shakespeare
+bf35dbd5052606286c9f78c840b5af3b778b026c,true,false,,,,,henry iv part i,shakespeare
+bf6f91853e0a05b8061d8b42e0523cc745d773af,true,false,shake000010,,,,as you like it,shakespeare
+bff2db022f729917af6ff9eda28c113006987226,true,false,,,,,much ado about nothing,shakespeare
+c0520c4b070df9a5c41a149a4d808eb85a481f69,true,false,shake000015,,,,king john,shakespeare
+c09df0ed5749cb48094fa4345fcbdc91c0fb56f1,true,false,,,,,twelfth night,shakespeare
+c120eff9ce378dd599f9cb3ccbf65702ea4cfd39,true,false,,,,,all s well that ends well,shakespeare
+c19862efdb2271ae73aad8110253a67f61c8c52d,true,false,shake000006,,,,much ado about nothing,shakespeare
+c2373cbcf16d9bf8d73de23c2a56b3d8bf7d01ce,true,false,shake000013,,,,twelfth night,shakespeare
+c262871f8d47090f79cec4b036593094bb075972,true,false,shake000003,,,,the merry wives of windsor,shakespeare
+c2f2985597e07db070b46804227b60e5ab055223,true,false,,shake000027,,,titus andronicus,shakespeare
+c312dea48df9222fb7b7942692da3d32666dfa76,true,false,shake000012,,,,all s well that ends well,shakespeare
+c37ff33a1d3e384b22fd0ce5c21d057cd2742bcf,true,false,,,,,a midsummer night s dream,shakespeare
+c3bd0b392bafdf2ed5a719fa736f1fd51dbf4fe8,true,false,shake000033,,,,king lear,shakespeare
+c44a89b922fba54d2e39b27b919bc42b901ce64f,true,false,,,,,measure for measure,shakespeare
+c468a64430ed41ba06ebfcf69e36656d4e147441,true,false,shake000035,,,,antony and cleopatra,shakespeare
+c48e683ed83c1243df95f38748e079fd927fc27c,true,false,,shake000037,,,pericles,shakespeare
+c4aea265cb9d20f3e452db3fbecf562e886d6a3e,true,false,,shake000017,,,henry iv part i,shakespeare
+c4b38b53d3235dd3a1581d40d5b9770c5cce847c,true,false,,,,,titus andronicus,shakespeare
+c4dc3ccd96b1dac680a2d964ccebe91f2f090150,true,false,,shake000001,,,the tempest,shakespeare
+c50691f10285e8c78783d39e6511003d23a21795,true,false,,shake000026,,,coriolanus,shakespeare
+c50b18a3fc5bc10c66adbba84d05c05c0acb916d,true,false,,,,,the taming of the shrew,shakespeare
+c51fabc2071e1c8b3150dc01a6dd96c914fdd097,true,false,,shake000035,,,antony and cleopatra,shakespeare
+c594bbddef9fe57452625423d31cd17f4302ea36,true,false,,,,,the winter s tale,shakespeare
+c63112b0912e50018f6abf275b122207e0b66a9a,true,false,,shake000018,,,henry iv part ii,shakespeare
+c67933d6676cb4d40e4d3428216f48c1b1c40ee9,true,false,,,,,henry vi part 3,shakespeare
+c67da5080f9a27228a5d948c83790b490b3796cf,true,false,,shake000037,,,pericles,shakespeare
+c6868b2e98debe3d96d50843b5a60d1e49c13c43,true,false,shake000018,,,,henry iv part ii,shakespeare
+c68c798d35f2224d3d533e3e84e037c71db268ea,true,false,,,,,coriolanus,shakespeare
+c6b02b139cb557ee47ea22c0060d6d475c8b27cd,true,false,,shake000012,,,all s well that ends well,shakespeare
+c6c78141569a1b88f4ba991806bc4b8b58aac637,true,false,shake000018,,,,henry iv part ii,shakespeare
+c73da1f43dd1c26ce5b241c7f4df14cfd94c5c5f,true,false,,shake000032,,,hamlet,shakespeare
+c7f1e179b8133c6fcd60d70905dd42248a440784,true,false,,shake000021,,,henry vi part 2,shakespeare
+c8660ea146231913810467b8d1da86b676426631,true,false,shake000028,,,,romeo and juliet,shakespeare
+c8b97141dbdb05aa859e4bb3415ccfb9e67f7a57,true,false,,shake000012,,,all s well that ends well,shakespeare
+c98ba5e6cae81d492a28e3cce45e709bde128438,true,false,,,,,the tempest,shakespeare
+cacc3a1fd3594a44cd2cbb7f90478169ced34195,true,false,,,,,timon of athens,shakespeare
+cb079d892a3c7ebe34efcd21447d26b6fcd42a11,true,false,,,,,king lear,shakespeare
+cb23030752b1dc34edfc1eb6625c71168cb83171,true,false,,,,,cymbeline,shakespeare
+cb54c065f378050566e5e8db43853ec320892866,true,false,shake000031,,,,macbeth,shakespeare
+cb6085b87a49a4a5cb954d48153c83067b3cb744,true,false,,shake000003,,,the merry wives of windsor,shakespeare
+cb9d3f762ff660cbc8d83a0028e1aaa28c8db5c8,true,false,,shake000033,,,king lear,shakespeare
+cbc8992eb0df3bc3d5d5ce3bdfa812c02ae2ccbe,true,false,,shake000018,,,henry iv part ii,shakespeare
+cbe6ea610ad14eb84687bd9e09035007011f83e5,true,false,,,,,richard iii,shakespeare
+ce144122431953274f0edb050cb66bcae8ad156b,true,false,,shake000013,,,twelfth night,shakespeare
+ce1c270d0a0cfb46ad026584c66b8f0c12607993,true,false,shake000013,,,,twelfth night,shakespeare
+ce245e355c9a4b4570ae48f76745677d44379a3b,true,false,,,,,antony and cleopatra,shakespeare
+ce369eb2a25168158c9e49ca9e2532a2c9b22a44,true,false,,shake000023,,,richard iii,shakespeare
+ce7a505382694276af0a1c1a2ea8fe3e5ef62ff3,true,false,shake000032,,,,hamlet,shakespeare
+cf6ccc01e28483ebf7777f8efb56c91dac20b53b,true,false,,shake000010,,,as you like it,shakespeare
+d0016146d7f2b612c8b25abd4e67c5d12539cbaa,true,false,,,,,the comedy of errors,shakespeare
+d044ceb6b990536d310a4204491b1aa99e971a69,true,false,,,,,henry v,shakespeare
+d0b2abb2d74d7df813e81c403e7b3bb430b551c3,true,false,,,,,henry v,shakespeare
+d1c99df44a3434fc8c2598f86d30068faafb3037,true,false,,,,,the winter s tale,shakespeare
+d20acbf71fbc8315e08a320e011934278c6c6bb2,true,false,,shake000009,,,the merchant of venice,shakespeare
+d212c81003a4405ba6a2a4c7d4dcef416c13c55c,true,false,shake000019,,,,henry v,shakespeare
+d249294a4b6da5b5871bd50c73c2e2d35af65124,true,false,,,,,as you like it,shakespeare
+d269d619d5d36ad25d2f4c82ce3537d0778822aa,true,false,shake000011,,,,the taming of the shrew,shakespeare
+d2745bb0ca0a5e66b4ffe3c765c1ecc75b19ca68,true,false,,shake000024,,,henry viii,shakespeare
+d2bfe5393ae05637a25b159ce6cb9d1f8acb8a0e,true,false,shake000027,,,,titus andronicus,shakespeare
+d2ea5ebcf1c8fcf36c24c55cd9b950194e0a6119,true,false,,,,,othello,shakespeare
+d363b79c9907c9c39ef0b9cb3252b3ea8cebde20,true,false,,shake000029,,,timon of athens,shakespeare
+d3b04e8f3da721ad9a01327503196628a6be3c51,true,false,,,,,richard ii,shakespeare
+d3d050dc270146cda4f0529fcef2e770dfe5dbe6,true,false,,shake000008,,,a midsummer night s dream,shakespeare
+d4825bce677de61a56b58bd99b7c861e5f79decc,true,false,,,,,titus andronicus,shakespeare
+d4ab3edab1d5920debc677fed68241b5589e7a9c,true,false,,,,,troilus and cressida,shakespeare
+d50f0975526ab9ca64d0931d79b7e9db8e64013c,true,false,,shake000031,,,macbeth,shakespeare
+d5f96ae901028841967b919815de1e75f975e50a,true,false,,shake000026,,,coriolanus,shakespeare
+d62e1562b748d18de1e50b04f6ce4fb1a0ad2272,true,false,shake000008,,,,a midsummer night s dream,shakespeare
+d6bcfb3cdf7d39d357d8a5d24cfb9b625b4d5a3b,true,false,,,,,a midsummer night s dream,shakespeare
+d6ca966a108cb65aa2c542b812ec8dce4b9e6cdb,true,false,,,,,two gentlemen of verona,shakespeare
+d76179ca12d4523254db255c54ae1de57ca17aa2,true,false,,shake000037,,,pericles,shakespeare
+d7b24363248a24bbf8c3a4c70bad81ce76053eab,true,false,,shake000035,,,antony and cleopatra,shakespeare
+d7b4af29d4eb341ad535cbc4604f08e2a7f531fa,true,false,,shake000020,,,henry vi part 1,shakespeare
+d8f80cd05fb01e1bbc77d42eea952fe31a666c58,true,false,shake000014,,,,the winter s tale,shakespeare
+d92ef16498409091f3a5f9a59870c1e7816c1d5d,true,false,,,,,julius caesar,shakespeare
+d9d5e91b873565a063b145aac7cf311ca8c554a7,true,false,shake000031,,,,macbeth,shakespeare
+da481c5f896a876891f3f593ef4d491a8216d024,true,false,,shake000023,,,richard iii,shakespeare
+da4d0ecbc4d5c2f7789c9d90ecf7fa1dbb72b72c,true,false,,,,,macbeth,shakespeare
+da7519191b5a7a1638d771026bba1157a1db0986,true,false,,shake000031,,,macbeth,shakespeare
+db361ee0da4a6d15010ae63e23b66602f8aa4c61,true,false,,shake000009,,,the merchant of venice,shakespeare
+db8d81b10eb42756e7365582224e9621259644a8,true,false,shake000021,,,,henry vi part 2,shakespeare
+dbb251851ec860867f2961c0ed7fcaa0789dbcd1,true,false,,,,,macbeth,shakespeare
+dbc9e447178aead98c3a05697db2c900c560f421,true,false,shake000013,,,,twelfth night,shakespeare
+dbe6ced5be708c1218921c286270d269848cd639,true,false,shake000016,,,,richard ii,shakespeare
+dbfed234dd6f8507dedfb8aa21b1d99c98dd5dcf,true,false,,,,,henry vi part 2,shakespeare
+dc2068f3d0497ebbe3233b94bb634febfb5958c8,true,false,,,,,two gentlemen of verona,shakespeare
+dc5153130b086c96fe07fb8bfed2b29661360823,true,false,,,,,othello,shakespeare
+dd3bed8de92e030d74d0fc2c50d02073c25f1e05,true,false,,shake000024,,,henry viii,shakespeare
+ddceddcc3afcbf9b50e0df9a67161296bd451c0a,true,false,,,,,macbeth,shakespeare
+de89b9838adedce0ea221a8ebeba45888134bd38,true,false,,shake000033,,,king lear,shakespeare
+df2efee376b444bede678977972ee4d22513ca99,true,false,,shake000027,,,titus andronicus,shakespeare
+dfebd271a80bf847e01d17451de5b099aab12471,true,false,,,,,henry vi part 1,shakespeare
+dfeedcdaba5b642502ea0b8d15117ecac4f2f7d5,true,false,,shake000008,,,a midsummer night s dream,shakespeare
+e08ee7b33179072ff0c4b8827c8a7845694ce7a0,true,false,shake000010,,,,as you like it,shakespeare
+e0a8440dc7f9f10bb97ceef19be318532ee9d772,true,false,,shake000036,,,cymbeline,shakespeare
+e118533949e03dccb8257cbc8db894acd7bf31b2,true,false,,,,,the tempest,shakespeare
+e121f92d2a2c774c5c1b27aef6659562b41348b3,true,false,,shake000037,,,pericles,shakespeare
+e17043b5ced52f4029d0f34b0b05e19b38b12e13,true,false,,shake000006,,,much ado about nothing,shakespeare
+e1fa50a4deace3240e4961c5a5da6c22ba975ce3,true,false,,shake000015,,,king john,shakespeare
+e21751ce7aa81e20aa8b9c8beb2ba46fe0528c8e,true,false,shake000005,,,,the comedy of errors,shakespeare
+e25b8586346854c633e2938845849b01c0bf84fa,true,false,,shake000007,,,love s labor s lost,shakespeare
+e30d40a57f2a5cbe35ccee0918c2cba11aa2ca2b,true,false,,shake000028,,,romeo and juliet,shakespeare
+e356ba15fe3f28186117ecb2b0062f5fd0968f10,true,false,,shake000011,,,the taming of the shrew,shakespeare
+e3bcfae1d25cd849437b8969c85ea40a83298249,true,false,,shake000034,,,othello,shakespeare
+e469cd473be85d18573ff6d26bcd47ce8c0df982,true,false,,shake000030,,,julius caesar,shakespeare
+e4cdee8f06b3767375117907b4d3bf131161c58a,true,false,,,,,twelfth night,shakespeare
+e4d91a1f050507420d042a7cace24e2712fbacc9,true,false,,shake000033,,,king lear,shakespeare
+e4da1caf661a16dcb3a536f25d27cc263650cc17,true,false,,shake000036,,,cymbeline,shakespeare
+e511d162270d862315785c8ab2fca196466080a1,true,false,,shake000014,,,the winter s tale,shakespeare
+e514befdce6a4c1f8704424e4c5f041d763aed2c,true,false,shake000033,,,,king lear,shakespeare
+e5f9a2aa8bab4b7e677dcff4196fe505ee955552,true,false,,,,,pericles,shakespeare
+e6508d114a90b2542e25900669e50a8fd56d1426,true,false,,,,,romeo and juliet,shakespeare
+e73fcaab0381fd3ace0a0027bc93ac210ed158f9,true,false,,shake000004,,,measure for measure,shakespeare
+e78d302b18411a69067cf5cfa2e9ab9060e4eab6,true,false,shake000001,,,,the tempest,shakespeare
+e862a9189da1aea1e700d05d9a9511641e956b18,true,false,,,,,henry vi part 3,shakespeare
+e88ab90b793f9e9b0face81fec4a98128a8a3564,true,false,,shake000027,,,titus andronicus,shakespeare
+e8e83ddf1bce464172d2c97c11b78a8a3da4587d,true,false,,,,,coriolanus,shakespeare
+e9096737cf13ea45c1a3c58ce82ed14201966b6f,true,false,,,,,twelfth night,shakespeare
+e978319e41235e798cd9c203d49f701fd1bca4b6,true,false,shake000020,,,,henry vi part 1,shakespeare
+e99a8d16f90b5b60c3dd0c3c5af938a3277a1b66,true,false,shake000010,,,,as you like it,shakespeare
+e9bfaf59d70d289162a708a51cef3fcbb7f192c7,true,false,shake000019,,,,henry v,shakespeare
+ea08580bfacd47c73beaf10a8f626337982dfbfb,true,false,,shake000013,,,twelfth night,shakespeare
+ea45b27351e8e7103c5817843f97b52792c67697,true,false,,shake000028,,,romeo and juliet,shakespeare
+ea84508063179e8ac24feda3fad4a371bf5636cd,true,false,,shake000023,,,richard iii,shakespeare
+ea85bbfe35eb0da84c0b1f9d598df7a79142bc4e,true,false,,shake000030,,,julius caesar,shakespeare
+ebe567114bacea4c16bdba35370471945c747bb1,true,false,shake000034,,,,othello,shakespeare
+ec0fa899e00407fc5385654fe805d741d08d0e1d,true,false,,,,,much ado about nothing,shakespeare
+ec67c7fe0514de3e6fd5d005f4268ae99f59f749,true,false,shake000017,,,,henry iv part i,shakespeare
+ec9aff3dd0841e402843cc5e9998972f3ae9de52,true,false,shake000023,,,,richard iii,shakespeare
+ed5de15dd74abfbbe3f8116f3668cb633dd7d822,true,false,,,,,all s well that ends well,shakespeare
+ed861f28e5b9b18f48635ac49fa9061d140fca7e,true,false,,,,,henry vi part 1,shakespeare
+eda3bb56d43458d73b4bd346e927914be95e88c0,true,false,,shake000025,,,troilus and cressida,shakespeare
+eea09d0bedfd744fc83b6c609d7334be92f72062,true,false,shake000002,,,,two gentlemen of verona,shakespeare
+eee8d769c56a2176484031064084b110b07307be,true,false,shake000030,,,,julius caesar,shakespeare
+ef9be2be041b8b7200153e5e87fda8c421c90c7c,true,false,shake000028,,,,romeo and juliet,shakespeare
+efbf2e852e815b3d08fe4f06dd870dbc30e8b86d,true,false,,,,,troilus and cressida,shakespeare
+effc079f24792ddaec7dd4824a7ca41fc299b4b2,true,false,,,,,richard iii,shakespeare
+f066c2abb86c72163c185ab817faf36f320276a3,true,false,shake000036,,,,cymbeline,shakespeare
+f0b8819dfb362b4b9fa7d75ddccc9cd0bf7b1022,true,false,shake000015,,,,king john,shakespeare
+f1932119f22889e7d10b02ad4975ccf44553c3e3,true,false,shake000003,,,,the merry wives of windsor,shakespeare
+f1b00ea5200468577f07ba393e0d2ec31a2f5c70,true,false,,shake000001,,,the tempest,shakespeare
+f1ca1e2ad7dda65125b886b5f8a8149b11fb677f,true,false,,,,,henry viii,shakespeare
+f22f8ff2d564ac45509382ed5cba4cee562d512a,true,false,,,,,the comedy of errors,shakespeare
+f23ab78280a05c755d1be3fb772ca98c6cb2732b,true,false,,shake000014,,,the winter s tale,shakespeare
+f23b01c37567f28039a76c3c5b4fb754feae0936,true,false,,shake000002,,,two gentlemen of verona,shakespeare
+f3f59384a4655637b6c4e33e73250daf0637156a,true,false,,shake000032,,,hamlet,shakespeare
+f44bb4cafccd5905229f54137747f848a2a44553,true,false,,shake000024,,,henry viii,shakespeare
+f5028859b048ae9c8e8578aa92b431e9134403ed,true,false,,,,,coriolanus,shakespeare
+f517babf08161aaa1b93b02bb9267f343e707020,true,false,,shake000034,,,othello,shakespeare
+f51d8094e111ffc10c36c80eddecfda2a9d2e9e0,true,false,,,,,as you like it,shakespeare
+f54a45149fa5dc882fd7ccdf5b6ae3eb67c3eb67,true,false,,,,,henry vi part 1,shakespeare
+f61efd83fd7a221ee445ae33d3c2f9d46eb452b0,true,false,,shake000018,,,henry iv part ii,shakespeare
+f6226fd32efed5fbcc3ce5d71b92692c8a3470a8,true,false,,shake000008,,,a midsummer night s dream,shakespeare
+f727d1a06e0d60545edd8ef9ff66623eb78f7f0c,true,false,,shake000006,,,much ado about nothing,shakespeare
+f7507cf28a7d98e83b214552ba49b78c65256117,true,false,,,,,timon of athens,shakespeare
+f76dc509f8a8df2bb696a883d255fe4efa5d7377,true,false,,shake000013,,,twelfth night,shakespeare
+f85bafb3b2d0f8f9c08c817474cba5cd9bb15a61,true,false,,shake000025,,,troilus and cressida,shakespeare
+f89ee8183a990cfb1ba35740650bac9000480129,true,false,shake000025,,,,troilus and cressida,shakespeare
+f8ef2d7479c1f7b67a57bd7b8c397f14d0384bd9,true,false,,,,,king john,shakespeare
+f950e20a87ac1fe59c8da76efbc08c8bce74f693,true,false,shake000014,,,,the winter s tale,shakespeare
+f9562cd2eb522a777ad0d4561790edbc72299910,true,false,,,,,king lear,shakespeare
+f9dde975c99f589b7a76007048fb9168d9ae6d19,true,false,,,,,henry iv part ii,shakespeare
+fa5b0700c0ff9f24690dc79956893aad0e5e039c,true,false,shake000012,,,,all s well that ends well,shakespeare
+fa89cee34943b45554c8a5078391f3bb62ac7aab,true,false,,shake000021,,,henry vi part 2,shakespeare
+faa8c5d13957eed6d797df1a6e99abd6f3988d9b,true,false,shake000008,,,,a midsummer night s dream,shakespeare
+fabd753ddcfa50af0196f4122f326957d31ca295,true,false,shake000024,,,,henry viii,shakespeare
+fae3609f037ed6990b153c5159b3588b19a86623,true,false,shake000029,,,,timon of athens,shakespeare
+fb0bea1abcf7cfbca7070255c051f5cce8fea257,true,false,,shake000021,,,henry vi part 2,shakespeare
+fb25bdef0817c3fb08cea355ba537a4fefe99c1e,true,false,shake000036,,,,cymbeline,shakespeare
+fb593e97e03c33a7054a29cca5e849d392998a2c,true,false,shake000037,,,,pericles,shakespeare
+fb5a2db4bb36a363e6dcce8ca09f5d6b1355407e,true,false,shake000024,,,,henry viii,shakespeare
+fb8bb34226cea1e079437c5ffe16193ce934aff3,true,false,,shake000010,,,as you like it,shakespeare
+fc2abd68de996d80e1d4228cd801fd5b1324c5bc,true,false,,,,,the taming of the shrew,shakespeare
+fc5aca02222fe3cb51abdc5ff420d45297f88e9d,true,false,,shake000013,,,twelfth night,shakespeare
+fc7a86074ad4b0b31b4c4849064a53121b91ce4d,true,false,,shake000031,,,macbeth,shakespeare
+fcd2aa833012901322172b3810978e3b25d7b94a,true,false,,,,,king lear,shakespeare
+fd17ba0420c8f604f9ce81551cec7d7ea10de2a4,true,false,,shake000025,,,troilus and cressida,shakespeare
+fe38588867baa5ae3959f72161b058702cf14989,true,false,shake000025,,,,troilus and cressida,shakespeare
+ff76130a67e9485225be08b9b84796d1ecfd1bc2,true,false,shake000035,,,,antony and cleopatra,shakespeare
+ff9eed0c9c6c16f0d362e84bd038f6810c756ae8,true,false,shake000016,,,,richard ii,shakespeare

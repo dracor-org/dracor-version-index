@@ -1,0 +1,85 @@
+# Runs in dracor-org/version-index, which holds these scripts and the index/ folder. Never put
+# it into a corpus repository: every index commit would then change the history it describes.
+#
+# What it does: brings index/ up to date with all DraCor corpus repositories, tests the corpora
+# that changed, and commits the result. Corpora without new commits are skipped and produce no
+# diff (build_index.py reports them as "up to date").
+#
+# Needs: nothing secret. The corpus repositories are public; the push to this repository uses
+# the workflow's own GITHUB_TOKEN (permissions: contents: write below).
+
+name: Update versions index
+
+on:
+  schedule:
+    - cron: "17 3 * * *"        # nightly, 03:17 UTC
+  workflow_dispatch:            # run by hand from the Actions tab
+    inputs:
+      corpora:
+        description: "Corpora to update, space-separated (empty = all)"
+        required: false
+        default: ""
+  repository_dispatch:          # optional: a corpus repository can trigger an update after a push
+    types: [corpus-updated]
+
+permissions:
+  contents: write
+
+concurrency:                    # never two runs writing index/ at the same time
+  group: update-index
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"   # standard library only, no pip install
+
+      - name: Configure git
+        run: |
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      # Each corpus with an existing index/{corpus}/ is cloned blobless (commits and trees,
+      # no file contents); only the XML files of new commits are fetched. A corpus without an
+      # index yet is cloned in full and indexed from its first commit.
+      - name: Update index
+        run: |
+          corpora="${{ github.event.inputs.corpora || github.event.client_payload.corpus || '' }}"
+          if [ -n "$corpora" ]; then
+            python build_index.py $corpora
+          else
+            python build_index.py --all
+          fi
+
+      - name: Find changed corpora
+        id: changed
+        run: |
+          changed=$( { git diff --name-only -- index/; git ls-files --others --exclude-standard -- index/; } \
+                     | grep '^index/[^/]*/' | cut -d/ -f2 | sort -u | tr '\n' ' ')
+          # index/registry.json (registry copy) is committed too, but is not a corpus
+          git diff --quiet -- index/registry.json || registry_changed=1
+          echo "registry=${registry_changed:-0}" >> "$GITHUB_OUTPUT"
+          echo "corpora=$changed" >> "$GITHUB_OUTPUT"
+          echo "changed: ${changed:-none}"
+
+      # Tests read blobs from the blobless clones, which fetches them on demand; a sample
+      # keeps this to minutes. Any failure stops the job before the commit.
+      - name: Test changed corpora
+        if: steps.changed.outputs.corpora != ''
+        run: |
+          for c in ${{ steps.changed.outputs.corpora }}; do
+            python test_index.py "$c" --sample 200
+          done
+
+      - name: Commit and push
+        if: steps.changed.outputs.corpora != '' || steps.changed.outputs.registry == '1'
+        run: |
+          git add index/
+          git commit -m "Update index: ${{ steps.changed.outputs.corpora || 'registry copy' }}"
+          git push

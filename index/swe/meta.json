@@ -1,0 +1,341 @@
+{
+  "corpus": "swe",
+  "repository": "https://github.com/dracor-org/swedracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "d6cc8bd74461e50f12fcc0b0afe80cdce0f18a17",
+  "api_commit": "2385ce22c3408cf989de3ad4d7829b375ca895b1",
+  "api_commit_seq": 33,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 42,
+    "side_commits_merged": 15,
+    "side_commits_unmerged": 6,
+    "intervals": 1070,
+    "tei_ids": 68,
+    "tei_ids_valid_at_head": 68,
+    "tei_files_at_head": 68,
+    "distinct_tei_blobs": 961,
+    "tei_file_commit_pairs": 2788,
+    "dedup_factor": 2.9,
+    "tei_noid_intervals": 210,
+    "last_seq_with_noid_tei": 7,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "duplicate-id": 1,
+      "duplicate-id-resolved": 1,
+      "id-assigned": 68,
+      "id-change": 1,
+      "rename-same-blob": 68,
+      "tei-without-id": 210
+    }
+  },
+  "id_archaeology": {
+    "prefix": "swe",
+    "texts": 68,
+    "texts_by_method": {
+      "file": 68
+    },
+    "intervals_by_method": {
+      "legacy:Dramawebben": 210,
+      "file": 809,
+      "lineage": 10
+    },
+    "legacy_table": 68,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 21,
+    "with_base": 21,
+    "delta_rows": 1331,
+    "tei_delta_rows_by_method": {
+      "file": 500,
+      "legacy:Dramawebben": 396
+    }
+  },
+  "state": {
+    "last_commit": "d6cc8bd74461e50f12fcc0b0afe80cdce0f18a17",
+    "last_seq": 41,
+    "dups_open": {},
+    "last_seen_id": {
+      "swe000001": [
+        41,
+        "tei/agrell-domd.xml"
+      ],
+      "swe000002": [
+        41,
+        "tei/agrell-en-hufvudsak.xml"
+      ],
+      "swe000003": [
+        41,
+        "tei/agrell-en-lektion.xml"
+      ],
+      "swe000004": [
+        41,
+        "tei/agrell-ensam.xml"
+      ],
+      "swe000005": [
+        41,
+        "tei/agrell-hvarfor.xml"
+      ],
+      "swe000006": [
+        41,
+        "tei/agrell-ingrid-en-dods-karlekssaga.xml"
+      ],
+      "swe000007": [
+        41,
+        "tei/agrell-smastadslif.xml"
+      ],
+      "swe000008": [
+        41,
+        "tei/aurelius-farmors-fodelsedag.xml"
+      ],
+      "swe000009": [
+        41,
+        "tei/barthelson-efterspel.xml"
+      ],
+      "swe000010": [
+        41,
+        "tei/benedictsson-final.xml"
+      ],
+      "swe000012": [
+        41,
+        "tei/benedictsson-romeos-julia.xml"
+      ],
+      "swe000013": [
+        41,
+        "tei/bremer-konstnarns-fortviflan.xml"
+      ],
+      "swe000014": [
+        41,
+        "tei/geijerstam-lars-anders-och-jan-anders-och-deras-barn.xml"
+      ],
+      "swe000015": [
+        41,
+        "tei/hedberg-rospiggarna.xml"
+      ],
+      "swe000016": [
+        41,
+        "tei/indebetou-idet-grona.xml"
+      ],
+      "swe000017": [
+        41,
+        "tei/indebetou-ifruntimmersveckan.xml"
+      ],
+      "swe000018": [
+        41,
+        "tei/kullgren-karlek.xml"
+      ],
+      "swe000019": [
+        41,
+        "tei/kuylenstierna-nar-nyar-kom.xml"
+      ],
+      "swe000020": [
+        41,
+        "tei/kuylenstierna-nu-ar-det-jul-igen.xml"
+      ],
+      "swe000021": [
+        41,
+        "tei/leffler-elfvan.xml"
+      ],
+      "swe000022": [
+        41,
+        "tei/leffler-familjelycka.xml"
+      ],
+      "swe000023": [
+        41,
+        "tei/leffler-hur-man-gor-godt.xml"
+      ],
+      "swe000024": [
+        41,
+        "tei/leffler-moster-malvina.xml"
+      ],
+      "swe000025": [
+        41,
+        "tei/leffler-sanna-kvinnor.xml"
+      ],
+      "swe000026": [
+        41,
+        "tei/leffler-skadespelerskan.xml"
+      ],
+      "swe000027": [
+        41,
+        "tei/leffler-under-toffeln.xml"
+      ],
+      "swe000028": [
+        41,
+        "tei/lindhe-modrar.xml"
+      ],
+      "swe000029": [
+        41,
+        "tei/lundberg-forlat-mig.xml"
+      ],
+      "swe000030": [
+        41,
+        "tei/malling-fru-leonora.xml"
+      ],
+      "swe000031": [
+        41,
+        "tei/marholm-otteringning.xml"
+      ],
+      "swe000032": [
+        41,
+        "tei/meyerson-den-nya-klassen.xml"
+      ],
+      "swe000033": [
+        41,
+        "tei/meyerson-ett-pojkstreck.xml"
+      ],
+      "swe000034": [
+        41,
+        "tei/molander-varflod.xml"
+      ],
+      "swe000035": [
+        41,
+        "tei/strindberg-anno-fyrtiatta.xml"
+      ],
+      "swe000036": [
+        41,
+        "tei/strindberg-bandet.xml"
+      ],
+      "swe000037": [
+        41,
+        "tei/strindberg-den-starkare.xml"
+      ],
+      "swe000038": [
+        41,
+        "tei/strindberg-fadren.xml"
+      ],
+      "swe000039": [
+        41,
+        "tei/strindberg-fordringsegare.xml"
+      ],
+      "swe000040": [
+        41,
+        "tei/strindberg-forsta-varningen.xml"
+      ],
+      "swe000041": [
+        41,
+        "tei/strindberg-froken-julie.xml"
+      ],
+      "swe000042": [
+        41,
+        "tei/strindberg-gillets-hemlighet.xml"
+      ],
+      "swe000043": [
+        41,
+        "tei/strindberg-herr-bengts-hustru.xml"
+      ],
+      "swe000044": [
+        41,
+        "tei/strindberg-hostslask.xml"
+      ],
+      "swe000045": [
+        41,
+        "tei/strindberg-infor-doden.xml"
+      ],
+      "swe000046": [
+        41,
+        "tei/strindberg-kamraterna.xml"
+      ],
+      "swe000047": [
+        41,
+        "tei/strindberg-lycko-pers-resa.xml"
+      ],
+      "swe000048": [
+        41,
+        "tei/strindberg-marodorer.xml"
+      ],
+      "swe000049": [
+        41,
+        "tei/strindberg-master-olof.xml"
+      ],
+      "swe000050": [
+        41,
+        "tei/strindberg-moderskarlek.xml"
+      ],
+      "swe000051": [
+        41,
+        "tei/strindberg-paria.xml"
+      ],
+      "swe000052": [
+        41,
+        "tei/strindberg-samum.xml"
+      ],
+      "swe000053": [
+        41,
+        "tei/strindberg-till-damaskus.xml"
+      ],
+      "swe000054": [
+        41,
+        "tei/topelius-t-isma-maffarnas-land.xml"
+      ],
+      "swe000055": [
+        41,
+        "tei/topelius-t-jeppe-och-murra.xml"
+      ],
+      "swe000056": [
+        41,
+        "tei/topelius-z-askungen.xml"
+      ],
+      "swe000057": [
+        41,
+        "tei/topelius-z-jennys-formaningar.xml"
+      ],
+      "swe000058": [
+        41,
+        "tei/topelius-z-krypskyttarne.xml"
+      ],
+      "swe000059": [
+        41,
+        "tei/topelius-z-lucias-ziffror.xml"
+      ],
+      "swe000060": [
+        41,
+        "tei/topelius-z-perdita.xml"
+      ],
+      "swe000061": [
+        41,
+        "tei/topelius-z-skogskonungen.xml"
+      ],
+      "swe000062": [
+        41,
+        "tei/topelius-z-snurran.xml"
+      ],
+      "swe000063": [
+        41,
+        "tei/topelius-z-station-sylvester.xml"
+      ],
+      "swe000064": [
+        41,
+        "tei/topelius-z-tidernas-spegel.xml"
+      ],
+      "swe000065": [
+        41,
+        "tei/wahlenberg-pa-vakt.xml"
+      ],
+      "swe000066": [
+        41,
+        "tei/wahlenberg-tva-valsprak.xml"
+      ],
+      "swe000067": [
+        41,
+        "tei/indebetou-pa-fotvandring.xml"
+      ],
+      "swe000068": [
+        41,
+        "tei/leffler-den-karleken.xml"
+      ],
+      "swe000011": [
+        41,
+        "tei/benedictsson-itelefon.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 42,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}
