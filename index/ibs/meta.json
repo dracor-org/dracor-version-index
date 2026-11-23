@@ -4,21 +4,21 @@
   "branch": "main",
   "branch_from_url_fragment": false,
   "branch_warning": null,
-  "head": "2cf3f78923ab97566c0d08b172de56196d789d10",
+  "head": "20296702b2793f369f63da7bbbc14e6b74ae85ab",
   "api_commit": "e65bf337a4e2e7f525e260a42b965293041a6333",
   "api_commit_seq": 315,
   "api_commit_on_side_branch": false,
   "counts": {
-    "first_parent_commits": 320,
+    "first_parent_commits": 321,
     "side_commits_merged": 9,
     "side_commits_unmerged": 0,
-    "intervals": 407,
+    "intervals": 444,
     "tei_ids": 37,
     "tei_ids_valid_at_head": 37,
     "tei_files_at_head": 37,
-    "distinct_tei_blobs": 382,
-    "tei_file_commit_pairs": 10030,
-    "dedup_factor": 26.26,
+    "distinct_tei_blobs": 419,
+    "tei_file_commit_pairs": 10067,
+    "dedup_factor": 24.03,
     "tei_noid_intervals": 0,
     "last_seq_with_noid_tei": null,
     "tei_unresolved_intervals": 0,
@@ -37,7 +37,7 @@
       "file": 39
     },
     "intervals_by_method": {
-      "file": 360,
+      "file": 397,
       "lineage": 25
     },
     "legacy_table": 0,
@@ -52,163 +52,163 @@
     }
   },
   "state": {
-    "last_commit": "2cf3f78923ab97566c0d08b172de56196d789d10",
-    "last_seq": 319,
+    "last_commit": "20296702b2793f369f63da7bbbc14e6b74ae85ab",
+    "last_seq": 320,
     "dups_open": {},
     "last_seen_id": {
       "ibs000005": [
-        319,
+        320,
         "tei/bygmester-solness.xml"
       ],
       "ibs000019": [
-        319,
+        320,
         "tei/peer-gynt.xml"
       ],
       "ibs000012": [
-        319,
+        320,
         "tei/gengangere.xml"
       ],
       "ibs000014": [
-        319,
+        320,
         "tei/samfundets-stotter.xml"
       ],
       "ibs000007": [
-        319,
+        320,
         "tei/fruen-fra-havet.xml"
       ],
       "ibs000013": [
-        319,
+        320,
         "tei/et-dukkehjem.xml"
       ],
       "ibs000006": [
-        319,
+        320,
         "tei/hedda-gabler.xml"
       ],
       "ibs000003": [
-        319,
+        320,
         "tei/john-gabriel-borkman.xml"
       ],
       "ibs000004": [
-        319,
+        320,
         "tei/lille-eyolf.xml"
       ],
       "ibs000008": [
-        319,
+        320,
         "tei/rosmersholm.xml"
       ],
       "ibs000015": [
-        319,
+        320,
         "tei/catilina-2.xml"
       ],
       "ibs000010": [
-        319,
+        320,
         "tei/gildet-pa-solhaug.xml"
       ],
       "ibs000028": [
-        319,
+        320,
         "tei/norma.xml"
       ],
       "ibs000035": [
-        319,
+        320,
         "tei/fjeldfuglen.xml"
       ],
       "ibs000037": [
-        319,
+        320,
         "tei/rypen-i-justedal.xml"
       ],
       "ibs000031": [
-        319,
+        320,
         "tei/hvide-heste.xml"
       ],
       "ibs000027": [
-        319,
+        320,
         "tei/sancthansnatten.xml"
       ],
       "ibs000022": [
-        319,
+        320,
         "tei/kjaerlighedens-komedie.xml"
       ],
       "ibs000017": [
-        319,
+        320,
         "tei/kejser-og-galilaeer.xml"
       ],
       "ibs000021": [
-        319,
+        320,
         "tei/kongs-emnerne.xml"
       ],
       "ibs000026": [
-        319,
+        320,
         "tei/kjaempehoien-2.xml"
       ],
       "ibs000025": [
-        319,
+        320,
         "tei/gildet-paa-solhoug.xml"
       ],
       "ibs000016": [
-        319,
+        320,
         "tei/fru-inger-til-ostrat.xml"
       ],
       "ibs000024": [
-        319,
+        320,
         "tei/fru-inger-til-osteraad.xml"
       ],
       "ibs000029": [
-        319,
+        320,
         "tei/catilina-1.xml"
       ],
       "ibs000023": [
-        319,
+        320,
         "tei/haermaendene-paa-helgeland.xml"
       ],
       "ibs000002": [
-        319,
+        320,
         "tei/nar-vi-dode-vagner.xml"
       ],
       "ibs000020": [
-        319,
+        320,
         "tei/brand.xml"
       ],
       "ibs000009": [
-        319,
+        320,
         "tei/vildanden.xml"
       ],
       "ibs000018": [
-        319,
+        320,
         "tei/de-unges-forbund.xml"
       ],
       "ibs000011": [
-        319,
+        320,
         "tei/en-folkefiende.xml"
       ],
       "ibs000034": [
-        319,
+        320,
         "tei/svanhild.xml"
       ],
       "ibs000032": [
-        319,
+        320,
         "tei/olaf-liljekrans-3.xml"
       ],
       "ibs000036": [
-        319,
+        320,
         "tei/olaf-liljekrans-1.xml"
       ],
       "ibs000038": [
-        319,
+        320,
         "tei/kjaempehoien-1.xml"
       ],
       "ibs000030": [
-        319,
+        320,
         "tei/haermaendene-pa-helgeland.xml"
       ],
       "ibs000001": [
-        319,
+        320,
         "tei/olaf-liljekrans-2.xml"
       ]
     }
   },
   "last_run": {
-    "start_seq": 0,
-    "commits_processed": 320,
-    "blobs_fetched_for_blobless_clone": 0
+    "start_seq": 320,
+    "commits_processed": 1,
+    "blobs_fetched_for_blobless_clone": 37
   }
 }

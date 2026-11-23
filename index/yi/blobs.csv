@@ -10,11 +10,13 @@ blob,tei,malformed,xmlid,idno,legacy_type,legacy_value,title,authors
 05085d9b9291af6387d231e74ac761b9395e0c12,true,false,yi000007,,,,מענטשן,q238090
 0621bf85498a93dec37e05ff21f0e5ee690d1e21,true,false,yi000001,,,,דער מאן אונטערן טיש,לאטײנער
 079931c78ce41ccbe99bc165673a50b33c68e128,true,false,yi000007,,,,מענטשן,q238090
+092b6674c8584d1df64db48a418ec4755184c686,true,false,yi000003,,,,יודאלע דער בלינדער אדער אמת ושקר,לאטײנער
 0c26c873419eefbe9e1fe4a2a9b3a5587adc43c2,true,false,yid000001,,,,the dybbuk synoptic edition,
 0cff97edda989fcc43440b4a318092830c8ac148,true,true,yi000008,,,,דער געט,q238090
 0fadd8ea6eff4b43e569d0eeddc0becef949af0b,true,false,yi000001,,,,דער מאן אונטערן טיש,לאטײנער
 11c868145648f9787781c7eb32ee18373cdd1709,true,false,yi000007,,,,מענטשן,q238090
 12328c2f7f4731bf768f609744d14057991b8745,true,false,yid000001,,,,dybbuk,author
+136173e22a0945f200398aa1559730d8dfccb1eb,true,false,yi000007,,,,מענטשן,q238090
 15165aa5465d94e17b2455fa88a9997530316fcf,true,false,u0000026,,,,97,куліш
 171ddd68b4e1d993ced250575023828e7509cad4,true,false,yi000004,,,,צעזײט און צעשפרײט,q238090
 172c5ef168eae1ecaf34a645444885a9cb6519b2,true,false,Mish,,,,מישקע מאשקע,
@@ -36,6 +38,7 @@ blob,tei,malformed,xmlid,idno,legacy_type,legacy_value,title,authors
 2beb5093427503cbac9d62244d374e9753cfc821,true,false,yi000007,,,,מענטשן,q238090
 2de17ca4a4bb2b2ad5072c751f90d198b9e197ff,true,false,yi000005,,,,דאס גרױסע געװינס,q238090
 2e630d11c8f40d44fc8cf51acaaf39632e4f0d6b,true,false,yi000006,,,,א דאקטער,q238090
+2fc0b2c4ca14c3e694505edb05b772fff514bd5b,true,false,yi000005,,,,דאס גרױסע געװינס,q238090
 2fc7489920b5b6da51b1c538b7f2dea8051e6a27,true,false,tochange,,,,יודאלע דער בלינדער אדע אמת ושקר,לאטײנער
 32f89d5d52aa7c9c4675cd46af47dbea2280767b,true,false,yi000008,,,,דער געט,q238090
 35522cf96195c52858246c699f8dfbaa3d6772b5,true,true,tochange,,,,יודאלע דער בלינדער אדע אמת ושקר,לאטײנער
@@ -68,6 +71,7 @@ blob,tei,malformed,xmlid,idno,legacy_type,legacy_value,title,authors
 6b962561f656f272803faf0234b6ecb9d78e4e90,true,false,yi000003,,,,יודאלע דער בלינדער אדער אמת ושקר,לאטײנער
 6c0aa33844766b0bb3d8482c2b6afd448ca1a66e,true,false,yid000001,,,,dybbuk,author
 6c634d71c9bbcbc9566f7fcb9cba24102bbc83e8,true,false,,,,,the dybbuk synoptic edition,
+6cc483647a887fa58025c20e8a0550f683fd7390,true,false,yi000008,,,,דער געט,q238090
 6d05ce60d516ab360fedaae95d541c0a435eafaf,true,false,yi000003,,,,יודאלע דער בלינדער אדע אמת ושקר,לאטײנער
 6d2aa4fe234aa3a106524df1f0cf5b7e44aff9bb,true,false,yid000001,,,,the dybbuk synoptic edition,
 6e9bcceb1aad451cebd2323995eca88dc386c28a,true,false,yi000004,,,,צעזײט און צעשפרײט,q238090
@@ -131,6 +135,7 @@ b7235cc7dad9f42dd946fbcec0e64e19194be96d,true,false,yi000006,,,,א דאקטער,
 ba097d2453482d08811fb56400bc040ddcf9124d,true,false,,,,,דער מאן אונטערן טיש,לאטײנער
 ba6388f1cf0e64824204db4ab187c68f8715b0fe,true,false,yi000003,,,,יודאלע דער בלינדער אדע אמת ושקר,לאטײנער
 ba91c3e61320ccaf0f885c95c34355bed50e207d,true,true,yi000003,,,,יודאלע דער בלינדער אדע אמת ושקר,לאטײנער
+bb12d2dd3948d38839f2fad1136404c9997f6a53,true,false,yi000004,,,,צעזײט און צעשפרײט,q238090
 bbdbcd3b339b12a5f441b3b09f8c5798cd533e23,true,false,yi000001,,,,דער מאן אונטערן טיש,לאטײנער
 bc696eac3a68d9cc53822b2022c1ee3d85034b00,false,false,,,,,,
 bd1b202d89b04c97a91703c193ea9bf6c03d97c6,true,false,u0000026,,,,97,куліш
@@ -140,10 +145,12 @@ c1bf75411c6934e618d9cb5fd4ea191a5953362d,true,false,yi000001,,,,דער מאן א
 c34c9a995dba9d25c810874b50e464539695a312,true,false,tochange,,,,יודאלע דער בלינדער אדע אמת ושקר,לאטײנער
 c3a85cc9e0c0d2c955bddd4c1caf3ae8871fcf21,true,false,yi000004,,,,צעזײט און צעשפרײט,q238090
 c42f9af39c1335f0511a016da40e86ec2b80dc7d,true,false,yi000003,,,,יודאלע דער בלינדער אדער אמת ושקר,לאטײנער
+c555595ad61d60d60b795c328c8dda2ce04966f0,true,false,yi000002,,,,ענגשאפט,ראוז
 c55da127c503fab775b791034f03f4eb0ecbf7c0,true,false,yi000002,,,,ענגשאפט,ראוז
 c735cb38fcbdc422b3fcf1a68f65836e57586f5b,true,false,yi000003,,,,יודאלע דער בלינדער אדע אמת ושקר,לאטײנער
 c8c9a4b8c2924eac5f643f8a4ae3ed3fe68a995b,true,false,yi000007,,,,מענטשן,q238090
 cb79a20be4cab3ee3aa5ee99be95d08443901e53,true,false,yi000005,,,,דאס גרױסע געװינס,q238090
+cba16dbfc21b7763c0157e84dd5b458920dd550d,true,false,yi000001,,,,דער מאן אונטערן טיש,לאטײנער
 cee075a4deeeb00c34ecefab4f89a47cd08dad60,true,false,yi000002,,,,ענגשאפט,ראוז
 d1cd37981bc1b30c54d987c5417d10012eda0994,true,false,tochange,,,,יודאלע דער בלינדער אדע אמת ושקר,לאטײנער
 d4cad8fb8dcb6c979a57d99442f3807e38cb8076,true,false,yi000001,,,,דער מאן אונטערן טיש,לאטײנער

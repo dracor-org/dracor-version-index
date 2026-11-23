@@ -13,7 +13,8 @@ yi000001,tei/lateiner-der-man-untern-tish.xml,99b3c11b6ad2e7b25c5fa98a0ce9b73708
 yi000001,tei/lateiner-der-man-untern-tish.xml,0621bf85498a93dec37e05ff21f0e5ee690d1e21,68,104,tei,yi000001,file
 yi000001,tei/lateiner-der-man-untern-tish.xml,d4cad8fb8dcb6c979a57d99442f3807e38cb8076,105,108,tei,yi000001,file
 yi000001,tei/lateiner-der-man-untern-tish.xml,753166f367ee8153ee33f899d8cedbd19c942c7b,109,110,tei,yi000001,file
-yi000001,tei/lateiner-der-man-untern-tish.xml,665936e4030c5eb80b3f34e7608b936b74f13288,111,,tei,yi000001,file
+yi000001,tei/lateiner-der-man-untern-tish.xml,665936e4030c5eb80b3f34e7608b936b74f13288,111,123,tei,yi000001,file
+yi000001,tei/lateiner-der-man-untern-tish.xml,cba16dbfc21b7763c0157e84dd5b458920dd550d,124,,tei,yi000001,file
 yi000002,tei/Mischke_TEI.xml,ae446611896d584117557a3d0cf5dfe10abfb83a,30,31,tei,,title
 yi000002,tei/MishkeMashke4Dracor.xml,9ec2318df3b53e7776524b4bb4c5da7dd19758d3,36,36,tei,,lineage
 yi000002,tei/lateiner-mishke-un-moshke.xml,9ec2318df3b53e7776524b4bb4c5da7dd19758d3,37,37,tei,,lineage
@@ -28,7 +29,8 @@ yi000002,tei/rose-engshaft.xml,9328701c2ce4e4ef7310d1dec55906c7bf3104ad,64,64,te
 yi000002,tei/rose-engshaft.xml,f91bb7d205567353815543976fd01c9c66590f86,65,65,tei,yi000002,file
 yi000002,tei/rose-engshaft.xml,cee075a4deeeb00c34ecefab4f89a47cd08dad60,66,108,tei,yi000002,file
 yi000002,tei/rose-engshaft.xml,019471bd34785fc0a9d6992ee4009267809d6ed9,109,110,tei,yi000002,file
-yi000002,tei/rose-engshaft.xml,175aa9b8897138ba544e10e315b143b66f405469,111,,tei,yi000002,file
+yi000002,tei/rose-engshaft.xml,175aa9b8897138ba544e10e315b143b66f405469,111,123,tei,yi000002,file
+yi000002,tei/rose-engshaft.xml,c555595ad61d60d60b795c328c8dda2ce04966f0,124,,tei,yi000002,file
 yi000003,tei/lateiner-yudale-der-blinder.xml,2709ce4844fb7d8c70e09af28e0ae412a8fb7f93,56,56,tei,tochange,lineage
 yi000003,tei/lateiner-yudale-der-blinder.xml,909637cb1842be50e3d39172a86cb4783a4e17e6,57,57,tei,yi000003,file
 yi000003,tei/lateiner-yudale-der-blinder.xml,65dcdd360142f7b8fc181c5f0a577577ec061482,58,59,tei,yi000003,file
@@ -45,7 +47,8 @@ yi000003,tei/lateiner-yudale-der-blinder.xml,a28a612f4fcab5f353cf07d78d6bca056f0
 yi000003,tei/lateiner-yudale-der-blinder.xml,88cad55e30d823b87561727209a30ab0619313a8,76,95,tei,yi000003,file
 yi000003,tei/lateiner-yudale-der-blinder.xml,87b88c1e73c2050b75ebb635a3525d1e86636ffd,96,101,tei,yi000003,file
 yi000003,tei/lateiner-yudale-der-blinder.xml,3a048f53b707c8a93bda6dcb362a41d556e36eca,102,110,tei,yi000003,file
-yi000003,tei/lateiner-yudale-der-blinder.xml,c42f9af39c1335f0511a016da40e86ec2b80dc7d,111,,tei,yi000003,file
+yi000003,tei/lateiner-yudale-der-blinder.xml,c42f9af39c1335f0511a016da40e86ec2b80dc7d,111,123,tei,yi000003,file
+yi000003,tei/lateiner-yudale-der-blinder.xml,092b6674c8584d1df64db48a418ec4755184c686,124,,tei,yi000003,file
 yi000004,tei/sholem-aleichem-tsezeyt-un-tseshpreyt.xml,e379ccacb707c022da7cd7bdb2b7b781a06df8ec,78,78,tei,yi000004,file
 yi000004,tei/sholem-aleichem-tsezeyt-un-tseshpreyt.xml,6e9bcceb1aad451cebd2323995eca88dc386c28a,79,79,tei,yi000004,file
 yi000004,tei/sholem-aleichem-tsezeyt-un-tseshpreyt.xml,a177ed71ae9b8696bbd64f3e0c1e6241d35b72ee,80,80,tei,yi000004,file
@@ -61,7 +64,8 @@ yi000004,tei/sholem-aleichem-tsezeyt-un-tseshpreyt.xml,b2c03fb2583a08a781090e4e3
 yi000004,tei/sholem-aleichem-tsezeyt-un-tseshpreyt.xml,620eb41e123b5602db4458f44a9a2ed31c8f9afb,99,100,tei,yi000004,file
 yi000004,tei/sholem-aleichem-tsezeyt-un-tseshpreyt.xml,9cfba65987f9c079575f72a16a0848b36f54573b,101,108,tei,yi000004,file
 yi000004,tei/sholem-aleichem-tsezeyt-un-tseshpreyt.xml,4093fc5c7c9c7ea648fac959d25150b0b7a3af5d,109,110,tei,yi000004,file
-yi000004,tei/sholem-aleichem-tsezeyt-un-tseshpreyt.xml,171ddd68b4e1d993ced250575023828e7509cad4,111,,tei,yi000004,file
+yi000004,tei/sholem-aleichem-tsezeyt-un-tseshpreyt.xml,171ddd68b4e1d993ced250575023828e7509cad4,111,123,tei,yi000004,file
+yi000004,tei/sholem-aleichem-tsezeyt-un-tseshpreyt.xml,bb12d2dd3948d38839f2fad1136404c9997f6a53,124,,tei,yi000004,file
 yi000005,tei/sholem-aleichem-dos-groyse-gevins.xml,1a8054fdf5f2e4e1a993960124422f3e770e301d,86,86,tei,yi000004,lineage
 yi000005,tei/sholem-aleichem-dos-groyse-gevins.xml,4cb96e264e517b82304fb98a07196e68d1addfd1,87,87,tei,yi000004,lineage
 yi000005,tei/sholem-aleichem-dos-groyse-gevins.xml,86cd1a29c1c0284f60c3b873c039b342cb0e6719,88,88,tei,yi000005,file
@@ -71,7 +75,8 @@ yi000005,tei/sholem-aleichem-dos-groyse-gevins.xml,7c6a29e760638f17a023204ac6e5d
 yi000005,tei/sholem-aleichem-dos-groyse-gevins.xml,2de17ca4a4bb2b2ad5072c751f90d198b9e197ff,96,98,tei,yi000005,file
 yi000005,tei/sholem-aleichem-dos-groyse-gevins.xml,473c859dc497dbc6608dcfdc220742d86f0138ae,99,108,tei,yi000005,file
 yi000005,tei/sholem-aleichem-dos-groyse-gevins.xml,709b1416307aa24234ec1ee37eea7251581b7662,109,110,tei,yi000005,file
-yi000005,tei/sholem-aleichem-dos-groyse-gevins.xml,717d43d864a191f48d769083d2bb0681e5603afc,111,,tei,yi000005,file
+yi000005,tei/sholem-aleichem-dos-groyse-gevins.xml,717d43d864a191f48d769083d2bb0681e5603afc,111,123,tei,yi000005,file
+yi000005,tei/sholem-aleichem-dos-groyse-gevins.xml,2fc0b2c4ca14c3e694505edb05b772fff514bd5b,124,,tei,yi000005,file
 yi000006,tei/sholem-aleichem-a-dokter.xml,01248ae9c656189c8aaa5278c82ea6700fa94041,89,89,tei,yi000005,lineage
 yi000006,tei/sholem-aleichem-a-dokter.xml,54c00f4965589212d95848dcec07e131556c29cd,90,91,tei,yi000006,file
 yi000006,tei/sholem-aleichem-a-dokter.xml,a21853535f276a78d21f13c6bda7a63f76f661c3,92,95,tei,yi000006,file
@@ -87,7 +92,8 @@ yi000007,tei/sholem-aleichem-mentshn.xml,079931c78ce41ccbe99bc165673a50b33c68e12
 yi000007,tei/sholem-aleichem-mentshn.xml,c8c9a4b8c2924eac5f643f8a4ae3ed3fe68a995b,99,99,tei,yi000007,file
 yi000007,tei/sholem-aleichem-mentshn.xml,11c868145648f9787781c7eb32ee18373cdd1709,100,108,tei,yi000007,file
 yi000007,tei/sholem-aleichem-mentshn.xml,e65005e8a52141c10c89a02f54c2a52b17061445,109,110,tei,yi000007,file
-yi000007,tei/sholem-aleichem-mentshn.xml,05085d9b9291af6387d231e74ac761b9395e0c12,111,,tei,yi000007,file
+yi000007,tei/sholem-aleichem-mentshn.xml,05085d9b9291af6387d231e74ac761b9395e0c12,111,123,tei,yi000007,file
+yi000007,tei/sholem-aleichem-mentshn.xml,136173e22a0945f200398aa1559730d8dfccb1eb,124,,tei,yi000007,file
 yi000008,tei/der_get.xml,514798b956d94e716126dea25b74e81daaf57a33,94,94,tei,yi000008,file
 yi000008,tei/der_get.xml,9ccd47452e51166669df7343b1e74f3f82b35a5e,95,95,tei,yi000008,file
 yi000008,tei/der_get.xml,ff3b5e7e45a2eaa9d679b078f25356aca4eab28f,96,98,tei,yi000008,file
@@ -96,7 +102,8 @@ yi000008,tei/der_get.xml,795c163a9c05e587d0a65eb1d26a80cfa40d33d5,109,110,tei,yi
 yi000008,tei/der_get.xml,938aaf39a2b9e9cca0861b92174b084ffac2803e,111,112,tei,yi000008,file
 yi000008,tei/der_get.xml,39cbf7f88f1349bf8f6e92f27c25af448516020d,113,113,tei,yi000008,file
 yi000008,tei/der_get.xml,0cff97edda989fcc43440b4a318092830c8ac148,114,114,tei,yi000008,file
-yi000008,tei/der_get.xml,32f89d5d52aa7c9c4675cd46af47dbea2280767b,115,,tei,yi000008,file
+yi000008,tei/der_get.xml,32f89d5d52aa7c9c4675cd46af47dbea2280767b,115,123,tei,yi000008,file
+yi000008,tei/der_get.xml,6cc483647a887fa58025c20e8a0550f683fd7390,124,,tei,yi000008,file
 tei/dybbuk_a.xml,tei/dybbuk_a.xml,6c634d71c9bbcbc9566f7fcb9cba24102bbc83e8,1,2,tei-unresolved,,
 tei/dybbuk_a.xml,tei/dybbuk_a.xml,1739c9c9bbdfa7df651fe9cb993fe2678b493a17,3,3,tei-unresolved,yid000001,
 tei/dybbuk_a.xml,tei/dybbuk_a.xml,6d2aa4fe234aa3a106524df1f0cf5b7e44aff9bb,4,4,tei-unresolved,yid000001,
