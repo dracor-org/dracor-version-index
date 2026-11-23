@@ -482,8 +482,8 @@ and `meta.json` of each corpus, plus `registry.json` for licences, and stores th
 curl -u admin: -X POST "http://localhost:8080/exist/restxq/v1/id-index?corpora=ger,als"
 ```
 
-By default it reads `https://raw.githubusercontent.com/dracor-org/dracor-version-index/main/index`,
-which only works once this repository is public. `source=` sets another location, e.g. a local
+By default it reads `https://raw.githubusercontent.com/dracor-org/dracor-version-index/main/index`
+(tested). `source=` sets another location, e.g. a local
 copy served with `python -m http.server`. Without `corpora=` it loads the corpora the API has.
 In tests its answers agreed with `lookup.py` on about 2,700 random references across all
 corpora.

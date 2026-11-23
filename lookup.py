@@ -260,7 +260,7 @@ ERRORS = {"bad-reference": 400, "unknown-corpus": 404, "unknown-commit": 404,
 
 
 def version_record(res: dict) -> dict:
-    """The resolver's JSON for one play version (profile `dog`, RESOLVER.md section 4.3/4.4).
+    """The resolver's JSON for one play version (profile `dog`, RESOLVER.md sections 5.3 and 8).
 
     A resolved result gives the record; anything else gives the error body
     {status, error, message}. `loaded` and the api/page URLs need the DraCor API and are left

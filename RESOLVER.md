@@ -1,18 +1,33 @@
-# Specification: versioned DraCor IDs, `https://dracor.org/id/{id}@{commit}`
+# Specification: the DraCor ID resolver with versions, `https://dracor.org/id/{id}@{commit}`
 
-**Status: draft specification, not implemented.** Decisions taken with Ingo on 2026-11-23 are
-marked *(decided)*; everything else is a proposal. This repository implements the resolution
-step (ID + commit → file) in `lookup.py`; the resolver itself is meant to be implemented in
-XQuery in [dracor-api](https://github.com/dracor-org/dracor-api), extending the existing ID
-resolver.
+**Status: draft specification with a working demonstrator.** The demonstrator is the dracor-api
+branch [`feature_resolve_versions`](https://github.com/dracor-org/dracor-api/tree/feature_resolve_versions)
+(module `modules/resolver.xqm`; not merged, not deployed). This document describes what it
+does. Decisions taken with Ingo on 2026-11-23 are marked *(decided)*; everything else is a
+proposal. `lookup.py` in this repository is the reference implementation of the lookup step (ID
++ commit → file); in tests the demonstrator agreed with it on about 2,700 random references
+across all 24 corpora.
 
-## 1. Today's resolver (unchanged)
+## 1. Overview
 
-`https://dracor.org/id/{id}` is passed by the web server to the API route
-`GET /api/v1/id/{id}` (`api:id-to-url` in `modules/api.xqm`, logic in `dutil:id-to-url` in
-`modules/util.xqm`). It finds the loaded play whose `TEI/@xml:id` is `{id}` and answers
-`303 See Other`, choosing the target by exact match on the `Accept` header (values split at
-commas):
+| request | resolves |
+|---|---|
+| `/id/{id}`, e.g. `/id/ger000088` | the play as loaded in DraCor, as before (section 2) |
+| `/id/{corpusname}`, e.g. `/id/ger` | the corpus as loaded in DraCor (section 3) |
+| `/id/{id}@{commit}`, e.g. `/id/ger000088@15a6661` | a play version (section 5) |
+| `/id/{corpusname}@{commit}`, e.g. `/id/ger@15a6661` | a corpus version (section 6) |
+
+`https://dracor.org/id/…` is passed by the web server to the API route `GET /api/v1/id/…`
+(`resolver:resolve`). All targets are chosen by **exact match** on the `Accept` header, as
+before, and optionally by a profile in the `Accept-Profile` header (section 7).
+
+The resolver lives in its own module, `modules/resolver.xqm` *(decided)*. The earlier endpoint
+`api:id-to-url` in `modules/api.xqm` is commented out there; `dutil:id-to-url` in
+`modules/util.xqm` is no longer called.
+
+## 2. Plays: `/id/{id}` (unchanged)
+
+The resolver finds the loaded play whose `TEI/@xml:id` is `{id}` and answers `303 See Other`:
 
 | `Accept` | redirect to |
 |---|---|
@@ -20,37 +35,60 @@ commas):
 | `application/rdf+xml` | `/api/v1/corpora/{corpus}/plays/{play}/rdf` |
 | anything else | the play page `/{corpus}/{play}` |
 
-`404` if no loaded play has that ID.
+`404` (empty body) if no loaded play has that ID and no corpus has that name. Targets are on
+the answering server's host (configured API base), so staging stays on staging.
 
-**This behaviour does not change** *(decided)*. The versioned form is purely additive.
+**This behaviour does not change** *(decided)*. The only addition is the repository profile
+(section 7). Tested: 48 requests (every play of the test corpus, an unknown and an empty ID, six
+`Accept` values) give the same status and `Location` as dracor-api `main`.
 
-## 2. Syntax
+## 3. Corpora: `/id/{corpusname}`
+
+The corpus URIs `https://dracor.org/id/{corpusname}` are already used as identifiers (DTS
+collection IDs, `dc:identifier` in the OAI-PMH records) but did not resolve
+([dracor-api#245](https://github.com/dracor-org/dracor-api/issues/245)). The corpus is found by
+its name, as in `corpus.xml` (`dutil:get-corpus`). Note: by name (`/id/dutch`), not by ID prefix
+(`dut`).
+
+| `Accept` | response |
+|---|---|
+| `application/json` | `303` → API corpus endpoint `/api/v1/corpora/{corpusname}` |
+| `application/tei+xml` or `application/xml` | `200`, the `corpus.xml` stored in the database, `Content-Type` as requested, `Content-Profile: <https://dracor.org/schema.rng>` |
+| anything else | `303` → the corpus page `/{corpusname}` |
+
+A play ID takes precedence over a corpus name; the two can't collide (IDs end in digits).
+
+## 4. Syntax of versions
 
 ```
 https://dracor.org/id/{id}@{commit}
-https://dracor.org/api/v1/id/{id}@{commit}       (the API route behind it)
+https://dracor.org/id/{corpusname}@{commit}
+https://dracor.org/api/v1/id/…@{commit}       (the API route behind it)
 ```
 
-- **`{id}`**: a DraCor play ID, e.g. `ger000088`. **Plays only**; corpora and characters are
-  not resolved *(decided)*.
+- **`{id}`**: a DraCor play ID (letters + digits), e.g. `ger000088`. **`{corpusname}`**: a
+  corpus name (letters), e.g. `ger`.
 - **`{commit}`**: a commit of the corpus repository (a corpus version). **Full (40) and
   abbreviated (≥ 7) hex hashes are both accepted** and resolved directly, without a redirect
   to the full form *(decided)*. Any commit counts: main line or side branch, released or not.
+- The `@` reaches the RESTXQ path parameter unchanged (tested); the resolver splits at it.
 
-## 3. Resolution
+## 5. Play versions: `/id/{id}@{commit}`
 
-Input: `{id}`, `{commit}`. All data comes from this index (section 7).
+### 5.1 Resolution
+
+All data comes from this index (section 9).
 
 1. **Corpus.** The letters before the digits of `{id}` are its prefix. Find the corpus whose
-   prefix equals it exactly (`ro` ≠ `rom`, `ger` ≠ `gersh`):
-   - from the DraCor corpus registry, field `idPrefix` or `formerIdPrefixes`, once it exists
-     ([dracor-registry#3](https://github.com/dracor-org/dracor-registry/issues/3));
-   - until then from the prefix the index derives (`meta.json` → `id_archaeology.prefix`, e.g.
-     `dutch` → `dut`) and the earlier prefixes in `archaeology.py` (`ep` → `eng`).
-
-   No corpus → error `unknown-corpus`.
-2. **Commit.** Find the commit in the corpus's `commits.csv`: exact match on a full hash, or
-   the single commit starting with an abbreviation. None → `unknown-commit`; several →
+   prefix equals it exactly (`ro` ≠ `rom`, `ger` ≠ `gersh`). Prefixes come from the index
+   (`meta.json` → `id_archaeology.prefix`, e.g. `dutch` → `dut`) and the earlier prefixes of
+   `archaeology.py` (`ep` → `eng`, repeated in `$resolver:former-prefixes`). Once corpora
+   declare their prefix in `corpus.xml`
+   ([dracor-schema#213](https://github.com/dracor-org/dracor-schema/issues/213)), that should
+   come first and the index serve as fallback (earlier prefixes, corpora not loaded). No corpus
+   → `unknown-corpus`.
+2. **Commit.** Find the commit among the corpus's commits: exact match on a full hash, or the
+   commits starting with an abbreviation. None → `unknown-commit`; several →
    `ambiguous-commit`.
 3. **Files at that commit.**
    - Main-line commit (`seq` set): all rows of `components.csv` with
@@ -64,39 +102,26 @@ Input: `{id}`, `{commit}`. All data comes from this index (section 7).
    - several → `duplicate-id` (known upstream, e.g. DutchDraCor);
    - one → resolved: `path`, `blob`, the full commit hash.
 
-`lookup.py` is the reference implementation (`VersionIndex.resolve_name` with steps
-`("id", "in-file")`, `resolve_ref`).
+### 5.2 Responses
 
-## 4. Responses
+**The commit DraCor has loaded for that play** (the `commit` of the play endpoint, from
+`git.xml`): exactly the response of `/id/{id}` (section 2) *(decided)*, including
+`application/json` → `303` to the API play endpoint. The version record is requested with the
+profile `dog` (section 7).
 
-### 4.1 Resolved, and `{commit}` is the commit DraCor has loaded for that play
+**Any other commit:** the play page and API can't show other states, so the targets are the
+exact file contents on GitHub *(decided)*:
 
-"The same as latest": the API knows the commit each play was loaded from (`commit` in the play
-endpoint, from `git.xml`). If the resolved full commit equals it, the response is exactly that
-of `/id/{id}` (section 1): `303` to the play page, the API play endpoint or its RDF, on the
-host of the server that answers *(decided)*. So on staging it stays on staging.
-
-`application/json` keeps that meaning too (`303` to the API play endpoint). The version
-record is requested with the profile `dog` (4.5) instead.
-
-### 4.2 Resolved, any other commit
-
-The play page and API can't show other states, so the targets are the exact file contents on
-GitHub *(decided)*:
-
-| `Accept` (exact match, as today) | response |
+| `Accept` | response |
 |---|---|
-| `application/json` | `200`, version record (4.3); the API can't serve other states, so there is no endpoint to redirect to |
+| `application/json` | `200`, version record (5.3) |
 | `application/tei+xml` or `application/xml` | `303` → `https://raw.githubusercontent.com/{org}/{repo}/{commit}/{path}` |
-| `application/rdf+xml` | `406`, error `not-acceptable` (no RDF exists for other versions) |
+| `application/rdf+xml` | `406`, error `not-acceptable` |
 | anything else (browsers) | `303` → `https://github.com/{org}/{repo}/blob/{commit}/{path}` |
 
-`{commit}` in these URLs is always the full hash.
+`{commit}` in these URLs is always the full hash. File paths are not percent-encoded yet (open).
 
-Proposal: `application/tei+xml` / `application/xml` also go to the raw GitHub file in 4.1, since
-that is the exact git content (the API's TEI output is re-serialised by eXist).
-
-### 4.3 Version record (profile `dog`)
+### 5.3 Version record
 
 ```json
 {
@@ -117,82 +142,115 @@ that is the exact git content (the API's TEI output is re-serialised by eXist).
 }
 ```
 
-- `id_method` tells how the ID was established for that version (`file`: in the file itself;
+- `id_in_file`: the ID the file itself carried at that commit, `null` if none (early
+  versions). `id_method` tells how the ID was established (`file`: in the file itself;
   `legacy:…`, `lineage`, `title`: inferred by the index, see README).
 - `loaded`: whether this is the commit DraCor currently has loaded for the play. If `true`,
   `urls` also contains `api` (the play endpoint) and `page` (the play page).
-- To be decided: a play title (has to be read from the TEI file; the index stores only a
-  normalised title for matching), corpus title and DOI from the registry, and a version number
-  for the record format, since external configs (DOG) depend on it.
+- `license`: from the registry copy in the index (`registry.json`), `null` where the registry
+  has none.
+- To be decided: a play title (has to be read from the TEI file), corpus title and DOI, and a
+  version number for the record format, since external configs (DOG) depend on it.
 
-`python lookup.py --profile dog ger000088@15a6661` prints this record (without `loaded` and
-the `api`/`page` URLs, which need the DraCor API), and the error bodies of 4.4.
+`python lookup.py --profile dog ger000088@15a6661` prints the same record (without `loaded` and
+the `api`/`page` URLs) and the error bodies of section 8.
 
-### 4.4 Errors
+## 6. Corpus versions: `/id/{corpusname}@{commit}`
 
-Every error is a JSON body with the HTTP status, an error code and a message *(decided)*:
+The corpus is found by name in the index, the commit as in 5.1 step 2.
+
+**The commit DraCor has loaded for the corpus** (the `commit` of the corpus endpoint): exactly
+the response of `/id/{corpusname}` (section 3).
+
+**Any other commit:**
+
+| `Accept` | response |
+|---|---|
+| `application/json` | `200`, corpus version record |
+| `application/tei+xml` or `application/xml` | `303` → raw `corpus.xml` at that commit on GitHub |
+| anything else | `303` → the repository at that commit, `https://github.com/{org}/{repo}/tree/{commit}` |
+
+Corpus version record: `corpus`, `commit`, `date`, `loaded`, `license`, `urls` (`github`: the
+tree, `raw`: `corpus.xml`). This resolves corpus versions that DraCor doesn't have loaded,
+which is useful with or without a profile.
+
+## 7. Profiles (`Accept-Profile`)
+
+Requested with a header, using W3C Content Negotiation by Profile *(decided: header, not a
+query parameter)*, e.g. `Accept-Profile: <https://dracor.org/profiles/dog>`. An unknown profile
+is ignored (the `Accept` rules apply), as the W3C draft allows. **All profile URIs are
+placeholders** until DraCor has a policy for its URIs
+([dracor-api#434](https://github.com/dracor-org/dracor-api/issues/434)); a profile URI needn't
+resolve, but it can't change once external configs use it.
+
+| profile | applies to | effect |
+|---|---|---|
+| `https://dracor.org/profiles/repository` | all four forms | the page view (any `Accept` other than JSON, RDF, XML) goes to the repository instead of dracor.org: plays → the TEI file on GitHub at the loaded or requested commit; corpora → the repository (for a corpus version other than the loaded one, the tree at that commit). |
+| `https://dracor.org/profiles/dog` | versions | always JSON, never a redirect: `200` and the version record (5.3, or the corpus version record) for every resolved commit, the loaded one included, or the error body (section 8); `Content-Profile: <https://dracor.org/profiles/dog>`. For the CLARIN Digital Object Gateway (section 10). |
+| `https://dracor.org/schema.rng` | response only | sent as `Content-Profile` with `corpus.xml` (section 3): the document follows the DraCor schema. |
+
+- **No `Link` header** on any response, unless it is real FAIR Signposting (section 10).
+- New JSON and XML responses carry `Vary: Accept, Accept-Profile`. The redirects of sections 2
+  and 3 are unchanged and have none.
+- Suggested, not implemented: the OAI-PMH record of a corpus as another target (Dublin Core or
+  CMDI, chosen by profile). The endpoint returns a full OAI-PMH envelope as `text/xml`, and
+  whether CLARIN accepts a GetRecord URL as the CMDI self link is still open, so this waits.
+
+## 8. Errors
+
+Every error of a versioned request is a JSON body with the HTTP status, an error code and a
+message *(decided)*:
 
 ```json
 {"status": 404, "error": "unknown-commit",
- "message": "Commit 15a6661 is not in the version index of corpus ger (index up to 9f3c2e1, 2026-11-22). It may be newer than the index."}
+ "message": "Commit 1234567 is not in the version index of corpus ger (index up to f4bb969, 2026-11-08). It may be newer than the index."}
 ```
 
 | HTTP | `error` | when |
 |---|---|---|
-| 400 | `bad-request` | `{commit}` not 7–40 hex characters, or `{id}` not letters + digits |
-| 404 | `unknown-corpus` | no corpus has that ID prefix |
-| 404 | `unknown-commit` | the commit is not in the index: wrong, or **newer than the last index update** *(decided: 404; the message says how far the index goes)* |
+| 400 | `bad-request` | `{commit}` not 7–40 hex characters, or `{id}` neither letters + digits nor letters |
+| 404 | `unknown-corpus` | no corpus in the index has that ID prefix or name |
+| 404 | `unknown-commit` | the commit is not in the index: wrong, or **newer than the last index load** *(decided: 404; the message says how far the index goes)* |
 | 404 | `ambiguous-commit` | the abbreviation fits several commits of the corpus |
 | 404 | `not-found` | the play is not in that corpus version |
-| 300 | `duplicate-id` | several files carry the ID at that commit; the body lists them with their URLs |
+| 300 | `duplicate-id` | several files carry the ID at that commit; the body lists them (`files`) with their records |
 | 406 | `not-acceptable` | RDF requested for a version other than the loaded one |
 
-### 4.5 Profile `dog`: always the version record
+Unversioned requests keep the plain `404` without a body (section 2).
 
-The version record is requested with a profile in a request header *(decided: header, not a
-query parameter)*, using W3C Content Negotiation by Profile:
+## 9. Data, loading and refresh
 
+The resolver needs, per corpus, `commits.csv`, `components.csv`, `side_commits.csv` (rows of
+kind `tei` and `tei-unresolved`), `meta.json` (prefix, repository, head), plus `registry.json`
+(licences).
+
+**Loading** (implemented): `POST /api/v1/id-index`, authorized like the corpus endpoints.
+
+```sh
+curl -u admin: -X POST "https://…/api/v1/id-index?corpora=ger,als"
 ```
-GET /api/v1/id/ger000088@15a6661
-Accept-Profile: <https://dracor.org/profiles/dog>
-```
 
-With that profile the resolver ignores `Accept` and always answers with JSON: `200` and the
-version record (4.3) for every resolved commit, the loaded one included, or the error body
-(4.4), with `Content-Type: application/json` and `Content-Profile:
-<https://dracor.org/profiles/dog>`. It never redirects. DOG gets the same structure for every
-version, and nothing depends on which commit DraCor has loaded.
+- `corpora=`: comma-separated corpus names; default: the corpora the API has.
+- `source=`: base URL of the index; default
+  `https://raw.githubusercontent.com/dracor-org/dracor-version-index/main/index` (tested).
+- It converts each corpus to one XML document, `/db/dracor/versions/{corpus}.xml` (prefixes,
+  licence, commits, file intervals, side-branch changes), with a range index on hashes, IDs and
+  corpus names. A reload replaces the document. All 24 corpora take about 18 seconds.
+- Files are decoded as UTF-8 whatever charset the server names.
 
-- The profile URI `https://dracor.org/profiles/dog` is a placeholder; to be decided. It
-  should be outside `/id/` and ideally dereference to a description of the record.
-- An unknown profile in `Accept-Profile` is ignored (the normal `Accept` rules apply), as W3C
-  conneg-by-profile allows.
-- The profile applies to the versioned form only. `/id/{id}` stays unchanged.
-- **No `Link` header** on any `@{commit}` response, unless it is real FAIR Signposting
-  (section 8).
+**Refresh** (open): nothing reloads the index yet, so a commit is `unknown-commit` until the
+next load. Proposal: reload a corpus's index whenever the corpus is loaded, plus a nightly
+reload of all corpora after the index workflow has run (the index is updated nightly).
 
-## 5. Caching
+**Caching** is handled by nginx, not by the resolver *(decided)*. Responses for a full hash
+never change; for an abbreviated hash they could only change if a later commit made the
+abbreviation ambiguous; error responses (in particular `unknown-commit`) change when the index
+is reloaded.
 
-Handled by nginx, not by the resolver *(decided)*. Responses for a full hash never change;
-for an abbreviated hash they could only change if a later commit made the abbreviation
-ambiguous; error responses (in particular `unknown-commit`) change when the index is updated.
+**Hosts:** redirects for the loaded commit go to the answering server's own host, as `/id/{id}`
+does; redirects for other commits go to GitHub.
 
-## 6. Hosts
-
-- Redirects for the loaded commit (4.1) go to the answering server's own host, as `/id/{id}`
-  does (configured API base).
-- Redirects for other commits (4.2) go to GitHub.
-
-## 7. Data the resolver needs
-
-From this index, per corpus: `commits.csv`, `components.csv` (rows of kind `tei` and
-`tei-unresolved` suffice), `side_commits.csv` (same), `meta.json` (prefix, repository), plus
-`registry.json`. Open: how this data gets into eXist and in what form (e.g. converted to XML
-and stored in a collection when corpora are loaded, or fetched from the index repository), and
-how often it is refreshed. The index is updated incrementally (nightly in the draft workflow),
-so a brand-new commit is `unknown-commit` until the next update.
-
-## 8. CLARIN: Digital Object Gateway (DOG)
+## 10. CLARIN: Digital Object Gateway (DOG)
 
 DOG resolves identifiers of repositories with a repository config in
 [DOGlib](https://github.com/clarin-eric/DOGlib) (`doglib/static/repo_configs/*.json`). Checked
@@ -213,9 +271,9 @@ against the DOGlib source (master `d14b7c2`, 2025-11-10):
   following redirects, and requires a final `200`. Its user agent is
   `CLARIN-DOG: https://www.clarin.eu/dog`.
 
-  For the resolver: the header-less `HEAD` gets the normal answer (`303` to GitHub). DOG doesn't
-  follow redirects on that `HEAD`, treats the `303` as "no signposting" and continues with the
-  config. This works only as long as **no `Link` header** is sent there.
+  For the resolver: eXist's RESTXQ answers `HEAD` with `405` (as for `/id/{id}` today), which
+  DOG treats as "no signposting" and continues with the config. A `303` would do the same. This
+  works only as long as **no `Link` header** is sent there.
 - **Parsing** (`parsers.py`, `JSONParser`): `ref_file.path` (required) and the optional
   `description`, `license`, `collection_title`, `reverse_pid` and `authors` are JSONPath
   expressions on the response.
@@ -254,8 +312,8 @@ DraCor config (draft):
 }
 ```
 
-**Tested end to end (2026-11-23):** DOGlib `d14b7c2` in a `python:3.11-slim` container against
-a local stand-in of the resolver (`lookup.version_record` behind a small HTTP server, same
+**Tested end to end (2026-11-23), before the demonstrator existed:** DOGlib `d14b7c2` in a
+`python:3.11-slim` container against a local stand-in of the resolver (`lookup.version_record` behind a small HTTP server, same
 config with host `127.0.0.1:8765`):
 
 | identifier | `fetch` → referenced file |
@@ -264,10 +322,10 @@ config with host `127.0.0.1:8765`):
 | `…/id/ger000088@2f4e830a` (2016, before the file had its DraCor ID) | `…/gerdracor/2f4e830a…/data/1772-Lessing_Gotthold_Ephraim-Emilia_Galotti-lina.xml` |
 | `…/id/greek000001@65321f2` (side-branch commit) | `…/greekdracor/65321f2…/tei/euripides-bacchae.xml`, licence CC BY-SA 3.0 US |
 
-Requests the resolver received per `fetch`: `HEAD` without `Accept-Profile` (answered `303`,
+Requests the stand-in received per `fetch`: `HEAD` without `Accept-Profile` (answered `303`,
 signposting skipped), then `GET` with `Accept: */*` and
 `Accept-Profile: <https://dracor.org/profiles/dog>` (answered `200` with the record). DOG sends
-`Accept: */*`, so the profile must take precedence over `Accept`, as specified in 4.5.
+`Accept: */*`, so the profile must take precedence over `Accept`, as specified in section 7.
 
 Bugs in DOGlib found on the way (not DraCor's), reported with proposed fixes as
 [DOGlib#59](https://github.com/clarin-eric/DOGlib/issues/59) and
@@ -280,6 +338,7 @@ Bugs in DOGlib found on the way (not DraCor's), reported with proposed fixes as
   resolver (e.g. unknown commit), DOG's caller gets that `TypeError`.
 
 Open:
+- Repeat this test against the demonstrator instead of the stand-in.
 - `description` and `collection_title` should use a play title once the record has one.
 - An identifier like `https://dracor.org/id/ger000088` (without `@{commit}`) doesn't match the
   regex, so DOG would not resolve it with this config. Whether unversioned IDs should go through
