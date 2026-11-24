@@ -2,8 +2,10 @@
 
 **Status: draft specification with a working demonstrator.** The demonstrator is the dracor-api
 branch [`feature_resolve_versions`](https://github.com/dracor-org/dracor-api/tree/feature_resolve_versions)
-(module `modules/resolver.xqm`; not merged, not deployed). This document describes what it
-does. Decisions taken with Ingo on 2026-11-23 are marked *(decided)*; everything else is a
+(module `modules/resolver.xqm`, draft PR
+[dracor-api#435](https://github.com/dracor-org/dracor-api/pull/435); not merged, not deployed).
+This document describes what it does. Decisions taken with Ingo on 2026-11-23 and 2026-11-24
+are marked *(decided)*; everything else is a
 proposal. `lookup.py` in this repository is the reference implementation of the lookup step (ID
 + commit → file); in tests the demonstrator agreed with it on about 2,700 random references
 across all 24 corpora.
@@ -16,6 +18,10 @@ across all 24 corpora.
 | `/id/{corpusname}`, e.g. `/id/ger` | the corpus as loaded in DraCor (section 3) |
 | `/id/{id}@{commit}`, e.g. `/id/ger000088@15a6661` | a play version (section 5) |
 | `/id/{corpusname}@{commit}`, e.g. `/id/ger@15a6661` | a corpus version (section 6) |
+| `/id` (nothing after it) | the front page, or the API info for JSON (section 11) |
+| `/id?id={…}`, e.g. `/id?id=?ger000088:15a6661` | the same as `/id/{…}`; the form a single handle produces (section 11) |
+
+`:` is accepted wherever `@` separates a version (section 4).
 
 `https://dracor.org/id/…` is passed by the web server to the API route `GET /api/v1/id/…`
 (`resolver:resolve`). All targets are chosen by **exact match** on the `Accept` header, as
@@ -72,6 +78,12 @@ https://dracor.org/api/v1/id/…@{commit}       (the API route behind it)
   abbreviated (≥ 7) hex hashes are both accepted** and resolved directly, without a redirect
   to the full form *(decided)*. Any commit counts: main line or side branch, released or not.
 - The `@` reaches the RESTXQ path parameter unchanged (tested); the resolver splits at it.
+- **`:` is accepted as an alternative separator** (`/id/ger000088:15a6661`), so that a handle
+  extension needs only one `@` (section 11). `@` stays the canonical form under `/id/`. The
+  resolver splits at the first `@`, or else at the first `:`.
+- A **percent-encoded** separator in the path (`%40`, `%3A`) is not matched by RESTXQ and gives
+  a plain `404`. Browsers and curl don't encode `@` or `:` in a path; JavaScript's
+  `encodeURIComponent` does. In the query form (`/id?id=…`) encoding works.
 
 ## 5. Play versions: `/id/{id}@{commit}`
 
@@ -108,6 +120,11 @@ All data comes from this index (section 9).
 `git.xml`): exactly the response of `/id/{id}` (section 2) *(decided)*, including
 `application/json` → `303` to the API play endpoint. The version record is requested with the
 profile `dog` (section 7).
+
+This also holds when the index doesn't know the loaded commit yet (the index is built nightly,
+a corpus is loaded on push), and even when no index is loaded at all, so `{id}@{loaded commit}`
+always resolves. Not with the `dog` profile: its record needs the index, so there the commit is
+`unknown-commit` until the index has it. The same applies to corpus versions (section 6).
 
 **Any other commit:** the play page and API can't show other states, so the targets are the
 exact file contents on GitHub *(decided)*:
@@ -224,7 +241,20 @@ The resolver needs, per corpus, `commits.csv`, `components.csv`, `side_commits.c
 kind `tei` and `tei-unresolved`), `meta.json` (prefix, repository, head), plus `registry.json`
 (licences).
 
-**Loading** (implemented): `POST /api/v1/id-index`, authorized like the corpus endpoints.
+**With every corpus load** (implemented): the jobs that load a corpus (`jobs/load-corpus.xq`,
+started by `POST /api/v1/corpora/{name}` with `load`) and apply a GitHub webhook delivery
+(`jobs/process-webhook-delivery.xq`) also reload that corpus's index
+(`resolver:refresh-corpus`), always from the default source below. A failure is logged and
+never breaks the corpus load. No endpoint or permission of its own is needed: it runs when an
+authorized corpus load or a signed webhook already runs. Tested: index deleted, corpus
+reloaded, index back about 6 s later.
+
+Note: `load:load-corpus` currently ends every load job with a type error after the corpus has
+loaded (it returns a map but declares `xs:string*`), so nothing after it in the job runs. The
+index refresh therefore runs before it. The error itself is older than the resolver and should
+be fixed separately.
+
+**Manually** (implemented): `POST /api/v1/id-index`, authorized like the corpus endpoints.
 
 ```sh
 curl -u admin: -X POST "https://…/api/v1/id-index?corpora=ger,als"
@@ -238,9 +268,22 @@ curl -u admin: -X POST "https://…/api/v1/id-index?corpora=ger,als"
   corpus names. A reload replaces the document. All 24 corpora take about 18 seconds.
 - Files are decoded as UTF-8 whatever charset the server names.
 
-**Refresh** (open): nothing reloads the index yet, so a commit is `unknown-commit` until the
-next load. Proposal: reload a corpus's index whenever the corpus is loaded, plus a nightly
-reload of all corpora after the index workflow has run (the index is updated nightly).
+**Temporarily, without authorization** (for testing on dev.dracor.org, where neither the admin
+password nor a corpus reload is at hand): `POST /api/v1/id-index/refresh`, in its own module
+`modules/id-index-refresh.xqm`, which runs with admin rights (setuid, set in `post-install.xq`,
+as for the webhook). **To be removed before merging.** It is kept safe by:
+
+- reading nothing from the request (no parameters, headers or body; `?source=` is ignored);
+- a fixed source, the public index on GitHub;
+- loading only corpora that are in the database, and writing only to `/db/dracor/versions`;
+- running at most once every 10 minutes, otherwise `503` with `Retry-After` (eXist doesn't
+  accept `429` in a RESTXQ response).
+
+The worst a caller can do is reload the same public data every 10 minutes.
+
+**Still open:** the index is built nightly, a corpus is loaded on push, so for a few hours the
+index lags behind the loaded commit; the fallback in 5.2 covers that commit. A nightly reload of
+all corpora after the index workflow has run would close the gap for the commits in between.
 
 **Caching** is handled by nginx, not by the resolver *(decided)*. Responses for a full hash
 never change; for an abbreviated hash they could only change if a later commit made the
@@ -343,3 +386,68 @@ Open:
 - An identifier like `https://dracor.org/id/ger000088` (without `@{commit}`) doesn't match the
   regex, so DOG would not resolve it with this config. Whether unversioned IDs should go through
   DOG too is a separate question.
+- With a handle (section 11), DOG would get `hdl:PREFIX/SUFFIX@ger000088:15a6661`. DOGlib's
+  handle pattern (`pid.py`, class `HDL`) only allows the extensions `@format=cmdi` and `@view`,
+  and `get_resolvable` drops the extension. That needs a small change in DOGlib.
+
+## 11. A single handle for all of DraCor
+
+**Status:** proposal; the resolver side is implemented and tested, the handle doesn't exist
+yet. A request to GWDG's PID service is being prepared (2026-11-24).
+
+The idea: register **one** handle that points to the resolver, and let the resolver do the
+rest. No PID per play, corpus or version.
+
+**Handle templates.** A handle server can be configured with a template: if a requested handle
+doesn't exist, it splits the name at a delimiter, looks up the part before it and builds the
+target from that handle's URL and the part after it. GWDG's prefixes have one (public record
+`0.NA/11022`, `0.NA/21.11115`): delimiter `@`, target `${data}?${extension}`. The split is at
+the **first** `@`. Tested on prefix `11022` with an existing handle:
+
+```
+hdl.handle.net/11022/1007-0000-0000-8DEE-6@ger000088@15a6661
+  → 302 …/CMDI/content?ger000088@15a6661
+```
+
+CLARIN repositories use the same mechanism, e.g. LINDAT's `hdl:11234/1-3698@format=cmdi`.
+
+**Target URL.** RESTXQ passes query parameters only by name and gives no access to the raw query
+string (`request:get-query-string()` fails: no request object; `rest:uri()` has no query).
+So the handle points to
+
+```
+https://dracor.org/id?id=
+```
+
+and the template appends `?{extension}`. The resolver reads the parameter `id` and drops a
+leading `?`:
+
+| handle | URL | result |
+|---|---|---|
+| `PREFIX/SUFFIX` | `https://dracor.org/id?id=` | front page; JSON: API info |
+| `PREFIX/SUFFIX@ger000088` | `…/id?id=?ger000088` | as `/id/ger000088` |
+| `PREFIX/SUFFIX@ger000088:15a6661` | `…/id?id=?ger000088:15a6661` | as `/id/ger000088@15a6661` |
+| `PREFIX/SUFFIX@ger:15a6661` | `…/id?id=?ger:15a6661` | as `/id/ger@15a6661` |
+
+`/id?id=ger000088@15a6661` (without the `?`) works as well. Tested: `/id?id=…` and `/id?id=?…`,
+with `@` and `:`, gave the same status, target and body as the `/id/…` form for current plays
+and corpora, play and corpus versions (short and full hash), unknown plays and commits, invalid
+commits, four `Accept` values and the `dog` profile (160 comparisons, no difference).
+
+**Separator in the extension:** `:` proposed, so the handle has only one `@`. `@` also works,
+since the split is at the first `@`. Other characters considered: `;` is cut off by Jetty in a
+path, `+` becomes a space in a query, `~` means "parent commit" in git, `!` needs quoting in
+shells, `-`, `_` and `.` are ambiguous with play names or file extensions.
+
+**Bare `/id`:** redirects to the front page (`303`), or to `/api/v1/info` with
+`Accept: application/json`, so a bare handle lands somewhere useful. RESTXQ cannot register a
+path ending in `/` (one such annotation makes eXist drop the whole module), so **`/id/` has to be
+handled by nginx**. On dracor.org, `/id`, `/id/` and `/id?…` currently answer `400`; nginx has to
+pass them to `/api/v1/id` (or redirect `/id/` to `/`). Raised in
+[dracor-api#435](https://github.com/dracor-org/dracor-api/pull/435#issuecomment-7125504661).
+
+**Open:**
+- the handle itself: under which prefix, who can edit its target, whether the suffix can be
+  chosen (e.g. `DRACOR`);
+- the nginx rules above;
+- DOGlib accepting the extension (section 10).
