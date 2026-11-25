@@ -11780,6 +11780,7 @@ ger000786,tei/huber-sapho.xml,ccd119ff58a89b7bd5479063cef3b91e5cf751a0,1504,,tei
 ger000787,tei/schaden-die-moderne-sappho.xml,0b58c37886a198a8727690ebb24d76acb7ceea9c,1503,1503,tei,ger000787,file
 ger000787,tei/schaden-die-moderne-sappho.xml,99ed6f7620934ae840bcd7d4c628ebe2fae17dc0,1504,,tei,ger000787,file
 ger000788,tei/gruber-phaon-und-melitta.xml,8bcfddc07083c8817b16d89109250242b0b226b5,1504,,tei,ger000788,file
+ger000789,tei/gerstenberg-minona-oder-die-angelsachsen.xml,a9834e741559981f4ce47bd1a30e9ae4ffd8e6fe,1506,,tei,ger000789,file
 .github/dependabot.yml,.github/dependabot.yml,867508a6305419e3445d4c05ca7f5e0a371861d9,1253,,other,,
 .github/workflows/validation.yml,.github/workflows/validation.yml,8bad2a610b1e12a415a665cd0754d5a63a39201f,1253,1309,other,,
 .github/workflows/validation.yml,.github/workflows/validation.yml,049f1e7eb1c24075952dbbb50a2ed5f9fd0d0a49,1310,1319,other,,

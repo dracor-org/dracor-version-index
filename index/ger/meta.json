@@ -4,21 +4,21 @@
   "branch": "main",
   "branch_from_url_fragment": false,
   "branch_warning": null,
-  "head": "f4bb969ea0f190d681db8167903cf82e4c98ae9a",
+  "head": "823a305301d4941158a54b4cf6d0958530c2a47d",
   "api_commit": "4919ac26811d2cde453de6d3ef22d0b6689a3bb1",
   "api_commit_seq": 1504,
   "api_commit_on_side_branch": false,
   "counts": {
-    "first_parent_commits": 1506,
+    "first_parent_commits": 1507,
     "side_commits_merged": 391,
     "side_commits_unmerged": 0,
-    "intervals": 11850,
-    "tei_ids": 788,
-    "tei_ids_valid_at_head": 788,
-    "tei_files_at_head": 788,
-    "distinct_tei_blobs": 10835,
-    "tei_file_commit_pairs": 825342,
-    "dedup_factor": 76.17,
+    "intervals": 11851,
+    "tei_ids": 789,
+    "tei_ids_valid_at_head": 789,
+    "tei_files_at_head": 789,
+    "distinct_tei_blobs": 10836,
+    "tei_file_commit_pairs": 826131,
+    "dedup_factor": 76.24,
     "tei_noid_intervals": 5338,
     "last_seq_with_noid_tei": 818,
     "tei_unresolved_intervals": 0,
@@ -42,14 +42,14 @@
   },
   "id_archaeology": {
     "prefix": "ger",
-    "texts": 789,
+    "texts": 790,
     "texts_by_method": {
-      "file": 788,
+      "file": 789,
       "legacy": 1
     },
     "intervals_by_method": {
       "legacy:DLINA-ID": 5331,
-      "file": 6437,
+      "file": 6438,
       "lineage": 13
     },
     "legacy_table": 471,
@@ -67,3167 +67,3171 @@
     }
   },
   "state": {
-    "last_commit": "f4bb969ea0f190d681db8167903cf82e4c98ae9a",
-    "last_seq": 1505,
+    "last_commit": "823a305301d4941158a54b4cf6d0958530c2a47d",
+    "last_seq": 1506,
     "dups_open": {},
     "last_seen_id": {
       "ger000171": [
-        1505,
+        1506,
         "tei/alberti-brot.xml"
       ],
       "ger000041": [
-        1505,
+        1506,
         "tei/alberti-im-suff.xml"
       ],
       "ger000129": [
-        1505,
+        1506,
         "tei/anzengruber-das-vierte-gebot.xml"
       ],
       "ger000120": [
-        1505,
+        1506,
         "tei/anzengruber-der-gwissenswurm.xml"
       ],
       "ger000054": [
-        1505,
+        1506,
         "tei/anzengruber-der-meineidbauer.xml"
       ],
       "ger000337": [
-        1505,
+        1506,
         "tei/anzengruber-der-pfarrer-von-kirchfeld.xml"
       ],
       "ger000304": [
-        1505,
+        1506,
         "tei/anzengruber-die-kreuzelschreiber.xml"
       ],
       "ger000039": [
-        1505,
+        1506,
         "tei/anzengruber-heimgfunden.xml"
       ],
       "ger000407": [
-        1505,
+        1506,
         "tei/arnim-das-loch.xml"
       ],
       "ger000301": [
-        1505,
+        1506,
         "tei/arnim-halle.xml"
       ],
       "ger000195": [
-        1505,
+        1506,
         "tei/arnim-jerusalem.xml"
       ],
       "ger000270": [
-        1505,
+        1506,
         "tei/arnim-marino-caboga.xml"
       ],
       "ger000193": [
-        1505,
+        1506,
         "tei/auenbrugger-der-rauchfangkehrer.xml"
       ],
       "ger000278": [
-        1505,
+        1506,
         "tei/avenarius-faust.xml"
       ],
       "ger000211": [
-        1505,
+        1506,
         "tei/ayrenhoff-der-postzug.xml"
       ],
       "ger000282": [
-        1505,
+        1506,
         "tei/ayrenhoff-virginia.xml"
       ],
       "ger000355": [
-        1505,
+        1506,
         "tei/baeuerle-die-buerger-in-wien.xml"
       ],
       "ger000216": [
-        1505,
+        1506,
         "tei/baeuerle-doktor-fausts-mantel.xml"
       ],
       "ger000075": [
-        1505,
+        1506,
         "tei/ball-die-nase-des-michelangelo.xml"
       ],
       "ger000027": [
-        1505,
+        1506,
         "tei/bauernfeld-buergerlich-und-romantisch.xml"
       ],
       "ger000134": [
-        1505,
+        1506,
         "tei/bauernfeld-grossjaehrig.xml"
       ],
       "ger000185": [
-        1505,
+        1506,
         "tei/bauernfeld-industrie-und-herz.xml"
       ],
       "ger000455": [
-        1505,
+        1506,
         "tei/beer-der-paria.xml"
       ],
       "ger000090": [
-        1505,
+        1506,
         "tei/beer-struensee.xml"
       ],
       "ger000035": [
-        1505,
+        1506,
         "tei/benedix-die-hochzeitsreise.xml"
       ],
       "ger000354": [
-        1505,
+        1506,
         "tei/benedix-die-luegnerin.xml"
       ],
       "ger000314": [
-        1505,
+        1506,
         "tei/benkowitz-die-jubelfeier-der-hoelle.xml"
       ],
       "ger000128": [
-        1505,
+        1506,
         "tei/berg-kalisch-berlin-wie-es-weint-und-lacht.xml"
       ],
       "ger000242": [
-        1505,
+        1506,
         "tei/bernard-faust.xml"
       ],
       "ger000151": [
-        1505,
+        1506,
         "tei/birch-pfeiffer-die-walpurgisnacht.xml"
       ],
       "ger000268": [
-        1505,
+        1506,
         "tei/birch-pfeiffer-in-der-heimath.xml"
       ],
       "ger000411": [
-        1505,
+        1506,
         "tei/birch-pfeiffer-johannes-guttenberg.xml"
       ],
       "ger000247": [
-        1505,
+        1506,
         "tei/birch-pfeiffer-pfeffer-roesel.xml"
       ],
       "ger000092": [
-        1505,
+        1506,
         "tei/birch-pfeiffer-vatersorgen.xml"
       ],
       "ger000322": [
-        1505,
+        1506,
         "tei/bleibtreu-ein-faust-der-that.xml"
       ],
       "ger000065": [
-        1505,
+        1506,
         "tei/bleibtreu-weltgericht.xml"
       ],
       "ger000165": [
-        1505,
+        1506,
         "tei/blumenthal-im-weissen-roessl.xml"
       ],
       "ger000449": [
-        1505,
+        1506,
         "tei/bodmer-odoardo-galotti-vater-der-emilia.xml"
       ],
       "ger000347": [
-        1505,
+        1506,
         "tei/borkenstein-der-bookesbeutel.xml"
       ],
       "ger000199": [
-        1505,
+        1506,
         "tei/bossdorf-bahnmeister-dood.xml"
       ],
       "ger000419": [
-        1505,
+        1506,
         "tei/bossdorf-de-rode-uennerrock.xml"
       ],
       "ger000048": [
-        1505,
+        1506,
         "tei/brandes-ariadne-auf-naxos.xml"
       ],
       "ger000177": [
-        1505,
+        1506,
         "tei/brandes-ino.xml"
       ],
       "ger000202": [
-        1505,
+        1506,
         "tei/braun-von-braunthal-das-nachtlager-von-granada.xml"
       ],
       "ger000204": [
-        1505,
+        1506,
         "tei/braun-von-braunthal-faust.xml"
       ],
       "ger000472": [
-        1505,
+        1506,
         "tei/brawe-brutus.xml"
       ],
       "ger000283": [
-        1505,
+        1506,
         "tei/brawe-der-freygeist.xml"
       ],
       "ger000384": [
-        1505,
+        1506,
         "tei/brentano-die-gruendung-prags.xml"
       ],
       "ger000408": [
-        1505,
+        1506,
         "tei/brentano-ponce-de-leon.xml"
       ],
       "ger000339": [
-        1505,
+        1506,
         "tei/bretzner-belmont-und-constanze.xml"
       ],
       "ger000085": [
-        1505,
+        1506,
         "tei/buechner-dantons-tod.xml"
       ],
       "ger000371": [
-        1505,
+        1506,
         "tei/buechner-leonce-und-lena.xml"
       ],
       "ger000219": [
-        1505,
+        1506,
         "tei/bunge-der-trompeter-von-saekkingen.xml"
       ],
       "ger000145": [
-        1505,
+        1506,
         "tei/busoni-turandot.xml"
       ],
       "ger000433": [
-        1505,
+        1506,
         "tei/chezy-euryanthe.xml"
       ],
       "ger000318": [
-        1505,
+        1506,
         "tei/cornelius-der-barbier-von-bagdad.xml"
       ],
       "ger000068": [
-        1505,
+        1506,
         "tei/cronegk-der-misstrauische.xml"
       ],
       "ger000236": [
-        1505,
+        1506,
         "tei/dehmel-die-menschenfreunde.xml"
       ],
       "ger000299": [
-        1505,
+        1506,
         "tei/dehmel-michel-michael.xml"
       ],
       "ger000273": [
-        1505,
+        1506,
         "tei/devrient-die-gunst-des-augenblicks.xml"
       ],
       "ger000055": [
-        1505,
+        1506,
         "tei/devrient-hans-heiling.xml"
       ],
       "ger000352": [
-        1505,
+        1506,
         "tei/dovsky-mona-lisa.xml"
       ],
       "ger000077": [
-        1505,
+        1506,
         "tei/droste-huelshoff-perdu.xml"
       ],
       "ger000459": [
-        1505,
+        1506,
         "tei/seemann-dulk-die-waende.xml"
       ],
       "ger000335": [
-        1505,
+        1506,
         "tei/eichendorff-das-incognito.xml"
       ],
       "ger000255": [
-        1505,
+        1506,
         "tei/eichendorff-der-letzte-held-von-marienburg.xml"
       ],
       "ger000118": [
-        1505,
+        1506,
         "tei/eichendorff-die-freier.xml"
       ],
       "ger000262": [
-        1505,
+        1506,
         "tei/engel-eid-und-pflicht.xml"
       ],
       "ger000420": [
-        1505,
+        1506,
         "tei/ertler-anna-iwanowna.xml"
       ],
       "ger000367": [
-        1505,
+        1506,
         "tei/ertler-belian-und-marpalye.xml"
       ],
       "ger000052": [
-        1505,
+        1506,
         "tei/ertler-das-spiel-von-doktor-faust.xml"
       ],
       "ger000276": [
-        1505,
+        1506,
         "tei/essig-der-frauenmut.xml"
       ],
       "ger000046": [
-        1505,
+        1506,
         "tei/essig-ueberteufel.xml"
       ],
       "ger000203": [
-        1505,
+        1506,
         "tei/fock-cili-cohrs.xml"
       ],
       "ger000471": [
-        1505,
+        1506,
         "tei/fouque-aslauga.xml"
       ],
       "ger000212": [
-        1505,
+        1506,
         "tei/fouque-sigurd-der-schlangentoedter.xml"
       ],
       "ger000470": [
-        1505,
+        1506,
         "tei/fouque-sigurds-rache.xml"
       ],
       "ger000365": [
-        1505,
+        1506,
         "tei/freytag-die-journalisten.xml"
       ],
       "ger000233": [
-        1505,
+        1506,
         "tei/freytag-graf-waldemar.xml"
       ],
       "ger000376": [
-        1505,
+        1506,
         "tei/ganghofer-der-herrgottschnitzer-von-ammergau.xml"
       ],
       "ger000026": [
-        1505,
+        1506,
         "tei/gehe-jessonda.xml"
       ],
       "ger000124": [
-        1505,
+        1506,
         "tei/gellert-die-betschwester.xml"
       ],
       "ger000326": [
-        1505,
+        1506,
         "tei/gellert-die-zaertlichen-schwestern.xml"
       ],
       "ger000189": [
-        1505,
+        1506,
         "tei/gemmingen-hornberg-der-deutsche-hausvater.xml"
       ],
       "ger000398": [
-        1505,
+        1506,
         "tei/gerhaeuser-der-moloch.xml"
       ],
       "ger000032": [
-        1505,
+        1506,
         "tei/gerstenberg-ugolino.xml"
       ],
       "ger000294": [
-        1505,
+        1506,
         "tei/gessner-evander-und-alcimna.xml"
       ],
       "ger000348": [
-        1505,
+        1506,
         "tei/gleich-der-eheteufel-auf-reisen.xml"
       ],
       "ger000157": [
-        1505,
+        1506,
         "tei/goethe-clavigo.xml"
       ],
       "ger000106": [
-        1505,
+        1506,
         "tei/goethe-der-buergergeneral.xml"
       ],
       "ger000198": [
-        1505,
+        1506,
         "tei/goethe-der-grosskophta.xml"
       ],
       "ger000130": [
-        1505,
+        1506,
         "tei/goethe-der-triumph-der-empfindsamkeit.xml"
       ],
       "ger000458": [
-        1505,
+        1506,
         "tei/goethe-des-epimenides-erwachen.xml"
       ],
       "ger000224": [
-        1505,
+        1506,
         "tei/goethe-die-laune-des-verliebten.xml"
       ],
       "ger000178": [
-        1505,
+        1506,
         "tei/goethe-die-mitschuldigen.xml"
       ],
       "ger000038": [
-        1505,
+        1506,
         "tei/goethe-die-natuerliche-tochter.xml"
       ],
       "ger000442": [
-        1505,
+        1506,
         "tei/goethe-egmont.xml"
       ],
       "ger000383": [
-        1505,
+        1506,
         "tei/goethe-erwin-und-elmire.xml"
       ],
       "ger000201": [
-        1505,
+        1506,
         "tei/goethe-faust-der-tragoedie-zweiter-teil.xml"
       ],
       "ger000243": [
-        1505,
+        1506,
         "tei/goethe-faust-eine-tragoedie.xml"
       ],
       "ger000409": [
-        1505,
+        1506,
         "tei/goethe-goetter-helden-und-wieland.xml"
       ],
       "ger000123": [
-        1505,
+        1506,
         "tei/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml"
       ],
       "ger000001": [
-        1505,
+        1506,
         "tei/goethe-iphigenie-auf-tauris.xml"
       ],
       "ger000356": [
-        1505,
+        1506,
         "tei/goethe-proserpina.xml"
       ],
       "ger000388": [
-        1505,
+        1506,
         "tei/goethe-satyros.xml"
       ],
       "ger000126": [
-        1505,
+        1506,
         "tei/goethe-stella.xml"
       ],
       "ger000082": [
-        1505,
+        1506,
         "tei/goethe-torquato-tasso.xml"
       ],
       "ger000009": [
-        1505,
+        1506,
         "tei/gotter-der-dorfjahrmarkt.xml"
       ],
       "ger000061": [
-        1505,
+        1506,
         "tei/gotter-die-geisterinsel.xml"
       ],
       "ger000246": [
-        1505,
+        1506,
         "tei/gotter-medea.xml"
       ],
       "ger000252": [
-        1505,
+        1506,
         "tei/gottsched-atalanta.xml"
       ],
       "ger000244": [
-        1505,
+        1506,
         "tei/gottsched-der-sterbende-cato.xml"
       ],
       "ger000220": [
-        1505,
+        1506,
         "tei/gottschedin-das-testament.xml"
       ],
       "ger000395": [
-        1505,
+        1506,
         "tei/gottschedin-der-witzling.xml"
       ],
       "ger000462": [
-        1505,
+        1506,
         "tei/gottschedin-die-pietisterey-im-fischbein-rocke.xml"
       ],
       "ger000209": [
-        1505,
+        1506,
         "tei/grabbe-don-juan-und-faust.xml"
       ],
       "ger000393": [
-        1505,
+        1506,
         "tei/grabbe-hannibal.xml"
       ],
       "ger000158": [
-        1505,
+        1506,
         "tei/grabbe-herzog-theodor-von-gothland.xml"
       ],
       "ger000378": [
-        1505,
+        1506,
         "tei/grabbe-napoleon.xml"
       ],
       "ger000380": [
-        1505,
+        1506,
         "tei/grabbe-scherz-satire-ironie-und-tiefere-bedeutung.xml"
       ],
       "ger000358": [
-        1505,
+        1506,
         "tei/grillparzer-der-traum-ein-leben.xml"
       ],
       "ger000010": [
-        1505,
+        1506,
         "tei/grillparzer-des-meeres-und-der-liebe-wellen.xml"
       ],
       "ger000444": [
-        1505,
+        1506,
         "tei/grillparzer-die-ahnfrau.xml"
       ],
       "ger000170": [
-        1505,
+        1506,
         "tei/grillparzer-die-juedin-von-toledo.xml"
       ],
       "ger000121": [
-        1505,
+        1506,
         "tei/grillparzer-ein-bruderzwist-in-habsburg.xml"
       ],
       "ger000372": [
-        1505,
+        1506,
         "tei/grillparzer-ein-treuer-diener-seines-herrn.xml"
       ],
       "ger000286": [
-        1505,
+        1506,
         "tei/grillparzer-koenig-ottokars-glueck-und-ende.xml"
       ],
       "ger000108": [
-        1505,
+        1506,
         "tei/grillparzer-sappho.xml"
       ],
       "ger000136": [
-        1505,
+        1506,
         "tei/grillparzer-weh-dem-der-luegt.xml"
       ],
       "ger000440": [
-        1505,
+        1506,
         "tei/guenderode-magie-und-schicksal.xml"
       ],
       "ger000125": [
-        1505,
+        1506,
         "tei/guenderode-nikator.xml"
       ],
       "ger000293": [
-        1505,
+        1506,
         "tei/guenderode-udohla.xml"
       ],
       "ger000019": [
-        1505,
+        1506,
         "tei/gutzkow-das-urbild-des-tartueffe.xml"
       ],
       "ger000006": [
-        1505,
+        1506,
         "tei/gutzkow-richard-savage.xml"
       ],
       "ger000042": [
-        1505,
+        1506,
         "tei/gutzkow-uriel-acosta.xml"
       ],
       "ger000045": [
-        1505,
+        1506,
         "tei/gutzkow-zopf-und-schwert.xml"
       ],
       "ger000329": [
-        1505,
+        1506,
         "tei/haffner-die-fledermaus.xml"
       ],
       "ger000005": [
-        1505,
+        1506,
         "tei/hafner-der-furchtsame.xml"
       ],
       "ger000002": [
-        1505,
+        1506,
         "tei/hafner-maegera-die-foerchterliche-hexe.xml"
       ],
       "ger000113": [
-        1505,
+        1506,
         "tei/halm-der-sohn-der-wildnis.xml"
       ],
       "ger000350": [
-        1505,
+        1506,
         "tei/hartleben-die-sittliche-forderung.xml"
       ],
       "ger000099": [
-        1505,
+        1506,
         "tei/hartleben-hanna-jagert.xml"
       ],
       "ger000114": [
-        1505,
+        1506,
         "tei/hartleben-rosenmontag.xml"
       ],
       "ger000239": [
-        1505,
+        1506,
         "tei/hauptmann-carl-der-antiquar.xml"
       ],
       "ger000059": [
-        1505,
+        1506,
         "tei/hauptmann-carl-die-armseligen-besenbinder.xml"
       ],
       "ger000104": [
-        1505,
+        1506,
         "tei/hauptmann-carl-ephraims-breite.xml"
       ],
       "ger000060": [
-        1505,
+        1506,
         "tei/hauptmann-carl-frau-nadja-bielew.xml"
       ],
       "ger000406": [
-        1505,
+        1506,
         "tei/hauptmann-carl-gaukler-tod-und-juwelier.xml"
       ],
       "ger000288": [
-        1505,
+        1506,
         "tei/hauptmann-carl-im-goldenen-tempel-buche-verzeichnet.xml"
       ],
       "ger000448": [
-        1505,
+        1506,
         "tei/hauptmann-carl-musik.xml"
       ],
       "ger000385": [
-        1505,
+        1506,
         "tei/hauptmann-carl-tobias-buntschuh.xml"
       ],
       "ger000043": [
-        1505,
+        1506,
         "tei/hebbel-agnes-bernauer.xml"
       ],
       "ger000253": [
-        1505,
+        1506,
         "tei/hebbel-demetrius.xml"
       ],
       "ger000179": [
-        1505,
+        1506,
         "tei/hebbel-der-diamant.xml"
       ],
       "ger000016": [
-        1505,
+        1506,
         "tei/hebbel-der-gehoernte-siegfried.xml"
       ],
       "ger000325": [
-        1505,
+        1506,
         "tei/hebbel-der-rubin.xml"
       ],
       "ger000327": [
-        1505,
+        1506,
         "tei/hebbel-genoveva.xml"
       ],
       "ger000238": [
-        1505,
+        1506,
         "tei/hebbel-gyges-und-sein-ring.xml"
       ],
       "ger000101": [
-        1505,
+        1506,
         "tei/hebbel-herodes-und-mariamne.xml"
       ],
       "ger000324": [
-        1505,
+        1506,
         "tei/hebbel-judith.xml"
       ],
       "ger000160": [
-        1505,
+        1506,
         "tei/hebbel-kriemhilds-rache.xml"
       ],
       "ger000309": [
-        1505,
+        1506,
         "tei/hebbel-maria-magdalene.xml"
       ],
       "ger000392": [
-        1505,
+        1506,
         "tei/hebbel-siegfrieds-tod.xml"
       ],
       "ger000296": [
-        1505,
+        1506,
         "tei/hebbel-trauerspiel-in-sizilien.xml"
       ],
       "ger000284": [
-        1505,
+        1506,
         "tei/heine-almansor.xml"
       ],
       "ger000446": [
-        1505,
+        1506,
         "tei/heine-william-ratcliff.xml"
       ],
       "ger000029": [
-        1505,
+        1506,
         "tei/heiseler-die-kinder-godunofs.xml"
       ],
       "ger000196": [
-        1505,
+        1506,
         "tei/heiseler-peter-und-alexej.xml"
       ],
       "ger000111": [
-        1505,
+        1506,
         "tei/hensler-die-teufelsmuehle-am-wienerberg.xml"
       ],
       "ger000047": [
-        1505,
+        1506,
         "tei/heyse-colberg.xml"
       ],
       "ger000266": [
-        1505,
+        1506,
         "tei/heyse-don-juans-ende.xml"
       ],
       "ger000359": [
-        1505,
+        1506,
         "tei/hippel-der-mann-nach-der-uhr.xml"
       ],
       "ger000115": [
-        1505,
+        1506,
         "tei/hofmannsthal-alkestis.xml"
       ],
       "ger000210": [
-        1505,
+        1506,
         "tei/hofmannsthal-arabella.xml"
       ],
       "ger000267": [
-        1505,
+        1506,
         "tei/hofmannsthal-ariadne-auf-naxos.xml"
       ],
       "ger000161": [
-        1505,
+        1506,
         "tei/hofmannsthal-das-bergwerk-zu-falun.xml"
       ],
       "ger000265": [
-        1505,
+        1506,
         "tei/hofmannsthal-das-salzburger-grosse-welttheater.xml"
       ],
       "ger000102": [
-        1505,
+        1506,
         "tei/hofmannsthal-der-abenteurer-und-die-saengerin.xml"
       ],
       "ger000109": [
-        1505,
+        1506,
         "tei/hofmannsthal-der-rosenkavalier.xml"
       ],
       "ger000364": [
-        1505,
+        1506,
         "tei/hofmannsthal-der-schwierige.xml"
       ],
       "ger000127": [
-        1505,
+        1506,
         "tei/hofmannsthal-der-tod-des-tizian.xml"
       ],
       "ger000079": [
-        1505,
+        1506,
         "tei/hofmannsthal-der-tor-und-der-tod.xml"
       ],
       "ger000387": [
-        1505,
+        1506,
         "tei/hofmannsthal-der-turm.xml"
       ],
       "ger000386": [
-        1505,
+        1506,
         "tei/hofmannsthal-der-unbestechliche.xml"
       ],
       "ger000237": [
-        1505,
+        1506,
         "tei/hofmannsthal-die-frau-im-fenster.xml"
       ],
       "ger000012": [
-        1505,
+        1506,
         "tei/hofmannsthal-die-frau-ohne-schatten.xml"
       ],
       "ger000375": [
-        1505,
+        1506,
         "tei/hofmannsthal-elektra.xml"
       ],
       "ger000159": [
-        1505,
+        1506,
         "tei/hofmannsthal-jedermann.xml"
       ],
       "ger000300": [
-        1505,
+        1506,
         "tei/hofmannsthal-oedipus-und-die-sphinx.xml"
       ],
       "ger000331": [
-        1505,
+        1506,
         "tei/holtei-die-kalkbrenner.xml"
       ],
       "ger000289": [
-        1505,
+        1506,
         "tei/holtei-ein-trauerspiel-in-berlin.xml"
       ],
       "ger000223": [
-        1505,
+        1506,
         "tei/holz-schlaf-die-familie-selicke.xml"
       ],
       "ger000390": [
-        1505,
+        1506,
         "tei/holz-ignorabimus.xml"
       ],
       "ger000174": [
-        1505,
+        1506,
         "tei/holz-sonnenfinsternis.xml"
       ],
       "ger000051": [
-        1505,
+        1506,
         "tei/holz-sozialaristokraten.xml"
       ],
       "ger000399": [
-        1505,
+        1506,
         "tei/holz-jerschke-traumulus.xml"
       ],
       "ger000467": [
-        1505,
+        1506,
         "tei/horvath-kasimir-und-karoline.xml"
       ],
       "ger000015": [
-        1505,
+        1506,
         "tei/iffland-das-erbtheil-des-vaters.xml"
       ],
       "ger000303": [
-        1505,
+        1506,
         "tei/iffland-der-spieler.xml"
       ],
       "ger000156": [
-        1505,
+        1506,
         "tei/iffland-die-jaeger.xml"
       ],
       "ger000434": [
-        1505,
+        1506,
         "tei/iffland-figaro-in-deutschland.xml"
       ],
       "ger000235": [
-        1505,
+        1506,
         "tei/iffland-verbrechen-aus-ehrsucht.xml"
       ],
       "ger000312": [
-        1505,
+        1506,
         "tei/immermann-andreas-hofer.xml"
       ],
       "ger000465": [
-        1505,
+        1506,
         "tei/immermann-das-gericht-von-st-petersburg.xml"
       ],
       "ger000463": [
-        1505,
+        1506,
         "tei/immermann-die-bojaren.xml"
       ],
       "ger000167": [
-        1505,
+        1506,
         "tei/immermann-eudoxia.xml"
       ],
       "ger000004": [
-        1505,
+        1506,
         "tei/immermann-merlin.xml"
       ],
       "ger000093": [
-        1505,
+        1506,
         "tei/kaiser-die-schule-des-armen.xml"
       ],
       "ger000021": [
-        1505,
+        1506,
         "tei/kaiser-stadt-und-land.xml"
       ],
       "ger000403": [
-        1505,
+        1506,
         "tei/kaltneker-das-bergwerk.xml"
       ],
       "ger000180": [
-        1505,
+        1506,
         "tei/kaltneker-die-opferung.xml"
       ],
       "ger000405": [
-        1505,
+        1506,
         "tei/kind-der-freischuetz.xml"
       ],
       "ger000070": [
-        1505,
+        1506,
         "tei/klabund-der-kreidekreis.xml"
       ],
       "ger000437": [
-        1505,
+        1506,
         "tei/kleist-amphitryon.xml"
       ],
       "ger000208": [
-        1505,
+        1506,
         "tei/kleist-das-kaethchen-von-heilbronn.xml"
       ],
       "ger000363": [
-        1505,
+        1506,
         "tei/kleist-der-zerbrochne-krug.xml"
       ],
       "ger000049": [
-        1505,
+        1506,
         "tei/kleist-die-familie-schroffenstein.xml"
       ],
       "ger000078": [
-        1505,
+        1506,
         "tei/kleist-die-hermannsschlacht.xml"
       ],
       "ger000152": [
-        1505,
+        1506,
         "tei/kleist-penthesilea.xml"
       ],
       "ger000362": [
-        1505,
+        1506,
         "tei/kleist-prinz-friedrich-von-homburg.xml"
       ],
       "ger000330": [
-        1505,
+        1506,
         "tei/klemm-der-auf-den-parnass-versetzte-gruene-hut.xml"
       ],
       "ger000110": [
-        1505,
+        1506,
         "tei/klingemann-faust.xml"
       ],
       "ger000103": [
-        1505,
+        1506,
         "tei/klinger-die-neue-arria.xml"
       ],
       "ger000190": [
-        1505,
+        1506,
         "tei/klinger-die-zwillinge.xml"
       ],
       "ger000443": [
-        1505,
+        1506,
         "tei/klinger-simsone-grisaldo.xml"
       ],
       "ger000053": [
-        1505,
+        1506,
         "tei/klinger-sturm-und-drang.xml"
       ],
       "ger000013": [
-        1505,
+        1506,
         "tei/klopstock-der-tod-adams.xml"
       ],
       "ger000345": [
-        1505,
+        1506,
         "tei/klopstock-hermanns-schlacht.xml"
       ],
       "ger000290": [
-        1505,
+        1506,
         "tei/kobell-der-roaga.xml"
       ],
       "ger000346": [
-        1505,
+        1506,
         "tei/koerner-zriny.xml"
       ],
       "ger000188": [
-        1505,
+        1506,
         "tei/kotzebue-der-hyperboreische-esel.xml"
       ],
       "ger000281": [
-        1505,
+        1506,
         "tei/kotzebue-die-beiden-klingsberg.xml"
       ],
       "ger000225": [
-        1505,
+        1506,
         "tei/kotzebue-die-deutschen-kleinstaedter.xml"
       ],
       "ger000057": [
-        1505,
+        1506,
         "tei/kotzebue-die-indianer-in-england.xml"
       ],
       "ger000142": [
-        1505,
+        1506,
         "tei/kotzebue-menschenhass-und-reue.xml"
       ],
       "ger000320": [
-        1505,
+        1506,
         "tei/krueger-die-candidaten.xml"
       ],
       "ger000173": [
-        1505,
+        1506,
         "tei/krueger-die-geistlichen-auf-dem-lande.xml"
       ],
       "ger000438": [
-        1505,
+        1506,
         "tei/kupelwieser-fierrabras.xml"
       ],
       "ger000144": [
-        1505,
+        1506,
         "tei/kurz-prinzessin-pumphia.xml"
       ],
       "ger000402": [
-        1505,
+        1506,
         "tei/larronge-hasemanns-toechter.xml"
       ],
       "ger000197": [
-        1505,
+        1506,
         "tei/larronge-mein-leopold.xml"
       ],
       "ger000468": [
-        1505,
+        1506,
         "tei/lasker-schueler-die-wupper.xml"
       ],
       "ger000287": [
-        1505,
+        1506,
         "tei/lassalle-franz-von-sickingen.xml"
       ],
       "ger000453": [
-        1505,
+        1506,
         "tei/laube-die-karlsschueler.xml"
       ],
       "ger000063": [
-        1505,
+        1506,
         "tei/laube-gottsched-und-gellert.xml"
       ],
       "ger000254": [
-        1505,
+        1506,
         "tei/laube-monaldeschi.xml"
       ],
       "ger000389": [
-        1505,
+        1506,
         "tei/laube-struensee.xml"
       ],
       "ger000069": [
-        1505,
+        1506,
         "tei/laufs-jacoby-pension-schoeller.xml"
       ],
       "ger000024": [
-        1505,
+        1506,
         "tei/lautensack-die-pfarrhauskomoedie.xml"
       ],
       "ger000432": [
-        1505,
+        1506,
         "tei/lautensack-hahnenkampf.xml"
       ],
       "ger000263": [
-        1505,
+        1506,
         "tei/lautensack-medusa.xml"
       ],
       "ger000447": [
-        1505,
+        1506,
         "tei/leisewitz-der-besuch-um-mitternacht.xml"
       ],
       "ger000260": [
-        1505,
+        1506,
         "tei/leisewitz-die-pfandung.xml"
       ],
       "ger000050": [
-        1505,
+        1506,
         "tei/leisewitz-julius-von-tarent.xml"
       ],
       "ger000423": [
-        1505,
+        1506,
         "tei/lenz-der-englaender.xml"
       ],
       "ger000338": [
-        1505,
+        1506,
         "tei/lenz-der-hofmeister.xml"
       ],
       "ger000400": [
-        1505,
+        1506,
         "tei/lenz-der-neue-menoza.xml"
       ],
       "ger000155": [
-        1505,
+        1506,
         "tei/lenz-die-freunde-machen-den-philosophen.xml"
       ],
       "ger000374": [
-        1505,
+        1506,
         "tei/lenz-die-soldaten.xml"
       ],
       "ger000031": [
-        1505,
+        1506,
         "tei/lessing-damon.xml"
       ],
       "ger000379": [
-        1505,
+        1506,
         "tei/lessing-der-freigeist.xml"
       ],
       "ger000272": [
-        1505,
+        1506,
         "tei/lessing-der-junge-gelehrte.xml"
       ],
       "ger000391": [
-        1505,
+        1506,
         "tei/lessing-der-misogyn.xml"
       ],
       "ger000249": [
-        1505,
+        1506,
         "tei/lessing-der-schatz.xml"
       ],
       "ger000401": [
-        1505,
+        1506,
         "tei/lessing-die-alte-jungfer.xml"
       ],
       "ger000222": [
-        1505,
+        1506,
         "tei/lessing-die-juden.xml"
       ],
       "ger000088": [
-        1505,
+        1506,
         "tei/lessing-emilia-galotti.xml"
       ],
       "ger000357": [
-        1505,
+        1506,
         "tei/lessing-minna-von-barnhelm.xml"
       ],
       "ger000087": [
-        1505,
+        1506,
         "tei/lessing-miss-sara-sampson.xml"
       ],
       "ger000369": [
-        1505,
+        1506,
         "tei/lessing-nathan-der-weise.xml"
       ],
       "ger000194": [
-        1505,
+        1506,
         "tei/lessing-philotas.xml"
       ],
       "ger000147": [
-        1505,
+        1506,
         "tei/lortzing-der-waffenschmied.xml"
       ],
       "ger000269": [
-        1505,
+        1506,
         "tei/lortzing-der-wildschuetz.xml"
       ],
       "ger000094": [
-        1505,
+        1506,
         "tei/lortzing-zar-und-zimmermann.xml"
       ],
       "ger000011": [
-        1505,
+        1506,
         "tei/ludwig-der-erbfoerster.xml"
       ],
       "ger000430": [
-        1505,
+        1506,
         "tei/ludwig-die-makkabaeer.xml"
       ],
       "ger000435": [
-        1505,
+        1506,
         "tei/maler-mueller-golo-und-genovefa.xml"
       ],
       "ger000018": [
-        1505,
+        1506,
         "tei/malss-der-alte-buerger-capitain.xml"
       ],
       "ger000044": [
-        1505,
+        1506,
         "tei/malss-die-jungfern-koechinnen.xml"
       ],
       "ger000221": [
-        1505,
+        1506,
         "tei/may-babel-und-bibel.xml"
       ],
       "ger000119": [
-        1505,
+        1506,
         "tei/meisl-der-lustige-fritz.xml"
       ],
       "ger000316": [
-        1505,
+        1506,
         "tei/meisl-orpheus-und-euridice.xml"
       ],
       "ger000454": [
-        1505,
+        1506,
         "tei/mosenthal-das-goldene-kreuz.xml"
       ],
       "ger000036": [
-        1505,
+        1506,
         "tei/mosenthal-die-koenigin-von-saba.xml"
       ],
       "ger000334": [
-        1505,
+        1506,
         "tei/mosenthal-die-lustigen-weiber-von-windsor.xml"
       ],
       "ger000457": [
-        1505,
+        1506,
         "tei/moser-das-stiftungsfest.xml"
       ],
       "ger000315": [
-        1505,
+        1506,
         "tei/moser-krieg-oder-frieden.xml"
       ],
       "ger000020": [
-        1505,
+        1506,
         "tei/muehsam-judas.xml"
       ],
       "ger000229": [
-        1505,
+        1506,
         "tei/muehsam-staatsraeson.xml"
       ],
       "ger000360": [
-        1505,
+        1506,
         "tei/muellner-die-schuld.xml"
       ],
       "ger000261": [
-        1505,
+        1506,
         "tei/muellner-koenig-yngurd.xml"
       ],
       "ger000007": [
-        1505,
+        1506,
         "tei/mylius-die-schaeferinsel.xml"
       ],
       "ger000341": [
-        1505,
+        1506,
         "tei/nestroy-das-haus-der-temperamente.xml"
       ],
       "ger000200": [
-        1505,
+        1506,
         "tei/nestroy-das-maedl-aus-der-vorstadt.xml"
       ],
       "ger000062": [
-        1505,
+        1506,
         "tei/nestroy-der-boese-geist-lumpazivagabundus.xml"
       ],
       "ger000083": [
-        1505,
+        1506,
         "tei/nestroy-der-talisman.xml"
       ],
       "ger000117": [
-        1505,
+        1506,
         "tei/nestroy-der-unbedeutende.xml"
       ],
       "ger000366": [
-        1505,
+        1506,
         "tei/nestroy-der-zerrissene.xml"
       ],
       "ger000206": [
-        1505,
+        1506,
         "tei/nestroy-einen-jux-will-er-sich-machen.xml"
       ],
       "ger000305": [
-        1505,
+        1506,
         "tei/nestroy-eulenspiegel.xml"
       ],
       "ger000131": [
-        1505,
+        1506,
         "tei/nestroy-freiheit-in-kraehwinkel.xml"
       ],
       "ger000441": [
-        1505,
+        1506,
         "tei/nestroy-judith-und-holofernes.xml"
       ],
       "ger000028": [
-        1505,
+        1506,
         "tei/nestroy-zu-ebener-erde-und-erster-stock.xml"
       ],
       "ger000122": [
-        1505,
+        1506,
         "tei/neuber-das-schaeferfest.xml"
       ],
       "ger000226": [
-        1505,
+        1506,
         "tei/neuber-die-beschuetzte-schauspielkunst.xml"
       ],
       "ger000230": [
-        1505,
+        1506,
         "tei/neuber-die-verehrung-der-vollkommenheit.xml"
       ],
       "ger000321": [
-        1505,
+        1506,
         "tei/neuber-ein-deutsches-vorspiel.xml"
       ],
       "ger000353": [
-        1505,
+        1506,
         "tei/niebergall-datterich.xml"
       ],
       "ger000084": [
-        1505,
+        1506,
         "tei/panizza-das-liebeskonzil.xml"
       ],
       "ger000368": [
-        1505,
+        1506,
         "tei/panizza-nero.xml"
       ],
       "ger000215": [
-        1505,
+        1506,
         "tei/pfeil-lucie-woodvil.xml"
       ],
       "ger000143": [
-        1505,
+        1506,
         "tei/platen-der-romantische-oedipus.xml"
       ],
       "ger000074": [
-        1505,
+        1506,
         "tei/platen-die-verhaengnisvolle-gabel.xml"
       ],
       "ger000280": [
-        1505,
+        1506,
         "tei/prutz-die-politische-wochenstube.xml"
       ],
       "ger000192": [
-        1505,
+        1506,
         "tei/quistorp-der-hypochondrist.xml"
       ],
       "ger000469": [
-        1505,
+        1506,
         "tei/rache-belsazar.xml"
       ],
       "ger000298": [
-        1505,
+        1506,
         "tei/raimund-das-maedchen-aus-der-feenwelt.xml"
       ],
       "ger000308": [
-        1505,
+        1506,
         "tei/raimund-der-alpenkoenig-und-der-menschenfeind.xml"
       ],
       "ger000116": [
-        1505,
+        1506,
         "tei/raimund-der-barometermacher-auf-der-zauberinsel.xml"
       ],
       "ger000076": [
-        1505,
+        1506,
         "tei/raimund-der-diamant-des-geisterkoenigs.xml"
       ],
       "ger000241": [
-        1505,
+        1506,
         "tei/raimund-der-verschwender.xml"
       ],
       "ger000416": [
-        1505,
+        1506,
         "tei/raimund-die-gefesselte-phantasie.xml"
       ],
       "ger000184": [
-        1505,
+        1506,
         "tei/raimund-die-unheilbringende-zauberkrone.xml"
       ],
       "ger000427": [
-        1505,
+        1506,
         "tei/raimund-moisasurs-zauberfluch.xml"
       ],
       "ger000431": [
-        1505,
+        1506,
         "tei/raupach-kritik-und-antikritik.xml"
       ],
       "ger000139": [
-        1505,
+        1506,
         "tei/reinick-genoveva.xml"
       ],
       "ger000307": [
-        1505,
+        1506,
         "tei/riese-martha.xml"
       ],
       "ger000214": [
-        1505,
+        1506,
         "tei/rilke-ohne-gegenwart.xml"
       ],
       "ger000162": [
-        1505,
+        1506,
         "tei/roeber-koenig-manfred.xml"
       ],
       "ger000251": [
-        1505,
+        1506,
         "tei/rosenow-die-im-schatten-leben.xml"
       ],
       "ger000081": [
-        1505,
+        1506,
         "tei/rosenow-kater-lampe.xml"
       ],
       "ger000132": [
-        1505,
+        1506,
         "tei/rubiner-die-gewaltlosen.xml"
       ],
       "ger000351": [
-        1505,
+        1506,
         "tei/ruederer-die-fahnenweihe.xml"
       ],
       "ger000302": [
-        1505,
+        1506,
         "tei/schaefer-faustine-der-weibliche-faust.xml"
       ],
       "ger000183": [
-        1505,
+        1506,
         "tei/scheerbart-das-dumme-luder.xml"
       ],
       "ger000297": [
-        1505,
+        1506,
         "tei/scheerbart-das-gift.xml"
       ],
       "ger000370": [
-        1505,
+        1506,
         "tei/scheerbart-das-mirakel.xml"
       ],
       "ger000030": [
-        1505,
+        1506,
         "tei/scheerbart-der-alte-petrus.xml"
       ],
       "ger000424": [
-        1505,
+        1506,
         "tei/scheerbart-der-fanatische-buergermeister.xml"
       ],
       "ger000181": [
-        1505,
+        1506,
         "tei/scheerbart-der-herr-vom-jenseits.xml"
       ],
       "ger000410": [
-        1505,
+        1506,
         "tei/scheerbart-der-regierungswechsel.xml"
       ],
       "ger000332": [
-        1505,
+        1506,
         "tei/scheerbart-der-schornsteinfeger.xml"
       ],
       "ger000182": [
-        1505,
+        1506,
         "tei/scheerbart-der-vornehme-raeuberhauptmann.xml"
       ],
       "ger000250": [
-        1505,
+        1506,
         "tei/scheerbart-der-wetterfuerst.xml"
       ],
       "ger000421": [
-        1505,
+        1506,
         "tei/scheerbart-die-lustigen-raeuber.xml"
       ],
       "ger000141": [
-        1505,
+        1506,
         "tei/scheerbart-die-puppe-und-die-dauerwurst.xml"
       ],
       "ger000310": [
-        1505,
+        1506,
         "tei/scheerbart-die-urgrossmutter.xml"
       ],
       "ger000429": [
-        1505,
+        1506,
         "tei/scheerbart-die-welt-geht-unter.xml"
       ],
       "ger000097": [
-        1505,
+        1506,
         "tei/scheerbart-die-wurzeln-der-wohlhabenheit.xml"
       ],
       "ger000034": [
-        1505,
+        1506,
         "tei/scheerbart-es-lebe-europa.xml"
       ],
       "ger000153": [
-        1505,
+        1506,
         "tei/scheerbart-herr-kammerdiener-kneetschke.xml"
       ],
       "ger000138": [
-        1505,
+        1506,
         "tei/scheerbart-lachende-gespenster.xml"
       ],
       "ger000112": [
-        1505,
+        1506,
         "tei/scheerbart-okurirasuna.xml"
       ],
       "ger000231": [
-        1505,
+        1506,
         "tei/scheerbart-ruebezahl.xml"
       ],
       "ger000256": [
-        1505,
+        1506,
         "tei/schikaneder-die-zauberfloete.xml"
       ],
       "ger000067": [
-        1505,
+        1506,
         "tei/schiller-die-braut-von-messina.xml"
       ],
       "ger000227": [
-        1505,
+        1506,
         "tei/schiller-die-jungfrau-von-orleans.xml"
       ],
       "ger000086": [
-        1505,
+        1506,
         "tei/schiller-die-piccolomini.xml"
       ],
       "ger000008": [
-        1505,
+        1506,
         "tei/schiller-die-raeuber.xml"
       ],
       "ger000451": [
-        1505,
+        1506,
         "tei/schiller-die-verschwoerung-des-fiesco-zu-genua.xml"
       ],
       "ger000217": [
-        1505,
+        1506,
         "tei/schiller-don-carlos-infant-von-spanien.xml"
       ],
       "ger000096": [
-        1505,
+        1506,
         "tei/schiller-kabale-und-liebe.xml"
       ],
       "ger000311": [
-        1505,
+        1506,
         "tei/schiller-maria-stuart.xml"
       ],
       "ger000025": [
-        1505,
+        1506,
         "tei/schiller-wallensteins-lager.xml"
       ],
       "ger000058": [
-        1505,
+        1506,
         "tei/schiller-wallensteins-tod.xml"
       ],
       "ger000452": [
-        1505,
+        1506,
         "tei/schiller-wilhelm-tell.xml"
       ],
       "ger000072": [
-        1505,
+        1506,
         "tei/schink-der-neue-doktor-faust.xml"
       ],
       "ger000218": [
-        1505,
+        1506,
         "tei/schink-hanswurst-von-salzburg-mit-dem-hoelzernen-gat.xml"
       ],
       "ger000248": [
-        1505,
+        1506,
         "tei/schlaf-meister-oelze.xml"
       ],
       "ger000164": [
-        1505,
+        1506,
         "tei/schlegel-alarcos.xml"
       ],
       "ger000417": [
-        1505,
+        1506,
         "tei/schlegel-canut.xml"
       ],
       "ger000397": [
-        1505,
+        1506,
         "tei/schlegel-der-geschaeftige-muessiggaenger.xml"
       ],
       "ger000342": [
-        1505,
+        1506,
         "tei/schlegel-der-triumph-der-guten-frauen.xml"
       ],
       "ger000328": [
-        1505,
+        1506,
         "tei/schlegel-die-stumme-schoenheit.xml"
       ],
       "ger000234": [
-        1505,
+        1506,
         "tei/schlegel-jon.xml"
       ],
       "ger000292": [
-        1505,
+        1506,
         "tei/schnitzer-der-zigeunerbaron.xml"
       ],
       "ger000089": [
-        1505,
+        1506,
         "tei/schnitzler-anatol.xml"
       ],
       "ger000176": [
-        1505,
+        1506,
         "tei/schnitzler-anatols-groessenwahn.xml"
       ],
       "ger000277": [
-        1505,
+        1506,
         "tei/schnitzler-das-weite-land.xml"
       ],
       "ger000017": [
-        1505,
+        1506,
         "tei/schnitzler-der-einsame-weg.xml"
       ],
       "ger000336": [
-        1505,
+        1506,
         "tei/schnitzler-der-gruene-kakadu.xml"
       ],
       "ger000306": [
-        1505,
+        1506,
         "tei/schnitzler-der-puppenspieler.xml"
       ],
       "ger000205": [
-        1505,
+        1506,
         "tei/schnitzler-der-tapfere-cassian.xml"
       ],
       "ger000150": [
-        1505,
+        1506,
         "tei/schnitzler-komtesse-mizzi.xml"
       ],
       "ger000080": [
-        1505,
+        1506,
         "tei/schnitzler-liebelei.xml"
       ],
       "ger000343": [
-        1505,
+        1506,
         "tei/schnitzler-professor-bernhardi.xml"
       ],
       "ger000232": [
-        1505,
+        1506,
         "tei/schnitzler-reigen.xml"
       ],
       "ger000022": [
-        1505,
+        1506,
         "tei/schnitzler-zum-grossen-wurstel.xml"
       ],
       "ger000154": [
-        1505,
+        1506,
         "tei/schober-alfonso-und-estrella.xml"
       ],
       "ger000271": [
-        1505,
+        1506,
         "tei/schoenthan-der-raub-der-sabinerinnen.xml"
       ],
       "ger000466": [
-        1505,
+        1506,
         "tei/schouwaert-die-ueberschwemmung.xml"
       ],
       "ger000382": [
-        1505,
+        1506,
         "tei/schroeder-der-vetter-in-lissabon.xml"
       ],
       "ger000228": [
-        1505,
+        1506,
         "tei/simrock-doctor-johannes-faust.xml"
       ],
       "ger000450": [
-        1505,
+        1506,
         "tei/soden-doktor-faust.xml"
       ],
       "ger000095": [
-        1505,
+        1506,
         "tei/sonnleithner-fidelio.xml"
       ],
       "ger000149": [
-        1505,
+        1506,
         "tei/sorge-der-sieg-des-christos.xml"
       ],
       "ger000418": [
-        1505,
+        1506,
         "tei/sorge-odysseus.xml"
       ],
       "ger000168": [
-        1505,
+        1506,
         "tei/stavenhagen-mudder-mews.xml"
       ],
       "ger000033": [
-        1505,
+        1506,
         "tei/stephanie-der-schauspieldirektor.xml"
       ],
       "ger000381": [
-        1505,
+        1506,
         "tei/stephanie-die-entfuehrung-aus-dem-serail.xml"
       ],
       "ger000133": [
-        1505,
+        1506,
         "tei/stephanie-die-liebe-im-narrenhause.xml"
       ],
       "ger000344": [
-        1505,
+        1506,
         "tei/stephanie-doktor-und-apotheker.xml"
       ],
       "ger000066": [
-        1505,
+        1506,
         "tei/sturz-julie.xml"
       ],
       "ger000461": [
-        1505,
+        1506,
         "tei/sudermann-der-bettler-von-syrakus.xml"
       ],
       "ger000107": [
-        1505,
+        1506,
         "tei/sudermann-die-ehre.xml"
       ],
       "ger000100": [
-        1505,
+        1506,
         "tei/sudermann-heimat.xml"
       ],
       "ger000361": [
-        1505,
+        1506,
         "tei/thoma-die-lokalbahn.xml"
       ],
       "ger000037": [
-        1505,
+        1506,
         "tei/thoma-die-medaille.xml"
       ],
       "ger000098": [
-        1505,
+        1506,
         "tei/thoma-erster-klasse.xml"
       ],
       "ger000207": [
-        1505,
+        1506,
         "tei/thoma-lottchens-geburtstag.xml"
       ],
       "ger000073": [
-        1505,
+        1506,
         "tei/thoma-magdalena.xml"
       ],
       "ger000056": [
-        1505,
+        1506,
         "tei/thoma-moral.xml"
       ],
       "ger000285": [
-        1505,
+        1506,
         "tei/tieck-der-gestiefelte-kater.xml"
       ],
       "ger000313": [
-        1505,
+        1506,
         "tei/tieck-die-verkehrte-welt.xml"
       ],
       "ger000259": [
-        1505,
+        1506,
         "tei/tieck-prinz-zerbino.xml"
       ],
       "ger000274": [
-        1505,
+        1506,
         "tei/tieck-ritter-blaubart.xml"
       ],
       "ger000404": [
-        1505,
+        1506,
         "tei/toerring-agnes-bernauerin.xml"
       ],
       "ger000091": [
-        1505,
+        1506,
         "tei/uhland-ernst-herzog-von-schwaben.xml"
       ],
       "ger000279": [
-        1505,
+        1506,
         "tei/uhland-ludwig-der-bayer.xml"
       ],
       "ger000064": [
-        1505,
+        1506,
         "tei/vischer-faust.xml"
       ],
       "ger000258": [
-        1505,
+        1506,
         "tei/voss-faust.xml"
       ],
       "ger000317": [
-        1505,
+        1506,
         "tei/wagner-das-rheingold.xml"
       ],
       "ger000245": [
-        1505,
+        1506,
         "tei/wagner-der-fliegende-hollaender.xml"
       ],
       "ger000396": [
-        1505,
+        1506,
         "tei/wagner-die-kindermoerderin.xml"
       ],
       "ger000422": [
-        1505,
+        1506,
         "tei/wagner-die-meistersinger-von-nuernberg.xml"
       ],
       "ger000264": [
-        1505,
+        1506,
         "tei/wagner-die-reue-nach-der-that.xml"
       ],
       "ger000349": [
-        1505,
+        1506,
         "tei/wagner-die-walkuere.xml"
       ],
       "ger000319": [
-        1505,
+        1506,
         "tei/wagner-goetterdaemmerung.xml"
       ],
       "ger000175": [
-        1505,
+        1506,
         "tei/wagner-lohengrin.xml"
       ],
       "ger000413": [
-        1505,
+        1506,
         "tei/wagner-parsifal.xml"
       ],
       "ger000105": [
-        1505,
+        1506,
         "tei/wagner-siegfried.xml"
       ],
       "ger000415": [
-        1505,
+        1506,
         "tei/wagner-tannhaeuser.xml"
       ],
       "ger000166": [
-        1505,
+        1506,
         "tei/wagner-tristan-und-isolde.xml"
       ],
       "ger000426": [
-        1505,
+        1506,
         "tei/wagner-voltaire-am-abend-seiner-apotheose.xml"
       ],
       "ger000003": [
-        1505,
+        1506,
         "tei/wedekind-der-kammersaenger.xml"
       ],
       "ger000425": [
-        1505,
+        1506,
         "tei/wedekind-der-marquis-von-keith.xml"
       ],
       "ger000436": [
-        1505,
+        1506,
         "tei/wedekind-die-buechse-der-pandora.xml"
       ],
       "ger000377": [
-        1505,
+        1506,
         "tei/wedekind-die-zensur.xml"
       ],
       "ger000140": [
-        1505,
+        1506,
         "tei/wedekind-erdgeist.xml"
       ],
       "ger000323": [
-        1505,
+        1506,
         "tei/wedekind-franziska.xml"
       ],
       "ger000135": [
-        1505,
+        1506,
         "tei/wedekind-fritz-schwigerling.xml"
       ],
       "ger000040": [
-        1505,
+        1506,
         "tei/wedekind-fruehlings-erwachen.xml"
       ],
       "ger000023": [
-        1505,
+        1506,
         "tei/wedekind-hidalla.xml"
       ],
       "ger000191": [
-        1505,
+        1506,
         "tei/wedekind-koenig-nicolo.xml"
       ],
       "ger000146": [
-        1505,
+        1506,
         "tei/wedekind-musik.xml"
       ],
       "ger000071": [
-        1505,
+        1506,
         "tei/wedekind-tod-und-teufel.xml"
       ],
       "ger000257": [
-        1505,
+        1506,
         "tei/weidmann-der-dorfbarbier.xml"
       ],
       "ger000014": [
-        1505,
+        1506,
         "tei/weidmann-johann-faust.xml"
       ],
       "ger000291": [
-        1505,
+        1506,
         "tei/weisse-atreus-und-thyest.xml"
       ],
       "ger000186": [
-        1505,
+        1506,
         "tei/weisse-die-jagd.xml"
       ],
       "ger000340": [
-        1505,
+        1506,
         "tei/weissenthurn-das-manuscript.xml"
       ],
       "ger000213": [
-        1505,
+        1506,
         "tei/weissenthurn-die-schwestern-st-janvier.xml"
       ],
       "ger000456": [
-        1505,
+        1506,
         "tei/weissenthurn-johann-herzog-von-finnland.xml"
       ],
       "ger000394": [
-        1505,
+        1506,
         "tei/weissenthurn-welche-ist-die-braut.xml"
       ],
       "ger000464": [
-        1505,
+        1506,
         "tei/weissenthurn-welcher-ist-der-braeutigam.xml"
       ],
       "ger000412": [
-        1505,
+        1506,
         "tei/werner-der-vierundzwanzigste-februar.xml"
       ],
       "ger000169": [
-        1505,
+        1506,
         "tei/wette-haensel-und-gretel.xml"
       ],
       "ger000333": [
-        1505,
+        1506,
         "tei/widmann-der-widerspenstigen-zaehmung.xml"
       ],
       "ger000414": [
-        1505,
+        1506,
         "tei/widmann-maikaefer-komoedie.xml"
       ],
       "ger000373": [
-        1505,
+        1506,
         "tei/wieland-alceste.xml"
       ],
       "ger000148": [
-        1505,
+        1506,
         "tei/wieland-klementina-von-porretta.xml"
       ],
       "ger000445": [
-        1505,
+        1506,
         "tei/wieland-lady-johanna-gray.xml"
       ],
       "ger000137": [
-        1505,
+        1506,
         "tei/wilbrandt-der-meister-von-palmyra.xml"
       ],
       "ger000460": [
-        1505,
+        1506,
         "tei/wilbrandt-gracchus-der-volkstribun.xml"
       ],
       "ger000240": [
-        1505,
+        1506,
         "tei/wildenbruch-die-haubenlerche.xml"
       ],
       "ger000439": [
-        1505,
+        1506,
         "tei/wildenbruch-die-karolinger.xml"
       ],
       "ger000172": [
-        1505,
+        1506,
         "tei/wildenbruch-die-quitzows.xml"
       ],
       "ger000187": [
-        1505,
+        1506,
         "tei/wildgans-armut.xml"
       ],
       "ger000428": [
-        1505,
+        1506,
         "tei/wildgans-dies-irae.xml"
       ],
       "ger000163": [
-        1505,
+        1506,
         "tei/wildgans-in-ewigkeit-amen.xml"
       ],
       "ger000295": [
-        1505,
+        1506,
         "tei/wohlbrueck-der-vampyr.xml"
       ],
       "ger000275": [
-        1505,
+        1506,
         "tei/zschokke-abellino.xml"
       ],
       "ger000473": [
-        1505,
+        1506,
         "tei/brachvogel-narziss.xml"
       ],
       "ger000474": [
-        1505,
+        1506,
         "tei/collin-coriolan.xml"
       ],
       "ger000475": [
-        1505,
+        1506,
         "tei/musil-die-schwaermer.xml"
       ],
       "ger000476": [
-        1505,
+        1506,
         "tei/borchert-draussen-vor-der-tuer.xml"
       ],
       "ger000477": [
-        1505,
+        1506,
         "tei/hauptmann-die-ratten.xml"
       ],
       "ger000478": [
-        1505,
+        1506,
         "tei/schoenherr-der-weibsteufel.xml"
       ],
       "ger000479": [
-        1505,
+        1506,
         "tei/seume-miltiades.xml"
       ],
       "ger000480": [
-        1505,
+        1506,
         "tei/kraus-die-letzten-tage-der-menschheit.xml"
       ],
       "ger000481": [
-        1505,
+        1506,
         "tei/moeser-die-tugend-auf-der-schaubuehne.xml"
       ],
       "ger000482": [
-        1505,
+        1506,
         "tei/heyne-die-beiden-billets.xml"
       ],
       "ger000483": [
-        1505,
+        1506,
         "tei/bueschel-die-neue-messaline.xml"
       ],
       "ger000484": [
-        1505,
+        1506,
         "tei/kotzebue-ueble-laune.xml"
       ],
       "ger000485": [
-        1505,
+        1506,
         "tei/kotzebue-der-schutzgeist.xml"
       ],
       "ger000486": [
-        1505,
+        1506,
         "tei/kotzebue-maedchenfreundschaft.xml"
       ],
       "ger000487": [
-        1505,
+        1506,
         "tei/kotzebue-der-freimaurer.xml"
       ],
       "ger000488": [
-        1505,
+        1506,
         "tei/kotzebue-graf-benjowsky.xml"
       ],
       "ger000489": [
-        1505,
+        1506,
         "tei/d-elpons-der-ahnherr.xml"
       ],
       "ger000490": [
-        1505,
+        1506,
         "tei/kotzebue-die-spanier-in-peru.xml"
       ],
       "ger000491": [
-        1505,
+        1506,
         "tei/kotzebue-sultan-wampum.xml"
       ],
       "ger000492": [
-        1505,
+        1506,
         "tei/hasenclever-der-sohn.xml"
       ],
       "ger000493": [
-        1505,
+        1506,
         "tei/sternheim-der-snob.xml"
       ],
       "ger000494": [
-        1505,
+        1506,
         "tei/kotzebue-der-wirrwarr.xml"
       ],
       "ger000495": [
-        1505,
+        1506,
         "tei/kotzebue-pagenstreiche.xml"
       ],
       "ger000496": [
-        1505,
+        1506,
         "tei/tieck-die-theegesellschaft.xml"
       ],
       "ger000497": [
-        1505,
+        1506,
         "tei/klinger-das-leidende-weib.xml"
       ],
       "ger000498": [
-        1505,
+        1506,
         "tei/klinger-prinz-seiden-wurm-der-reformator.xml"
       ],
       "ger000499": [
-        1505,
+        1506,
         "tei/benedix-das-bemooste-haupt.xml"
       ],
       "ger000500": [
-        1505,
+        1506,
         "tei/platen-berengar.xml"
       ],
       "ger000501": [
-        1505,
+        1506,
         "tei/cronegk-codrus.xml"
       ],
       "ger000502": [
-        1505,
+        1506,
         "tei/benedix-doctor-wespe.xml"
       ],
       "ger000503": [
-        1505,
+        1506,
         "tei/sessa-unser-verkehr.xml"
       ],
       "ger000504": [
-        1505,
+        1506,
         "tei/hauptmann-florian-geyer.xml"
       ],
       "ger000505": [
-        1505,
+        1506,
         "tei/zedlitz-herr-und-sklave.xml"
       ],
       "ger000506": [
-        1505,
+        1506,
         "tei/muellner-der-neun-und-zwanzigste-februar.xml"
       ],
       "ger000507": [
-        1505,
+        1506,
         "tei/richter-eumenides-duester.xml"
       ],
       "ger000508": [
-        1505,
+        1506,
         "tei/freytag-der-gelehrte.xml"
       ],
       "ger000509": [
-        1505,
+        1506,
         "tei/hauptmann-vor-sonnenaufgang.xml"
       ],
       "ger000510": [
-        1505,
+        1506,
         "tei/hauptmann-gabriel-schillings-flucht.xml"
       ],
       "ger000511": [
-        1505,
+        1506,
         "tei/goethe-die-wette.xml"
       ],
       "ger000512": [
-        1505,
+        1506,
         "tei/grillparzer-libussa.xml"
       ],
       "ger000513": [
-        1505,
+        1506,
         "tei/grillparzer-der-gastfreund.xml"
       ],
       "ger000514": [
-        1505,
+        1506,
         "tei/grillparzer-die-argonauten.xml"
       ],
       "ger000515": [
-        1505,
+        1506,
         "tei/grillparzer-medea.xml"
       ],
       "ger000516": [
-        1505,
+        1506,
         "tei/grabbe-die-hermannsschlacht.xml"
       ],
       "ger000517": [
-        1505,
+        1506,
         "tei/grabbe-kaiser-friedrich-barbarossa.xml"
       ],
       "ger000518": [
-        1505,
+        1506,
         "tei/grabbe-kaiser-heinrich-der-sechste.xml"
       ],
       "ger000519": [
-        1505,
+        1506,
         "tei/houwald-die-freistatt.xml"
       ],
       "ger000520": [
-        1505,
+        1506,
         "tei/koerner-die-braut.xml"
       ],
       "ger000521": [
-        1505,
+        1506,
         "tei/sudermann-die-schmetterlingsschlacht.xml"
       ],
       "ger000522": [
-        1505,
+        1506,
         "tei/horvath-geschichten-aus-dem-wiener-wald.xml"
       ],
       "ger000524": [
-        1505,
+        1506,
         "tei/eckartshausen-der-pudelhund.xml"
       ],
       "ger000523": [
-        1505,
+        1506,
         "tei/castelli-jeitteles-der-schicksalsstrumpf.xml"
       ],
       "ger000525": [
-        1505,
+        1506,
         "tei/andre-der-comoedienfeind.xml"
       ],
       "ger000526": [
-        1505,
+        1506,
         "tei/solbrig-die-dorfschule.xml"
       ],
       "ger000527": [
-        1505,
+        1506,
         "tei/reil-der-erste-may.xml"
       ],
       "ger000528": [
-        1505,
+        1506,
         "tei/moritz-blunt-oder-der-gast.xml"
       ],
       "ger000529": [
-        1505,
+        1506,
         "tei/kraus-traumstueck.xml"
       ],
       "ger000530": [
-        1505,
+        1506,
         "tei/tieck-karl-von-berneck.xml"
       ],
       "ger000531": [
-        1505,
+        1506,
         "tei/tieck-leben-und-tod-der-heiligen-genoveva.xml"
       ],
       "ger000532": [
-        1505,
+        1506,
         "tei/wolfram-faust.xml"
       ],
       "ger000533": [
-        1505,
+        1506,
         "tei/klabund-xyz.xml"
       ],
       "ger000534": [
-        1505,
+        1506,
         "tei/sorge-der-bettler.xml"
       ],
       "ger000535": [
-        1505,
+        1506,
         "tei/heym-atalanta-oder-die-angst.xml"
       ],
       "ger000536": [
-        1505,
+        1506,
         "tei/goethe-das-jahrmarktsfest-zu-plundersweilern.xml"
       ],
       "ger000537": [
-        1505,
+        1506,
         "tei/lachmann-salome.xml"
       ],
       "ger000538": [
-        1505,
+        1506,
         "tei/gryphius-cardenio-und-celinde.xml"
       ],
       "ger000539": [
-        1505,
+        1506,
         "tei/goethe-faust-in-urspruenglicher-gestalt.xml"
       ],
       "ger000540": [
-        1505,
+        1506,
         "tei/barlach-der-blaue-boll.xml"
       ],
       "ger000541": [
-        1505,
+        1506,
         "tei/sudermann-stein-unter-steinen.xml"
       ],
       "ger000542": [
-        1505,
+        1506,
         "tei/busoni-doktor-faust.xml"
       ],
       "ger000543": [
-        1505,
+        1506,
         "tei/kannengiesser-die-vierbeinigten-philosophen.xml"
       ],
       "ger000544": [
-        1505,
+        1506,
         "tei/schnitzler-komoedie-der-verfuehrung.xml"
       ],
       "ger000545": [
-        1505,
+        1506,
         "tei/kaiser-die-koralle.xml"
       ],
       "ger000546": [
-        1505,
+        1506,
         "tei/gryphius-leo-armenius-oder-fuersten-mord.xml"
       ],
       "ger000547": [
-        1505,
+        1506,
         "tei/gryphius-absurda-comica-oder-herr-peter-squentz.xml"
       ],
       "ger000548": [
-        1505,
+        1506,
         "tei/gryphius-catharina-von-georgien.xml"
       ],
       "ger000549": [
-        1505,
+        1506,
         "tei/gryphius-horribilicribrifax-teutsch.xml"
       ],
       "ger000550": [
-        1505,
+        1506,
         "tei/gryphius-carolus-stuardus.xml"
       ],
       "ger000551": [
-        1505,
+        1506,
         "tei/gryphius-papinianus.xml"
       ],
       "ger000552": [
-        1505,
+        1506,
         "tei/gryphius-verlibtes-gespenste-die-gelibte-dornrose.xml"
       ],
       "ger000553": [
-        1505,
+        1506,
         "tei/heyne-der-stammbaum.xml"
       ],
       "ger000554": [
-        1505,
+        1506,
         "tei/treitschke-das-bauerngut.xml"
       ],
       "ger000555": [
-        1505,
+        1506,
         "tei/baggesen-der-vollendete-faust.xml"
       ],
       "ger000557": [
-        1505,
+        1506,
         "tei/schnitzler-die-frau-mit-dem-dolche.xml"
       ],
       "ger000558": [
-        1505,
+        1506,
         "tei/schnitzler-die-letzten-masken.xml"
       ],
       "ger000556": [
-        1505,
+        1506,
         "tei/schnitzler-lebendige-stunden.xml"
       ],
       "ger000559": [
-        1505,
+        1506,
         "tei/schnitzler-literatur.xml"
       ],
       "ger000560": [
-        1505,
+        1506,
         "tei/chlumberg-die-fuehrer.xml"
       ],
       "ger000561": [
-        1505,
+        1506,
         "tei/maler-mueller-fausts-leben-dramatisiert.xml"
       ],
       "ger000563": [
-        1505,
+        1506,
         "tei/stramm-erwachen.xml"
       ],
       "ger000562": [
-        1505,
+        1506,
         "tei/chlumberg-wunder-um-verdun.xml"
       ],
       "ger000564": [
-        1505,
+        1506,
         "tei/buechner-woyzeck.xml"
       ],
       "ger000565": [
-        1505,
+        1506,
         "tei/bahr-das-konzert.xml"
       ],
       "ger000566": [
-        1505,
+        1506,
         "tei/kafka-der-gruftwaechter.xml"
       ],
       "ger000569": [
-        1505,
+        1506,
         "tei/adolph-am-ersten-mai.xml"
       ],
       "ger000567": [
-        1505,
+        1506,
         "tei/dohm-die-ritter-vom-goldenen-kalb.xml"
       ],
       "ger000568": [
-        1505,
+        1506,
         "tei/dohm-ein-schuss-ins-schwarze.xml"
       ],
       "ger000570": [
-        1505,
+        1506,
         "tei/raupach-agnes-von-hohenstaufen.xml"
       ],
       "ger000571": [
-        1505,
+        1506,
         "tei/herzenskron-hoang-puff.xml"
       ],
       "ger000572": [
-        1505,
+        1506,
         "tei/ernst-die-groesste-suende.xml"
       ],
       "ger000573": [
-        1505,
+        1506,
         "tei/braun-mutter-maria.xml"
       ],
       "ger000574": [
-        1505,
+        1506,
         "tei/koller-der-zauberstein.xml"
       ],
       "ger000575": [
-        1505,
+        1506,
         "tei/goethe-pandora.xml"
       ],
       "ger000576": [
-        1505,
+        1506,
         "tei/angely-prinz-tu-ta-tu.xml"
       ],
       "ger000577": [
-        1505,
+        1506,
         "tei/klemm-der-besuch.xml"
       ],
       "ger000578": [
-        1505,
+        1506,
         "tei/kotzebue-der-weibliche-jacobiner-clubb.xml"
       ],
       "ger000579": [
-        1505,
+        1506,
         "tei/kotzebue-der-verschwiegene-wider-willen.xml"
       ],
       "ger000580": [
-        1505,
+        1506,
         "tei/schuetz-die-katze-laesst-das-mausen-nicht.xml"
       ],
       "ger000581": [
-        1505,
+        1506,
         "tei/rambach-die-kuhpocken.xml"
       ],
       "ger000582": [
-        1505,
+        1506,
         "tei/beyer-der-hausherr-in-der-klemme.xml"
       ],
       "ger000583": [
-        1505,
+        1506,
         "tei/kotzebue-der-arme-poet.xml"
       ],
       "ger000584": [
-        1505,
+        1506,
         "tei/chezy-der-neue-narziss.xml"
       ],
       "ger000585": [
-        1505,
+        1506,
         "tei/schildbach-glueck-durch-unglueck.xml"
       ],
       "ger000586": [
-        1505,
+        1506,
         "tei/sander-die-hoftrauer-oder-das-testament.xml"
       ],
       "ger000587": [
-        1505,
+        1506,
         "tei/iffland-liebe-und-wille.xml"
       ],
       "ger000588": [
-        1505,
+        1506,
         "tei/anonym-der-deutsche-student.xml"
       ],
       "ger000589": [
-        1505,
+        1506,
         "tei/kaffka-der-transport.xml"
       ],
       "ger000590": [
-        1505,
+        1506,
         "tei/sievers-die-schatzgraeber.xml"
       ],
       "ger000591": [
-        1505,
+        1506,
         "tei/costenoble-die-katze-laesst-das-mausen-nicht.xml"
       ],
       "ger000592": [
-        1505,
+        1506,
         "tei/vanoni-der-friseur.xml"
       ],
       "ger000593": [
-        1505,
+        1506,
         "tei/moeller-der-graf-von-walltron-oder-die-subordination.xml"
       ],
       "ger000594": [
-        1505,
+        1506,
         "tei/weise-masaniello.xml"
       ],
       "ger000595": [
-        1505,
+        1506,
         "tei/moeller-sophie-oder-der-gerechte-fuerst.xml"
       ],
       "ger000596": [
-        1505,
+        1506,
         "tei/kaiser-die-industrie-ausstellung.xml"
       ],
       "ger000597": [
-        1505,
+        1506,
         "tei/sachs-ein-comedi-von-dem-reichen-sterbenden-menschen-der-hecastus-genannt.xml"
       ],
       "ger000598": [
-        1505,
+        1506,
         "tei/dauthendey-die-spielereien-einer-kaiserin.xml"
       ],
       "ger000600": [
-        1505,
+        1506,
         "tei/reuter-der-ehrlichen-frau-schlampampe-krankheit-und-tod.xml"
       ],
       "ger000602": [
-        1505,
+        1506,
         "tei/reuter-graf-ehrenfried.xml"
       ],
       "ger000601": [
-        1505,
+        1506,
         "tei/reuter-l-honnete-femme-oder-die-ehrliche-frau-zu-plissine.xml"
       ],
       "ger000604": [
-        1505,
+        1506,
         "tei/bierbaum-stella-und-antonie.xml"
       ],
       "ger000599": [
-        1505,
+        1506,
         "tei/birch-pfeiffer-die-grille.xml"
       ],
       "ger000603": [
-        1505,
+        1506,
         "tei/engelke-wala.xml"
       ],
       "ger000605": [
-        1505,
+        1506,
         "tei/laddey-maentelchen-nach-dem-winde.xml"
       ],
       "ger000606": [
-        1505,
+        1506,
         "tei/bredow-goerne-gute-freunde.xml"
       ],
       "ger000607": [
-        1505,
+        1506,
         "tei/zedlitz-cabinets-intriguen.xml"
       ],
       "ger000608": [
-        1505,
+        1506,
         "tei/collin-balboa.xml"
       ],
       "ger000609": [
-        1505,
+        1506,
         "tei/dohm-vom-stamm-der-asra.xml"
       ],
       "ger000610": [
-        1505,
+        1506,
         "tei/brandes-hans-von-zanow-oder-der-landjunker-in-berlin.xml"
       ],
       "ger000611": [
-        1505,
+        1506,
         "tei/ebner-eschenbach-doctor-ritter.xml"
       ],
       "ger000612": [
-        1505,
+        1506,
         "tei/zedlitz-liebe-findet-ihre-wege.xml"
       ],
       "ger000613": [
-        1505,
+        1506,
         "tei/schlegel-dueval-und-charmille.xml"
       ],
       "ger000614": [
-        1505,
+        1506,
         "tei/dery-die-selige-insel.xml"
       ],
       "ger000615": [
-        1505,
+        1506,
         "tei/kotzebue-blind-geladen.xml"
       ],
       "ger000617": [
-        1505,
+        1506,
         "tei/bodmer-polytimet.xml"
       ],
       "ger000616": [
-        1505,
+        1506,
         "tei/gleim-philotas.xml"
       ],
       "ger000618": [
-        1505,
+        1506,
         "tei/babo-die-maler.xml"
       ],
       "ger000619": [
-        1505,
+        1506,
         "tei/bredow-goerne-der-lauf-der-welt.xml"
       ],
       "ger000620": [
-        1505,
+        1506,
         "tei/gotter-die-erbschleicher.xml"
       ],
       "ger000621": [
-        1505,
+        1506,
         "tei/schrader-der-hohlweg.xml"
       ],
       "ger000622": [
-        1505,
+        1506,
         "tei/bahr-das-phantom.xml"
       ],
       "ger000623": [
-        1505,
+        1506,
         "tei/preusse-herzmutterchen.xml"
       ],
       "ger000624": [
-        1505,
+        1506,
         "tei/anonym-das-urtheil-des-paris.xml"
       ],
       "ger000625": [
-        1505,
+        1506,
         "tei/grohmann-der-physiognomist-oder-keine-regel-ohn-ausnahme.xml"
       ],
       "ger000626": [
-        1505,
+        1506,
         "tei/pelzel-apolls-gericht-oder-das-bestrafte-vorurtheil-vindebonens.xml"
       ],
       "ger000627": [
-        1505,
+        1506,
         "tei/huber-die-torte.xml"
       ],
       "ger000628": [
-        1505,
+        1506,
         "tei/grohmann-gioconda-oder-weiberrache-kennt-keine-grenzen.xml"
       ],
       "ger000629": [
-        1505,
+        1506,
         "tei/babo-das-winterquartier-in-amerika.xml"
       ],
       "ger000630": [
-        1505,
+        1506,
         "tei/alexander-die-verpfaendung.xml"
       ],
       "ger000631": [
-        1505,
+        1506,
         "tei/anonym-das-lustlager.xml"
       ],
       "ger000632": [
-        1505,
+        1506,
         "tei/babo-arno.xml"
       ],
       "ger000633": [
-        1505,
+        1506,
         "tei/herzl-der-fluechtling.xml"
       ],
       "ger000634": [
-        1505,
+        1506,
         "tei/anonym-emilie-oder-die-philosophisch-verliebten.xml"
       ],
       "ger000635": [
-        1505,
+        1506,
         "tei/schlosser-die-maskerade.xml"
       ],
       "ger000636": [
-        1505,
+        1506,
         "tei/kotzebue-das-unsichtbare-maedchen.xml"
       ],
       "ger000637": [
-        1505,
+        1506,
         "tei/achat-ein-april-scherz.xml"
       ],
       "ger000638": [
-        1505,
+        1506,
         "tei/freisleben-der-weihnachtstag.xml"
       ],
       "ger000639": [
-        1505,
+        1506,
         "tei/anonym-amalie-und-charlotte-baronessen-von-habenichts.xml"
       ],
       "ger000640": [
-        1505,
+        1506,
         "tei/anonym-die-gespenster.xml"
       ],
       "ger000641": [
-        1505,
+        1506,
         "tei/reinhardt-die-braut-des-echos.xml"
       ],
       "ger000642": [
-        1505,
+        1506,
         "tei/anonym-das-ehrenmaal-des-patrioten.xml"
       ],
       "ger000643": [
-        1505,
+        1506,
         "tei/babo-das-fraeulein-wohlerzogen.xml"
       ],
       "ger000644": [
-        1505,
+        1506,
         "tei/gronemann-hamans-flucht.xml"
       ],
       "ger000645": [
-        1505,
+        1506,
         "tei/spiess-klara-von-hoheneichen.xml"
       ],
       "ger000646": [
-        1505,
+        1506,
         "tei/hillern-guten-abend.xml"
       ],
       "ger000647": [
-        1505,
+        1506,
         "tei/gennep-homulus.xml"
       ],
       "ger000648": [
-        1505,
+        1506,
         "tei/pappenheim-frauenrecht.xml"
       ],
       "ger000649": [
-        1505,
+        1506,
         "tei/ebner-eschenbach-am-ende.xml"
       ],
       "ger000650": [
-        1505,
+        1506,
         "tei/dohm-der-seelenretter.xml"
       ],
       "ger000651": [
-        1505,
+        1506,
         "tei/benedix-unerschuetterlich.xml"
       ],
       "ger000652": [
-        1505,
+        1506,
         "tei/lawaetz-die-diamanten.xml"
       ],
       "ger000653": [
-        1505,
+        1506,
         "tei/ebner-eschenbach-ohne-liebe.xml"
       ],
       "ger000654": [
-        1505,
+        1506,
         "tei/kotzebue-wer-weiss-wozu-das-gut-ist.xml"
       ],
       "ger000655": [
-        1505,
+        1506,
         "tei/grohmann-wohlthat-fuer-wohlthat.xml"
       ],
       "ger000656": [
-        1505,
+        1506,
         "tei/eckardt-die-vergiftete-traube.xml"
       ],
       "ger000657": [
-        1505,
+        1506,
         "tei/anonym-die-verhandelte-braut.xml"
       ],
       "ger000658": [
-        1505,
+        1506,
         "tei/gasser-ramirus.xml"
       ],
       "ger000659": [
-        1505,
+        1506,
         "tei/bueschel-julus-und-rhea.xml"
       ],
       "ger000660": [
-        1505,
+        1506,
         "tei/sonnleithner-dir-wie-mir.xml"
       ],
       "ger000661": [
-        1505,
+        1506,
         "tei/anonym-die-weiber-list.xml"
       ],
       "ger000662": [
-        1505,
+        1506,
         "tei/boettger-das-kaffee-haus-zu-paris.xml"
       ],
       "ger000663": [
-        1505,
+        1506,
         "tei/anonym-die-gedruckten-theater-regeln.xml"
       ],
       "ger000664": [
-        1505,
+        1506,
         "tei/raupach-der-bettler.xml"
       ],
       "ger000665": [
-        1505,
+        1506,
         "tei/schlegel-die-entfuehrte-dose.xml"
       ],
       "ger000666": [
-        1505,
+        1506,
         "tei/kotzebue-die-alten-liebschaften.xml"
       ],
       "ger000667": [
-        1505,
+        1506,
         "tei/anonym-die-grands-von-frankreich-in-ihrer-wahren-gestalt.xml"
       ],
       "ger000668": [
-        1505,
+        1506,
         "tei/goering-seeschlacht.xml"
       ],
       "ger000669": [
-        1505,
+        1506,
         "tei/stramm-die-haidebraut.xml"
       ],
       "ger000670": [
-        1505,
+        1506,
         "tei/stramm-rudimentaer.xml"
       ],
       "ger000673": [
-        1505,
+        1506,
         "tei/stramm-geschehen.xml"
       ],
       "ger000672": [
-        1505,
+        1506,
         "tei/stramm-kraefte.xml"
       ],
       "ger000671": [
-        1505,
+        1506,
         "tei/stramm-sancta-susanna.xml"
       ],
       "ger000675": [
-        1505,
+        1506,
         "tei/auffenberg-der-loewe-von-kurdistan.xml"
       ],
       "ger000674": [
-        1505,
+        1506,
         "tei/birch-pfeiffer-mutter-und-tochter.xml"
       ],
       "ger000676": [
-        1505,
+        1506,
         "tei/kotzebue-das-koestlichste.xml"
       ],
       "ger000677": [
-        1505,
+        1506,
         "tei/weidmann-der-selbstmord-oder-der-unglueckliche-lottospieler.xml"
       ],
       "ger000678": [
-        1505,
+        1506,
         "tei/engel-der-edelknabe.xml"
       ],
       "ger000679": [
-        1505,
+        1506,
         "tei/kotzebue-das-posthaus-in-treuenbrietzen.xml"
       ],
       "ger000680": [
-        1505,
+        1506,
         "tei/koch-die-maennerfeindin.xml"
       ],
       "ger000681": [
-        1505,
+        1506,
         "tei/hafner-die-reisenden-komoedianten.xml"
       ],
       "ger000682": [
-        1505,
+        1506,
         "tei/anonym-der-von-der-liebe-betrogene-philosoph.xml"
       ],
       "ger000683": [
-        1505,
+        1506,
         "tei/boesenberg-die-amerikanische-waise.xml"
       ],
       "ger000684": [
-        1505,
+        1506,
         "tei/hagemann-ludwig-der-springer.xml"
       ],
       "ger000685": [
-        1505,
+        1506,
         "tei/raupach-der-degen.xml"
       ],
       "ger000688": [
-        1505,
+        1506,
         "tei/koerner-die-blumen.xml"
       ],
       "ger000686": [
-        1505,
+        1506,
         "tei/raupach-der-platzregen-als-eheprokurator.xml"
       ],
       "ger000687": [
-        1505,
+        1506,
         "tei/sachs-das-kaelberbrueten.xml"
       ],
       "ger000689": [
-        1505,
+        1506,
         "tei/sachs-eulenspiegel-mit-dem-blauen-hosentuch.xml"
       ],
       "ger000690": [
-        1505,
+        1506,
         "tei/martini-rhynsolt-und-sapphira.xml"
       ],
       "ger000691": [
-        1505,
+        1506,
         "tei/pfeffel-vorspiel-ueber-die-buergerliche-tragoedie.xml"
       ],
       "ger000692": [
-        1505,
+        1506,
         "tei/pfeffel-serena.xml"
       ],
       "ger000693": [
-        1505,
+        1506,
         "tei/ayrer-comedia-von-der-schoenen-sidea.xml"
       ],
       "ger000694": [
-        1505,
+        1506,
         "tei/ayrer-tragedia-thesei.xml"
       ],
       "ger000695": [
-        1505,
+        1506,
         "tei/ayrer-comedia-von-zweyen-bruedern-auss-syracusa.xml"
       ],
       "ger000696": [
-        1505,
+        1506,
         "tei/ayrer-fassnachtspil-wie-einem-weib-jhr-eygener-mann.xml"
       ],
       "ger000697": [
-        1505,
+        1506,
         "tei/gengenbach-der-nollhart.xml"
       ],
       "ger000698": [
-        1505,
+        1506,
         "tei/anonym-das-muenchner-spiel-vom-sterbenden-menschen.xml"
       ],
       "ger000699": [
-        1505,
+        1506,
         "tei/herzl-das-neue-ghetto.xml"
       ],
       "ger000700": [
-        1505,
+        1506,
         "tei/kotzebue-das-kind-der-liebe.xml"
       ],
       "ger000702": [
-        1505,
+        1506,
         "tei/hallmann-mariamne.xml"
       ],
       "ger000701": [
-        1505,
+        1506,
         "tei/lenz-pandaemonium-germanicum.xml"
       ],
       "ger000703": [
-        1505,
+        1506,
         "tei/toller-masse-mensch.xml"
       ],
       "ger000704": [
-        1505,
+        1506,
         "tei/ebner-eschenbach-die-selbstsuechtigen.xml"
       ],
       "ger000705": [
-        1505,
+        1506,
         "tei/hensler-der-schornsteinfeger.xml"
       ],
       "ger000706": [
-        1505,
+        1506,
         "tei/ebner-eschenbach-die-veilchen.xml"
       ],
       "ger000707": [
-        1505,
+        1506,
         "tei/ebner-eschenbach-es-wandelt-niemand-ungestraft-unter-palmen.xml"
       ],
       "ger000708": [
-        1505,
+        1506,
         "tei/wolf-cyankali.xml"
       ],
       "ger000709": [
-        1505,
+        1506,
         "tei/ebner-eschenbach-maennertreue.xml"
       ],
       "ger000710": [
-        1505,
+        1506,
         "tei/ebner-eschenbach-ihre-schwester.xml"
       ],
       "ger000711": [
-        1505,
+        1506,
         "tei/wolf-professor-mamlock.xml"
       ],
       "ger000712": [
-        1505,
+        1506,
         "tei/frank-sturm-im-wasserglas.xml"
       ],
       "ger000713": [
-        1505,
+        1506,
         "tei/raupach-der-versiegelte-burgemeister.xml"
       ],
       "ger000714": [
-        1505,
+        1506,
         "tei/tieck-der-abschied.xml"
       ],
       "ger000715": [
-        1505,
+        1506,
         "tei/ebner-eschenbach-das-waldfraeulein.xml"
       ],
       "ger000716": [
-        1505,
+        1506,
         "tei/steltzer-franziska-montenegro.xml"
       ],
       "ger000717": [
-        1505,
+        1506,
         "tei/frech-von-ehrimfeld-die-gefahr.xml"
       ],
       "ger000718": [
-        1505,
+        1506,
         "tei/waldvogl-die-falschen-banknoten.xml"
       ],
       "ger000719": [
-        1505,
+        1506,
         "tei/goentgen-anna-bell.xml"
       ],
       "ger000720": [
-        1505,
+        1506,
         "tei/benedix-eigensinn.xml"
       ],
       "ger000721": [
-        1505,
+        1506,
         "tei/benedix-johanna-sebus.xml"
       ],
       "ger000722": [
-        1505,
+        1506,
         "tei/klopstock-der-tod-abels.xml"
       ],
       "ger000723": [
-        1505,
+        1506,
         "tei/guenderode-der-kanonenschlag.xml"
       ],
       "ger000724": [
-        1505,
+        1506,
         "tei/ebner-eschenbach-bettelbriefe.xml"
       ],
       "ger000725": [
-        1505,
+        1506,
         "tei/bredow-goerne-hypatia.xml"
       ],
       "ger000726": [
-        1505,
+        1506,
         "tei/wezel-der-graf-von-wickham.xml"
       ],
       "ger000727": [
-        1505,
+        1506,
         "tei/wallenrodt-noch-jemands-ankunft-auf-st-helena.xml"
       ],
       "ger000728": [
-        1505,
+        1506,
         "tei/engel-der-diamant.xml"
       ],
       "ger000729": [
-        1505,
+        1506,
         "tei/helldorff-der-zwischenact.xml"
       ],
       "ger000730": [
-        1505,
+        1506,
         "tei/lieberkuehn-die-lissabonner.xml"
       ],
       "ger000731": [
-        1505,
+        1506,
         "tei/andre-cremeri-die-leiden-des-jungen-werthers.xml"
       ],
       "ger000732": [
-        1505,
+        1506,
         "tei/iffland-das-gewissen.xml"
       ],
       "ger000733": [
-        1505,
+        1506,
         "tei/d-arien-natur-und-liebe-im-streit.xml"
       ],
       "ger000734": [
-        1505,
+        1506,
         "tei/reitzenstein-die-negersclaven.xml"
       ],
       "ger000735": [
-        1505,
+        1506,
         "tei/linhart-miss-jenny-love.xml"
       ],
       "ger000736": [
-        1505,
+        1506,
         "tei/hermes-der-advokat.xml"
       ],
       "ger000737": [
-        1505,
+        1506,
         "tei/anonym-der-berliner-kuckkastenmann.xml"
       ],
       "ger000738": [
-        1505,
+        1506,
         "tei/milius-hydropathie-auf-der-eisenbahn.xml"
       ],
       "ger000739": [
-        1505,
+        1506,
         "tei/goue-masuren-oder-der-junge-werther.xml"
       ],
       "ger000740": [
-        1505,
+        1506,
         "tei/goue-iwanette-und-stormond.xml"
       ],
       "ger000741": [
-        1505,
+        1506,
         "tei/thon-adelheit-von-rastenberg.xml"
       ],
       "ger000742": [
-        1505,
+        1506,
         "tei/pelzel-yariko.xml"
       ],
       "ger000743": [
-        1505,
+        1506,
         "tei/glassbrenner-die-juengste-walpurgisnacht.xml"
       ],
       "ger000744": [
-        1505,
+        1506,
         "tei/anonym-die-mainzer-illuminaten.xml"
       ],
       "ger000745": [
-        1505,
+        1506,
         "tei/kleist-robert-guiskard.xml"
       ],
       "ger000746": [
-        1505,
+        1506,
         "tei/marinelli-die-ueberschwemmung.xml"
       ],
       "ger000747": [
-        1505,
+        1506,
         "tei/weisse-die-ueberschwemmung-oder-die-edelmuethige-eifersucht.xml"
       ],
       "ger000748": [
-        1505,
+        1506,
         "tei/anonym-der-gerettete-selbstmoerder.xml"
       ],
       "ger000749": [
-        1505,
+        1506,
         "tei/zweig-jeremias.xml"
       ],
       "ger000750": [
-        1505,
+        1506,
         "tei/georg-von-preussen-sappho.xml"
       ],
       "ger000751": [
-        1505,
+        1506,
         "tei/breithaupt-der-renegat.xml"
       ],
       "ger000752": [
-        1505,
+        1506,
         "tei/ziese-siebenstein.xml"
       ],
       "ger000753": [
-        1505,
+        1506,
         "tei/albrecht-theresgen.xml"
       ],
       "ger000754": [
-        1505,
+        1506,
         "tei/schuecking-elisabeth.xml"
       ],
       "ger000755": [
-        1505,
+        1506,
         "tei/beil-dieterich-von-ruben.xml"
       ],
       "ger000756": [
-        1505,
+        1506,
         "tei/kleist-seneka.xml"
       ],
       "ger000757": [
-        1505,
+        1506,
         "tei/voss-die-tapetenwand.xml"
       ],
       "ger000758": [
-        1505,
+        1506,
         "tei/wolzogen-der-leukadische-fels.xml"
       ],
       "ger000759": [
-        1505,
+        1506,
         "tei/gleim-der-bloede-schaefer.xml"
       ],
       "ger000760": [
-        1505,
+        1506,
         "tei/buerger-die-antike-statue-aus-florenz.xml"
       ],
       "ger000761": [
-        1505,
+        1506,
         "tei/pollinger-antonio-del-bassanio.xml"
       ],
       "ger000762": [
-        1505,
+        1506,
         "tei/wezel-der-erste-dank.xml"
       ],
       "ger000763": [
-        1505,
+        1506,
         "tei/wezel-die-falsche-vergiftung.xml"
       ],
       "ger000764": [
-        1505,
+        1506,
         "tei/pfeffel-der-einsiedler.xml"
       ],
       "ger000765": [
-        1505,
+        1506,
         "tei/hensel-die-entfuehrung-oder-die-zaertliche-mutter.xml"
       ],
       "ger000766": [
-        1505,
+        1506,
         "tei/gellert-das-band.xml"
       ],
       "ger000767": [
-        1505,
+        1506,
         "tei/lasker-schueler-ichundich.xml"
       ],
       "ger000768": [
-        1505,
+        1506,
         "tei/pfeffel-der-schatz.xml"
       ],
       "ger000769": [
-        1505,
+        1506,
         "tei/ebner-eschenbach-die-schauspielerin.xml"
       ],
       "ger000770": [
-        1505,
+        1506,
         "tei/ebner-eschenbach-das-gestaendnis.xml"
       ],
       "ger000771": [
-        1505,
+        1506,
         "tei/dobruska-die-zwo-amaryllen.xml"
       ],
       "ger000772": [
-        1505,
+        1506,
         "tei/schmetzer-deutschland-und-seine-feinde.xml"
       ],
       "ger000773": [
-        1505,
+        1506,
         "tei/anonym-die-glueckliche-ueberschwemmung.xml"
       ],
       "ger000774": [
-        1505,
+        1506,
         "tei/gruebel-k-und-k-landsturm.xml"
       ],
       "ger000775": [
-        1505,
+        1506,
         "tei/schumann-der-dichterling.xml"
       ],
       "ger000776": [
-        1505,
+        1506,
         "tei/tieck-ballade.xml"
       ],
       "ger000778": [
-        1505,
+        1506,
         "tei/tieck-die-bezauberungen-der-nacht.xml"
       ],
       "ger000777": [
-        1505,
+        1506,
         "tei/tieck-fruehlingszauber.xml"
       ],
       "ger000779": [
-        1505,
+        1506,
         "tei/doerk-die-frau-am-sylvestertag.xml"
       ],
       "ger000780": [
-        1505,
+        1506,
         "tei/doerk-auf-dem-schlachtfeld.xml"
       ],
       "ger000781": [
-        1505,
+        1506,
         "tei/doerk-der-sohn.xml"
       ],
       "ger000782": [
-        1505,
+        1506,
         "tei/doerk-nachtwache.xml"
       ],
       "ger000783": [
-        1505,
+        1506,
         "tei/gruebel-ultimo-am-bruehl.xml"
       ],
       "ger000784": [
-        1505,
+        1506,
         "tei/kleist-sappho.xml"
       ],
       "ger000785": [
-        1505,
+        1506,
         "tei/gubitz-sappho.xml"
       ],
       "ger000786": [
-        1505,
+        1506,
         "tei/huber-sapho.xml"
       ],
       "ger000787": [
-        1505,
+        1506,
         "tei/schaden-die-moderne-sappho.xml"
       ],
       "ger000788": [
-        1505,
+        1506,
         "tei/gruber-phaon-und-melitta.xml"
+      ],
+      "ger000789": [
+        1506,
+        "tei/gerstenberg-minona-oder-die-angelsachsen.xml"
       ]
     }
   },
   "last_run": {
-    "start_seq": 0,
-    "commits_processed": 1506,
-    "blobs_fetched_for_blobless_clone": 0
+    "start_seq": 1506,
+    "commits_processed": 1,
+    "blobs_fetched_for_blobless_clone": 1
   }
 }
