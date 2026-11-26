@@ -41,6 +41,7 @@ from __future__ import annotations
 import argparse
 import csv
 import io
+import os
 import json
 import re
 import shutil
@@ -232,6 +233,19 @@ def parse_repo_url(url: str) -> tuple[str, str | None]:
     return url, None
 
 
+# Git without stored credentials or prompts: the index is public, so it only covers repositories
+# anyone can read. A private repository (e.g. a corpus in preparation) must fail here, also on a
+# machine where git could log in.
+ANON_GIT = ["git", "-c", "credential.helper=", "-c", "core.askPass="]
+ANON_ENV = {**os.environ, "GIT_TERMINAL_PROMPT": "0", "GIT_ASKPASS": "", "SSH_ASKPASS": ""}
+
+
+def is_public(url: str) -> bool:
+    r = subprocess.run(ANON_GIT + ["ls-remote", "--heads", url], capture_output=True,
+                       env=ANON_ENV, timeout=60, check=False)
+    return r.returncode == 0
+
+
 def ensure_repo(name: str, url: str, blobless: bool) -> Path:
     """Clone (full, or blobless for incremental runs) or fetch the corpus repository.
 
@@ -241,13 +255,13 @@ def ensure_repo(name: str, url: str, blobless: bool) -> Path:
     repo = REPOS / name
     if not repo.exists():
         REPOS.mkdir(exist_ok=True)
-        cmd = ["git", "clone", "--quiet", "--no-checkout"]
+        cmd = ANON_GIT + ["clone", "--quiet", "--no-checkout"]
         if blobless:
             cmd.append("--filter=blob:none")
-        subprocess.run(cmd + [url, str(repo)], check=True)
+        subprocess.run(cmd + [url, str(repo)], check=True, env=ANON_ENV)
     else:
-        subprocess.run(["git", "-C", str(repo), "fetch", "--quiet", "--prune", "--tags", "origin"],
-                       check=True)
+        subprocess.run(ANON_GIT + ["-C", str(repo), "fetch", "--quiet", "--prune", "--tags", "origin"],
+                       check=True, env=ANON_ENV)
     return repo
 
 
@@ -331,6 +345,10 @@ class Indexer:
     def process(self, seq: int, prev: str | None, cur: str):
         removed, added = [], []
         for st, om, nm, ob, nb, path in diff_tree(self.repo, prev, cur):
+            if st == "M" and ob == nb:
+                # only the file mode changed (e.g. chmod); same content, same interval
+                self.case("mode-change", seq, path=path, detail=f"{om}->{nm}")
+                continue
             if st in ("D", "M", "T"):
                 iv = self.open.pop(path, None)
                 if iv is None:
@@ -878,31 +896,53 @@ def main():
     unknown = [n for n in names if n not in corpora]
     if unknown:
         ap.error(f"not in the registry or the DraCor API: {', '.join(unknown)}")
+    skipped, failed = [], []
     for name in names:
-        c = corpora[name]
-        url, frag = parse_repo_url(c["repository"])
-        blobless = args.clone == "blobless" or (
-            args.clone == "auto" and not args.full and (args.out / name / "meta.json").exists())
-        repo = REPOS / name if args.no_fetch else ensure_repo(name, url, blobless)
-        branch, head, warning = resolve_branch(repo, frag, c.get("commit"))
-        if warning:
-            print(f"  {name}: WARNING {warning}", file=sys.stderr)
-        if args.rev:
-            head = git(repo, "rev-parse", args.rev).strip()
-        ix = Indexer(name, repo, branch, head, args.out / name)
-        ix.repo_url, ix.branch_from_fragment, ix.api_commit = c["repository"], frag is not None, c.get("commit")
-        ix.branch_warning = warning
-        if not ix.run(args.full):
-            print(f"{name}: up to date", flush=True)
-            if args.cleanup:
-                shutil.rmtree(repo)
-            continue
-        m = json.loads((args.out / name / "meta.json").read_text())["counts"]
-        print(f"{name}: {m['first_parent_commits']} fp commits, {m['side_commits_merged']}+"
-              f"{m['side_commits_unmerged']} side, {m['distinct_tei_blobs']} TEI blobs, "
-              f"dedup {m['dedup_factor']}, cases {m['special_cases']}", flush=True)
+        try:
+            if not index_corpus(name, corpora[name], args):
+                skipped.append(name)
+        except Exception as e:  # one broken corpus must not stop the others
+            print(f"{name}: ERROR {e}", file=sys.stderr, flush=True)
+            failed.append(name)
+    if skipped:
+        print(f"skipped (repository not public): {', '.join(skipped)}", file=sys.stderr)
+    if failed:
+        print(f"failed: {', '.join(failed)}", file=sys.stderr)
+        sys.exit(1)
+
+
+def index_corpus(name: str, c: dict, args) -> bool:
+    """Index one corpus; False if its repository is not public (skipped)."""
+    url, frag = parse_repo_url(c["repository"])
+    if not args.no_fetch and not is_public(url):
+        msg = f"{name}: WARNING repository {url} is not public; not indexed"
+        if (args.out / name).exists():
+            msg += f" (but {args.out / name} exists: remove it, the index is public)"
+        print(msg, file=sys.stderr, flush=True)
+        return False
+    blobless = args.clone == "blobless" or (
+        args.clone == "auto" and not args.full and (args.out / name / "meta.json").exists())
+    repo = REPOS / name if args.no_fetch else ensure_repo(name, url, blobless)
+    branch, head, warning = resolve_branch(repo, frag, c.get("commit"))
+    if warning:
+        print(f"  {name}: WARNING {warning}", file=sys.stderr)
+    if args.rev:
+        head = git(repo, "rev-parse", args.rev).strip()
+    ix = Indexer(name, repo, branch, head, args.out / name)
+    ix.repo_url, ix.branch_from_fragment, ix.api_commit = c["repository"], frag is not None, c.get("commit")
+    ix.branch_warning = warning
+    if not ix.run(args.full):
+        print(f"{name}: up to date", flush=True)
         if args.cleanup:
             shutil.rmtree(repo)
+        return True
+    m = json.loads((args.out / name / "meta.json").read_text())["counts"]
+    print(f"{name}: {m['first_parent_commits']} fp commits, {m['side_commits_merged']}+"
+          f"{m['side_commits_unmerged']} side, {m['distinct_tei_blobs']} TEI blobs, "
+          f"dedup {m['dedup_factor']}, cases {m['special_cases']}", flush=True)
+    if args.cleanup:
+        shutil.rmtree(repo)
+    return True
 
 
 if __name__ == "__main__":

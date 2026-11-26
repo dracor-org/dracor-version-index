@@ -206,6 +206,7 @@ From the pass over the git history:
 | `id-assigned` / `id-lost` | a file gains / loses its DraCor ID at the same path |
 | `id-change` | same path, different ID in the file |
 | `rename-same-blob` | new path, same content |
+| `mode-change` | only the file mode changed (e.g. `chmod`), same content; the interval goes on |
 | `rename-with-change` | new path and new content, same ID |
 | `rename-similar` | new path and new content, linked by git's rename detection |
 | `id-reappears` | an ID comes back after a gap |
@@ -448,7 +449,10 @@ python build_index.py --all --cleanup  # delete each clone afterwards
   corpora in development (status `draft` or `proposed`) that dracor.org has not loaded yet, so
   that their versions resolve too; plus any corpus of `https://dracor.org/api/v1/corpora`.
   Where the API loads a corpus, its repository URL and loaded commit are used. A new corpus
-  in the registry or the API is indexed on the next run.
+  in the registry or the API is indexed on the next run. **Only public repositories:** the
+  index is public, so a repository that git can't read without credentials (e.g. a corpus in
+  preparation) is skipped with a warning, also on a machine where git could log in. One
+  failing corpus doesn't stop the others; the run exits with an error at the end.
 - **Branch:** the branch whose main line contains the commit the DraCor API loads. That is
   normally the branch in the repository URL (`…#reboot`) or the default branch. If the API
   commit is on another branch, that branch is used and a warning is recorded (greek).
