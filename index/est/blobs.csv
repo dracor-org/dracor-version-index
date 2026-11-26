@@ -24,6 +24,7 @@ blob,tei,malformed,xmlid,idno,legacy_type,legacy_value,title,authors
 25e7d8062d23743a5e0504f1cdd34292a026a466,true,false,est000005,,,,parmi jaagu unenagu,jannsen
 281dcea6cf587c147aa65df3a41cebee215132c4,true,false,est000004,,,,kapsapaa,luts
 28ded1c68e292389b76067bf64252b66473daa6a,true,false,est000009,,,,libahunt,kitzberg
+2ce1ee983da3671304e5dc3db2cec79593f8039e,true,false,est000006,,,,pisuhand,vilde
 2dd2a2bcd1c092070ecdf3f80e08ff11a7c98df2,true,false,est000019,,,,kosjaviinad ehk kuidas tapiku pere laulupidule sai,koidula
 315aa9bd81bc993079dff121c679f7cab2f5e0b3,true,false,est000029,,,,kihlvedu 5000 rubla paale,jannsen
 341095931e5f6d369bd1b6a1041aae496bc5b534,true,false,est000011,,,,mikumardi,raudsepp
@@ -159,6 +160,7 @@ ee98d30e1c16bbea797dc02b80da1e081d4b3c2f,true,false,est000029,,,,kihlvedu 5000 r
 f054c966d1d75aece00dc949f2e4ae33c1adb35e,true,false,est000014,,,,kroonu onu,kunder
 f0d7a8df34f73aa95be4169f9c1fc02704439e18,true,false,est000003,,,,sarane mul k,koidula
 f0da74d7ca7ed45cee858b47cb15319def79572f,true,false,est000003,,,,sarane mul k,koidula
+f36324b4c2d55ca24a3c6ef8f85467157a280b2b,false,false,,,,,,
 f3e5b7253dacc7ca40694b596928ac51311d4493,true,false,est000017,,,,kuningal on kulm,tammsaare
 f4d64b3791f10e11c732038e6132082fbe29d951,true,false,est000018,,,,kosjakased,koidula
 f8c8ea88c9066e924d525b0878f03604b4b0397c,true,false,est000005,,,,parmi jaagu unenagu,

@@ -566,6 +566,7 @@ blob,tei,malformed,xmlid,idno,legacy_type,legacy_value,title,authors
 0ae1d1e74669baa9cb308cfae9b0d423c1e7d58d,true,false,,,DLINA-ID,98,erster klasse,thoma
 0ae1dae617e7655f2f63b4e7ca2a5be0fdca5689,true,false,,ger000067,,,die braut von messina oder die feindlichen bruder,schiller
 0ae2990c4a99659fb97731e28f0f34add12ca6d4,true,false,,,DLINA-ID,248,meister oelze,schlaf
+0aea136fb3b3b571f92fbfce9f4f4c13897062c6,true,false,ger000790,,,,gesprache im elysium,wieland
 0af97a9cf9a8b0571339ea087a895e20a7f4e498,true,false,ger000086,,,,die piccolomini,schiller
 0afb17397fa3efb9ee8f3b00dd102e935547b13d,true,false,ger000188,,,,der hyperboreische esel oder die heutige bildung,kotzebue
 0b091467f6514e5600adf248ecf159dd8ec50c93,true,false,,ger000164,,,alarcos,schlegel
@@ -1866,6 +1867,7 @@ blob,tei,malformed,xmlid,idno,legacy_type,legacy_value,title,authors
 2350f0ce040c41e73545b5c63b72da1c7f43cb14,true,false,,ger000328,,,die stumme schonheit,schlegel
 235612250cb4a3a753d888e81822b4c6ac04d9a5,true,false,ger000573,,,,mutter maria,braun
 2358e30277adf6193d25e8434e79c6f3c625f5a4,true,false,,,DLINA-ID,359,der mann nach der uhr oder der ordentliche mann,hippel
+2359d31eda12446bd49ebde42e4c565e58a10934,true,false,ger000786,,,,sapho,huber
 2362fec471f0be93a03543c32ee1cab163fe88b5,true,false,,,DLINA-ID,92,vatersorgen,birch
 2363b65f78ba1cb22c2e8a2f888f8a1cd704b8a5,true,false,,ger000040,,,fruhlings erwachen,wedekind
 236a3f9fc5782ab804d1fa5e9fb7208f16b31e36,true,false,,,DLINA-ID,378,napoleon oder die hundert tage,grabbe
@@ -2877,6 +2879,7 @@ blob,tei,malformed,xmlid,idno,legacy_type,legacy_value,title,authors
 370df09cc17036d01c8243db429c5fe9acd26be7,true,false,,ger000497,,,das leidende weib,klinger
 3717934e872bd9aa304d6f7230d42390eaee9c06,true,false,,ger000269,,,der wildschutz oder die stimme der natur,lortzing
 3719a0bd2c5370caa882d56ce55b802889392a79,true,false,,ger000462,,,die pietisterey im fischbein rocke oder die doctormaßige frau,gottsched
+371d07c2b739ec3835df98b1105bf127e0b9009d,true,false,ger000750,,,,sappho,preußen
 37210ecd753518766d597acd5c94d99e0ae0c0c2,true,false,,,DLINA-ID,156,die jager,iffland
 373277f346031cfbc055ea7aa325c9731a412fe6,true,false,,ger000093,,,die schule des armen oder zwei millionen,kaiser
 37336d6d7906e2a74380d4fcb626e80f2bceea72,true,false,,ger000269,,,der wildschutz oder die stimme der natur,lortzing
@@ -3088,6 +3091,7 @@ blob,tei,malformed,xmlid,idno,legacy_type,legacy_value,title,authors
 3ba1cc26b6eb017b04710726484a09f93e127561,true,false,,ger000192,,,der hypochondrist,quistorp
 3bad848980f191a0e53b7ca66ee12b096d2e6cde,true,false,,,DLINA-ID,49,die familie schroffenstein,kleist
 3baeaade69bb2538cfa9f8fb94f88455e01a728d,true,false,,,DLINA-ID,17,der einsame weg,schnitzler
+3bb1035b6813ebc0e30957342dcbe4fa5ce37b43,true,false,ger000785,,,,sappho,gubitz
 3bb82a32860a1094c87d1efa8ead5a60f0c23c6d,true,false,,ger000045,,,zopf und schwert,gutzkow
 3bbc09bf2412a0c975830a9d21b0e88a88dc83fa,true,false,,ger000442,,,egmont,goethe
 3bbc228290025c3db469b5d55284a84b7cd9f51b,true,false,ger000587,,,,liebe und wille,iffland
@@ -3282,6 +3286,7 @@ blob,tei,malformed,xmlid,idno,legacy_type,legacy_value,title,authors
 3f495710873edaad74b5a40a34f64b5123d9e0d7,true,false,,ger000209,,,don juan und faust,grabbe
 3f4baf964fdbae4e2b602b82440ed04ce553780f,true,false,,ger000263,,,medusa,lautensack
 3f4e47e978e5aabd18c81573ebec0250be0c7c02,true,false,ger000168,,,,mudder mews,stavenhagen
+3f5362c0300eced1e0d5d06d8158aba5f6742c28,true,false,ger000784,,,,sappho,kleist
 3f53709304eaab36b923ee571c54d68cefdf761a,true,false,ger000282,,,,virginia oder das abgeschaffte decemvirat,ayrenhoff
 3f60d1bb5c70d43597d8178dbce8d7b574732f57,true,false,,ger000449,,,odoardo galotti vater der emilia,bodmer
 3f6fc6f9f063504febc6ef17d3a4a548378a6f9b,true,false,ger000118,,,,die freier,eichendorff
@@ -3530,6 +3535,7 @@ blob,tei,malformed,xmlid,idno,legacy_type,legacy_value,title,authors
 4450e4996ea02f4863666d32c8636e74a63d6d02,true,false,ger000581,,,,die kuhpocken,rambach
 445706637bab6436dd8bec23966a8ff1f2f69c95,true,false,ger000066,,,,julie,sturz
 445bf869e879127a0af5e52f9a332c86f4dff86b,true,false,ger000629,,,,das winterquartier in amerika,babo
+445ee179a134e673b673b1d3166952f00244e468,true,false,ger000788,,,,phaon und melitta,gruber
 44624f7fad20fb433a377ed6a7a1f02e9750b399,true,false,ger000052,,,,das spiel von doktor faust,ertler
 4462fb5fe64b1d23e0cfb48d079ca1688fab754d,true,false,,,DLINA-ID,399,traumulus,holz|jerschke
 4468e2c420499c5c98bc1efbdd0d4a362d59cc1b,true,false,,,DLINA-ID,313,die verkehrte welt,tieck
@@ -10084,6 +10090,7 @@ c5fd6ddc0509e5b2c44aa8630ff4eaa311a19f47,true,false,ger000703,,,,masse mensch,to
 c60340f4ea086c5834cc8f708221e0be39f0f850,true,false,,,DLINA-ID,352,mona lisa,dovsky
 c6046288d6eb7a1a64619da54e278566a8bf4974,true,false,,,DLINA-ID,213,die schwestern st janvier,weißenthurn
 c6075715fcdba0f28faebc13532f167078f22c58,true,false,,,DLINA-ID,245,der fliegende hollander,wagner
+c60c44c07b42750f0919fd84619ce08196ec4070,true,false,ger000758,,,,der leukadische fels,wolzogen
 c611a192932269d556c3f891df6e6334e587e4a3,true,false,ger000146,,,,musik,wedekind
 c615f1a916595c4b11f13a6d02dccc4a160811f4,true,false,,ger000359,,,der mann nach der uhr oder der ordentliche mann,hippel
 c61fcd3ca264ec2ee9c59c22cd9bb1fd66facf8c,true,false,ger000525,,,,der comodienfeind,andre
@@ -10289,6 +10296,7 @@ c9ff70893a09d7a4fbf12d56800b19e6cd5cd4f9,true,false,,,DLINA-ID,141,die puppe und
 ca01badb9f9d299b7b717ac46fb83e7ecbcb0744,true,false,,ger000450,,,doktor faust,soden
 ca0ea7c4baabf2fb5b214af56d82d6eb136b9daa,true,false,,,DLINA-ID,415,tannhauser und der sangerkrieg auf wartburg,wagner
 ca2478174679b21c95c6ee96289035ea098fcf38,true,false,,,DLINA-ID,89,anatol,schnitzler
+ca266bbdcf6f72d19b39c7948137908064b15486,true,false,ger000108,,,,sappho,grillparzer
 ca26c27502ffd8b98a97874cb5ae82af576790ec,true,false,,,DLINA-ID,462,die pietisterey im fischbein rocke,gottsched
 ca2930a66d10620cd93adcceb924fa42683716e2,true,false,,ger000133,,,die liebe im narrenhause,stephanie
 ca2d5e075cca1280795f064bd5e0af3a259dc73a,true,false,,,DLINA-ID,19,das urbild des tartuffe,gutzkow
@@ -10596,6 +10604,7 @@ d0841fe499bc398ee2997bf3635d8175b3fe803c,true,false,,ger000235,,,verbrechen aus 
 d084bf95e1bec3531213564aba65c2354094101c,true,false,,ger000193,,,der rauchfangkehrer oder die unentbehrlichen verrather ihrer herrschaften aus eigennutz,auenbrugger
 d0944199126626b48c8fd8bf0f854ac375c42349,true,false,,ger000393,,,hannibal,grabbe
 d09e33f9f1e883ef70c337f841fad6f15f92e275,true,false,,ger000300,,,odipus und die sphinx,hofmannsthal
+d09f7e6fcc12f98b2f9a70926206dbfc7a203ed5,true,false,ger000789,,,,minona oder die angelsachsen,gerstenberg
 d0a3eb743b407ee4ac25b2b25dff5f1622ae5488,true,false,,,DLINA-ID,52,das spiel von doktor faust,ertler
 d0a9f826729f57edcd6d66b990e37316c3c9234e,true,false,,,DLINA-ID,145,turandot,busoni
 d0ab86ab756bf5bfecf0e1c6512917e448f39fd3,true,false,,,DLINA-ID,221,babel und bibel,may
@@ -11165,6 +11174,7 @@ db20b3c32037fe7c843a99e7adbf5ada4da6197c,true,false,,ger000074,,,die verhangnisv
 db2495fc8a3eab4500b814b9a78833946e1b1c93,true,false,,ger000197,,,mein leopold,l
 db2b139f8918208eaf5ddf2bd0dd5332c542933a,true,false,ger000431,,,,kritik und antikritik,raupach
 db339c288a9da75aa033537f8d3c3b733e4f54c0,true,false,,,DLINA-ID,370,das mirakel,scheerbart
+db35a42b20a8263e0663cf048d7ae44991f88895,true,false,ger000787,,,,die moderne sappho,schaden
 db40da6a10474332de666ccb841fe4116f62cc31,true,false,ger000517,,,,kaiser friedrich barbarossa,grabbe
 db4988ad3f875131592cf9e68bdef7366874a6e5,true,false,ger000240,,,,die haubenlerche,wildenbruch
 db527abd13e29a10f1e9a458d46e49be6d05a080,true,false,ger000054,,,,der meineidbauer,anzengruber
@@ -12085,6 +12095,7 @@ ed132f844a34ac6f0df0802773e042d2c10105a8,true,false,,ger000262,,,eid und pflicht
 ed1a8fdc954cbf6d3de0919420a1d00c16d45c82,true,false,,ger000333,,,der widerspenstigen zahmung,widmann
 ed1c53dee75d23f7647ce67ddb0bcb7f77ccbb09,true,false,,,DLINA-ID,124,die betschwester,gellert
 ed5e6465ec8900e178b3d0f7f63fac7aaee39a72,true,false,ger000745,,,,robert guiskard herzog der normanner,kleist
+ed612f8ff9e4c271e008bfc25368c1070275e874,true,false,ger000790,,,,gesprache im elysium,wieland
 ed6505033ab21764d32abfefca70c942f1d5dbe8,true,false,ger000086,,,,die piccolomini,schiller
 ed6a1def981a79b4449bfa725af43cfa0f88f9ee,true,false,,ger000307,,,martha oder der markt zu richmond,riese
 ed6d610a39c5e3d49243c420304077374f60d7ee,true,false,,ger000364,,,der schwierige,hofmannsthal
