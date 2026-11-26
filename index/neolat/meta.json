@@ -12,7 +12,7 @@
     "first_parent_commits": 221,
     "side_commits_merged": 390,
     "side_commits_unmerged": 7,
-    "intervals": 498,
+    "intervals": 484,
     "tei_ids": 40,
     "tei_ids_valid_at_head": 40,
     "tei_files_at_head": 40,
@@ -24,6 +24,7 @@
     "tei_unresolved_intervals": 0,
     "special_cases": {
       "gitlink": 8,
+      "mode-change": 14,
       "rename-same-blob": 2
     }
   },

@@ -2,6 +2,20 @@ case,seq,commit,key,path,blob,detail
 gitlink,27,ea0d108436811632fe669bf3aca82dc227d1a11c,plays-encoding-framework,plays-encoding-framework,2e6a51c8c51a8c2103696486879c91a2c7767e90,submodule entry
 gitlink,29,21839a05d0058d193a212d14d3926b4be0d851bf,plays-encoding-framework,plays-encoding-framework,3d50b19c648c7274af9fb00cb53c57912b5e9d27,submodule entry
 gitlink,34,55aea8dbd8a7980f200359fd5d3c243c0cfdf5b3,plays-encoding-framework,plays-encoding-framework,55fea9b735bdac55563f833e6e0fa07b486112ff,submodule entry
+mode-change,50,6724a7de50997d13854f4bcfa213b008bb211d56,,docx/eucolus-soter-gloriosus.docx,,100755->100644
+mode-change,50,6724a7de50997d13854f4bcfa213b008bb211d56,,docx/holonius-catharina.docx,,100755->100644
+mode-change,50,6724a7de50997d13854f4bcfa213b008bb211d56,,docx/holonius-laurentias.docx,,100755->100644
+mode-change,50,6724a7de50997d13854f4bcfa213b008bb211d56,,docx/knuyt-de-slyterhoven-scornetta.docx,,100755->100644
+mode-change,50,6724a7de50997d13854f4bcfa213b008bb211d56,,docx/lummenaeus-amnon.docx,,100755->100644
+mode-change,50,6724a7de50997d13854f4bcfa213b008bb211d56,,docx/lummenaeus-iephte.docx,,100755->100644
+mode-change,50,6724a7de50997d13854f4bcfa213b008bb211d56,,docx/muretus-iulius-caesar.docx,,100755->100644
+mode-change,50,6724a7de50997d13854f4bcfa213b008bb211d56,,docx/papaeus-samarites.docx,,100755->100644
+mode-change,50,6724a7de50997d13854f4bcfa213b008bb211d56,,docx/plausus-luctificae-mortis.docx,,100755->100644
+mode-change,50,6724a7de50997d13854f4bcfa213b008bb211d56,,docx/roulerius-stuarta.docx,,100755->100644
+mode-change,50,6724a7de50997d13854f4bcfa213b008bb211d56,,docx/salius-nassovius.docx,,100755->100644
+mode-change,50,6724a7de50997d13854f4bcfa213b008bb211d56,,docx/schonaeus-iuditha.docx,,100755->100644
+mode-change,50,6724a7de50997d13854f4bcfa213b008bb211d56,,docx/schonaeus-naaman.docx,,100755->100644
+mode-change,50,6724a7de50997d13854f4bcfa213b008bb211d56,,docx/schonaeus-pseudostratiotae.docx,,100755->100644
 gitlink,82,6a9ddabf939ef0e9f5f446e1e6d3b3fd583192a0,plays-encoding-framework,plays-encoding-framework,ab92459a6aaa51a860f0fc5d2d3241ebe6682543,submodule entry
 gitlink,84,e287c3d57d81403104771c690852110dff1d2451,plays-encoding-framework,plays-encoding-framework,2bc15dca931547d5fadc1bbe4393155093553760,submodule entry
 gitlink,105,14dec93decfee156807b8d143e48046305d48ef6,plays-encoding-framework,plays-encoding-framework,5d6f93496e62027d9e02ff82987cc1ebaa4ee089,submodule entry
