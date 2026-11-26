@@ -1,0 +1,109 @@
+{
+  "corpus": "test",
+  "repository": "https://github.com/dracor-org/testdracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "2cebfd3a4e273531dc1bf2d16f1f60018fb0fc63",
+  "api_commit": null,
+  "api_commit_seq": null,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 75,
+    "side_commits_merged": 4,
+    "side_commits_unmerged": 0,
+    "intervals": 109,
+    "tei_ids": 5,
+    "tei_ids_valid_at_head": 4,
+    "tei_files_at_head": 4,
+    "distinct_tei_blobs": 55,
+    "tei_file_commit_pairs": 303,
+    "dedup_factor": 5.51,
+    "tei_noid_intervals": 14,
+    "last_seq_with_noid_tei": 8,
+    "tei_unresolved_intervals": 1,
+    "special_cases": {
+      "id-assigned": 3,
+      "id-change": 4,
+      "id-invalid": 4,
+      "id-unresolved": 1,
+      "rename-same-blob": 1,
+      "rename-similar": 1,
+      "tei-without-id": 14
+    }
+  },
+  "id_archaeology": {
+    "prefix": "test",
+    "texts": 6,
+    "texts_by_method": {
+      "file": 5,
+      "unresolved": 1
+    },
+    "intervals_by_method": {
+      "legacy:Dramawebben": 4,
+      "file": 41,
+      "legacy:RusDraCor": 3,
+      "lineage": 7,
+      "legacy:DLINA-ID": 3,
+      "unresolved": 1
+    },
+    "legacy_table": 3,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 4,
+    "with_base": 4,
+    "delta_rows": 4,
+    "tei_delta_rows_by_method": {
+      "file": 1
+    }
+  },
+  "state": {
+    "last_commit": "2cebfd3a4e273531dc1bf2d16f1f60018fb0fc63",
+    "last_seq": 74,
+    "dups_open": {},
+    "last_seen_id": {
+      "swe000041": [
+        9,
+        "tei/strindberg-froken-julie.xml"
+      ],
+      "rus000054": [
+        9,
+        "tei/gogol-revizor.xml"
+      ],
+      "ger000088": [
+        9,
+        "tei/lessing-emilia-galotti.xml"
+      ],
+      "shake000031": [
+        9,
+        "tei/shakespeare-macbeth.xml"
+      ],
+      "test000001": [
+        74,
+        "tei/gogol-revizor.xml"
+      ],
+      "test000002": [
+        74,
+        "tei/lessing-emilia-galotti.xml"
+      ],
+      "test000003": [
+        74,
+        "tei/shakespeare-macbeth.xml"
+      ],
+      "test000004": [
+        74,
+        "tei/strindberg-froken-julie.xml"
+      ],
+      "test000005": [
+        30,
+        "tei/anonymous-everyman.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 75,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

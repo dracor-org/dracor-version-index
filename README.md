@@ -438,14 +438,17 @@ development machine that is Homebrew Python (`/opt/homebrew/bin/python3.13`) in 
 `.venv`.
 
 ```sh
-python build_index.py als              # one corpus; repository URL from the DraCor API
-python build_index.py --all            # all corpora
+python build_index.py als              # one corpus; repository URL from the DraCor API or the registry
+python build_index.py --all            # all corpora of the registry and the DraCor API
 python build_index.py ger --full       # rebuild from scratch instead of continuing
 python build_index.py --all --cleanup  # delete each clone afterwards
 ```
 
-- **Corpus list:** names, repository URLs and the loaded commits come from
-  `https://dracor.org/api/v1/corpora`. A new corpus there is indexed on the next run.
+- **Corpus list:** every corpus of the DraCor registry (`index/registry.json`), including
+  corpora in development (status `draft` or `proposed`) that dracor.org has not loaded yet, so
+  that their versions resolve too; plus any corpus of `https://dracor.org/api/v1/corpora`.
+  Where the API loads a corpus, its repository URL and loaded commit are used. A new corpus
+  in the registry or the API is indexed on the next run.
 - **Branch:** the branch whose main line contains the commit the DraCor API loads. That is
   normally the branch in the repository URL (`…#reboot`) or the default branch. If the API
   commit is on another branch, that branch is used and a warning is recorded (greek).
@@ -484,7 +487,7 @@ curl -u admin: -X POST "http://localhost:8080/exist/restxq/v1/id-index?corpora=g
 
 By default it reads `https://raw.githubusercontent.com/dracor-org/dracor-version-index/main/index`
 (tested). `source=` sets another location, e.g. a local
-copy served with `python -m http.server`. Without `corpora=` it loads the corpora the API has.
+copy served with `python -m http.server`. Without `corpora=` it loads every corpus of the index's `registry.json`.
 In tests its answers agreed with `lookup.py` on about 2,700 random references across all
 corpora.
 

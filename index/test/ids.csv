@@ -1,0 +1,16 @@
+key,path,from_seq,to_seq,id_in_file,id_method
+tei/schikaneder-die-zauberfloete.xml,tei/schikaneder-die-zauberfloete.xml,5,6,,
+test000001,tei/gogol-revizor.xml,1,8,,legacy:RusDraCor
+test000001,tei/gogol-revizor.xml,9,9,rus000054,lineage
+test000001,tei/gogol-revizor.xml,10,,test000001,file
+test000002,tei/lessing-emilia-galotti.xml,1,8,,legacy:DLINA-ID
+test000002,tei/lessing-emilia-galotti.xml,9,9,ger000088,lineage
+test000002,tei/lessing-emilia-galotti.xml,10,,test000002,file
+test000003,tei/macbeth.xml,1,3,,lineage
+test000003,tei/shakespeare-macbeth.xml,4,8,,lineage
+test000003,tei/shakespeare-macbeth.xml,9,9,shake000031,lineage
+test000003,tei/shakespeare-macbeth.xml,10,,test000003,file
+test000004,tei/StrindbergA_FrokenJulie.xml,1,7,,legacy:Dramawebben
+test000004,tei/strindberg-froken-julie.xml,8,9,swe000041,legacy:Dramawebben
+test000004,tei/strindberg-froken-julie.xml,10,,test000004,file
+test000005,tei/anonymous-everyman.xml,26,30,test000005,file

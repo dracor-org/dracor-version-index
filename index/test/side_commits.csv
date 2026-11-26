@@ -1,0 +1,5 @@
+commit,base_seq,change,path,blob,key,kind,id_in_file,id_method
+2eefc549bb210c5c6aea037ad35584361e88d278,21,M,corpus.xml,17142628e7e0284e7b52e16f1c56a2b0d8381374,corpus.xml,other,,
+1eba4a6d8b313aa7bcf78c956038abb5bea773af,22,M,tei/gogol-revizor.xml,631072d790f2d1b06187c360901d0b9d296e1a90,test000001,tei,test000001,file
+d1d101e55f44217c0c84a1f0d146ee43fb6bcbcf,33,M,.github/workflows/validation.yml,47ca3c5b61224cce16084f1975403a87f4806ceb,.github/workflows/validation.yml,other,,
+d09d08cfd293875c700aafada9417e76a987bf15,34,M,.github/workflows/validation.yml,fd0bafa84740ba06f833a2df3341a63153a40151,.github/workflows/validation.yml,other,,

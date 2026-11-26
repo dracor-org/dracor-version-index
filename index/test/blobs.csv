@@ -1,0 +1,64 @@
+blob,tei,malformed,xmlid,idno,legacy_type,legacy_value,title,authors
+026da633da76ad100bb654511716da9da7cf0c5c,true,false,test000004,,Dramawebben,StrindbergA_FrokenJulie,froken julie,strindberg
+03ba7ecbfc202d988b0f37031a1d8e734fd3ef5b,true,false,test000005,,,,everyman,q4233718
+0437bc9ec4bb93703eca5af12b99d525989ba65c,true,false,test000001,,,,ревизор,гоголь
+048816eae11d6a8c438e492024d435c2dce6aad8,true,false,test000002,,,,emilia galotti,lessing
+05739eaf5087d2a2aed96e0b93be7f8eeebee029,true,false,test000004,,Dramawebben,StrindbergA_FrokenJulie,froken julie,strindberg
+06f537eab0b295a23d9ab6eeb976f63081c40afe,false,false,,,,,,
+08704a657efef4e41b1c10790126ef37e996545e,true,false,test000005,,,,everyman,q4233718
+091b92275bbfc144f09456304e401146ec20e4fa,true,false,,,,,macbeth,shakespeare
+0cd8cf539fc3c2d222dafeb643453e656c91831d,true,false,test000001,,,,ревизор,гоголь
+13eef5df5a77a1adf1ff8e87391747db7afb16cb,false,false,,,,,,
+1490690dcb18c3bde03f42c40746cd6a7d5bcb0b,true,false,,test000002,,,emilia galotti,lessing
+17142628e7e0284e7b52e16f1c56a2b0d8381374,false,false,,,,,,
+1be35dab407eee33de5f81b95fd06a5863183691,true,false,,test000003,,,macbeth,shakespeare
+1d92b37a17f60e7cf8bdb1eeace06078b33b40d1,true,false,test000002,,,,emilia galotti,lessing
+246df454cd36e386e480c52107504d95f661f286,true,false,test000003,,,,macbeth,shakespeare
+2480c925e6c0a17077f9a520782a956fc55afecd,true,false,,,RusDraCor,54,ревизор,гоголь
+27864d443f807e94d4d12ae5854c8ea442fa2122,true,false,test000001,,,,ревизор,гоголь
+439a1b673435bb58aebac364933cd0bf67fd2f8c,true,false,,,DLINA-ID,256,die zauberflote,schikaneder
+46aa62eb4a2aef292430dfaca48efee81f7df936,true,false,,test000004,Dramawebben,StrindbergA_FrokenJulie,froken julie,strindberg
+4aa99985d3fb5ee89f6eb9b6192c71c2e3c7e5c2,true,false,,,Dramawebben,StrindbergA_FrokenJulie,froken julie,strindberg
+4c8347654d646fcef1d294a54ad85a59c7184097,true,false,,,RusDraCor,54,ревизор,гоголь
+50402332fbdcd21acec8b51710fcdb9bcedee7e8,true,false,,,DLINA-ID,88,emilia galotti,lessing
+51acfab4534480e3746d2d79cc7c34cae0eb3bb0,true,false,test000001,,,,ревизор,гоголь
+5d40fafae1aa5423064fd9336ee4233e88f51425,true,false,,test000002,,,emilia galotti,lessing
+631072d790f2d1b06187c360901d0b9d296e1a90,true,false,test000001,,,,ревизор,гоголь
+64e5089f65d8e4fb775f9215cdea6422b5288123,true,false,,rus000054,,,ревизор,гоголь
+6970c42d038ab8ea353b11d6c3348f87a033d9df,true,false,,swe000041,Dramawebben,StrindbergA_FrokenJulie,froken julie,strindberg
+72c103d0a0b5817e92e98b086f0686e16df06458,true,false,,test000001,,,ревизор,гоголь
+798a10ed661616f72eb647a42af0ee04a860caf7,true,false,test000001,,,,ревизор,гоголь
+7c0801a9e59d46c3c50f9e8bd6f415b3488be342,true,false,test000003,,,,macbeth,shakespeare
+89c7f6fc30f3b7c66744de65d994adab51414360,false,false,,,,,,
+8b84c623d359c53a29726cf52df22c781695c670,true,false,,ger000088,,,emilia galotti,lessing
+94437bb2d3eccfd434d546b1bb3cdd014f8aa92d,true,false,test000003,,,,macbeth,shakespeare
+9470789f616690323809c17be498df601ff3e102,true,false,test000004,,Dramawebben,StrindbergA_FrokenJulie,froken julie,strindberg
+9888689102429eade69916d30d9c47c6da15cb86,true,false,test000003,,,,macbeth,shakespeare
+9c5b30b839d1d28dd66277c323bddbcde10fc144,true,false,,test000001,,,ревизор,гоголь
+9f4a252549e49effb4b7084dace202b16884dd30,true,false,test000001,,,,ревизор,гоголь
+a1c231bcd8b77871c3301d961f6723fc2ad509e8,true,false,,,DLINA-ID,88,emilia galotti,lessing
+a776c471cf2bc4f77dfd50f1b80523febe75957d,false,false,,,,,,
+a9e916ba13a283c90dc0f01ca27d14ad9591dc5c,true,false,test000001,,,,ревизор,гоголь
+aef79b8bd93fbfc0851dea031075463a1cf2e5d1,true,false,test000001,,,,ревизор,гоголь
+b4fb0d9e76d666db827cfb8cd98c6e722a647733,true,false,test000001,,,,ревизор,гоголь
+b901864a798dac52d29b493c50236ad14b01411d,true,false,test000002,,,,emilia galotti,lessing
+bacefa2a76d8d34b67b39b8ab88023e9a49246ec,true,false,test000002,,,,emilia galotti,lessing
+bd8295f206f64b03c34bd68741c0b8fd01d20463,true,false,test000002,,,,emilia galotti,lessing
+c6a8d77ce996fddffea73919d1da91372f75c1fd,true,false,,,Dramawebben,StrindbergA_FrokenJulie,froken julie,strindberg
+cc6a68065fe02a0a2947ef2863dbfd1b870f2f61,true,false,test000003,,,,macbeth,shakespeare
+cf7727752dc93f3fa3e1a755f607e8bcb6bb93aa,true,false,test000004,,Dramawebben,StrindbergA_FrokenJulie,froken julie,strindberg
+d0d7a9f15eb7dcc0aeca46370f90be3d6f6326b1,false,false,,,,,,
+d50f0975526ab9ca64d0931d79b7e9db8e64013c,true,false,,shake000031,,,macbeth,shakespeare
+d7646b1dcc2d8d20c7f4118abcb7f7fd27c78091,true,false,,test000001,,,ревизор,гоголь
+d76a85f46451672a6d89736fb0e59415d439449e,true,false,,test000002,,,emilia galotti,lessing
+dbb251851ec860867f2961c0ed7fcaa0789dbcd1,true,false,,,,,macbeth,shakespeare
+dda8f8c189f258ad8f34fa1a21a8d2c13fe9c019,true,false,test000002,,,,emilia galotti,lessing
+e394fd0dbaa611dc30cf90b2aa79be51c61ebef0,true,false,test000002,,,,emilia galotti,lessing
+e4222d291d0c8c4d07f698dddce0b8788e963490,true,false,test000004,,Dramawebben,StrindbergA_FrokenJulie,froken julie,strindberg
+e715a84fff48642ee1d4f803a29f7c85884ace48,false,false,,,,,,
+eade0576236c805900fb8d94292680bb1ee49cd1,false,false,,,,,,
+f26494cb92fb5c28c14cbd4d4c80d34e02d989b5,true,false,test000003,,,,macbeth,shakespeare
+f2b874615e1355e68c48364ef16aa91f557d2119,true,false,test000002,,,,emilia galotti,lessing
+f2f41dd59874bd63154f0c972d788ddaa7f28fc9,true,false,,,,,macbeth,shakespeare
+fbe8959d45452a54b01a493bf4cd6830cd59e1af,true,false,,,Dramawebben,StrindbergA_FrokenJulie,froken julie,strindberg
+ffa3736121b7868e69bb8a6dc4bf8a6ff54449b0,true,false,test000003,,,,macbeth,shakespeare

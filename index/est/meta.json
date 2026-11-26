@@ -1,0 +1,238 @@
+{
+  "corpus": "est",
+  "repository": "https://github.com/dracor-org/estdracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "27c1ddb35807e9041cea3b3f9f167af422c7ac96",
+  "api_commit": null,
+  "api_commit_seq": null,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 100,
+    "side_commits_merged": 4,
+    "side_commits_unmerged": 0,
+    "intervals": 181,
+    "tei_ids": 44,
+    "tei_ids_valid_at_head": 44,
+    "tei_files_at_head": 44,
+    "distinct_tei_blobs": 167,
+    "tei_file_commit_pairs": 2125,
+    "dedup_factor": 12.72,
+    "tei_noid_intervals": 1,
+    "last_seq_with_noid_tei": 26,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "id-assigned": 1,
+      "id-invalid": 1,
+      "tei-without-id": 1
+    }
+  },
+  "id_archaeology": {
+    "prefix": "est",
+    "texts": 44,
+    "texts_by_method": {
+      "file": 44
+    },
+    "intervals_by_method": {
+      "file": 166,
+      "lineage": 1
+    },
+    "legacy_table": 0,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 4,
+    "with_base": 4,
+    "delta_rows": 4,
+    "tei_delta_rows_by_method": {}
+  },
+  "state": {
+    "last_commit": "27c1ddb35807e9041cea3b3f9f167af422c7ac96",
+    "last_seq": 99,
+    "dups_open": {},
+    "last_seen_id": {
+      "est000001": [
+        99,
+        "tei/kitzberg-kauka-jumal.xml"
+      ],
+      "est000002": [
+        99,
+        "tei/koidula-saaremaa-onupoeg.xml"
+      ],
+      "est000003": [
+        99,
+        "tei/koidula-saeaerane-mulk.xml"
+      ],
+      "est000004": [
+        99,
+        "tei/luts-kapsapaeae.xml"
+      ],
+      "est000005": [
+        99,
+        "tei/jannsen-paermi-jaagu-unenaegu.xml"
+      ],
+      "est000006": [
+        99,
+        "tei/vilde-pisuhaend.xml"
+      ],
+      "est000007": [
+        99,
+        "tei/tammsaare-juudit.xml"
+      ],
+      "est000008": [
+        99,
+        "tei/raudsepp-sinimandria.xml"
+      ],
+      "est000009": [
+        99,
+        "tei/kitzberg-libahunt.xml"
+      ],
+      "est000010": [
+        99,
+        "tei/luts-kalevi-kojutulek.xml"
+      ],
+      "est000011": [
+        99,
+        "tei/raudsepp-mikumaerdi.xml"
+      ],
+      "est000012": [
+        99,
+        "tei/kunder-mulgi-moistus.xml"
+      ],
+      "est000013": [
+        99,
+        "tei/kunder-muru-miku-meelehaigus.xml"
+      ],
+      "est000014": [
+        99,
+        "tei/kunder-kroonu-onu.xml"
+      ],
+      "est000015": [
+        99,
+        "tei/vilde-side.xml"
+      ],
+      "est000016": [
+        99,
+        "tei/kitzberg-kosjasoit.xml"
+      ],
+      "est000017": [
+        99,
+        "tei/tammsaare-kuningal-on-kuelm.xml"
+      ],
+      "est000018": [
+        99,
+        "tei/koidula-kosjakased.xml"
+      ],
+      "est000019": [
+        99,
+        "tei/koidula-kosjaviinad.xml"
+      ],
+      "est000020": [
+        99,
+        "tei/luts-laul-onnest.xml"
+      ],
+      "est000021": [
+        99,
+        "tei/raudsepp-porunud-aru-onnistus.xml"
+      ],
+      "est000022": [
+        99,
+        "tei/vilde-tabamata-ime.xml"
+      ],
+      "est000023": [
+        99,
+        "tei/kitzberg-raetsepp-ohk.xml"
+      ],
+      "est000024": [
+        99,
+        "tei/luts-paerijad.xml"
+      ],
+      "est000025": [
+        99,
+        "tei/luts-aerimehed.xml"
+      ],
+      "est000026": [
+        99,
+        "tei/raudsepp-siinai-taehistel.xml"
+      ],
+      "est000027": [
+        99,
+        "tei/kitzberg-tuulte-poeoerises.xml"
+      ],
+      "est000028": [
+        99,
+        "tei/raudsepp-vaheliku-vapustused.xml"
+      ],
+      "est000029": [
+        99,
+        "tei/jannsen-kihlvedu-5000-rubla-paeaele.xml"
+      ],
+      "est000030": [
+        99,
+        "tei/jannsen-tuhalabida-valitsus.xml"
+      ],
+      "est000031": [
+        99,
+        "tei/luts-uelemiste-vanake.xml"
+      ],
+      "est000032": [
+        99,
+        "tei/raudsepp-vedelvorst.xml"
+      ],
+      "est000033": [
+        99,
+        "tei/kitzberg-punga-mart-ja-uba-kaarel.xml"
+      ],
+      "est000034": [
+        99,
+        "tei/kitzberg-wana-wanaga-ja-noor-noorega.xml"
+      ],
+      "est000035": [
+        99,
+        "tei/kitzberg-puewe-talus.xml"
+      ],
+      "est000036": [
+        99,
+        "tei/kitzberg-kawal-ants-ja-wanapagan.xml"
+      ],
+      "est000037": [
+        99,
+        "tei/luts-paunwere.xml"
+      ],
+      "est000038": [
+        99,
+        "tei/luts-mahajaeetud-maja.xml"
+      ],
+      "est000039": [
+        99,
+        "tei/luts-arusaamatu-lugu.xml"
+      ],
+      "est000040": [
+        99,
+        "tei/luts-sinihallik.xml"
+      ],
+      "est000041": [
+        99,
+        "tei/kitzberg-enne-kukke-ja-koitu.xml"
+      ],
+      "est000042": [
+        99,
+        "tei/luts-onu-paremad-paeevad.xml"
+      ],
+      "est000043": [
+        99,
+        "tei/luts-sootuluke.xml"
+      ],
+      "est000044": [
+        99,
+        "tei/luts-viimne-pidu.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 100,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

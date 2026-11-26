@@ -1,0 +1,63 @@
+{
+  "corpus": "lacy",
+  "repository": "https://github.com/dracor-org/lacydracor#dracor",
+  "branch": "dracor",
+  "branch_from_url_fragment": true,
+  "branch_warning": null,
+  "head": "1e52366fc64312df8f219b47d4b9e5ce45dd582e",
+  "api_commit": null,
+  "api_commit_seq": null,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 19,
+    "side_commits_merged": 1,
+    "side_commits_unmerged": 0,
+    "intervals": 594,
+    "tei_ids": 0,
+    "tei_ids_valid_at_head": 0,
+    "tei_files_at_head": 104,
+    "distinct_tei_blobs": 453,
+    "tei_file_commit_pairs": 1843,
+    "dedup_factor": 4.07,
+    "tei_noid_intervals": 551,
+    "last_seq_with_noid_tei": 18,
+    "tei_unresolved_intervals": 551,
+    "special_cases": {
+      "id-invalid": 311,
+      "id-unresolved": 109,
+      "lineage-gap": 1,
+      "rename-same-blob": 98,
+      "rename-similar": 103,
+      "tei-without-id": 551
+    }
+  },
+  "id_archaeology": {
+    "prefix": null,
+    "texts": 109,
+    "texts_by_method": {
+      "unresolved": 109
+    },
+    "intervals_by_method": {
+      "unresolved": 551
+    },
+    "legacy_table": 0,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 1,
+    "with_base": 1,
+    "delta_rows": 1,
+    "tei_delta_rows_by_method": {}
+  },
+  "state": {
+    "last_commit": "1e52366fc64312df8f219b47d4b9e5ce45dd582e",
+    "last_seq": 18,
+    "dups_open": {},
+    "last_seen_id": {}
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 19,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

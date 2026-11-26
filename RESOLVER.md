@@ -260,12 +260,14 @@ be fixed separately.
 curl -u admin: -X POST "https://…/api/v1/id-index?corpora=ger,als"
 ```
 
-- `corpora=`: comma-separated corpus names; default: the corpora the API has.
+- `corpora=`: comma-separated corpus names; default: every corpus of the index's
+  `registry.json`, including corpora in development that the API hasn't loaded. Their
+  versions resolve from the index alone (record, GitHub page or raw file; `loaded` is false).
 - `source=`: base URL of the index; default
   `https://raw.githubusercontent.com/dracor-org/dracor-version-index/main/index` (tested).
 - It converts each corpus to one XML document, `/db/dracor/versions/{corpus}.xml` (prefixes,
   licence, commits, file intervals, side-branch changes), with a range index on hashes, IDs and
-  corpus names. A reload replaces the document. All 24 corpora take about 18 seconds.
+  corpus names. A reload replaces the document. All 33 corpora take about 30 seconds.
 - Files are decoded as UTF-8 whatever charset the server names.
 
 **Temporarily, without authorization** (for testing on dev.dracor.org, where neither the admin
@@ -275,7 +277,8 @@ as for the webhook). **To be removed before merging.** It is kept safe by:
 
 - reading nothing from the request (no parameters, headers or body; `?source=` is ignored);
 - a fixed source, the public index on GitHub;
-- loading only corpora that are in the database, and writing only to `/db/dracor/versions`;
+- loading only the corpora of the index's `registry.json`, and writing only to
+  `/db/dracor/versions`;
 - running at most once every 10 minutes, otherwise `503` with `Retry-After` (eXist doesn't
   accept `429` in a RESTXQ response).
 

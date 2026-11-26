@@ -1,0 +1,28 @@
+case,seq,commit,key,path,blob,detail
+tei-without-id,3,88653bdca405bc9c15618cc47e54a5b262a574de,The Post Office_Tagore.xml,The Post Office_Tagore.xml,fa985e0b4c26cee92c258820861357b0158c8604,
+tei-without-id,5,a37975f5303d26cf92693c1eb3fd541054c8f018,tei/tagore-the-post-office.xml,tei/tagore-the-post-office.xml,fa985e0b4c26cee92c258820861357b0158c8604,
+rename-same-blob,5,a37975f5303d26cf92693c1eb3fd541054c8f018,tei/tagore-the-post-office.xml,tei/tagore-the-post-office.xml,fa985e0b4c26cee92c258820861357b0158c8604,from The Post Office_Tagore.xml
+tei-without-id,8,06e8fe5aa3f117cae4aa911894cfa281b5e5e365,tei/tagore-the-post-office.xml,tei/tagore-the-post-office.xml,132b6b43ffb1bc638fd3d150cc62402769bf70fe,
+tei-without-id,9,f3256da0f6d4b0037d5c600521ce7d399426b28d,tei/tagore-the-post-office.xml,tei/tagore-the-post-office.xml,00e739991c9d922c0de90e001a42ff8b1571f4d8,
+tei-without-id,12,350d38392fed9eeeff03468ef01597f260f6ef8e,tei/tagore-the-post-office.xml,tei/tagore-the-post-office.xml,c0e2f2d1e2fa619ec63c1a1a7ad175bab3199590,
+tei-without-id,13,b0e80540945e2f43942a2da36ec616ac7f93480b,tei/tagore-the-post-office.xml,tei/tagore-the-post-office.xml,ed2aa9d119621c314034db488bbe83560c8f26ec,
+tei-without-id,14,65bad15133ac426949ca12f226369ed72cdf2293,tei/tagore-the-post-office.xml,tei/tagore-the-post-office.xml,a4e605ff5c682f0c8ddd7823e6f10b6c1d1b1a18,
+tei-without-id,15,ef3249df8ea66fecfccf4755995c0522ee7f1b96,tei/tagore-the-post-office.xml,tei/tagore-the-post-office.xml,405a45bb39763dace6ccbc720444b4fb61fb51a5,
+tei-without-id,16,1c5cb9bb299a6aafdb1ea9ba2bab475f206b456a,tei/tagore-the-post-office.xml,tei/tagore-the-post-office.xml,c5248ea6590043cee922c31d11a788fcb3c207f7,
+tei-without-id,17,91e1192c954d8526b08b624fa1984b7ece190285,tei/tagore-the-post-office.xml,tei/tagore-the-post-office.xml,82cbc8b1c512b5e086abbc55226fffed5c03210e,
+tei-without-id,18,441b745e185d0840f0e984d536dea460188cf965,tei/tagore-the-post-office.xml,tei/tagore-the-post-office.xml,d5bed8c70af5b5cf8e098e0aca0b44e64b36ad73,
+tei-without-id,19,04e3868d5a67e52e1f0a79161e630660c915419f,tei/tagore-the-post-office.xml,tei/tagore-the-post-office.xml,03e0c7d13030c80fd8cf7db046a837b92c10683e,
+tei-without-id,20,76ec2119ce2991a71896b68501bbda47d61bb1f9,tei/tagore-the-post-office.xml,tei/tagore-the-post-office.xml,d6e5601b29246a02fc9f061ffe3b235f71c83aa7,
+tei-without-id,21,1c3fedef25569ecbcbe6250cd867ce78473c0803,tei/tagore-the-post-office.xml,tei/tagore-the-post-office.xml,ce8ed36802d116959acd34a0b37be836b530145e,
+tei-without-id,22,0b357db7e3c7b53a7c61e2c3a95921d146c8166a,tei/tagore-the-post-office.xml,tei/tagore-the-post-office.xml,507636ae61a19c854d51cee81bd0287429dac79a,
+tei-without-id,23,00e6c5a7f0671783ff112ce6ca1c88dbfabfeee0,tei/tagore-the-post-office.xml,tei/tagore-the-post-office.xml,159ed83fdfe481e83c2260b2f895d4fbd4ec4487,
+tei-without-id,24,c1f48fd2cff8e154d67b2ae3337a410171430426,tei/tagore-the-post-office.xml,tei/tagore-the-post-office.xml,b2e47689358a0d1515a7362d30234c2fbd35c6ae,
+id-assigned,25,70be0b2846ce098c13cef6359fcd90548ef775ce,ind000001,tei/tagore-the-post-office.xml,bc85e77774e5ecf88c244b1a301728d86eafb258,file had no DraCor ID before
+id-change,34,c7d534f02dc8f10042e062b7ad1a5064cd7b66a3,indie000001,tei/tagore-the-post-office.xml,2fc2f63208b1520ff8e56f9ec1b19ed2aee73e24,ind000001 -> indie000001 at same path
+id-change,35,e5c0d96e762d4ab543b8e207866c3866f7272eb3,indie000002,tei/tagore_chitra.xml,f26403e242753c828b98ce418967aabc9ebf6eef,ind000002 -> indie000002 at same path
+rename-same-blob,40,1384de965c68e00a2663e664278736b03e472124,indie000002,tei/tagore-chitra.xml,15089fca3396a87e8c560400bacaa5aaaa37733a,from tei/tagore_chitra.xml
+id-invalid,3,88653bdca405bc9c15618cc47e54a5b262a574de,insert_id,The Post Office_Tagore.xml,fa985e0b4c26cee92c258820861357b0158c8604,'insert_id' is not a indie… DraCor ID; treated as no ID
+id-invalid,5,a37975f5303d26cf92693c1eb3fd541054c8f018,insert_id,tei/tagore-the-post-office.xml,fa985e0b4c26cee92c258820861357b0158c8604,'insert_id' is not a indie… DraCor ID; treated as no ID
+id-invalid,13,b0e80540945e2f43942a2da36ec616ac7f93480b,postoffice,tei/tagore-the-post-office.xml,ed2aa9d119621c314034db488bbe83560c8f26ec,'postoffice' is not a indie… DraCor ID; treated as no ID
+id-invalid,25,70be0b2846ce098c13cef6359fcd90548ef775ce,ind000001,tei/tagore-the-post-office.xml,bc85e77774e5ecf88c244b1a301728d86eafb258,'ind000001' is not a indie… DraCor ID; treated as no ID
+id-invalid,29,1e3a0ee76498a632c4922c62f5168720fe5db644,ind000002,tei/tagore_chitra.xml,d6a15448a6e7aec1a0675920b2f0e3abdb348a6e,'ind000002' is not a indie… DraCor ID; treated as no ID

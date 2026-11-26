@@ -1,0 +1,7 @@
+case,seq,commit,key,path,blob,detail
+rename-similar,4,7d4a4c998a052678930d9731b7d2bcb1f5544dad,georg000001,tei/georg000001.xml,216e6de290e1750e67346c6879cce178071a5f20,"from tei/geo000001.xml (blob c0f495037d, git similarity 99%)"
+id-reappears,9,99d44dbc26207b69739de6611d9ec2fcbd5dbfc6,georg000001,georg000001.xml,86ac91b88e8047ace795853c3e534b1eaa4d13b4,last valid at seq 7 as tei/georg000001.xml
+kind-change,12,6d57dfc11a5741fa018ed21b12469d59aa4436de,georg000001,tei/georg000001.xml,86ac91b88e8047ace795853c3e534b1eaa4d13b4,other -> tei
+rename-same-blob,15,8561403d49034313fdd2ba9d34e09f30dc8015c1,georg000001,tei/eristavi-gaqra.xml,26e91bf3a3c31cdac722ffd6735cfe9ac1d90832,from tei/georg000001.xml
+id-invalid,2,06720d445f181e737da3af9e1c4dca3444462553,geo000001,tei/geo000001.xml,c0f495037d389c60d2775ab4c3f1c475abd59fb4,'geo000001' is not a georg… DraCor ID; treated as no ID
+lineage-gap,12,6d57dfc11a5741fa018ed21b12469d59aa4436de,,tei/georg000001.xml,86ac91b88e8047ace795853c3e534b1eaa4d13b4,continues tei/georg000001.xml (valid until seq 7) via same path

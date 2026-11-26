@@ -1,0 +1,9 @@
+key,path,from_seq,to_seq,id_in_file,id_method
+indie000001,The Post Office_Tagore.xml,3,4,insert_id,lineage
+indie000001,tei/tagore-the-post-office.xml,5,12,insert_id,lineage
+indie000001,tei/tagore-the-post-office.xml,13,24,postoffice,lineage
+indie000001,tei/tagore-the-post-office.xml,25,33,ind000001,lineage
+indie000001,tei/tagore-the-post-office.xml,34,,indie000001,file
+indie000002,tei/tagore_chitra.xml,29,34,ind000002,lineage
+indie000002,tei/tagore_chitra.xml,35,39,indie000002,file
+indie000002,tei/tagore-chitra.xml,40,,indie000002,file

@@ -1,0 +1,12 @@
+case,seq,commit,key,path,blob,detail
+rename-same-blob,4,1e1c9ebb7ed5e957d10bbba5bdd8305e9ea83959,cze000011,tei/capek-j-gassirova-loutna.xml,bc772de6181c1c7764fa63f4f749ab9684037da2,from tei/cze000011-capek-j-gassirova-loutna.xml
+rename-same-blob,4,1e1c9ebb7ed5e957d10bbba5bdd8305e9ea83959,cze000010,tei/capek-j-zeme-mnoha-jmen.xml,22356ac06d8dc249f212363272c8122d95961490,from tei/cze000010-capek-j-zeme-mnoha-jmen.xml
+rename-same-blob,4,1e1c9ebb7ed5e957d10bbba5bdd8305e9ea83959,cze000009,tei/capek-k+j-adam-stvoritel.xml,bc0c2961f40aad8c6f07fc9d22d737e5c75cf3c0,from tei/cze000009-capek-k+j-adam-stvoritel.xml
+rename-same-blob,4,1e1c9ebb7ed5e957d10bbba5bdd8305e9ea83959,cze000006,tei/capek-k+j-lasky-hra-osudna.xml,9be65226e00c7f52d423c77e92ba0d723d30ce70,from tei/cze000006-capek-k+j-lasky-hra-osudna.xml
+rename-same-blob,4,1e1c9ebb7ed5e957d10bbba5bdd8305e9ea83959,cze000007,tei/capek-k+j-ze-zivota-hmyzu-version-1.xml,bd359bb48786ad68f5d69cc3194b8901b28961c2,from tei/cze000007-capek-k+j-ze-zivota-hmyzu-version-1.xml
+rename-same-blob,4,1e1c9ebb7ed5e957d10bbba5bdd8305e9ea83959,cze000008,tei/capek-k+j-ze-zivota-hmyzu-version-2.xml,e36c62fb49edfe756298ed93e11afac6d8e0bcc9,from tei/cze000008-capek-k+j-ze-zivota-hmyzu-version-2.xml
+rename-same-blob,4,1e1c9ebb7ed5e957d10bbba5bdd8305e9ea83959,cze000004,tei/capek-k-bila-nemoc.xml,6f2cbecf9762aabfbb629ba3325967ae0fd728f7,from tei/cze000004-capek-k-bila-nemoc.xml
+rename-same-blob,4,1e1c9ebb7ed5e957d10bbba5bdd8305e9ea83959,cze000001,tei/capek-k-loupeznik.xml,7b9e2f134fa6581727e7538574e626c3d9595493,from tei/cze000001-capek-k-loupeznik.xml
+rename-same-blob,4,1e1c9ebb7ed5e957d10bbba5bdd8305e9ea83959,cze000005,tei/capek-k-matka.xml,3fcc18ff147f60c87c8422e52b0ee067961b6bff,from tei/cze000005-capek-k-matka.xml
+rename-same-blob,4,1e1c9ebb7ed5e957d10bbba5bdd8305e9ea83959,cze000002,tei/capek-k-rur.xml,bff117d43070b94156c8da437a5d92b24093acd0,from tei/cze000002-capek-k-rur.xml
+rename-same-blob,4,1e1c9ebb7ed5e957d10bbba5bdd8305e9ea83959,cze000003,tei/capek-k-vec-makropulos.xml,3c31233a1e7b93931dedd4e817c4a83423e6973a,from tei/cze000003-capek-k-vec-makropulos.xml

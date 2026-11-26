@@ -31,7 +31,8 @@ For every corpus this writes to index/{corpus}/:
 Blob hashes come from git only (diff-tree / ls-tree / cat-file).
 
 Usage:
-  build_index.py als                 # one corpus, URL from the DraCor API
+  build_index.py als                 # one corpus, URL from the DraCor API or the registry
+  build_index.py --all               # every corpus of the registry and the DraCor API
   build_index.py als ger --full      # rebuild from scratch instead of continuing
   build_index.py --all --cleanup     # delete each clone afterwards; later runs clone blobless
 """
@@ -812,6 +813,23 @@ def corpora_from_api() -> dict[str, dict]:
         return {c["name"]: c for c in json.load(r)}
 
 
+def corpora_to_index(api: dict[str, dict], registry: Path) -> dict[str, dict]:
+    """All corpora of the registry plus all corpora the DraCor API loads.
+
+    The registry also lists corpora in development (draft, proposed), so that their versions
+    resolve before dracor.org loads them. Where the API loads a corpus, its entry wins: its
+    repository URL (with branch fragment) and loaded commit decide the branch to index."""
+    corpora: dict[str, dict] = {}
+    try:
+        for c in json.loads(registry.read_text())["corpora"]:
+            if c.get("repository"):
+                corpora[c["name"]] = {"name": c["name"], "repository": c["repository"]}
+    except (OSError, ValueError, KeyError) as e:
+        print(f"  WARNING registry not read, indexing API corpora only: {e}", file=sys.stderr)
+    corpora.update(api)
+    return corpora
+
+
 REGISTRY_REPO = "https://github.com/dracor-org/dracor-registry"
 
 
@@ -853,11 +871,15 @@ def main():
     args = ap.parse_args()
     api = corpora_from_api()
     save_registry(args.out)
-    names = sorted(api) if args.all else args.corpora
+    corpora = corpora_to_index(api, args.out / "registry.json")
+    names = sorted(corpora) if args.all else args.corpora
     if not names:
         ap.error("name at least one corpus or use --all")
+    unknown = [n for n in names if n not in corpora]
+    if unknown:
+        ap.error(f"not in the registry or the DraCor API: {', '.join(unknown)}")
     for name in names:
-        c = api[name]
+        c = corpora[name]
         url, frag = parse_repo_url(c["repository"])
         blobless = args.clone == "blobless" or (
             args.clone == "auto" and not args.full and (args.out / name / "meta.json").exists())

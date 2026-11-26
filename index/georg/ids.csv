@@ -1,0 +1,12 @@
+key,path,from_seq,to_seq,id_in_file,id_method
+georg000001,tei/geo000001.xml,2,3,geo000001,lineage
+georg000001,tei/georg000001.xml,4,7,georg000001,file
+georg000001,georg000001.xml,9,9,georg000001,file
+georg000001,tei/georg000001.xml,12,14,georg000001,file
+georg000001,tei/eristavi-gaqra.xml,15,,georg000001,file
+georg000002,tei/eristavi-dzuntsi.xml,16,,georg000002,file
+georg000003,tei/eristavi-dava.xml,20,,georg000003,file
+georg000004,tei/kakabadze_qvarqvare_tutaberi.xml,21,,georg000004,file
+georg000005,tei/tsereteli_dzvelsa_da_axals_shoris.xml,23,,georg000005,file
+georg000006,tei/antonovi_tivit_mogzauroba.xml,24,,georg000006,file
+georg000007,tei/antonov_solar_eclipse.xml,25,,georg000007,file

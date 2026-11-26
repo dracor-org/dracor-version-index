@@ -1,0 +1,4 @@
+case,seq,commit,key,path,blob,detail
+tei-without-id,26,26184df6f2757da764911afc7a6ee546eb9e11e6,tei/luts-kalevi-kojutulek.xml,tei/luts-kalevi-kojutulek.xml,342ce0a04d646211cd6ba5db70e35d5b1f858304,
+id-assigned,27,e32614fe6ac7faf667380cf70eabdda2a1502c49,est000010,tei/luts-kalevi-kojutulek.xml,799fafd40b455e880a44dcbce88b0a77bf1cd976,file had no DraCor ID before
+id-invalid,26,26184df6f2757da764911afc7a6ee546eb9e11e6,insert_id,tei/luts-kalevi-kojutulek.xml,342ce0a04d646211cd6ba5db70e35d5b1f858304,'insert_id' is not a est… DraCor ID; treated as no ID

@@ -1,0 +1,69 @@
+{
+  "corpus": "he",
+  "repository": "https://github.com/dracor-org/hedracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "8bae46686cb1dc9b1574a9d4a763e9393e3af663",
+  "api_commit": null,
+  "api_commit_seq": null,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 70,
+    "side_commits_merged": 17,
+    "side_commits_unmerged": 0,
+    "intervals": 2018,
+    "tei_ids": 0,
+    "tei_ids_valid_at_head": 0,
+    "tei_files_at_head": 92,
+    "distinct_tei_blobs": 1679,
+    "tei_file_commit_pairs": 6041,
+    "dedup_factor": 3.6,
+    "tei_noid_intervals": 1864,
+    "last_seq_with_noid_tei": 69,
+    "tei_unresolved_intervals": 1865,
+    "special_cases": {
+      "id-invalid": 1,
+      "id-unresolved": 141,
+      "rename-same-blob": 186,
+      "rename-similar": 129,
+      "tei-without-id": 1864
+    }
+  },
+  "id_archaeology": {
+    "prefix": null,
+    "texts": 141,
+    "texts_by_method": {
+      "unresolved": 141
+    },
+    "intervals_by_method": {
+      "unresolved": 1865
+    },
+    "legacy_table": 0,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 17,
+    "with_base": 17,
+    "delta_rows": 473,
+    "tei_delta_rows_by_method": {
+      "unresolved": 368
+    }
+  },
+  "state": {
+    "last_commit": "8bae46686cb1dc9b1574a9d4a763e9393e3af663",
+    "last_seq": 69,
+    "dups_open": {},
+    "last_seen_id": {
+      "u000002": [
+        41,
+        "tei/a_sample_u.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 70,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

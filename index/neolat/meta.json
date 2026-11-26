@@ -1,0 +1,225 @@
+{
+  "corpus": "neolat",
+  "repository": "https://github.com/dracor-org/neolatdracor",
+  "branch": "main",
+  "branch_from_url_fragment": false,
+  "branch_warning": null,
+  "head": "3d76a0ed0f3bf4c26a9ddb37432429207c39e71f",
+  "api_commit": null,
+  "api_commit_seq": null,
+  "api_commit_on_side_branch": false,
+  "counts": {
+    "first_parent_commits": 221,
+    "side_commits_merged": 390,
+    "side_commits_unmerged": 7,
+    "intervals": 498,
+    "tei_ids": 40,
+    "tei_ids_valid_at_head": 40,
+    "tei_files_at_head": 40,
+    "distinct_tei_blobs": 255,
+    "tei_file_commit_pairs": 3069,
+    "dedup_factor": 12.04,
+    "tei_noid_intervals": 0,
+    "last_seq_with_noid_tei": null,
+    "tei_unresolved_intervals": 0,
+    "special_cases": {
+      "gitlink": 8,
+      "rename-same-blob": 2
+    }
+  },
+  "id_archaeology": {
+    "prefix": "neolat",
+    "texts": 40,
+    "texts_by_method": {
+      "file": 40
+    },
+    "intervals_by_method": {
+      "file": 257
+    },
+    "legacy_table": 0,
+    "legacy_numeric_rule": []
+  },
+  "side_commits": {
+    "side_commits": 397,
+    "with_base": 397,
+    "delta_rows": 1228,
+    "tei_delta_rows_by_method": {
+      "file": 766,
+      "title": 2,
+      "unresolved": 9,
+      "lineage": 1
+    }
+  },
+  "state": {
+    "last_commit": "3d76a0ed0f3bf4c26a9ddb37432429207c39e71f",
+    "last_seq": 220,
+    "dups_open": {},
+    "last_seen_id": {
+      "neolat000001": [
+        220,
+        "tei/macropedius-hecastus.xml"
+      ],
+      "neolat000002": [
+        220,
+        "tei/locher-iudicium-paridis.xml"
+      ],
+      "neolat000003": [
+        220,
+        "tei/lummenaeus-saul.xml"
+      ],
+      "neolat000004": [
+        220,
+        "tei/placentius-susanna.xml"
+      ],
+      "neolat000005": [
+        220,
+        "tei/macropedius-rebelles.xml"
+      ],
+      "neolat000007": [
+        220,
+        "tei/aler-innocentia-victrix.xml"
+      ],
+      "neolat000154": [
+        220,
+        "tei/susius-pendularia.xml"
+      ],
+      "neolat000097": [
+        220,
+        "tei/lummenaeus-sampson.xml"
+      ],
+      "neolat000094": [
+        220,
+        "tei/lummenaeus-bustum-sodomae.xml"
+      ],
+      "neolat000092": [
+        220,
+        "tei/lummenaeus-abimelech.xml"
+      ],
+      "neolat000088": [
+        220,
+        "tei/knuyt-de-slyterhoven-scornetta.xml"
+      ],
+      "neolat000123": [
+        220,
+        "tei/rochotius-gedeon.xml"
+      ],
+      "neolat000113": [
+        220,
+        "tei/mussatus-ecerinis.xml"
+      ],
+      "neolat000126": [
+        220,
+        "tei/roterodamus-euripidis-iphigenia-in-aulide.xml"
+      ],
+      "neolat000167": [
+        220,
+        "tei/winsemius-oedipus-tyrannus.xml"
+      ],
+      "neolat000093": [
+        220,
+        "tei/lummenaeus-amnon.xml"
+      ],
+      "neolat000095": [
+        220,
+        "tei/lummenaeus-carcer-babylonius.xml"
+      ],
+      "neolat000042": [
+        220,
+        "tei/candidus-plausus-luctificae-mortis.xml"
+      ],
+      "neolat000096": [
+        220,
+        "tei/lummenaeus-iephte.xml"
+      ],
+      "neolat000129": [
+        220,
+        "tei/salius-nassovius.xml"
+      ],
+      "neolat000112": [
+        220,
+        "tei/muretus-iulius-caesar.xml"
+      ],
+      "neolat000106": [
+        220,
+        "tei/macropedius-iesus-scholasticus.xml"
+      ],
+      "neolat000175": [
+        220,
+        "tei/du-cygne-codrillos.xml"
+      ],
+      "neolat000124": [
+        220,
+        "tei/rochotius-iosephiados.xml"
+      ],
+      "neolat000176": [
+        220,
+        "tei/du-cygne-dormientes.xml"
+      ],
+      "neolat000057": [
+        220,
+        "tei/dingenauer-tobias-junior.xml"
+      ],
+      "neolat000177": [
+        220,
+        "tei/du-cygne-dos.xml"
+      ],
+      "neolat000178": [
+        220,
+        "tei/du-cygne-fernandes.xml"
+      ],
+      "neolat000179": [
+        220,
+        "tei/du-cygne-franciscanus.xml"
+      ],
+      "neolat000180": [
+        220,
+        "tei/du-cygne-gemma.xml"
+      ],
+      "neolat000181": [
+        220,
+        "tei/du-cygne-gymnasium.xml"
+      ],
+      "neolat000064": [
+        220,
+        "tei/gnapheus-acolastus.xml"
+      ],
+      "neolat000041": [
+        220,
+        "tei/camerarius-senior-electra.xml"
+      ],
+      "neolat000186": [
+        220,
+        "tei/du-cygne-villicus.xml"
+      ],
+      "neolat000184": [
+        220,
+        "tei/du-cygne-prandium.xml"
+      ],
+      "neolat000183": [
+        220,
+        "tei/du-cygne-marsupium.xml"
+      ],
+      "neolat000182": [
+        220,
+        "tei/du-cygne-lytrum.xml"
+      ],
+      "neolat000103": [
+        220,
+        "tei/macropedius-asotus-evangelicus.xml"
+      ],
+      "neolat000108": [
+        220,
+        "tei/macropedius-lazarus-mendicus.xml"
+      ],
+      "neolat000072": [
+        220,
+        "tei/grotius-christus-patiens.xml"
+      ]
+    }
+  },
+  "last_run": {
+    "start_seq": 0,
+    "commits_processed": 221,
+    "blobs_fetched_for_blobless_clone": 0
+  }
+}

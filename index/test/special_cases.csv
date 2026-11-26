@@ -1,0 +1,29 @@
+case,seq,commit,key,path,blob,detail
+tei-without-id,1,7d3528fa2ebebd001cd5b507bab2095413c720d7,tei/StrindbergA_FrokenJulie.xml,tei/StrindbergA_FrokenJulie.xml,4aa99985d3fb5ee89f6eb9b6192c71c2e3c7e5c2,
+tei-without-id,1,7d3528fa2ebebd001cd5b507bab2095413c720d7,tei/gogol-revizor.xml,tei/gogol-revizor.xml,4c8347654d646fcef1d294a54ad85a59c7184097,
+tei-without-id,1,7d3528fa2ebebd001cd5b507bab2095413c720d7,tei/lessing-emilia-galotti.xml,tei/lessing-emilia-galotti.xml,50402332fbdcd21acec8b51710fcdb9bcedee7e8,
+tei-without-id,1,7d3528fa2ebebd001cd5b507bab2095413c720d7,tei/macbeth.xml,tei/macbeth.xml,dbb251851ec860867f2961c0ed7fcaa0789dbcd1,
+tei-without-id,3,aa0f718896838eca90d0a742ae20411f3234872c,tei/StrindbergA_FrokenJulie.xml,tei/StrindbergA_FrokenJulie.xml,fbe8959d45452a54b01a493bf4cd6830cd59e1af,
+tei-without-id,3,aa0f718896838eca90d0a742ae20411f3234872c,tei/gogol-revizor.xml,tei/gogol-revizor.xml,2480c925e6c0a17077f9a520782a956fc55afecd,
+tei-without-id,3,aa0f718896838eca90d0a742ae20411f3234872c,tei/lessing-emilia-galotti.xml,tei/lessing-emilia-galotti.xml,a1c231bcd8b77871c3301d961f6723fc2ad509e8,
+tei-without-id,4,372c3eebf830babeb4c8ca3d1a2a78f039d5f753,tei/shakespeare-macbeth.xml,tei/shakespeare-macbeth.xml,dbb251851ec860867f2961c0ed7fcaa0789dbcd1,
+rename-same-blob,4,372c3eebf830babeb4c8ca3d1a2a78f039d5f753,tei/shakespeare-macbeth.xml,tei/shakespeare-macbeth.xml,dbb251851ec860867f2961c0ed7fcaa0789dbcd1,from tei/macbeth.xml
+tei-without-id,5,396063197ab34ae11e0c39e47bba2d85719d91d3,tei/schikaneder-die-zauberfloete.xml,tei/schikaneder-die-zauberfloete.xml,439a1b673435bb58aebac364933cd0bf67fd2f8c,
+tei-without-id,6,f79c6a9615d698b171c4b0f17f7ec38c84e137b2,tei/shakespeare-macbeth.xml,tei/shakespeare-macbeth.xml,091b92275bbfc144f09456304e401146ec20e4fa,
+tei-without-id,7,5969e0b07eba260c226554fc66574391e94c855d,tei/StrindbergA_FrokenJulie.xml,tei/StrindbergA_FrokenJulie.xml,c6a8d77ce996fddffea73919d1da91372f75c1fd,
+tei-without-id,7,5969e0b07eba260c226554fc66574391e94c855d,tei/gogol-revizor.xml,tei/gogol-revizor.xml,4c8347654d646fcef1d294a54ad85a59c7184097,
+tei-without-id,7,5969e0b07eba260c226554fc66574391e94c855d,tei/lessing-emilia-galotti.xml,tei/lessing-emilia-galotti.xml,50402332fbdcd21acec8b51710fcdb9bcedee7e8,
+tei-without-id,7,5969e0b07eba260c226554fc66574391e94c855d,tei/shakespeare-macbeth.xml,tei/shakespeare-macbeth.xml,f2f41dd59874bd63154f0c972d788ddaa7f28fc9,
+rename-similar,8,515cda58d27dc7b9bc9348f595143de0a747cbac,swe000041,tei/strindberg-froken-julie.xml,6970c42d038ab8ea353b11d6c3348f87a033d9df,"from tei/StrindbergA_FrokenJulie.xml (blob c6a8d77ce9, git similarity 98%)"
+id-assigned,9,d75306e8c20be1709cdd2a1e6bd5d569bd026705,rus000054,tei/gogol-revizor.xml,64e5089f65d8e4fb775f9215cdea6422b5288123,file had no DraCor ID before
+id-assigned,9,d75306e8c20be1709cdd2a1e6bd5d569bd026705,ger000088,tei/lessing-emilia-galotti.xml,8b84c623d359c53a29726cf52df22c781695c670,file had no DraCor ID before
+id-assigned,9,d75306e8c20be1709cdd2a1e6bd5d569bd026705,shake000031,tei/shakespeare-macbeth.xml,d50f0975526ab9ca64d0931d79b7e9db8e64013c,file had no DraCor ID before
+id-change,10,cd39631e5feb866f2fc67341043e503909bf6690,test000001,tei/gogol-revizor.xml,9c5b30b839d1d28dd66277c323bddbcde10fc144,rus000054 -> test000001 at same path
+id-change,10,cd39631e5feb866f2fc67341043e503909bf6690,test000002,tei/lessing-emilia-galotti.xml,5d40fafae1aa5423064fd9336ee4233e88f51425,ger000088 -> test000002 at same path
+id-change,10,cd39631e5feb866f2fc67341043e503909bf6690,test000003,tei/shakespeare-macbeth.xml,1be35dab407eee33de5f81b95fd06a5863183691,shake000031 -> test000003 at same path
+id-change,10,cd39631e5feb866f2fc67341043e503909bf6690,test000004,tei/strindberg-froken-julie.xml,46aa62eb4a2aef292430dfaca48efee81f7df936,swe000041 -> test000004 at same path
+id-invalid,8,515cda58d27dc7b9bc9348f595143de0a747cbac,swe000041,tei/strindberg-froken-julie.xml,6970c42d038ab8ea353b11d6c3348f87a033d9df,'swe000041' is not a test… DraCor ID; treated as no ID
+id-invalid,9,d75306e8c20be1709cdd2a1e6bd5d569bd026705,rus000054,tei/gogol-revizor.xml,64e5089f65d8e4fb775f9215cdea6422b5288123,'rus000054' is not a test… DraCor ID; treated as no ID
+id-invalid,9,d75306e8c20be1709cdd2a1e6bd5d569bd026705,ger000088,tei/lessing-emilia-galotti.xml,8b84c623d359c53a29726cf52df22c781695c670,'ger000088' is not a test… DraCor ID; treated as no ID
+id-invalid,9,d75306e8c20be1709cdd2a1e6bd5d569bd026705,shake000031,tei/shakespeare-macbeth.xml,d50f0975526ab9ca64d0931d79b7e9db8e64013c,'shake000031' is not a test… DraCor ID; treated as no ID
+id-unresolved,5,396063197ab34ae11e0c39e47bba2d85719d91d3,tei/schikaneder-die-zauberfloete.xml,tei/schikaneder-die-zauberfloete.xml,439a1b673435bb58aebac364933cd0bf67fd2f8c,title 'die zauberflote' / schikaneder; no candidate; valid seq 5-6
